@@ -156,6 +156,35 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
   </div>
 
   <div>
+    <div class="section-label">Formula — 10 Core Ingredients</div>
+    <div class="two">
+
+      ${[
+        { num: "01", name: "Polypodium Leucotomos", pillar: "UV Protection", purpose: "Protects skin cells from UV damage and oxidative stress. Same hero ingredient as Heliocare.", sub: "Non-negotiable — no substitute with same photoprotection profile." },
+        { num: "02", name: "Astaxanthin", pillar: "UV Protection", purpose: "Most powerful natural antioxidant. Skin elasticity, moisture retention, eye health, muscle recovery. Fat-soluble — lipid encapsulation required.", sub: "Natural from Haematococcus pluvialis only. Synthetic is less bioavailable." },
+        { num: "03", name: "Vitamin C", pillar: "UV + Immune", purpose: "Antioxidant, immune defense, collagen synthesis. Covers three pillars.", sub: "Universally available — no substitution needed." },
+        { num: "04", name: "Magnesium", pillar: "Hydration", purpose: "Most deficient mineral in active men. Electrolyte, energy, sleep recovery, muscle function.", sub: "Glycinate or citrate preferred. Avoid oxide (poor absorption)." },
+        { num: "05", name: "Hyaluronic Acid", pillar: "Hydration", purpose: "Holds 1000x its weight in water at cellular level. Makes the water you drink actually stay.", sub: "Non-negotiable for the hydration story — no equivalent mechanism." },
+        { num: "06", name: "Collagen / Boswellia", pillar: "Joint Recovery", purpose: "Collagen repairs joint cartilage and connective tissue. Boswellia reduces inflammation.", sub: "Use collagen if 2.5–5g dose is achievable. Otherwise use boswellia. UC-II collagen works at ~40mg." },
+        { num: "07", name: "Ashwagandha (KSM-66)", pillar: "Energy + T", purpose: "Adaptogen — lowers cortisol, supports testosterone, clean energy without stimulants.", sub: "KSM-66 or Sensoril only. Avoid unstandardized generic ashwagandha." },
+        { num: "08", name: "Vitamin D3", pillar: "Energy + T + Immune", purpose: "Critical for testosterone, immune regulation, bone health. Most active men still deficient.", sub: "D3 only (not D2). Add K2/MK-7 if stock formula includes it." },
+        { num: "09", name: "Zinc", pillar: "Energy + T + Immune", purpose: "Essential for testosterone synthesis, immune cell development, training recovery.", sub: "Bisglycinate or picolinate preferred. Avoid oxide." },
+        { num: "10", name: "Vitamin B12", pillar: "Energy", purpose: "Energy metabolism, nervous system support. Users feel this one.", sub: "Methylcobalamin only — more bioavailable than cyanocobalamin." },
+      ].map(i => `
+        <div class="card" style="display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;align-items:baseline;gap:10px;">
+            <span style="font-size:11px;font-weight:800;color:var(--blue);opacity:0.5;min-width:20px">${i.num}</span>
+            <span style="font-size:14px;font-weight:700;color:var(--text)">${i.name}</span>
+            <span style="font-size:10px;color:var(--blue);background:#0a1e30;border:1px solid #1a3050;border-radius:20px;padding:2px 8px;margin-left:auto;white-space:nowrap">${i.pillar}</span>
+          </div>
+          <div style="font-size:12px;color:var(--text);line-height:1.6">${i.purpose}</div>
+          <div style="font-size:11px;color:var(--dim);border-top:1px solid var(--border);padding-top:7px;line-height:1.5"><strong style="color:var(--dim)">Sub:</strong> ${i.sub}</div>
+        </div>`).join("")}
+
+    </div>
+  </div>
+
+  <div>
     <div class="section-label">Update Company Data</div>
     <div class="card" style="display:flex;flex-direction:column;gap:12px;">
       <div style="font-size:12px;color:var(--dim)">Speak or type an update — e.g. "Aurinutra replied, MOQ is 300 units at $15 each" or "I opened the Mercury account today"</div>
