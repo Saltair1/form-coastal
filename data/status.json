@@ -2,12 +2,12 @@
   "last_updated": "2026-06-07",
   "operational_status": {
     "ein": "pending",
-    "mercury_bank_account": "pending â open at mercury.com under Salt Air Industries LLC EIN",
-    "amazon_seller_account": "pending â open before inventory ships",
-    "shopify": "pending â open the WEEK inventory ships, NOT before",
-    "domain": "purchased â formcoastal.com on Namecheap",
-    "social_handles": "live â @formcoastal on TikTok and Instagram (25k followers)",
-    "first_tiktok_post": "pending â this week, lifestyle content, no product needed"
+    "mercury_bank_account": "pending Ã¢ÂÂ open at mercury.com under Salt Air Industries LLC EIN",
+    "amazon_seller_account": "pending Ã¢ÂÂ open before inventory ships",
+    "shopify": "pending Ã¢ÂÂ open the WEEK inventory ships, NOT before",
+    "domain": "purchased Ã¢ÂÂ formcoastal.com on Namecheap",
+    "social_handles": "live Ã¢ÂÂ @formcoastal on TikTok and Instagram (25k followers)",
+    "first_tiktok_post": "pending Ã¢ÂÂ this week, lifestyle content, no product needed"
   },
   "manufacturers": [
     {
@@ -41,7 +41,8 @@
     },
     {
       "task": "Get EIN for Salt Air Industries LLC",
-      "status": "pending"
+      "status": "done",
+      "date": "2025-01"
     },
     {
       "task": "Open Mercury business bank account",
