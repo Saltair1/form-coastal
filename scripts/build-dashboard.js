@@ -197,7 +197,7 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
 </div>
 <div class="footer">Last built: ${new Date().toISOString()} · saltair1.github.io/form-coastal</div>
 <script>
-const WORKER_URL = "WORKER_URL_PLACEHOLDER";
+const WORKER_URL = "https://form-coastal-updater.form-coastal.workers.dev";
 async function submitUpdate() {
   const input = document.getElementById("update-input");
   const status = document.getElementById("update-status");
