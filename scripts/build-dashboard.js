@@ -156,6 +156,18 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
   </div>
 
   <div>
+    <div class="section-label">Update Company Data</div>
+    <div class="card" style="display:flex;flex-direction:column;gap:12px;">
+      <div style="font-size:12px;color:var(--dim)">Speak or type an update — e.g. "Aurinutra replied, MOQ is 300 units at $15 each" or "I opened the Mercury account today"</div>
+      <textarea id="update-input" placeholder="Type or use voice-to-text..." style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:12px;color:var(--text);font-size:13px;font-family:inherit;resize:vertical;min-height:80px;outline:none;width:100%"></textarea>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <button onclick="submitUpdate()" style="background:var(--blue);color:#070d18;border:none;border-radius:8px;padding:10px 24px;font-size:13px;font-weight:700;cursor:pointer;letter-spacing:0.5px">Send Update</button>
+        <div id="update-status" style="font-size:12px;color:var(--dim)"></div>
+      </div>
+    </div>
+  </div>
+
+  <div>
     <div class="section-label">Launch Milestones</div>
     <div class="milestones">
       ${milestones.map(m => `
@@ -184,6 +196,39 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
 
 </div>
 <div class="footer">Last built: ${new Date().toISOString()} · saltair1.github.io/form-coastal</div>
+<script>
+const WORKER_URL = "WORKER_URL_PLACEHOLDER";
+async function submitUpdate() {
+  const input = document.getElementById("update-input");
+  const status = document.getElementById("update-status");
+  const text = input.value.trim();
+  if (!text) return;
+  status.style.color = "var(--dim)";
+  status.textContent = "Sending...";
+  try {
+    const res = await fetch(WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text }),
+    });
+    const data = await res.json();
+    if (data.ok) {
+      status.style.color = "var(--green)";
+      status.textContent = "✓ " + data.summary + " — dashboard will update in ~1 min";
+      input.value = "";
+    } else {
+      status.style.color = "var(--red)";
+      status.textContent = "Error: " + (data.error || "unknown");
+    }
+  } catch (e) {
+    status.style.color = "var(--red)";
+    status.textContent = "Could not reach worker — check setup";
+  }
+}
+document.getElementById("update-input").addEventListener("keydown", e => {
+  if (e.key === "Enter" && e.metaKey) submitUpdate();
+});
+</script>
 </body>
 </html>`;
 

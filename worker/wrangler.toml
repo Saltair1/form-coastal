@@ -1,0 +1,10 @@
+name = "form-coastal-updater"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+GITHUB_REPO = "Saltair1/form-coastal"
+
+# Secrets (set via CLI, never commit):
+# ANTHROPIC_API_KEY
+# GITHUB_TOKEN
