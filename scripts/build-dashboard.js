@@ -243,94 +243,30 @@ const html = `<!DOCTYPE html>
   <!-- Agent Outputs -->
   <div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);">Today's Agent Outputs</div>
 
-  <!-- Director -->
   <div class="card-full">
-    <div class="agent-header">
-      <div class="agent-title">🎯 Director</div>
-      <div class="agent-model">claude-opus-4-8</div>
+    <div class="card-label">🎯 Director — Task Assignments</div>
+    <div class="copy-block">${esc(directorRaw) || "No output yet."}</div>
+  </div>
+
+  <div class="card-full">
+    <div class="card-label">✍️ Writer — Copy Drafts</div>
+    <div class="copy-block">${esc(copy) || "No output yet."}</div>
+  </div>
+
+  <div class="two-col">
+    <div class="card">
+      <div class="card-label">🔍 Scout — Leads (${leads.length})</div>
+      <div class="copy-block">${esc(scoutRaw) || "No output yet."}</div>
     </div>
-    <div class="two-col" style="margin-top:14px;">
-      <div>
-        <div class="sub-label">Task</div>
-        <div class="copy-block">Assign today's tasks to each worker based on G1 → G2 → G3 priorities.</div>
-      </div>
-      <div>
-        <div class="sub-label">Output</div>
-        <div class="copy-block">${esc(directorRaw) || "No output yet."}</div>
-      </div>
+    <div class="card">
+      <div class="card-label">💰 Finance — Spend Report</div>
+      <div class="copy-block">${esc(financeRaw) || "No output yet."}</div>
     </div>
   </div>
 
-  <!-- Writer -->
   <div class="card-full">
-    <div class="agent-header">
-      <div class="agent-title">✍️ Writer</div>
-      <div class="agent-model">claude-sonnet-4-6</div>
-    </div>
-    <div class="two-col" style="margin-top:14px;">
-      <div>
-        <div class="sub-label">Task</div>
-        <div class="copy-block">${esc(tasks?.writer) || "No task assigned yet."}</div>
-      </div>
-      <div>
-        <div class="sub-label">Output</div>
-        <div class="copy-block">${esc(copy) || "No output yet."}</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Scout -->
-  <div class="card-full">
-    <div class="agent-header">
-      <div class="agent-title">🔍 Scout</div>
-      <div class="agent-model">claude-haiku</div>
-    </div>
-    <div class="two-col" style="margin-top:14px;">
-      <div>
-        <div class="sub-label">Task</div>
-        <div class="copy-block">${esc(tasks?.scout) || "No task assigned yet."}</div>
-      </div>
-      <div>
-        <div class="sub-label">Output (${leads.length} leads)</div>
-        <div class="copy-block">${leads.length ? esc(scoutRaw) : esc(scoutRaw) || "No output yet."}</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Finance -->
-  <div class="card-full">
-    <div class="agent-header">
-      <div class="agent-title">💰 Finance</div>
-      <div class="agent-model">claude-haiku</div>
-    </div>
-    <div class="two-col" style="margin-top:14px;">
-      <div>
-        <div class="sub-label">Task</div>
-        <div class="copy-block">${esc(tasks?.finance) || "Track API spend and enforce $20/month cap."}</div>
-      </div>
-      <div>
-        <div class="sub-label">Output</div>
-        <div class="copy-block">${esc(financeRaw) || "No output yet."}</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Auditor -->
-  <div class="card-full">
-    <div class="agent-header">
-      <div class="agent-title">🔎 Auditor</div>
-      <div class="agent-model">claude-haiku</div>
-    </div>
-    <div class="two-col" style="margin-top:14px;">
-      <div>
-        <div class="sub-label">Task</div>
-        <div class="copy-block">${esc(tasks?.auditor) || "QA all today's outputs for accuracy, brand voice, and compliance."}</div>
-      </div>
-      <div>
-        <div class="sub-label">Output</div>
-        <div class="copy-block">${esc(auditorRaw) || "No audit report yet."}</div>
-      </div>
-    </div>
+    <div class="card-label">🔎 Auditor — QA Report</div>
+    <div class="copy-block">${esc(auditorRaw) || "No audit report yet."}</div>
   </div>
 
   <!-- Spend table -->
