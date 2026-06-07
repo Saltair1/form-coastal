@@ -1,0 +1,89 @@
+# Form Coastal Copy Drafts — 2026-06-07
+
+---
+
+## 1. TikTok Script — "Before the World Wakes Up"
+
+**Format:** Talking head / lifestyle cut  
+**Length:** ~35 seconds  
+**Hook style:** Pattern interrupt opening, speaks directly to the viewer's identity
+
+---
+
+**[HOOK — 0:00–0:05]**
+*On camera, post-surf or pre-run, golden hour light, casual delivery:*
+
+> "If you're up before 6am, this is for you."
+
+---
+
+**[VALUE — 0:05–0:28]**
+*Cut to softgel in hand, then back to face. Relaxed, not pitchy:*
+
+> "I built Form because I couldn't find anything made for the way I actually live — outside. Surfing, training, grinding.
+>
+> Most supplements are made for the gym floor. Form is built for what's outside of it.
+>
+> Five things your body actually needs when you're pushing it in the sun and the salt — UV support, hydration, joint recovery, energy, immunity. One softgel. Done."
+
+---
+
+**[CTA — 0:28–0:35]**
+*Direct eye contact, easy smile:*
+
+> "Link in bio. Try it for a month — if it's not built for your life, it's not built for you."
+
+---
+
+**Production notes:**
+- Shoot at magic hour (golden, not harsh midday)
+- No product table setups — keep it real, hand-held or propped casually
+- Caption overlay on hook line: *"built for what's outside"*
+- Sound: low ambient ocean/wind bed or trending coastal-adjacent audio
+- Tag: `#formcoastal #outdoormen #activeliving #morningroutine`
+
+---
+---
+
+## 2. Cold Outreach Email — B2B Gym Partnership
+
+**Subject:** A supplement built for your members who live outside
+
+---
+
+**Body:**
+
+Hi [First Name],
+
+I'll keep it short — I know your inbox isn't a gym lobby.
+
+I'm Adam, founder of Form Coastal. We make a daily softgel for active men who spend real time outdoors — surfers, runners, trail guys, the ones who treat the weekend like a second job. Five pillars in one softgel: UV protection, hydration, joint recovery, energy support, and immune support.
+
+We're not a protein powder. We're not a pre-workout. We're the thing your members take *before* any of that.
+
+I'm reaching out to a small number of gyms — particularly those with an active, outdoor-leaning community — about a simple partnership: sample access for your members, a co-branded mention in your communications, and a straightforward affiliate structure that puts margin back in your corner.
+
+No shelf space required. No inventory risk on your end.
+
+If your members spend as much time outside as they do in your facility, I think this fits. Happy to send samples your way so you can see the product before we talk details.
+
+Worth a quick reply?
+
+— Adam Salter  
+Founder, Form Coastal  
+[email] | formcoastal.com  
+@formcoastal
+
+*To opt out of future emails, reply "unsubscribe" and I'll remove you immediately.*
+
+---
+
+**Usage notes for Adam:**
+- Personalize `[First Name]` and reference the specific gym by name in the opener when possible — *"I love what you're doing at [Gym Name]"* adds a lot.
+- Verify all contact emails before sending (per brand guardrails — no invented contacts).
+- CAN-SPAM unsubscribe line is included — do not remove it.
+- Do not send to more than one contact at the same gym in the same send window.
+
+---
+
+*Drafted by Writer (claude-sonnet-4-6) · 2026-06-07 · Pending Auditor QA + Adam review before use*

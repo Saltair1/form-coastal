@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Form Coastal — Command Center</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #070d18;
+    --surface: #0d1c2e;
+    --surface2: #071120;
+    --border: #1a3050;
+    --blue: #5fa8d3;
+    --blue-dim: #3a6a8a;
+    --text: #d0dce8;
+    --text-dim: #4a6a8a;
+    --green: #2ecc71;
+    --yellow: #f39c12;
+    --red: #e74c3c;
+  }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* Header */
+  header { padding: 28px 28px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand-icon { width: 40px; height: 40px; background: linear-gradient(135deg, #1a4a6e, #2e8ab8); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 18px; }
+  .brand-name { font-size: 20px; font-weight: 700; letter-spacing: 3px; color: var(--blue); text-transform: uppercase; }
+  .brand-sub { font-size: 11px; color: var(--text-dim); margin-top: 2px; letter-spacing: 1px; }
+  .header-meta { font-size: 12px; color: var(--text-dim); text-align: right; }
+  .header-meta strong { color: var(--text); }
+
+  /* Layout */
+  .page { max-width: 1200px; padding: 24px 28px; display: flex; flex-direction: column; gap: 20px; }
+
+  /* Today banner */
+  .today-banner { background: linear-gradient(135deg, #0a1e35 0%, #0d2a40 100%); border: 1px solid var(--border); border-radius: 14px; padding: 22px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+  .today-date { font-size: 13px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1.5px; }
+  .today-title { font-size: 22px; font-weight: 700; color: var(--text); margin-top: 4px; }
+  .today-badges { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+
+  /* Goal bars */
+  .goals { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+  .goal-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px 20px; display: flex; gap: 14px; align-items: flex-start; }
+  .goal-badge { font-size: 11px; font-weight: 800; letter-spacing: 1px; color: var(--bg); background: var(--blue); border-radius: 6px; padding: 3px 8px; min-width: 32px; text-align: center; flex-shrink: 0; margin-top: 2px; }
+  .goal-text { font-size: 14px; color: var(--text); line-height: 1.4; }
+
+  /* Two col */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
+
+  /* Cards */
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .card-full { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .card-label { font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 16px; }
+
+  /* Today's to-do */
+  .todo-item { display: flex; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
+  .todo-item:last-child { border-bottom: none; }
+  .todo-role { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--blue); min-width: 60px; margin-top: 2px; }
+  .todo-text { font-size: 13px; color: var(--text); line-height: 1.5; }
+
+  /* Stats row */
+  .stats-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .stat-block { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px 20px; }
+  .stat-num { font-size: 28px; font-weight: 700; color: var(--blue); }
+  .stat-lbl { font-size: 11px; color: var(--text-dim); margin-top: 4px; }
+
+  /* Progress bar */
+  .prog-wrap { margin-top: 10px; background: var(--border); border-radius: 4px; height: 6px; overflow: hidden; }
+  .prog-fill { height: 100%; border-radius: 4px; }
+
+  /* Copy block */
+  .copy-block { font-size: 12px; color: var(--text); line-height: 1.7; white-space: pre-wrap; max-height: 260px; overflow-y: auto; background: var(--surface2); border-radius: 8px; padding: 14px; }
+
+  /* Leads */
+  .lead-item { padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .lead-item:last-child { border-bottom: none; }
+  .lead-name { font-size: 13px; font-weight: 600; color: var(--text); }
+  .lead-meta { font-size: 11px; color: var(--text-dim); margin-top: 3px; }
+
+  /* Spend table */
+  .spend-row { display: flex; justify-content: space-between; font-size: 12px; padding: 6px 0; border-bottom: 1px solid var(--border); color: var(--text); }
+  .spend-row:last-child { border-bottom: none; }
+  .spend-role { color: var(--blue); font-weight: 600; }
+
+  /* Pills */
+  .pill { display: inline-flex; align-items: center; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 600; }
+  .pill-green { background: #0a2e18; color: var(--green); border: 1px solid var(--green); }
+  .pill-yellow { background: #2e2000; color: var(--yellow); border: 1px solid var(--yellow); }
+  .pill-red { background: #2e0a0a; color: var(--red); border: 1px solid var(--red); }
+  .pill-blue { background: #0a1e30; color: var(--blue); border: 1px solid var(--blue-dim); }
+
+  .footer { font-size: 11px; color: var(--text-dim); text-align: center; padding: 16px 0 32px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="brand-icon">🌊</div>
+    <div>
+      <div class="brand-name">Form Coastal</div>
+      <div class="brand-sub">Command Center</div>
+    </div>
+  </div>
+  <div class="header-meta">
+    <strong>2026-06-07</strong><br>
+    Salt Air Industries LLC
+  </div>
+</header>
+
+<div class="page">
+
+  <!-- Today banner -->
+  <div class="today-banner">
+    <div>
+      <div class="today-date">Daily Briefing</div>
+      <div class="today-title">What's happening today</div>
+    </div>
+    <div class="today-badges">
+      <span class="pill pill-yellow">Audit Pending</span>
+      <span class="pill pill-blue">AI Team Active</span>
+    </div>
+  </div>
+
+  <!-- Company Goals -->
+  <div>
+    <div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);margin-bottom:12px;">Overarching Goals</div>
+    <div class="goals">
+      <div class="goal-card"><div class="goal-badge">G1</div><div class="goal-text">Get first inventory order placed and <strong>Amazon listing live</strong></div></div>
+      <div class="goal-card"><div class="goal-badge">G2</div><div class="goal-text">Build TikTok organic audience <strong>@formcoastal</strong> to drive awareness</div></div>
+      <div class="goal-card"><div class="goal-badge">G3</div><div class="goal-text">Hit <strong>25 Amazon reviews</strong> → unlock $37.99 price increase</div></div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-row">
+    <div class="stat-block">
+      <div class="stat-num">$29.99</div>
+      <div class="stat-lbl">Launch price</div>
+    </div>
+    <div class="stat-block">
+      <div class="stat-num">$37.99</div>
+      <div class="stat-lbl">Post-review price</div>
+    </div>
+    <div class="stat-block">
+      <div class="stat-num" style="color:#2ecc71">$0.08</div>
+      <div class="stat-lbl">AI spend this month</div>
+      <div class="prog-wrap"><div class="prog-fill" style="width:0%;background:#2ecc71"></div></div>
+    </div>
+  </div>
+
+  <!-- Today's To-Do + Copy -->
+  <div class="two-col">
+    <div class="card">
+      <div class="card-label">Today's Agent Tasks</div>
+      
+      <div class="todo-item">
+        <div class="todo-role">Scout</div>
+        <div class="todo-text">Research and compile a verified list of 5-8 contract supplement manufacturers/co-packers (US-based, softgel-capable, low MOQ friendly for first inventory run) toward G1. Include only verified company names, public websites, and publicly-listed contact emails/forms — never invent contact details. Note MOQ, softgel capability, and whether they can hit our &lt;$8/unit COGS target. Output as a draft sheet; do NOT contact anyone.</div>
+      </div>
+      <div class="todo-item">
+        <div class="todo-role">Writer</div>
+        <div class="todo-text">Draft (do not send) a manufacturer outreach email template for Adam to use when contacting co-packers about a first inventory order — coastal/clean brand voice, requesting MOQ, per-unit pricing, lead time, and softgel formulation capability for our 5-pillar men's supplement. No health/medical claims. Reference the v5 Master Brand Document for product framing. Mark clearly as DRAFT for Adam to send.</div>
+      </div>
+      <div class="todo-item">
+        <div class="todo-role">Finance</div>
+        <div class="todo-text">Calculate and log today's API cost per run across all agents and the month-to-date total against the $20/month cap. Flag if we are above 50% utilization and project end-of-month spend. Pause the team only if the cap is exceeded. Output a short cost summary.</div>
+      </div>
+      <div class="todo-item">
+        <div class="todo-role">Auditor</div>
+        <div class="todo-text">QA Scout's manufacturer list and Writer's outreach draft before they reach Adam: verify no fabricated contact details, no banned medical/health claims, on-brand voice, and that economics references align with data/economics.json (COGS &lt;$8, target margin &gt;40%). Flag anything out-of-scope or that touches storefront/prices/main directly.</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-label">Copy Drafts — Ready to Use</div>
+      <div class="copy-block"># Form Coastal Copy Drafts — 2026-06-07
+
+---
+
+## 1. TikTok Script — "Before the World Wakes Up"
+
+**Format:** Talking head / lifestyle cut  
+**Length:** ~35 seconds  
+**Hook style:** Pattern interrupt opening, speaks directly to the viewer's identity
+
+---
+
+**[HOOK — 0:00–0:05]**
+*On camera, post-surf or pre-run, golden hour light, casual delivery:*
+
+&gt; "If you're up before 6am, this is for you."
+
+---
+
+**[VALUE — 0:05–0:28]**
+*Cut to softgel in hand, then back to face. Relaxed, not pitchy:*
+
+&gt; "I built Form because I couldn't find anything made for the way I actually live — outside. Surfing, training, grinding.
+&gt;
+&gt; Most supplements are made for the gym floor. Form is built for what's outside of it.
+&gt;
+&gt; Five things your body actually needs when you're pushing it in the sun and the salt — UV support, hydration, joint recovery, energy, immunity. One softgel. Done."
+
+---
+
+**[CTA — 0:28–0:35]**
+*Direct eye contact, easy smile:*
+
+&gt; "Link in bio. Try it for a month — if it's not built for your life, it's not built for you."
+
+---
+
+**Production notes:**
+- Shoot at magic hour (golden, not harsh midday)
+- No product table setups — keep it real, hand-held or propped casually
+- Caption overlay on hook line: *"built for what's outside"*
+- Sound: low ambient ocean/wind bed or trending coastal-adjacent audio
+- Tag: `#formcoastal #outdoormen #activeliving #morningroutine`
+
+---
+---
+
+## 2. Cold Outreach Email — B2B Gym Partnership
+
+**Subject:** A supplement built for your members who live outside
+
+---
+
+**Body:**
+
+Hi [First Name],
+
+I'll keep it short — I know your inbox isn't a gym lobby.
+
+I'm Adam, founder of Form Coastal. We make a daily softgel for active men who spend real time outdoors — surfers, runners, trail guys, the ones who treat the weekend like a second job. Five pillars in one softgel: UV protection, hydration, joint recovery, energy support, and immune support.
+
+We're not a protein powder. We're not a pre-workout. We're the thing your members take *before* any of that.
+
+I'm reaching out to a small number of gyms — particularly those with an active, outdoor-leaning community — about a simple partnership: sample access for your members, a co-branded mention in your communications, and a straightforward affiliate structure that puts margin back in your corner.
+
+No shelf space required. No inventory risk on your end.
+
+If your members spend as much time outside as they do in your facility, I think this fits. Happy to send samples your way so you can see the product before we talk details.
+
+Worth a quick reply?
+
+— Adam Salter  
+Founder, Form Coastal  
+[email] | formcoastal.com  
+@formcoastal
+
+*To opt out of future emails, reply "unsubscribe" and I'll remove you immediately.*
+
+---
+
+**Usage notes for Adam:**
+- Personalize `[First Name]` and reference the specific gym by name in the opener when possible — *"I love what you're doing at [Gym Name]"* adds a lot.
+- Verify all contact emails before sending (per brand guardrails — no invented contacts).
+- CAN-SPAM unsubscribe line is included — do not remove it.
+- Do not send to more than one contact at the same gym in the same send window.
+
+---
+
+*Drafted by Writer (claude-sonnet-4-6) · 2026-06-07 · Pending Auditor QA + Adam review before use*</div>
+    </div>
+  </div>
+
+  <!-- Leads + Spend -->
+  <div class="two-col">
+    <div class="card">
+      <div class="card-label">Today's Leads (1)</div>
+      
+      <div class="lead-item">
+        <div class="lead-name">[Verified Name]</div>
+        <div class="lead-meta">[City, State]</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-label">Recent Agent Runs</div>
+      
+          <div class="spend-row">
+            <span class="spend-role">auditor</span>
+            <span style="color:var(--text-dim)">haiku</span>
+            <span>$0.0007</span>
+          </div>
+          <div class="spend-row">
+            <span class="spend-role">writer</span>
+            <span style="color:var(--text-dim)">sonnet</span>
+            <span>$0.0174</span>
+          </div>
+          <div class="spend-row">
+            <span class="spend-role">scout</span>
+            <span style="color:var(--text-dim)">haiku</span>
+            <span>$0.0008</span>
+          </div>
+          <div class="spend-row">
+            <span class="spend-role">director</span>
+            <span style="color:var(--text-dim)">opus</span>
+            <span>$0.0649</span>
+          </div>
+          <div class="spend-row">
+            <span class="spend-role">finance</span>
+            <span style="color:var(--text-dim)">haiku</span>
+            <span>$0.0006</span>
+          </div>
+      <div style="margin-top:14px;padding-top:12px;border-top:1px solid var(--border);display:flex;justify-content:space-between;font-size:12px;">
+        <span style="color:var(--text-dim)">Month total</span>
+        <span style="color:#2ecc71;font-weight:700">$0.084 / $20</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Audit full output -->
+  <div class="card-full">
+    <div class="card-label">Auditor Report</div>
+    <div class="copy-block"># Auditor Review — 2026-06-07
+
+I'm ready to audit today's outputs. However, I don't see an `output/` directory or files in the context provided. 
+
+To complete the audit, I need you to either:
+
+1. **Paste the output files** (e.g., `output/audit-2026-06-07.json`, digest drafts, outreach templates, TikTok scripts, Amazon copy) directly into this message, or
+2. **Describe what was generated today** so I can simulate the audit based on Form Coastal's guardrails.
+
+Once I have the artifacts, I'll check each one against:
+
+- ✅ **Accuracy** — no invented facts (no fake contact details, no false product claims)
+- ✅ **Brand voice** — coastal, clean, confident (no clinical tone, no bro-ish hype)
+- ✅ **Health claims** — no banned medical/therapeutic language (e.g., "cures," "treats," "prevents disease")
+- ✅ **Contacts** — verified only (no cold-emailed fake emails)
+- ✅ **CAN-SPAM** — unsubscribe/identity/opt-out compliant
+
+And output:
+```json
+{
+  "date": "2026-06-07",
+  "passed": true/false,
+  "items_reviewed": [...],
+  "flags": [...]
+}
+```
+
+**What did the team produce today?** Share the files and I'll audit immediately.</div>
+  </div>
+
+</div>
+
+<div class="footer">Last built: 2026-06-07T22:10:17.280Z · saltair1.github.io/form-coastal</div>
+
+</body>
+</html>

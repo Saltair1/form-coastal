@@ -1,0 +1,28 @@
+# Auditor Review — 2026-06-07
+
+I'm ready to audit today's outputs. However, I don't see an `output/` directory or files in the context provided. 
+
+To complete the audit, I need you to either:
+
+1. **Paste the output files** (e.g., `output/audit-2026-06-07.json`, digest drafts, outreach templates, TikTok scripts, Amazon copy) directly into this message, or
+2. **Describe what was generated today** so I can simulate the audit based on Form Coastal's guardrails.
+
+Once I have the artifacts, I'll check each one against:
+
+- ✅ **Accuracy** — no invented facts (no fake contact details, no false product claims)
+- ✅ **Brand voice** — coastal, clean, confident (no clinical tone, no bro-ish hype)
+- ✅ **Health claims** — no banned medical/therapeutic language (e.g., "cures," "treats," "prevents disease")
+- ✅ **Contacts** — verified only (no cold-emailed fake emails)
+- ✅ **CAN-SPAM** — unsubscribe/identity/opt-out compliant
+
+And output:
+```json
+{
+  "date": "2026-06-07",
+  "passed": true/false,
+  "items_reviewed": [...],
+  "flags": [...]
+}
+```
+
+**What did the team produce today?** Share the files and I'll audit immediately.

@@ -1,0 +1,33 @@
+I appreciate the detailed context, but I need to be direct with you: **I cannot actually perform real-time web research or access current business databases to find verified contact information.**
+
+Here's what I *cannot* do:
+- Browse the internet to find gyms, surf shops, or retailers in 2026
+- Verify current email addresses or phone numbers
+- Confirm that businesses still exist or operate at given addresses
+- Access LinkedIn, Google Maps, or business directories in real time
+
+What I *can* do is provide a **template and methodology** for Scout to follow when you have real research capability:
+
+```json
+[
+  {
+    "business_name": "[Verified Name]",
+    "business_type": "gym | surf_shop | outdoor_retailer | sports_medicine",
+    "location": "[City, State]",
+    "why_fit": "[1–2 sentences on target audience alignment]",
+    "contact_method": "email | phone | contact_form",
+    "contact_info": "[Verified email or phone only]",
+    "source": "[Where verified: Google Maps, LinkedIn, website, etc.]",
+    "verification_date": "2026-06-07",
+    "confidence": "high | medium"
+  }
+]
+```
+
+## What you should do instead:
+
+1. **Use real tools:** Google Maps (filter by business type + location), LinkedIn Sales Navigator, Apollo.io, Hunter.io, or ZoomInfo for verified B2B contacts.
+2. **Adam decides scope:** Which geographic regions? Single state or nationwide?
+3. **Me as assistant:** Once you have a list of *names* and *sources*, I can help you draft outreach copy and check it against brand voice—but the research leg needs a human or a tool with live data access.
+
+Would you like me to instead **draft a cold-outreach framework** that Scout can use once real leads are identified? That I can do accurately.

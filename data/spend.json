@@ -1,4 +1,45 @@
 {
-  "monthly_cap_usd": 20.00,
-  "runs": []
+  "monthly_cap_usd": 20,
+  "runs": [
+    {
+      "date": "2026-06-07T21:59:14.987Z",
+      "role": "finance",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 1362,
+      "output_tokens": 179,
+      "cost_usd": 0.0005642500000000001
+    },
+    {
+      "date": "2026-06-07T21:59:24.900Z",
+      "role": "director",
+      "model": "claude-opus-4-8",
+      "input_tokens": 1729,
+      "output_tokens": 520,
+      "cost_usd": 0.06493499999999999
+    },
+    {
+      "date": "2026-06-07T21:59:30.668Z",
+      "role": "scout",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 1211,
+      "output_tokens": 437,
+      "cost_usd": 0.0008489999999999999
+    },
+    {
+      "date": "2026-06-07T21:59:53.831Z",
+      "role": "writer",
+      "model": "claude-sonnet-4-6",
+      "input_tokens": 1206,
+      "output_tokens": 917,
+      "cost_usd": 0.017373
+    },
+    {
+      "date": "2026-06-07T21:59:58.062Z",
+      "role": "auditor",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 1198,
+      "output_tokens": 357,
+      "cost_usd": 0.00074575
+    }
+  ]
 }
