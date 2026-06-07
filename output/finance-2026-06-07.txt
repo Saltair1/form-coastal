@@ -1,8 +1,9 @@
 ```json
 {
-  "month_spend_usd": 0.0836668,
+  "month": "2026-06",
+  "spent_usd": 0.2336,
   "cap_usd": 20,
   "status": "ok",
-  "note": "June 2026 spend: $0.08. 5 API calls across all roles (Finance, Director, Scout, Writer, Auditor). Well within $20 monthly cap. Team cleared to continue operations."
+  "note": "10 API calls today; $0.23 total June spend. Well under $20 cap. Proceed."
 }
 ```

@@ -1,102 +1,91 @@
-# Form Coastal — Copy Drafts
+output/copy-2026-06-07.md
+
+---
+
+# FORM Coastal — Copy Drafts
 **Date:** 2026-06-07
-**Drafted by:** Writer (claude-sonnet-4-6)
-**Status:** DRAFT — Adam reviews and sends/posts. Do not auto-publish or auto-send.
+**Status:** DRAFT — Adam reviews and sends. Do not distribute.
 
 ---
 
-## 1. TikTok Script — "Gallon a Day" Hook
+## 1. TikTok Script — "Still Dehydrated" (30–45 sec)
 
-**Format:** Talking head / lifestyle b-roll hybrid
-**Duration:** ~35 seconds
-**Account:** @formcoastal
-
----
-
-### SCRIPT
-
-**[HOOK — 0:00–0:04]**
-*On camera, direct eye contact, casual outdoor setting — parking lot at the beach, tailgate, post-surf*
-
-> "You're drinking a gallon of water a day and still waking up dehydrated. Let me explain why."
+**Format:** Talking head / POV, outdoor or post-surf setting. No product needed.
+**Target length:** ~35 seconds at natural speaking pace.
 
 ---
 
-**[VALUE — 0:04–0:28]**
-*Cut to b-roll: sunrise surf, someone grabbing a water bottle, stretching on the beach. VO or talking head.*
+**[HOOK — 0:00–0:05]**
+*(direct to camera, flat tone, let it land)*
+"You're drinking a gallon of water a day. And you're still waking up dehydrated. That's not a you problem."
 
-> "Hydration isn't just about how much you drink — it's about what your cells actually hold onto.
->
-> Most of us are out in the sun every day, training hard, losing electrolytes faster than we can replace them. And no amount of water fixes that on its own.
->
-> That's why I started building FORM — a single daily softgel designed for guys who actually live outside. Real ingredients. No stimulants. Nothing you don't need."
+**[VALUE — 0:05–0:28]**
+*(cut or stay on cam, relaxed delivery)*
+"I'm Adam. I surf, I lift, I live in San Diego sun year-round — and I could not figure out why I felt like garbage every morning no matter how much I drank.
 
----
+Turns out hydration isn't just about water. It's about whether your cells can actually hold it.
+
+Same thing with joint wear. With energy. With the oxidative stress that stacks up every single day you're outside.
+
+I couldn't find one thing built for the way I actually live. So I made it."
 
 **[CTA — 0:28–0:35]**
-*Back on camera, relaxed — almost like an afterthought*
-
-> "Link in bio if you want to follow along. First drop coming soon."
-
----
-
-**Production Notes:**
-- Shoot golden hour or early morning — natural light only
-- Wardrobe: plain tee or no shirt post-surf, nothing branded
-- Keep energy calm and conversational — not a pitch, more like talking to a friend
-- No product on camera yet (pre-launch)
-- Caption: `you're doing it right. your cells just need backup. 🌊 #formcoastal #hydration #activemen #supplement #surflife`
+*(slight lean in, confident, not salesy)*
+"Follow if you live outdoors. More on this soon."
 
 ---
 
-## 2. Cold Outreach Email — B2B Gym Partnership
-
-**Channel:** Email (Adam sends manually)
-**Audience:** Gym owners / fitness studio managers, San Diego / coastal CA markets first
-**Goal:** Introduce FORM, explore partnership / retail placement / member perk
-
----
-
-### SUBJECT LINE OPTIONS
-*(pick one — A/B test when volume allows)*
-
-- `A quick idea for [Gym Name]'s members`
-- `Something your members might actually want`
-- `San Diego supplement — built for guys who train outside`
+**Production notes:**
+- Shoot golden hour, beach or parking lot at a break — real, not staged
+- No music over voice; ambient wave sound low in background if possible
+- Text overlay on hook line for silent viewers
+- No product on screen for this first post — founder story only
 
 ---
 
-### EMAIL BODY
+---
 
-> Hi [First Name],
->
-> My name is Adam — I'm a San Diego local and the founder of FORM, a men's daily supplement I've been building for the past year around one simple idea: most active guys are missing the basics.
->
-> I surf, lift, and play soccer. I was drinking a gallon of water a day and still felt off. Joints grinding after back-to-back sessions. Energy inconsistent. Skin taking a beating from daily sun exposure. I couldn't find one clean product designed for how I actually live — so I made it.
->
-> FORM is a single daily softgel built around five pillars: UV protection, cellular hydration, joint recovery, clean energy support, and immune baseline. No proprietary blends. No stimulants. Softgel format so fat-soluble ingredients actually absorb.
->
-> We're launching on Amazon this summer with a first run of 250–500 units, and I'm looking to connect with a handful of gyms and studios in coastal CA who want to be early partners — whether that's stocking a small supply at the desk, including us in a member welcome kit, or just keeping a few samples on hand.
->
-> No pressure and no commitment required on your end. Happy to send a few samples your way and talk if the timing feels right.
->
-> Would a quick call or a sample pack be a better starting point for you?
->
-> —Adam Salter
-> Founder, FORM
-> formcoastal.com | @formcoastal
-> Oceanside, CA
+## 2. Cold Outreach Email — Gym Partnership Template
+
+**Use case:** Boutique gyms, functional fitness boxes, surf/outdoor training facilities
+**Sender:** Adam Salter (adam@formcoastal.com)
+**Tone:** Peer-to-peer, not vendor pitch
 
 ---
 
-**Sending Notes:**
-- Personalize `[First Name]` and `[Gym Name]` before every send — never batch-blast
-- Only send from a warmed domain/inbox (formcoastal.com email recommended over Gmail)
-- Follow CAN-SPAM: physical address required in footer if sending bulk — for 1:1 outreach this template is compliant as-is
-- Do not attach anything on first contact — keep it light, response-first
-- Follow up once after 5–7 business days if no reply; do not send a third
+**Subject:** Something your members actually asked for
 
 ---
 
-*Output saved as:* `output/copy-2026-06-07.md`
-*All content is draft only. A human reviews and sends/posts every piece.*
+Hi [First Name],
+
+Quick note — not a vendor pitch, I promise.
+
+I'm Adam. I'm a surfer and multi-sport athlete based in Oceanside, and I built FORM because I kept running into the same gap: no supplement on the market was designed for guys who actually live outdoors — training hard, multiple sessions, daily sun exposure, the whole thing.
+
+FORM is a single daily softgel. Clean ingredients, no stimulants, no 47-capsule morning stack. It's built for the active guy who already does everything right and just wants one thing working in the background.
+
+I'm looking for two or three gym partners in [City/Region] to test a small wholesale arrangement before we scale. Nothing complicated — a few units on your retail shelf or in a welcome kit, see if it moves.
+
+If your members skew toward the guy who surfs before class or bikes in on the weekend, it might be worth a 15-minute call.
+
+Happy to send samples first. No commitment, no invoice.
+
+[Your calendar link or: "Just reply here and we'll find a time."]
+
+— Adam
+Founder, FORM
+formcoastal.com | @formcoastal
+Salt Air Industries LLC, Oceanside CA
+
+---
+
+**Personalization notes for Adam before sending:**
+- Swap [First Name] and [City/Region] for each contact
+- If you know the gym's vibe (CrossFit, surf, functional fitness), reference it in sentence 3
+- Add a calendar link (Calendly or similar) before sending
+- Verify recipient email before outreach — do not guess
+
+---
+
+*DRAFT — For Adam Salter review only. Writer agent output 2026-06-07.*

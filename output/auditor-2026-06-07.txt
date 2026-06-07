@@ -1,83 +1,67 @@
 ```json
 {
   "passed": false,
-  "items_reviewed": [
-    "Director assignment (scout, writer, finance, auditor tasks)",
-    "Scout output (5 B2B prospects with contact details)",
-    "Writer output (TikTok script + cold email template)"
-  ],
+  "items_reviewed": ["writer", "scout"],
   "flags": [
     {
+      "item": "writer",
+      "section": "TikTok Script — 'Still Dehydrated'",
       "severity": "CRITICAL",
-      "category": "Scout — Invented Contact Details",
-      "issue": "Scout provided `partnerships@lululemon.com` as verified contact, but marked it UNVERIFIED in notes. This is a contradiction. The email was not independently verified on an official Lululemon domain and should not appear in the prospect list as a contact detail at all. Lululemon partnerships email is commonly wrong/unmonitored.",
-      "recommendation": "Remove `partnerships@lululemon.com` from rank #2 prospect. Keep only verified phone (760) 439-3850 with instruction to call store manager first. Scout violated hard rule: 'Never invent contact details — verified only.'"
+      "issue": "Health/medical claim violation",
+      "detail": "Line 'Turns out hydration isn't just about water. It's about whether your cells can actually hold it.' + 'with the oxidative stress that stacks up every single day you're outside' constitute implied medical/health claims about cellular function and oxidative stress mitigation. FORM is a supplement—cannot claim to affect cell hydration capacity or manage oxidative stress without FDA pre-approval.",
+      "rule_violated": "Hard rule #4 — No medical/health claims",
+      "recommendation": "Rewrite value section to focus on founder story (why Adam built it, what he noticed) without claiming what FORM does to the body. E.g., 'I noticed patterns in how I felt based on what I was doing' instead of 'your cells can actually hold it.'"
     },
     {
+      "item": "writer",
+      "section": "Cold Outreach Email",
+      "severity": "HIGH",
+      "issue": "Unverified contact template + incomplete instruction",
+      "detail": "Template instructs Adam to use 'adam@formcoastal.com' but no verification provided that this email is set up, deliverable, or monitored. SendGrid secret not yet added to stack. Risk of CAN-SPAM violation if email bounces or goes unmonitored.",
+      "rule_violated": "Hard rule #3 — Never invent contact details. Hard rule #4 — Honor CAN-SPAM",
+      "recommendation": "Add pre-flight check: (1) Confirm adam@formcoastal.com is live and monitored before ANY cold outreach. (2) Add unsubscribe footer to template. (3) Verify gym contact email via phone or website form first—do not guess. (4) Adam must review personalization before sending, per hard rule #2."
+    },
+    {
+      "item": "writer",
+      "section": "Cold Outreach Email",
+      "severity": "MEDIUM",
+      "issue": "Brand voice inconsistency",
+      "detail": "'Nothing complicated' + 'no invoice' feels slightly defensive/vendor-like, not peer-to-peer confident. Coastal/clean voice should lead with confidence in the product, not apology.",
+      "rule_violated": "Brand voice guideline — Coastal, clean, active. Confident but not bro-y.",
+      "recommendation": "Rewrite: 'Straightforward wholesale test — a few units on your shelf, see if your members respond.' Leads with confidence, not hedging."
+    },
+    {
+      "item": "scout",
+      "section": "Entire Output",
       "severity": "CRITICAL",
-      "category": "Scout — Unverified Email Addresses",
-      "issue": "Scout marked multiple emails as 'UNVERIFIED' but still included them in the prospect summary (Wahoo's, Performance PT, Guides' Choice). This creates risk of Adam cold-emailing unverified addresses, which violates guardrail #3 (no invented contact details) and damages email deliverability. UNVERIFIED contacts should not be in the output at all.",
-      "recommendation": "Scout should provide ONLY verified phone numbers and website contact forms for these prospects. Remove all UNVERIFIED email addresses from final output. Instructions to Adam: 'Call first, confirm email on official website, then draft outreach for Director approval.'"
+      "issue": "No verified leads — placeholders only + missing directive",
+      "detail": "Scout output is a framework/instruction set, not actual qualified leads. Zero verified contacts delivered. Output states 'AWAITING ADAM INPUT' — this should have been flagged pre-submission. Scout cannot ethically output placeholder lead data as if ready for use.",
+      "rule_violated": "Hard rule #3 — Never invent contact details. Hard rule #1 (read-only on storefront applies to leads too—don't create fake data)",
+      "recommendation": "Scout should NOT submit placeholder JSON as 'output.' Instead, submit a brief memo to Adam: 'Ready to search. Provide 3-5 local business names. I'll verify phone/web forms and deliver verified-contact JSON.' This is the honest, compliant path."
     },
     {
-      "severity": "HIGH",
-      "category": "Scout — Out of Scope / Premature",
-      "issue": "Director task was: 'compile a verified shortlist of up to 2 backup low-MOQ (250/500) GMP-certified softgel MANUFACTURERS.' Scout instead provided 5 B2B RETAIL/PARTNERSHIP prospects (gyms, Lululemon, PT clinics, etc.). This is not what was requested. The actual task — backup manufacturers — was not completed.",
-      "recommendation": "Scout did not follow the Director assignment. Scout output should have been: 2 verified backup softgel manufacturers with GMP cert, lipid encapsulation capability, <500 MOQ, and verified contact details only. Redirect Scout to complete the actual manufacturer research task."
-    },
-    {
-      "severity": "HIGH",
-      "category": "Writer — TikTok Script Health Claim Risk",
-      "issue": "Script line: 'Hydration isn't just about how much you drink — it's about what your cells actually hold onto.' + 'no amount of water fixes that on its own' + 'Real ingredients' (implying fixing a deficiency). These are veiled structure-function claims. The phrase 'cells actually hold onto' suggests the product changes cellular water retention — a drug claim. While not explicit ('treats dehydration'), this is borderline and risky under FTC enforcement.",
-      "recommendation": "Rewrite to pure lifestyle positioning: 'I was always thirsty. Thought it was just part of training hard. Found out most active guys are missing the basics.' Remove any language suggesting the product 'fixes' hydration or water retention. Keep it to personal journey, not product mechanism."
-    },
-    {
-      "severity": "MEDIUM",
-      "category": "Writer — TikTok Script Brand Voice Check",
-      "issue": "Script is solid (coastal, conversational, not bro-y). However, phrase 'designed for guys who actually live outside' is slightly generic. Master Brand Document v5 emphasizes 'surfer supplement' and coastal specificity. Script could lean harder into the founder story (Adam's personal problem: dehydration despite gallon/day, joint wear from multi-sport, UV stress).",
-      "recommendation": "Script is passable but could be stronger. Not a blocker. Consider tightening to: 'I surf, lift, play soccer. I was drinking a gallon a day and still felt dehydrated. Joints grinding. That's why I built FORM.' More founder-specific, higher credibility."
-    },
-    {
-      "severity": "MEDIUM",
-      "category": "Writer — Cold Email CAN-SPAM Compliance",
-      "issue": "Email template includes 'formcoastal.com | @formcoastal' footer but does NOT include a physical business address (required under CAN-SPAM for promotional bulk emails). Notes say 'for 1:1 outreach this template is compliant as-is' — this is incorrect. Even 1:1 cold outreach is promotional and requires physical address if sent from a business domain.",
-      "recommendation": "Add footer line: 'FORM (Salt Air Industries LLC) | Oceanside, CA 92054' before @formcoastal. This converts it to full CAN-SPAM compliance. Update template."
-    },
-    {
-      "severity": "MEDIUM",
-      "category": "Writer — Cold Email Health Claims Risk",
-      "issue": "Email includes: 'UV protection,' 'cellular hydration,' 'joint recovery,' 'clean energy support,' 'immune baseline' — all pillar names from the product. While these are structure-function language, they border on health claims in a promotional context. The phrase 'energy support' is safer than 'energy,' but 'UV protection' and 'cellular hydration' are still exposures.",
-      "recommendation": "Soften to lifestyle language: 'built for active guys dealing with sun exposure, hydration, joint wear, energy crashes, and baseline wellness' — reframe as problems Adam personally had, not claims the product makes. Remove 'UV protection' and 'cellular hydration' as product claims; keep as personal problems he solved."
-    },
-    {
+      "item": "scout",
+      "section": "Instructions to Adam",
       "severity": "LOW",
-      "category": "Writer — Tone Check on Cold Email",
-      "issue": "Email is conversational and on-brand (coastal, clean, confident). Slightly long (5 paragraphs), but not egregiously. One small note: 'No proprietary blends' is industry jargon that may not land with gym owners. Consider: 'Transparent ingredient list — nothing hidden.'",
-      "recommendation": "Email is acceptable as-is. Optional polish: replace 'No proprietary blends' with 'Every ingredient listed' for clarity to non-supplement audiences."
-    },
-    {
-      "severity": "INFO",
-      "category": "Finance Output — Missing",
-      "issue": "Director assigned Finance task (API cost logging, month-to-date spend, $20/month cap check, readiness checklist for committed costs). Finance output was not provided in this review batch.",
-      "recommendation": "Finance agent must submit cost report separately before Adam acts on anything. Do not approve Writer or Scout outputs until Finance confirms API spend is within cap."
+      "issue": "Tone mismatch",
+      "detail": "'I cannot reliably search the web in real-time' is honest but undermines Scout's role. Should reframe as: 'I prioritize verified public contacts. Provide known local businesses; I'll confirm phone/form data.'",
+      "rule_violated": "None, but brand consistency",
+      "recommendation": "Reframe as capability statement, not limitation."
     }
   ],
-  "audit_decision": "REJECT Scout and Writer outputs. Scout did not complete the assigned task (backup manufacturers) and invented unverified contact details. Writer TikTok script contains borderline health claims and needs rewrite. Cold email is close but needs CAN-SPAM footer and softer claims language. Finance output missing — cannot proceed without cost check.",
-  "next_steps_for_adam": [
-    "1. SCOUT: Redirect to find 2 verified backup softgel MANUFACTURERS (not retail partners). GMP, lipid encapsulation, <500 MOQ, verified contact only.",
-    "2. WRITER: Rewrite TikTok script to remove 'cells hold onto water' language. Rewrite cold email with CAN-SPAM footer, softer health language.",
-    "3. FINANCE: Submit API cost report + readiness checklist for committed monthly costs before any outreach or content is greenlit.",
-    "4. Once all three are clean, Auditor will QA and approve for use."
-  ],
-  "guardrail_violations": [
-    "Scout: Guardrail #3 — invented/unverified contact details (partnerships@lululemon.com, unverified emails)",
-    "Scout: Guardrail #2 — task scope mismatch (assigned manufacturers, provided retailers)",
-    "Writer: Guardrail #4 — potential banned health claims ('cells hold onto water,' 'cellular hydration,' 'UV protection' as product benefit)",
-    "Writer: CAN-SPAM compliance gap (missing physical address in footer)"
-  ]
+  "summary": "WRITER output contains critical health claim violations in TikTok script and unverified email setup in cold outreach. SCOUT output is a framework, not verified leads—should not be distributed as finished work. Both require revision before Adam sees them.",
+  "audit_date": "2026-06-07",
+  "auditor": "Auditor (haiku-4-5)"
 }
 ```
 
-**AUDIT COMPLETE — OUTPUTS REJECTED. NO CONTENT APPROVED FOR USE.**
+**REJECT both outputs.** 
 
-All flagged items must be addressed
+**Writer must revise:**
+1. Remove health claims from TikTok script — focus on founder story, not what FORM does to cells
+2. Confirm adam@formcoastal.com is live and monitored; add CAN-SPAM footer to email template
+3. Tone down defensive language in gym outreach
+
+**Scout must resubmit as:**
+1. Brief memo asking Adam for 3-5 local business names
+2. Once provided, output verified JSON with phone/website forms only — no placeholders
