@@ -54,6 +54,78 @@ Format: softgel with true lipid encapsulation (required for fat-soluble ingredie
 9. Zinc — testosterone, immune, recovery
 + B12 — energy metabolism (effectively 10th core ingredient)
 
+### Ingredient details
+
+**1. Polypodium Leucotomos Extract**
+- Pillar: UV & Antioxidant Protection
+- Purpose: Protects skin cells from UV damage and oxidative stress from the inside out. Same hero ingredient as Heliocare. Clinically studied for photoprotection.
+- Why it's in FORM: Adam lives in 300 days of San Diego sun. This is the anchor of the UV pillar and the main competitive differentiator vs. every other men's supplement.
+- Substitutes: None — this is non-negotiable. No other oral ingredient has the same photoprotection profile.
+
+**2. Astaxanthin** (natural, from Haematococcus pluvialis algae only)
+- Pillar: UV & Antioxidant Protection
+- Purpose: Most powerful natural antioxidant per molecule — stronger than Vitamin C or E. Supports skin elasticity, moisture retention, eye health, and muscle recovery. Fat-soluble — lipid encapsulation is essential.
+- Why it's in FORM: Doubles up on UV/oxidative protection and bleeds into hydration and recovery pillars.
+- Substitutes: Synthetic astaxanthin is less bioavailable — do not use. If unavailable naturally sourced, escalate to Adam before substituting.
+
+**3. Vitamin C**
+- Pillars: UV & Antioxidant Protection + Immune Support
+- Purpose: Antioxidant, front-line immune defense, collagen synthesis support. Earns its spot across three pillars.
+- Why it's in FORM: Zero-cost addition to any formula, triple pillar coverage.
+- Substitutes: None needed — universally available and inexpensive.
+
+**4. Magnesium**
+- Pillar: Cellular Hydration & Electrolyte Retention
+- Purpose: Most deficient mineral in active men. Electrolyte, energy metabolism, sleep recovery, muscle function. Triple duty.
+- Why it's in FORM: Adam trains hard daily — magnesium depletion through sweat is real. Also supports sleep quality and recovery.
+- Substitutes: Magnesium glycinate or magnesium citrate are preferred forms for bioavailability. Avoid magnesium oxide (poor absorption).
+
+**5. Hyaluronic Acid**
+- Pillar: Cellular Hydration & Electrolyte Retention
+- Purpose: Holds up to 1000x its weight in water at the cellular level. The true hydration retention ingredient — this is what makes the water you drink actually stay.
+- Why it's in FORM: The hero ingredient behind the top marketing hook ("you're drinking a gallon and still waking up dehydrated"). Unique differentiator — almost no men's supplement includes this.
+- Substitutes: None with the same mechanism. Non-negotiable for the hydration story.
+
+**6. Collagen Peptides OR Boswellia**
+- Pillar: Joint & Connective Tissue Recovery
+- Purpose: Collagen supports joint cartilage, skin, and connective tissue repair. Boswellia is an anti-inflammatory that reduces joint pain and supports recovery.
+- Why it's in FORM: Adam surfs, lifts, runs, and plays soccer — daily multi-sport joint stress.
+- Decision rule: Use collagen if manufacturer can hit an effective dose (typically 2.5–5g) in softgel format. If not achievable, use boswellia instead. Do not include both at underdosed amounts.
+- Substitutes: UC-II collagen (undenatured type II) works at lower doses (~40mg) and may be more softgel-friendly than hydrolyzed collagen peptides.
+
+**7. Ashwagandha** (KSM-66 form preferred)
+- Pillar: Energy, Testosterone & Daily Baseline
+- Purpose: Adaptogen — reduces cortisol, supports testosterone levels, improves energy and stress resilience. KSM-66 is the most studied, highest-concentration root extract.
+- Why it's in FORM: Adam runs a demanding sales job + early surf + gym sessions. Clean energy without stimulants.
+- Substitutes: Sensoril is an acceptable alternative (leaf + root extract, also well-studied). Avoid generic ashwagandha with no standardization. KSM-66 is strongly preferred.
+
+**8. Vitamin D3**
+- Pillars: Energy, Testosterone & Daily Baseline + Immune Support
+- Purpose: Most deficient vitamin in active men despite sun exposure. Critical for testosterone production, immune regulation, bone health, and mood.
+- Why it's in FORM: Even in San Diego, most active men are deficient. Non-negotiable.
+- Substitutes: D3 only — D2 is less bioavailable. Pair with K2 (MK-7) if the manufacturer's stock formula includes it, as D3+K2 improves calcium metabolism.
+
+**9. Zinc**
+- Pillars: Energy, Testosterone & Daily Baseline + Immune Support
+- Purpose: Essential for testosterone synthesis, immune cell development, recovery from illness and training stress.
+- Why it's in FORM: Second most common mineral deficiency in active men after magnesium.
+- Substitutes: Zinc bisglycinate or zinc picolinate preferred for absorption. Avoid zinc oxide.
+
+**10. Vitamin B12**
+- Pillar: Energy, Testosterone & Daily Baseline
+- Purpose: Energy metabolism, nervous system support, red blood cell production. Users feel this one.
+- Why it's in FORM: Methylcobalamin form preferred (more bioavailable than cyanocobalamin).
+- Substitutes: Methylcobalamin > adenosylcobalamin > cyanocobalamin. Always specify methylcobalamin to manufacturer.
+
+### Conditional / bonus ingredients (add only if in stock formula at no significant cost increase)
+- **Vitamin E** — complements astaxanthin and Vitamin C in antioxidant pillar
+- **Vitamin B6** — supports B12 in energy metabolism
+- **Selenium** — trace mineral, immune + antioxidant, synergistic with zinc
+- **Quercetin** — anti-inflammatory, enhances Vitamin C absorption
+- **Taurine** — energy and fluid balance support
+- **Boswellia** (if collagen is already in) — secondary joint support
+- **Coconut water powder** — good marketing story, only include if meaningful dose is achievable in softgel
+
 Key manufacturer questions: lipid encapsulation available? MOQ at 250/500? GMP + COA? Natural astaxanthin sourced? Collagen dose achievable in softgel?
 
 ## Manufacturers contacted
