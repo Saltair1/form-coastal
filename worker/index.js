@@ -21,14 +21,9 @@ export default {
     const { text } = body;
     if (!text?.trim()) return json({ error: "No text provided" }, 400);
 
-    // 1. Ask Claude to parse the update into structured changes
     const parseRes = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-api-key": env.ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-      },
+      headers: { "Content-Type": "application/json", "x-api-key": env.ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01" },
       body: JSON.stringify({
         model: "claude-haiku-4-5-20251001",
         max_tokens: 1024,
@@ -53,7 +48,24 @@ Return ONLY valid JSON in this shape (omit keys you don't need to change):
   }
 }
 
-If nothing clearly maps to these fields, return: { "summary": "noted but no data to update", "status_updates": {}, "economics_updates": {} }`,
+Milestone list — use the closest matching task text:
+- "Rename TikTok + Instagram to @formcoastal"
+- "Purchase formcoastal.com"
+- "Get EIN for Salt Air Industries LLC"
+- "Open Mercury business bank account"
+- "Receive manufacturer quotes"
+- "Post first TikTok as FORM"
+- "Sign up for Helium 10, run Cerebro on Heliocare B0DLLHVQP1"
+- "Lock formula with manufacturer"
+- "Design label in Canva Pro"
+- "Place first inventory order (250-500 units)"
+- "Open Amazon Professional Seller account"
+- "Open Shopify"
+- "Build Amazon listing and launch"
+
+Be aggressive about matching — "Mercury account", "bank account", "opened Mercury" all match "Open Mercury business bank account". "got my EIN" matches "Get EIN for Salt Air Industries LLC".
+
+If nothing maps, return: { "summary": "noted but no data to update", "status_updates": {}, "economics_updates": {} }`,
         messages: [{ role: "user", content: text }],
       }),
     });
@@ -69,7 +81,6 @@ If nothing clearly maps to these fields, return: { "summary": "noted but no data
       return json({ error: "Could not parse Claude response", raw: parsed }, 500);
     }
 
-    // 2. Fetch current data files from GitHub
     const [statusFile, economicsFile] = await Promise.all([
       ghGet(env, "data/status.json"),
       ghGet(env, "data/economics.json"),
@@ -78,25 +89,31 @@ If nothing clearly maps to these fields, return: { "summary": "noted but no data
     let status = JSON.parse(atob(statusFile.content));
     let economics = JSON.parse(atob(economicsFile.content));
 
-    // 3. Apply updates
     if (updates.status_updates?.manufacturers) {
       for (const mu of updates.status_updates.manufacturers) {
         const m = status.manufacturers?.find(x => x.name.toLowerCase().includes(mu.name.toLowerCase()));
         if (m) { if (mu.status) m.status = mu.status; if (mu.notes) m.notes = mu.notes; }
       }
     }
+
     if (updates.status_updates?.milestones) {
       for (const mu of updates.status_updates.milestones) {
-        const m = status.milestones?.find(x => x.task.toLowerCase().includes(mu.task.toLowerCase()));
+        const needle = mu.task.toLowerCase();
+        const words = needle.split(/\s+/).filter(w => w.length > 3);
+        const m = status.milestones?.find(x => {
+          const hay = x.task.toLowerCase();
+          return hay.includes(needle) || words.filter(w => hay.includes(w)).length >= 2;
+        });
         if (m) { if (mu.status) m.status = mu.status; if (mu.date) m.date = mu.date; }
       }
     }
+
     if (updates.economics_updates) {
       Object.assign(economics, updates.economics_updates);
     }
+
     status.last_updated = new Date().toISOString().slice(0, 10);
 
-    // 4. Commit both files back to GitHub
     await Promise.all([
       ghPut(env, "data/status.json", statusFile.sha, JSON.stringify(status, null, 2), `update: ${updates.summary}`),
       ghPut(env, "data/economics.json", economicsFile.sha, JSON.stringify(economics, null, 2), `update: ${updates.summary}`),
