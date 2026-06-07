@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/adam -name \"CLAUDE.md\" 2>/dev/null | head -10 && find /Users/adam -name \"form-coastal\" -type d 2>/dev/null | head -5)",
+      "Bash(node scripts/build-dashboard.js)",
+      "Bash(git add *)"
+    ]
+  }
+}

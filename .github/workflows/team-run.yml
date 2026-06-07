@@ -2,105 +2,74 @@ name: Daily Team Run
 
 on:
   schedule:
-    # Primary run: 8 AM PT
-    - cron: "0 15 * * *"
-    # Backstop 1: 9 AM PT (in case primary is flaky)
-    - cron: "0 16 * * *"
-    # Backstop 2: 10 AM PT
-    - cron: "0 17 * * *"
-  workflow_dispatch:  # allow manual trigger
+    - cron: "0 15 * * *"   # 8am PT primary
+    - cron: "0 16 * * *"   # 9am PT backstop
+    - cron: "0 17 * * *"   # 10am PT backstop
+  workflow_dispatch:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   guard:
-    name: Once-per-day guard
     runs-on: ubuntu-latest
     outputs:
       should_run: ${{ steps.check.outputs.should_run }}
     steps:
       - uses: actions/checkout@v4
-      - name: Check if already ran today
-        id: check
+      - id: check
         run: |
           TODAY=$(date +%Y-%m-%d)
-          if [ -f "output/director-${TODAY}.txt" ]; then
+          if [ -f "output/director-${TODAY}.txt" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
             echo "Already ran today — skipping."
             echo "should_run=false" >> $GITHUB_OUTPUT
           else
             echo "should_run=true" >> $GITHUB_OUTPUT
           fi
 
-  team-run:
-    name: Run AI Team
+  run:
     needs: guard
-    if: needs.guard.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
+    if: needs.guard.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Create output directory
-        run: mkdir -p output
+      - run: mkdir -p output
 
-      - name: Run Finance (check spend cap first)
+      - name: Finance (check cap first)
         run: node scripts/run-agent.js finance
 
-      - name: Check for TEAM_PAUSED
+      - name: Check spend cap
         run: |
           if [ -f "output/TEAM_PAUSED.txt" ]; then
-            echo "Team is paused — budget cap hit."
             cat output/TEAM_PAUSED.txt
             exit 1
           fi
 
-      - name: Run Director (assign tasks)
+      - name: Director
         run: node scripts/run-agent.js director
 
-      - name: Run Scout
+      - name: Scout
         run: node scripts/run-agent.js scout
 
-      - name: Run Writer
+      - name: Writer
         run: node scripts/run-agent.js writer
 
-      - name: Run Auditor (QA all outputs)
+      - name: Auditor
         run: node scripts/run-agent.js auditor
 
       - name: Build dashboard
         run: node scripts/build-dashboard.js
 
-      - name: Commit outputs directly to main
+      - name: Commit to main
         run: |
           git config user.name "Form Coastal Bot"
           git config user.email "bot@formcoastal.com"
-          git checkout main
-          git add output/ data/spend.json dashboard.html
+          git add output/ data/spend.json index.html
           git diff --staged --quiet || git commit -m "chore: daily team run $(date +%Y-%m-%d)"
           git push origin main
-
-      - name: Send digest email
-        if: ${{ vars.ENABLE_DIGEST == 'true' }}
-        env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
-        run: |
-          TODAY=$(date +%Y-%m-%d)
-          WRITER_OUT=$(cat output/writer-${TODAY}.txt 2>/dev/null | head -50 || echo "No copy today.")
-          AUDIT_OUT=$(cat output/auditor-${TODAY}.txt 2>/dev/null || echo "No audit today.")
-          curl -s --request POST \
-            --url https://api.sendgrid.com/v3/mail/send \
-            --header "Authorization: Bearer ${SENDGRID_API_KEY}" \
-            --header "Content-Type: application/json" \
-            --data "{
-              \"personalizations\": [{\"to\": [{\"email\": \"${DIGEST_EMAIL}\"}]}],
-              \"from\": {\"email\": \"digest@formcoastal.com\", \"name\": \"Form Coastal Bot\"},
-              \"subject\": \"Form Coastal Daily Digest — ${TODAY}\",
-              \"content\": [{\"type\": \"text/plain\", \"value\": \"COPY DRAFTS:\\n${WRITER_OUT}\\n\\nAUDIT:\\n${AUDIT_OUT}\"}]
-            }"
