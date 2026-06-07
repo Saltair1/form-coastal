@@ -36,7 +36,7 @@ jobs:
   team-run:
     name: Run AI Team
     needs: guard
-    if: needs.guard.outputs.should_run == 'true'
+    if: needs.guard.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
