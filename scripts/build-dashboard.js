@@ -122,34 +122,27 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
 
   <div>
     <div class="section-label">Today's Agent Outputs</div>
-    <div style="display:flex;flex-direction:column;gap:16px;">
-
+    <div class="two">
       <div class="card">
         <div class="card-label">🎯 Director</div>
         <div class="output">${esc(directorOut) || "No output yet."}</div>
       </div>
-
       <div class="card">
         <div class="card-label">✍️ Writer</div>
         <div class="output">${esc(writerOut) || "No output yet."}</div>
       </div>
-
-      <div class="two">
-        <div class="card">
-          <div class="card-label">🔍 Scout</div>
-          <div class="output">${esc(scoutOut) || "No output yet."}</div>
-        </div>
-        <div class="card">
-          <div class="card-label">💰 Finance</div>
-          <div class="output">${esc(financeOut) || "No output yet."}</div>
-        </div>
+      <div class="card">
+        <div class="card-label">🔍 Scout</div>
+        <div class="output">${esc(scoutOut) || "No output yet."}</div>
       </div>
-
+      <div class="card">
+        <div class="card-label">💰 Finance</div>
+        <div class="output">${esc(financeOut) || "No output yet."}</div>
+      </div>
       <div class="card">
         <div class="card-label">🔎 Auditor</div>
         <div class="output">${esc(auditorOut) || "No audit yet."}</div>
       </div>
-
     </div>
   </div>
 
