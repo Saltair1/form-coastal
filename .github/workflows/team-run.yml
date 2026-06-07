@@ -10,6 +10,10 @@ on:
     - cron: "0 17 * * *"
   workflow_dispatch:  # allow manual trigger
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   guard:
     name: Once-per-day guard
