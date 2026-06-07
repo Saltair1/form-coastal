@@ -9,6 +9,10 @@ const fs = require("fs");
 const path = require("path");
 const https = require("https");
 
+function readText(p) {
+  try { return fs.readFileSync(p, "utf8"); } catch { return null; }
+}
+
 const role = process.argv[2];
 if (!role) {
   console.error("Usage: node run-agent.js <role>");
@@ -49,7 +53,16 @@ const prompts = {
   scout: `Today is ${today}. You are the Lead Scout for Form Coastal. Research and identify 5 high-fit B2B prospects (gyms, surf shops, outdoor retailers, sports medicine practices) that would carry or promote a men's outdoor lifestyle supplement. For each, provide: business name, location, why they're a fit, and any publicly verifiable contact info. NEVER invent emails. Output as JSON array to be saved as output/leads-${today}.json.`,
   writer: `Today is ${today}. You are the Copywriter for Form Coastal. Draft the following for today: (1) one TikTok script (30-45 sec, hook + value + CTA, coastal/active tone), (2) one cold outreach email template for B2B gym partnerships (subject + body, human sends). Brand voice: coastal, clean, confident — not bro-y, not clinical. No health claims. Output as markdown.`,
   finance: `Today is ${today}. Review data/spend.json and summarize current month's API spend. Current data: ${JSON.stringify(spendData)}. Economics: ${economics}. If spend is within cap, output a brief status. If at or over cap, output a PAUSE directive. Format as JSON: { "month_spend_usd": X, "cap_usd": 20, "status": "ok|paused", "note": "..." }`,
-  auditor: `Today is ${today}. You are the Auditor for Form Coastal. Review today's outputs in the output/ directory for: accuracy (no invented facts), brand voice (coastal/clean/confident), no banned health claims, no invented contacts, CAN-SPAM compliance. Output JSON: { "passed": true/false, "items_reviewed": [...], "flags": [...] }`,
+  auditor: `Today is ${today}. You are the Auditor for Form Coastal. Review the outputs below for: accuracy (no invented facts), brand voice (coastal/clean/confident), no banned health claims, no invented contacts, CAN-SPAM compliance. Output JSON only: { "passed": true/false, "items_reviewed": [...], "flags": [...] }
+
+--- DIRECTOR OUTPUT ---
+${readText(path.join(__dirname, `../output/director-${today}.txt`)) || "none"}
+
+--- SCOUT OUTPUT ---
+${readText(path.join(__dirname, `../output/scout-${today}.txt`)) || "none"}
+
+--- WRITER OUTPUT ---
+${readText(path.join(__dirname, `../output/writer-${today}.txt`)) || "none"}`,
 };
 
 const userPrompt = prompts[role];
