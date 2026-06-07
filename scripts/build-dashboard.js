@@ -236,39 +236,52 @@ const html = `<!DOCTYPE html>
     </div>
   </div>
 
-  <!-- Today's To-Do + Copy -->
+  <!-- Agent Outputs -->
+  <div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);">Today's Agent Outputs</div>
+
+  <div class="card-full">
+    <div class="card-label">🎯 Director — Task Assignments</div>
+    <div class="copy-block">${esc(directorRaw) || "No output yet."}</div>
+  </div>
+
+  <div class="card-full">
+    <div class="card-label">✍️ Writer — Copy Drafts</div>
+    <div class="copy-block">${esc(copy)}</div>
+  </div>
+
   <div class="two-col">
     <div class="card">
-      <div class="card-label">Today's Agent Tasks</div>
-      ${taskHTML}
+      <div class="card-label">🔍 Scout — Leads (${leads.length})</div>
+      ${leads.length ? leadsHTML : `<div class="copy-block">${esc(scoutRaw) || "No output yet."}</div>`}
     </div>
     <div class="card">
-      <div class="card-label">Copy Drafts — Ready to Use</div>
-      <div class="copy-block">${esc(copy)}</div>
+      <div class="card-label">💰 Finance — Spend Report</div>
+      <div class="copy-block">${esc(financeRaw) || "No output yet."}</div>
     </div>
   </div>
 
-  <!-- Leads + Spend -->
-  <div class="two-col">
-    <div class="card">
-      <div class="card-label">Today's Leads (${leads.length})</div>
-      ${leadsHTML}
-    </div>
-    <div class="card">
-      <div class="card-label">Recent Agent Runs</div>
+  <div class="card-full">
+    <div class="card-label">🔎 Auditor — QA Report</div>
+    <div class="copy-block">${esc(auditorRaw) || "No audit report yet."}</div>
+  </div>
+
+  <!-- Spend table -->
+  <div class="card-full">
+    <div class="card-label">Recent Agent Runs</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;margin-bottom:14px;">
       ${recentRuns.length
         ? recentRuns.map(r => `
-          <div class="spend-row">
-            <span class="spend-role">${r.role}</span>
-            <span style="color:var(--text-dim)">${r.model?.split("-")[1] || r.model}</span>
-            <span>$${(r.cost_usd||0).toFixed(4)}</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">${r.role}</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">${r.model?.split("-")[1] || r.model}</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$${(r.cost_usd||0).toFixed(4)}</div>
           </div>`).join("")
         : '<div style="font-size:13px;color:var(--text-dim)">No runs logged yet.</div>'
       }
-      <div style="margin-top:14px;padding-top:12px;border-top:1px solid var(--border);display:flex;justify-content:space-between;font-size:12px;">
-        <span style="color:var(--text-dim)">Month total</span>
-        <span style="color:${spendColor};font-weight:700">$${monthSpend.toFixed(3)} / $${spend.monthly_cap_usd}</span>
-      </div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:13px;padding-top:12px;border-top:1px solid var(--border);">
+      <span style="color:var(--text-dim)">Month total</span>
+      <span style="color:${spendColor};font-weight:700">$${monthSpend.toFixed(3)} / $${spend.monthly_cap_usd}</span>
     </div>
   </div>
 

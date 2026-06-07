@@ -151,31 +151,22 @@
     </div>
   </div>
 
-  <!-- Today's To-Do + Copy -->
-  <div class="two-col">
-    <div class="card">
-      <div class="card-label">Today's Agent Tasks</div>
-      
-      <div class="todo-item">
-        <div class="todo-role">Scout</div>
-        <div class="todo-text">Research and compile a verified list of 5-8 contract supplement manufacturers/co-packers (US-based, softgel-capable, low MOQ friendly for first inventory run) toward G1. Include only verified company names, public websites, and publicly-listed contact emails/forms — never invent contact details. Note MOQ, softgel capability, and whether they can hit our &lt;$8/unit COGS target. Output as a draft sheet; do NOT contact anyone.</div>
-      </div>
-      <div class="todo-item">
-        <div class="todo-role">Writer</div>
-        <div class="todo-text">Draft (do not send) a manufacturer outreach email template for Adam to use when contacting co-packers about a first inventory order — coastal/clean brand voice, requesting MOQ, per-unit pricing, lead time, and softgel formulation capability for our 5-pillar men's supplement. No health/medical claims. Reference the v5 Master Brand Document for product framing. Mark clearly as DRAFT for Adam to send.</div>
-      </div>
-      <div class="todo-item">
-        <div class="todo-role">Finance</div>
-        <div class="todo-text">Calculate and log today's API cost per run across all agents and the month-to-date total against the $20/month cap. Flag if we are above 50% utilization and project end-of-month spend. Pause the team only if the cap is exceeded. Output a short cost summary.</div>
-      </div>
-      <div class="todo-item">
-        <div class="todo-role">Auditor</div>
-        <div class="todo-text">QA Scout's manufacturer list and Writer's outreach draft before they reach Adam: verify no fabricated contact details, no banned medical/health claims, on-brand voice, and that economics references align with data/economics.json (COGS &lt;$8, target margin &gt;40%). Flag anything out-of-scope or that touches storefront/prices/main directly.</div>
-      </div>
-    </div>
-    <div class="card">
-      <div class="card-label">Copy Drafts — Ready to Use</div>
-      <div class="copy-block"># Form Coastal Copy Drafts — 2026-06-07
+  <!-- Agent Outputs -->
+  <div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);">Today's Agent Outputs</div>
+
+  <div class="card-full">
+    <div class="card-label">🎯 Director — Task Assignments</div>
+    <div class="copy-block">{
+  "scout": "Research and compile a verified list of 5-8 contract supplement manufacturers/co-packers (US-based, softgel-capable, low MOQ friendly for first inventory run) toward G1. Include only verified company names, public websites, and publicly-listed contact emails/forms — never invent contact details. Note MOQ, softgel capability, and whether they can hit our &lt;$8/unit COGS target. Output as a draft sheet; do NOT contact anyone.",
+  "writer": "Draft (do not send) a manufacturer outreach email template for Adam to use when contacting co-packers about a first inventory order — coastal/clean brand voice, requesting MOQ, per-unit pricing, lead time, and softgel formulation capability for our 5-pillar men's supplement. No health/medical claims. Reference the v5 Master Brand Document for product framing. Mark clearly as DRAFT for Adam to send.",
+  "finance": "Calculate and log today's API cost per run across all agents and the month-to-date total against the $20/month cap. Flag if we are above 50% utilization and project end-of-month spend. Pause the team only if the cap is exceeded. Output a short cost summary.",
+  "auditor": "QA Scout's manufacturer list and Writer's outreach draft before they reach Adam: verify no fabricated contact details, no banned medical/health claims, on-brand voice, and that economics references align with data/economics.json (COGS &lt;$8, target margin &gt;40%). Flag anything out-of-scope or that touches storefront/prices/main directly."
+}</div>
+  </div>
+
+  <div class="card-full">
+    <div class="card-label">✍️ Writer — Copy Drafts</div>
+    <div class="copy-block"># Form Coastal Copy Drafts — 2026-06-07
 
 ---
 
@@ -264,13 +255,11 @@ Founder, Form Coastal
 ---
 
 *Drafted by Writer (claude-sonnet-4-6) · 2026-06-07 · Pending Auditor QA + Adam review before use*</div>
-    </div>
   </div>
 
-  <!-- Leads + Spend -->
   <div class="two-col">
     <div class="card">
-      <div class="card-label">Today's Leads (1)</div>
+      <div class="card-label">🔍 Scout — Leads (1)</div>
       
       <div class="lead-item">
         <div class="lead-name">[Verified Name]</div>
@@ -278,37 +267,92 @@ Founder, Form Coastal
       </div>
     </div>
     <div class="card">
-      <div class="card-label">Recent Agent Runs</div>
+      <div class="card-label">💰 Finance — Spend Report</div>
+      <div class="copy-block">```json
+{
+  "month_spend_usd": 0.00,
+  "cap_usd": 20,
+  "status": "ok",
+  "note": "June 2026 spend is $0.00 (no runs recorded yet). Team is operational and within budget. Monitor API calls as agent tasks begin."
+}
+```
+
+**Summary:**
+- **Current month (June 2026):** $0.00 spent
+- **Monthly cap:** $20.00
+- **Headroom:** $20.00 available
+- **Action:** Team may proceed with scheduled tasks. Finance will log each run's cost to `data/spend.json` and alert if cumulative spend approaches or exceeds $20.
+
+No PAUSE file written. ✓</div>
+    </div>
+  </div>
+
+  <div class="card-full">
+    <div class="card-label">🔎 Auditor — QA Report</div>
+    <div class="copy-block"># Auditor Review — 2026-06-07
+
+I'm ready to audit today's outputs. However, I don't see an `output/` directory or files in the context provided. 
+
+To complete the audit, I need you to either:
+
+1. **Paste the output files** (e.g., `output/audit-2026-06-07.json`, digest drafts, outreach templates, TikTok scripts, Amazon copy) directly into this message, or
+2. **Describe what was generated today** so I can simulate the audit based on Form Coastal's guardrails.
+
+Once I have the artifacts, I'll check each one against:
+
+- ✅ **Accuracy** — no invented facts (no fake contact details, no false product claims)
+- ✅ **Brand voice** — coastal, clean, confident (no clinical tone, no bro-ish hype)
+- ✅ **Health claims** — no banned medical/therapeutic language (e.g., "cures," "treats," "prevents disease")
+- ✅ **Contacts** — verified only (no cold-emailed fake emails)
+- ✅ **CAN-SPAM** — unsubscribe/identity/opt-out compliant
+
+And output:
+```json
+{
+  "date": "2026-06-07",
+  "passed": true/false,
+  "items_reviewed": [...],
+  "flags": [...]
+}
+```
+
+**What did the team produce today?** Share the files and I'll audit immediately.</div>
+  </div>
+
+  <!-- Spend table -->
+  <div class="card-full">
+    <div class="card-label">Recent Agent Runs</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;margin-bottom:14px;">
       
-          <div class="spend-row">
-            <span class="spend-role">auditor</span>
-            <span style="color:var(--text-dim)">haiku</span>
-            <span>$0.0007</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">auditor</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">haiku</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$0.0007</div>
           </div>
-          <div class="spend-row">
-            <span class="spend-role">writer</span>
-            <span style="color:var(--text-dim)">sonnet</span>
-            <span>$0.0174</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">writer</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">sonnet</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$0.0174</div>
           </div>
-          <div class="spend-row">
-            <span class="spend-role">scout</span>
-            <span style="color:var(--text-dim)">haiku</span>
-            <span>$0.0008</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">scout</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">haiku</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$0.0008</div>
           </div>
-          <div class="spend-row">
-            <span class="spend-role">director</span>
-            <span style="color:var(--text-dim)">opus</span>
-            <span>$0.0649</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">director</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">opus</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$0.0649</div>
           </div>
-          <div class="spend-row">
-            <span class="spend-role">finance</span>
-            <span style="color:var(--text-dim)">haiku</span>
-            <span>$0.0006</span>
+          <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;">
+            <div style="font-size:12px;font-weight:700;color:var(--blue)">finance</div>
+            <div style="font-size:11px;color:var(--text-dim);margin-top:2px">haiku</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-top:6px">$0.0006</div>
           </div>
-      <div style="margin-top:14px;padding-top:12px;border-top:1px solid var(--border);display:flex;justify-content:space-between;font-size:12px;">
-        <span style="color:var(--text-dim)">Month total</span>
-        <span style="color:#2ecc71;font-weight:700">$0.084 / $20</span>
-      </div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:13px;padding-top:12px;border-top:1px solid var(--border);">
+      <span style="color:var(--text-dim)">Month total</span>
+      <span style="color:#2ecc71;font-weight:700">$0.084 / $20</span>
     </div>
   </div>
 
@@ -475,7 +519,7 @@ And output:
 
 </div>
 
-<div class="footer">Last built: 2026-06-07T22:17:44.735Z · saltair1.github.io/form-coastal</div>
+<div class="footer">Last built: 2026-06-07T22:22:22.395Z · saltair1.github.io/form-coastal</div>
 
 </body>
 </html>
