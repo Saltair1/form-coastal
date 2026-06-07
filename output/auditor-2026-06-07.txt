@@ -1,28 +1,70 @@
-# Auditor Review — 2026-06-07
-
-I'm ready to audit today's outputs. However, I don't see an `output/` directory or files in the context provided. 
-
-To complete the audit, I need you to either:
-
-1. **Paste the output files** (e.g., `output/audit-2026-06-07.json`, digest drafts, outreach templates, TikTok scripts, Amazon copy) directly into this message, or
-2. **Describe what was generated today** so I can simulate the audit based on Form Coastal's guardrails.
-
-Once I have the artifacts, I'll check each one against:
-
-- ✅ **Accuracy** — no invented facts (no fake contact details, no false product claims)
-- ✅ **Brand voice** — coastal, clean, confident (no clinical tone, no bro-ish hype)
-- ✅ **Health claims** — no banned medical/therapeutic language (e.g., "cures," "treats," "prevents disease")
-- ✅ **Contacts** — verified only (no cold-emailed fake emails)
-- ✅ **CAN-SPAM** — unsubscribe/identity/opt-out compliant
-
-And output:
 ```json
 {
-  "date": "2026-06-07",
-  "passed": true/false,
-  "items_reviewed": [...],
-  "flags": [...]
+  "passed": false,
+  "items_reviewed": [
+    "Director task assignment (Scout, Writer, Finance, Auditor)",
+    "Scout output: 5 B2B leads with verified contacts",
+    "Writer output: TikTok script + B2B cold email draft"
+  ],
+  "flags": [
+    {
+      "severity": "CRITICAL",
+      "item": "Scout output — invented contact details",
+      "issue": "Email addresses listed as 'Not publicly listed' or 'via website form' are acceptable, BUT the Scout has included phone numbers and addresses without explicit verification source. Phone numbers like (760) 433-3944 for Wahoo's and (858) 452-9642 for Equinox must be cited from verified public sources (Yellow Pages, Google Business, official website). No source attribution provided.",
+      "fix": "Add verification source (e.g., 'Phone verified via Google Business profile 2026-06-07' or 'From official website contact page') for every phone number. If not verified in last 48 hours, mark as 'unverified — recommend Adam confirm before outreach.'"
+    },
+    {
+      "severity": "CRITICAL",
+      "item": "Writer output — health claim violation (banned)",
+      "issue": "TikTok script contains: 'hyaluronic acid holds 1,000 times its weight in water' — this is a structure/function claim about retention and hydration that crosses into unsubstantiated health claim territory for a dietary supplement. Additionally, 'covers what active guys actually deal with daily' implies disease or condition treatment (oxidative stress, joint wear), which is banned without clinical evidence.",
+      "fix": "Revise to: 'hyaluronic acid is a compound that supports cellular hydration retention' (remove the 1,000x claim — it's not substantiated on the label). Change 'covers what active guys actually deal with daily' to 'supports the five areas active guys focus on: UV defense, hydration, joint support, clean energy, and immune baseline' — these are pillar-based, not health-claim based. Remove 'that's just Tuesday' if it implies suffering from a condition."
+    },
+    {
+      "severity": "HIGH",
+      "item": "Writer output — product naming inconsistency",
+      "issue": "TikTok script says 'It's called FORM' (correct) but email draft refers to 'FORM — a daily softgel' without the brand handle. Should clarify: product = FORM (one word), brand = Form Coastal. Email is missing the distinction.",
+      "fix": "In email body, revise to: 'I'm Adam, founder of FORM — sold under Form Coastal.' Ensures clarity for outreach recipients."
+    },
+    {
+      "severity": "MEDIUM",
+      "item": "Writer output — CAN-SPAM compliance (email draft)",
+      "issue": "Cold outreach email template lacks required CAN-SPAM elements: no unsubscribe/opt-out path mentioned, no physical address for Salt Air Industries LLC. For B2B cold email, best practice is to include: 'If you'd prefer not to hear from us again, just let me know.' and a business address.",
+      "fix": "Add footer: 'If you'd prefer not to receive future outreach, just reply with 'stop.' | Salt Air Industries LLC, Oceanside, CA.' Ensures CAN-SPAM readiness."
+    },
+    {
+      "severity": "MEDIUM",
+      "item": "Scout output — contact method guidance incomplete",
+      "issue": "Scout lists 'contact_method' as 'PHONE FIRST' or 'PHONE or WEBSITE' but does not clarify whether these are verified working numbers or research-stage contacts. Guardrail #3 requires verified contacts only; ambiguity violates that.",
+      "fix": "Add explicit column: 'verified_date: 2026-06-07' or 'verification_status: PENDING — recommend Adam confirm before outreach.' This flags to Adam that phone numbers need live confirmation before use."
+    },
+    {
+      "severity": "MEDIUM",
+      "item": "Writer output — TikTok timing and guardrail compliance",
+      "issue": "Script says 'Launching on Amazon this summer' — but G1 (open Mercury, get EIN, receive manufacturer quotes) is still in progress. Claiming 'launching this summer' is premature and could set false expectations. Also, guardrail #8 requires Adam to manually merge changes to workflows; this TikTok should be Adam's decision, not auto-published.",
+      "fix": "Revise to: 'Coming to Amazon soon' or remove timeline entirely. Script is DRAFT ONLY for Adam's review — Writer correctly flagged it as such, but the timing claim should still be softened."
+    },
+    {
+      "severity": "LOW",
+      "item": "Scout output — brand voice tone in narrative",
+      "issue": "Scout narrative voice is corporate/analytical (e.g., 'Regional manager escalation available') rather than coastal/clean/confident. This is metadata, not customer-facing, so lower severity — but sets tone for Adam's future outreach.",
+      "fix": "Optional: use more active voice aligned with FORM's brand in the 'why_fit' and 'notes' fields (e.g., 'Real athletes, real results' instead of 'Practitioner endorsement + patient samples + clinical loop')."
+    }
+  ],
+  "audit_decision": "REJECT — DO NOT SEND TO ADAM",
+  "reason": "Critical health claim violation in Writer TikTok script (banned substantiation) + incomplete contact verification in Scout output (violates guardrail #3). Both must be revised before use.",
+  "next_steps": [
+    "1. Writer: Remove/revise health claims in TikTok script per CRITICAL flag above. Resubmit.",
+    "2. Scout: Add verification source and date for every phone number. Mark unverified contacts explicitly. Resubmit.",
+    "3. Auditor: Re-review revised outputs before they reach Adam.",
+    "4. Finance: Log this audit delay — no additional API cost incurred by Auditor, but workflow blocked until Writer/Scout resubmit."
+  ],
+  "audit_timestamp": "2026-06-07T14:32:00Z",
+  "auditor_role": "claude-haiku-4-5-20251001"
 }
 ```
 
-**What did the team produce today?** Share the files and I'll audit immediately.
+**SUMMARY FOR DIRECTOR:**
+
+Writer's TikTok script contains **banned health claims** ("hyaluronic acid holds 1,000x weight in water" + "covers what active guys deal with daily" = condition treatment implication). Scout's B2B leads are solid, but **phone numbers lack verification source** — guardrail #3 (verified contacts only) not met.
+
+**Action:** Return both to Writer and Scout for revision. Resubmit before Adam sees. No delivery to Digest until fixed.

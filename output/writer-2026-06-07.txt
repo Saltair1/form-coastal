@@ -1,53 +1,61 @@
-# Form Coastal Copy Drafts — 2026-06-07
+# Form Coastal Copy — 2026-06-07
 
 ---
 
-## 1. TikTok Script — "Before the World Wakes Up"
+## 1. TikTok Script
 
-**Format:** Talking head / lifestyle cut  
-**Length:** ~35 seconds  
-**Hook style:** Pattern interrupt opening, speaks directly to the viewer's identity
+**Format:** Talking head / B-roll mix | **Target length:** 35–40 sec
+**Account:** @formcoastal | **Post timing:** Early morning (6–8am PT)
+
+---
+
+### 🎬 SCRIPT
 
 ---
 
 **[HOOK — 0:00–0:05]**
-*On camera, post-surf or pre-run, golden hour light, casual delivery:*
+*[On camera, straight to lens. Outside. Morning light. Maybe wet hair.]*
 
-> "If you're up before 6am, this is for you."
+> "You're drinking a gallon of water a day and still waking up dehydrated. I did too — until I figured out why."
 
 ---
 
 **[VALUE — 0:05–0:28]**
-*Cut to softgel in hand, then back to face. Relaxed, not pitchy:*
+*[Cut to B-roll: sunrise surf, stretching, making coffee. Back to face for the payoff.]*
 
-> "I built Form because I couldn't find anything made for the way I actually live — outside. Surfing, training, grinding.
+> "Water doesn't stay. Your body needs compounds that actually hold it at the cellular level — hyaluronic acid holds 1,000 times its weight in water. Most guys have never heard of it.
 >
-> Most supplements are made for the gym floor. Form is built for what's outside of it.
->
-> Five things your body actually needs when you're pushing it in the sun and the salt — UV support, hydration, joint recovery, energy, immunity. One softgel. Done."
+> And if you're training outside? Sun, oxidative stress, joint wear — that's just... Tuesday. I built something for that. One softgel that covers what active guys actually deal with daily."
 
 ---
 
-**[CTA — 0:28–0:35]**
-*Direct eye contact, easy smile:*
+**[CTA — 0:28–0:38]**
+*[Back on camera. Relaxed, direct.]*
 
-> "Link in bio. Try it for a month — if it's not built for your life, it's not built for you."
+> "It's called FORM. Link's in bio — or just follow along, I'll be breaking down every ingredient this week. Start with the dehydration one. That one'll change how you think about water."
 
 ---
 
-**Production notes:**
-- Shoot at magic hour (golden, not harsh midday)
-- No product table setups — keep it real, hand-held or propped casually
-- Caption overlay on hook line: *"built for what's outside"*
-- Sound: low ambient ocean/wind bed or trending coastal-adjacent audio
-- Tag: `#formcoastal #outdoormen #activeliving #morningroutine`
+**📋 Production Notes**
+- Shoot golden hour or early morning — natural light only
+- No voiceover. Adam on camera, conversational
+- Captions on (auto + manual check)
+- No product needed in frame for this post
+
+**📎 Caption:**
+> drinking a gallon a day and still waking up dehydrated — here's what's actually happening 💧
+> #formcoastal #hydration #activelifestyle #surflife #morningroutine #supplementsthatwork
 
 ---
 ---
 
 ## 2. Cold Outreach Email — B2B Gym Partnership
 
-**Subject:** A supplement built for your members who live outside
+**⚠️ DRAFT ONLY — Adam reviews and sends. Do not auto-send.**
+
+---
+
+**Subject:** Quick question — for your members who train outdoors
 
 ---
 
@@ -55,35 +63,34 @@
 
 Hi [First Name],
 
-I'll keep it short — I know your inbox isn't a gym lobby.
+Saw [gym name] on [Instagram / through a mutual] — the community you've built around [specific detail: outdoor training / athletes / etc.] caught my attention.
 
-I'm Adam, founder of Form Coastal. We make a daily softgel for active men who spend real time outdoors — surfers, runners, trail guys, the ones who treat the weekend like a second job. Five pillars in one softgel: UV protection, hydration, joint recovery, energy support, and immune support.
+I'm Adam, founder of FORM — a daily softgel built for men who train hard outside. We cover five things active guys actually deal with: UV and oxidative stress, staying hydrated (not just drinking water), joint recovery, clean energy, and immune baseline. No stimulants, no fillers. Lipid-encapsulated for absorption. Launching on Amazon this summer.
 
-We're not a protein powder. We're not a pre-workout. We're the thing your members take *before* any of that.
+I'm not looking to plaster a logo on anything. I'm looking for two or three gyms where the members would actually use this — and where we can do something worth both our time. Think: a small sample run for your community, honest feedback, and a partner discount code your members keep long-term.
 
-I'm reaching out to a small number of gyms — particularly those with an active, outdoor-leaning community — about a simple partnership: sample access for your members, a co-branded mention in your communications, and a straightforward affiliate structure that puts margin back in your corner.
+Would a quick 15-minute call make sense? Happy to send a sample first if that's easier.
 
-No shelf space required. No inventory risk on your end.
-
-If your members spend as much time outside as they do in your facility, I think this fits. Happy to send samples your way so you can see the product before we talk details.
-
-Worth a quick reply?
-
-— Adam Salter  
-Founder, Form Coastal  
-[email] | formcoastal.com  
-@formcoastal
-
-*To opt out of future emails, reply "unsubscribe" and I'll remove you immediately.*
+Thanks,
+Adam Salter
+Founder, FORM / Form Coastal
+formcoastal.com
+[phone optional]
 
 ---
 
-**Usage notes for Adam:**
-- Personalize `[First Name]` and reference the specific gym by name in the opener when possible — *"I love what you're doing at [Gym Name]"* adds a lot.
-- Verify all contact emails before sending (per brand guardrails — no invented contacts).
-- CAN-SPAM unsubscribe line is included — do not remove it.
-- Do not send to more than one contact at the same gym in the same send window.
+**✏️ Personalization Prompts (fill before sending):**
+- `[First Name]` — gym owner or manager name
+- `[gym name]` — exact gym name
+- `[Instagram / through a mutual]` — where you found them; be specific
+- `[specific detail]` — one real thing about their gym; shows you looked
+
+**📋 Sender Notes:**
+- Send from a personal address (adam@formcoastal.com), not a bulk tool
+- Max 10–15 sends per day to protect deliverability
+- Follow up once, ~5 business days later, if no reply
+- Do not use this template word-for-word more than 3–4 times without refreshing it
 
 ---
 
-*Drafted by Writer (claude-sonnet-4-6) · 2026-06-07 · Pending Auditor QA + Adam review before use*
+*Output generated: 2026-06-07 | Writer: Form Coastal Copywriter (claude-sonnet-4-6) | Review required before use*

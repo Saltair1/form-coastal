@@ -1,16 +1,8 @@
 ```json
 {
-  "month_spend_usd": 0.00,
+  "month_spend_usd": 0.08,
   "cap_usd": 20,
   "status": "ok",
-  "note": "June 2026 spend is $0.00 (no runs recorded yet). Team is operational and within budget. Monitor API calls as agent tasks begin."
+  "note": "June 2026 spend: $0.08 across 5 API calls (Finance, Director, Scout, Writer, Auditor). Well within $20/month cap. Team cleared to continue operations."
 }
 ```
-
-**Summary:**
-- **Current month (June 2026):** $0.00 spent
-- **Monthly cap:** $20.00
-- **Headroom:** $20.00 available
-- **Action:** Team may proceed with scheduled tasks. Finance will log each run's cost to `data/spend.json` and alert if cumulative spend approaches or exceeds $20.
-
-No PAUSE file written. ✓
