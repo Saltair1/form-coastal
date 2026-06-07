@@ -76,29 +76,14 @@ jobs:
       - name: Build dashboard
         run: node scripts/build-dashboard.js
 
-      - name: Commit outputs
+      - name: Commit outputs directly to main
         run: |
           git config user.name "Form Coastal Bot"
           git config user.email "bot@formcoastal.com"
-          git checkout -b "team-run/$(date +%Y-%m-%d)" 2>/dev/null || git checkout "team-run/$(date +%Y-%m-%d)"
+          git checkout main
           git add output/ data/spend.json dashboard.html
           git diff --staged --quiet || git commit -m "chore: daily team run $(date +%Y-%m-%d)"
-          git push origin "team-run/$(date +%Y-%m-%d)" --force
-
-      - name: Merge outputs to main (updates dashboard)
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          TODAY=$(date +%Y-%m-%d)
-          # Try to create PR, ignore if already exists
-          gh pr create \
-            --title "Daily team run: ${TODAY}" \
-            --body "Automated daily run. Director, Scout, Writer, Finance, Auditor outputs attached. Dashboard rebuilt and published to GitHub Pages." \
-            --base main \
-            --head "team-run/${TODAY}" \
-            --label "automated" 2>/dev/null || true
-          # Auto-merge — this only touches output/, data/spend.json, dashboard.html (never protected files)
-          gh pr merge "team-run/${TODAY}" --merge --admin 2>/dev/null || echo "Nothing to merge"
+          git push origin main
 
       - name: Send digest email
         if: ${{ vars.ENABLE_DIGEST == 'true' }}
