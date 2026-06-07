@@ -94,7 +94,7 @@ jobs:
             --label "automated" 2>/dev/null || echo "PR already exists or no changes"
 
       - name: Send digest email
-        if: ${{ secrets.SENDGRID_API_KEY != '' }}
+        if: ${{ vars.ENABLE_DIGEST == 'true' }}
         env:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
           DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
