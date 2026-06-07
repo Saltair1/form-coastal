@@ -244,28 +244,43 @@ const html = `<!DOCTYPE html>
   <div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);">Today's Agent Outputs</div>
 
   <div class="card-full">
-    <div class="card-label">🎯 Director — Task Assignments</div>
+    <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px;">
+      <div class="card-label" style="margin-bottom:0">🎯 Director</div>
+      ${tasks?.scout ? `<div style="font-size:11px;color:var(--text-dim);font-style:italic;max-width:60%;text-align:right;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">Assigned tasks to all agents</div>` : ""}
+    </div>
     <div class="copy-block">${esc(directorRaw) || "No output yet."}</div>
   </div>
 
   <div class="card-full">
-    <div class="card-label">✍️ Writer — Copy Drafts</div>
+    <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px;">
+      <div class="card-label" style="margin-bottom:0">✍️ Writer</div>
+      ${tasks?.writer ? `<div style="font-size:11px;color:var(--text-dim);font-style:italic;max-width:60%;text-align:right;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${esc(tasks.writer)}</div>` : ""}
+    </div>
     <div class="copy-block">${esc(copy) || "No output yet."}</div>
   </div>
 
   <div class="two-col">
     <div class="card">
-      <div class="card-label">🔍 Scout — Leads (${leads.length})</div>
+      <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px;">
+        <div class="card-label" style="margin-bottom:0">🔍 Scout — ${leads.length} leads</div>
+        ${tasks?.scout ? `<div style="font-size:11px;color:var(--text-dim);font-style:italic;max-width:55%;text-align:right;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${esc(tasks.scout)}</div>` : ""}
+      </div>
       <div class="copy-block">${esc(scoutRaw) || "No output yet."}</div>
     </div>
     <div class="card">
-      <div class="card-label">💰 Finance — Spend Report</div>
+      <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px;">
+        <div class="card-label" style="margin-bottom:0">💰 Finance</div>
+        ${tasks?.finance ? `<div style="font-size:11px;color:var(--text-dim);font-style:italic;max-width:55%;text-align:right;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${esc(tasks.finance)}</div>` : ""}
+      </div>
       <div class="copy-block">${esc(financeRaw) || "No output yet."}</div>
     </div>
   </div>
 
   <div class="card-full">
-    <div class="card-label">🔎 Auditor — QA Report</div>
+    <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px;">
+      <div class="card-label" style="margin-bottom:0">🔎 Auditor</div>
+      ${tasks?.auditor ? `<div style="font-size:11px;color:var(--text-dim);font-style:italic;max-width:60%;text-align:right;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${esc(tasks.auditor)}</div>` : ""}
+    </div>
     <div class="copy-block">${esc(auditorRaw) || "No audit report yet."}</div>
   </div>
 
