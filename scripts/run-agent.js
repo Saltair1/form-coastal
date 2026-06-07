@@ -34,15 +34,94 @@ const outDir = path.join(root, "output");
 if (!fs.existsSync(outDir)) fs.mkdirSync(outDir);
 
 const prompts = {
-  director: `Today is ${today}. You are the Director for Form Coastal. Read CLAUDE.md and assign each worker their single most important task for today toward G1 > G2 > G3. Output ONLY valid JSON with no extra text: { "scout": "task", "writer": "task", "finance": "task", "auditor": "task" }`,
+  director: `Today is ${today}. You are the Director for Form Coastal. Read CLAUDE.md and assign each worker their single most important task for today toward G1 > G2 > G3.
 
-  scout: `Today is ${today}. You are the Lead Scout for Form Coastal. Find 5 high-fit B2B prospects (gyms, surf shops, outdoor retailers, sports medicine practices) that would carry or promote a men's outdoor lifestyle supplement. For each provide: business_name, location, why_fit, contact_method, website, and any publicly verifiable contact info. Never invent emails. Output as a JSON array.`,
+Format your output like this — no JSON, plain readable text:
 
-  writer: `Today is ${today}. You are the Copywriter for Form Coastal. Draft: (1) one TikTok script (30-45 sec, hook + value + CTA, coastal/active tone), (2) one cold outreach email template for B2B gym partnerships. Brand voice: coastal, clean, confident. No health claims. Output as plain text. Mark clearly as DRAFT — Adam reviews and sends.`,
+## Today's Assignments
 
-  finance: `Today is ${today}. Review the spend log below and summarize this month's API usage. Output JSON only: { "month": "${today.slice(0,7)}", "spent_usd": X, "cap_usd": 20, "status": "ok or paused", "note": "one line" }\n\nSpend log: ${JSON.stringify(spendData)}`,
+**Scout:** [task]
 
-  auditor: `Today is ${today}. You are the Auditor for Form Coastal. Review today's outputs below. Check each for: accuracy (no invented facts), brand voice (coastal/clean/confident), no health/medical claims, no invented contacts, CAN-SPAM compliance. Output JSON only: { "passed": true/false, "items_reviewed": ["writer", "scout"], "flags": [] }\n\n--- WRITER OUTPUT ---\n${readFile(path.join(outDir, `writer-${today}.txt`))}\n\n--- SCOUT OUTPUT ---\n${readFile(path.join(outDir, `scout-${today}.txt`))}`,
+**Writer:** [task]
+
+**Finance:** [task]
+
+**Auditor:** [task]
+
+**Director's note:** [one sentence on today's top priority and why]`,
+
+  scout: `Today is ${today}. You are the Lead Scout for Form Coastal. Find 5 high-fit B2B prospects (gyms, surf shops, outdoor retailers, sports medicine practices) for a men's outdoor lifestyle supplement. Never invent emails.
+
+Format as clean readable text:
+
+## B2B Leads — ${today}
+
+**1. [Business Name]**
+Location: [city, state]
+Why they fit: [one sentence]
+Contact: [website or public contact method only]
+Confidence: [High / Medium]
+
+[repeat for each lead]`,
+
+  writer: `Today is ${today}. You are the Copywriter for Form Coastal. Draft the following. Brand voice: coastal, clean, confident — not bro-y, not clinical. No health claims. Adam reviews and sends everything.
+
+## TikTok Script — [Hook Title]
+Format: [talking head / lifestyle / etc]
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+[script]
+
+**[VALUE — 0:05–0:25]**
+[script]
+
+**[CTA — 0:25–0:35]**
+[script]
+
+---
+
+## B2B Outreach Email — DRAFT
+**Subject:** [subject line]
+
+[email body]
+
+— Adam
+Form Coastal`,
+
+  finance: `Today is ${today}. Review the spend log and summarize this month's API usage in plain readable text.
+
+## Finance Report — ${today.slice(0,7)}
+
+**Month spend:** $X.XX of $20.00 cap (X%)
+**Status:** OK / PAUSED
+**Runs this month:** X
+**Note:** [one sentence on trajectory]
+
+Spend log: ${JSON.stringify(spendData)}`,
+
+  auditor: `Today is ${today}. You are the Auditor for Form Coastal. Review today's outputs below and give a clear human-readable report.
+
+## Audit Report — ${today}
+
+**Overall: PASSED / FAILED**
+
+**Writer output:**
+- Brand voice: ✓ or ✗ [note]
+- Health claims: ✓ clean or ✗ [flag]
+- Compliance: ✓ or ✗ [note]
+
+**Scout output:**
+- Contacts verified: ✓ or ✗ [note]
+- No invented emails: ✓ or ✗ [note]
+
+**Flags:** [any issues, or "None"]
+
+--- WRITER OUTPUT ---
+${readFile(path.join(outDir, `writer-${today}.txt`))}
+
+--- SCOUT OUTPUT ---
+${readFile(path.join(outDir, `scout-${today}.txt`))}`,
 };
 
 const body = JSON.stringify({

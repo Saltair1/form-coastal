@@ -9,6 +9,14 @@ const month = today.slice(0, 7);
 function read(p) { try { return fs.readFileSync(p, "utf8"); } catch { return ""; } }
 function readJSON(p) { try { return JSON.parse(fs.readFileSync(p, "utf8")); } catch { return null; } }
 function esc(s) { return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function fmt(s) {
+  if (!s) return '<span style="color:var(--dim)">No output yet.</span>';
+  return esc(s)
+    .replace(/^## (.+)$/gm, '<div class="out-h2">$1</div>')
+    .replace(/^---$/gm, '<hr style="border:none;border-top:1px solid var(--border);margin:10px 0">')
+    .replace(/\*\*(.+?)\*\*/g, '<strong style="color:var(--text)">$1</strong>')
+    .replace(/\n/g, '<br>');
+}
 
 const economics = readJSON(path.join(root, "data/economics.json")) || {};
 const spend = readJSON(path.join(root, "data/spend.json")) || { runs: [], monthly_cap_usd: 20 };
@@ -70,7 +78,8 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
 .prog-fill { height: 100%; border-radius: 3px; }
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px; }
 .card-label { font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--dim); margin-bottom: 14px; }
-.output { font-size: 12px; color: var(--text); line-height: 1.7; white-space: pre-wrap; max-height: 280px; overflow-y: auto; background: var(--surface2); border-radius: 8px; padding: 14px; font-family: inherit; }
+.output { font-size: 12px; color: var(--text); line-height: 1.8; max-height: 280px; overflow-y: auto; background: var(--surface2); border-radius: 8px; padding: 14px; font-family: inherit; }
+  .out-h2 { font-size: 12px; font-weight: 700; color: var(--blue); letter-spacing: 0.5px; margin: 10px 0 6px; }
 .two { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 @media (max-width: 700px) { .two { grid-template-columns: 1fr; } }
 .milestones { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
@@ -125,23 +134,23 @@ header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: fl
     <div class="two">
       <div class="card">
         <div class="card-label">🎯 Director</div>
-        <div class="output">${esc(directorOut) || "No output yet."}</div>
+        <div class="output">${fmt(directorOut)}</div>
       </div>
       <div class="card">
         <div class="card-label">✍️ Writer</div>
-        <div class="output">${esc(writerOut) || "No output yet."}</div>
+        <div class="output">${fmt(writerOut)}</div>
       </div>
       <div class="card">
         <div class="card-label">🔍 Scout</div>
-        <div class="output">${esc(scoutOut) || "No output yet."}</div>
+        <div class="output">${fmt(scoutOut)}</div>
       </div>
       <div class="card">
         <div class="card-label">💰 Finance</div>
-        <div class="output">${esc(financeOut) || "No output yet."}</div>
+        <div class="output">${fmt(financeOut)}</div>
       </div>
       <div class="card">
         <div class="card-label">🔎 Auditor</div>
-        <div class="output">${esc(auditorOut) || "No audit yet."}</div>
+        <div class="output">${fmt(auditorOut)}</div>
       </div>
     </div>
   </div>
