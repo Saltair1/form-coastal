@@ -119,6 +119,13 @@ If nothing maps, return: { "summary": "noted but no data to update", "status_upd
       ghPut(env, "data/economics.json", economicsFile.sha, JSON.stringify(economics, null, 2), `update: ${updates.summary}`),
     ]);
 
+    // Trigger dashboard rebuild via GitHub Actions
+    await fetch(`https://api.github.com/repos/${env.GITHUB_REPO}/actions/workflows/rebuild-dashboard.yml/dispatches`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${env.GITHUB_TOKEN}`, "Content-Type": "application/json", "User-Agent": "form-coastal-worker" },
+      body: JSON.stringify({ ref: "main" }),
+    });
+
     return json({ ok: true, summary: updates.summary }, 200);
   }
 };
