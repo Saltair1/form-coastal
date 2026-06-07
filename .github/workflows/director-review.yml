@@ -1,0 +1,87 @@
+name: Director Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  director-review:
+    name: Director reviews PR
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Get changed files
+        id: changed
+        run: |
+          git diff --name-only origin/main...HEAD > /tmp/changed_files.txt
+          cat /tmp/changed_files.txt
+          echo "files=$(cat /tmp/changed_files.txt | tr '\n' ',')" >> $GITHUB_OUTPUT
+
+      - name: Check for protected files
+        id: protected
+        run: |
+          PROTECTED=false
+          while IFS= read -r file; do
+            if [[ "$file" == "CLAUDE.md" || "$file" == "roles.json" || "$file" == .github/workflows/* ]]; then
+              echo "PROTECTED FILE CHANGED: $file"
+              PROTECTED=true
+            fi
+          done < /tmp/changed_files.txt
+          echo "protected=${PROTECTED}" >> $GITHUB_OUTPUT
+
+      - name: Auto-merge safe PRs
+        if: steps.protected.outputs.protected == 'false'
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          DIFF=$(git diff origin/main...HEAD | head -200)
+          CLAUDE_MD=$(cat CLAUDE.md)
+
+          # Ask Director to review
+          REVIEW=$(node -e "
+            const https = require('https');
+            const body = JSON.stringify({
+              model: 'claude-haiku-4-5-20251001',
+              max_tokens: 512,
+              system: 'You are the Director for Form Coastal. Read CLAUDE.md and review this PR diff. Respond with exactly: APPROVE or REJECT, then a one-sentence reason. APPROVE only if the change is safe, on-brand, and does not violate any hard rules. When in doubt, REJECT.',
+              messages: [{role: 'user', content: 'CLAUDE.md:\n${CLAUDE_MD.replace(/'/g,\"'\")}\n\nPR diff (truncated):\n${DIFF.replace(/'/g,\"'\")}'}]
+            });
+            const opts = {
+              hostname: 'api.anthropic.com', path: '/v1/messages', method: 'POST',
+              headers: {'Content-Type':'application/json','x-api-key':process.env.ANTHROPIC_API_KEY,'anthropic-version':'2023-06-01'}
+            };
+            const req = https.request(opts, res => {
+              let d=''; res.on('data',c=>d+=c); res.on('end',()=>{
+                const r=JSON.parse(d); console.log(r.content?.[0]?.text||'REJECT could not parse response');
+              });
+            });
+            req.on('error',e=>{console.log('REJECT '+e.message)});
+            req.write(body); req.end();
+          ")
+
+          echo "Director decision: $REVIEW"
+
+          if echo "$REVIEW" | grep -q "^APPROVE"; then
+            echo "Director approved — merging PR #${PR_NUMBER}"
+            gh pr merge ${PR_NUMBER} --merge --auto
+          else
+            echo "Director rejected — leaving PR for Adam."
+            gh pr comment ${PR_NUMBER} --body "**Director review:** ${REVIEW} — This PR needs Adam's manual review."
+          fi
+
+      - name: Block auto-merge for protected files
+        if: steps.protected.outputs.protected == 'true'
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          echo "Protected files changed — auto-merge blocked."
+          gh pr comment ${PR_NUMBER} --body "**Director review — BLOCKED:** This PR modifies protected files (CLAUDE.md, roles.json, or workflow files). Adam must review and merge this by hand. The Director cannot auto-merge changes to its own rules."
+          # Do NOT merge. Exit 0 so the workflow doesn't fail, but no merge happens.

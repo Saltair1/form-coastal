@@ -1,0 +1,11 @@
+{
+  "product": "Form Coastal Daily Softgel (5-pillar men's supplement)",
+  "launch_price_usd": 29.99,
+  "post_review_price_usd": 37.99,
+  "review_threshold_for_price_increase": 25,
+  "cogs_target_usd": 8.00,
+  "amazon_fee_estimate_usd": 4.50,
+  "target_margin_pct": 40,
+  "channels": ["Amazon", "Shopify"],
+  "notes": "Shopify not live until inventory ships. Amazon listing pending first inventory order."
+}
