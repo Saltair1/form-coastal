@@ -21,6 +21,7 @@ function esc(s) {
 }
 
 const economics = readJSON(path.join(root, "data/economics.json")) || {};
+const status = readJSON(path.join(root, "data/status.json")) || {};
 const spend = readJSON(path.join(root, "data/spend.json")) || { runs: [], monthly_cap_usd: 20 };
 const copy = readText(path.join(root, `output/writer-${today}.txt`)) || "No copy drafted today.";
 const directorRaw = readText(path.join(root, `output/director-${today}.txt`)) || "";
@@ -269,6 +270,38 @@ const html = `<!DOCTYPE html>
         <span style="color:${spendColor};font-weight:700">$${monthSpend.toFixed(3)} / $${spend.monthly_cap_usd}</span>
       </div>
     </div>
+  </div>
+
+  <!-- Milestones -->
+  <div class="card-full">
+    <div class="card-label">Launch Milestones</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px;margin-top:4px;">
+      ${(status.milestones || []).map(m => `
+        <div style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;background:var(--surface2);border-radius:8px;border:1px solid var(--border);">
+          <span style="font-size:15px;flex-shrink:0">${m.status === "done" ? "✅" : "⬜"}</span>
+          <div>
+            <div style="font-size:13px;color:${m.status === "done" ? "var(--text-dim)" : "var(--text)"};${m.status === "done" ? "text-decoration:line-through" : ""}">${esc(m.task)}</div>
+            ${m.date ? `<div style="font-size:11px;color:var(--text-dim);margin-top:2px">${esc(m.date)}</div>` : ""}
+          </div>
+        </div>`).join("")}
+    </div>
+  </div>
+
+  <!-- Manufacturers -->
+  <div class="two-col">
+    ${(status.manufacturers || []).map(m => `
+      <div class="card">
+        <div class="card-label">Supplier — ${esc(m.name)}</div>
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+          <span class="pill ${m.status === "quote_received" ? "pill-green" : "pill-yellow"}">${esc(m.status.replace(/_/g," "))}</span>
+        </div>
+        <div style="font-size:12px;color:var(--text-dim);line-height:1.7">
+          ${m.email ? `📧 ${esc(m.email)}<br>` : ""}
+          ${m.phone ? `📞 ${esc(m.phone)}<br>` : ""}
+          ${m.website ? `🌐 ${esc(m.website)}<br>` : ""}
+          ${m.notes ? `<div style="margin-top:8px;color:var(--text)">${esc(m.notes)}</div>` : ""}
+        </div>
+      </div>`).join("")}
   </div>
 
   <!-- Audit full output -->

@@ -1,0 +1,46 @@
+{
+  "last_updated": "2026-06-07",
+  "operational_status": {
+    "ein": "pending",
+    "mercury_bank_account": "pending — open at mercury.com under Salt Air Industries LLC EIN",
+    "amazon_seller_account": "pending — open before inventory ships",
+    "shopify": "pending — open the WEEK inventory ships, NOT before",
+    "domain": "purchased — formcoastal.com on Namecheap",
+    "social_handles": "live — @formcoastal on TikTok and Instagram (25k followers)",
+    "first_tiktok_post": "pending — this week, lifestyle content, no product needed"
+  },
+  "manufacturers": [
+    {
+      "name": "Aurinutra (Auri Nutra Inc.)",
+      "email": "info@aurinutra.com",
+      "phone": "(631) 454-0020",
+      "status": "awaiting_quote",
+      "contacted": "2026-06-01",
+      "notes": "Low MOQ specialist, GMP + UL certified, softgels confirmed. Priority supplier.",
+      "priority": 1
+    },
+    {
+      "name": "Innova Nutra",
+      "website": "innovanutra.com",
+      "status": "awaiting_quote",
+      "contacted": "2026-06-01",
+      "notes": "California based, full softgel capability, West Coast logistics advantage.",
+      "priority": 2
+    }
+  ],
+  "milestones": [
+    { "task": "Rename TikTok + Instagram to @formcoastal", "status": "done", "date": "2026-06" },
+    { "task": "Purchase formcoastal.com", "status": "done", "date": "2026-06" },
+    { "task": "Get EIN for Salt Air Industries LLC", "status": "pending" },
+    { "task": "Open Mercury business bank account", "status": "pending" },
+    { "task": "Receive manufacturer quotes", "status": "pending" },
+    { "task": "Post first TikTok as FORM", "status": "pending" },
+    { "task": "Sign up for Helium 10, run Cerebro on Heliocare B0DLLHVQP1", "status": "pending" },
+    { "task": "Lock formula with manufacturer", "status": "pending" },
+    { "task": "Design label in Canva Pro", "status": "pending" },
+    { "task": "Place first inventory order (250-500 units)", "status": "pending" },
+    { "task": "Open Amazon Professional Seller account", "status": "pending" },
+    { "task": "Open Shopify", "status": "pending" },
+    { "task": "Build Amazon listing and launch", "status": "pending" }
+  ]
+}
