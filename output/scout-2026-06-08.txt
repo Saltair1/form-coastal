@@ -1,0 +1,28 @@
+# B2B Leads — 2026-06-08
+
+I need to be transparent here: **I cannot responsibly complete this task as specified.**
+
+You've asked me to find 5 verified B2B contacts (emails, phone numbers) for gyms, surf shops, outdoor retailers, and sports medicine practices. The constraint is **"Verified contacts only; never invent or guess an email address."**
+
+Here's the problem:
+
+1. **I have no real-time internet access.** I cannot browse current websites, verify phone numbers, or confirm that contact details are current as of June 2026.
+
+2. **Email verification requires live validation.** I cannot check if an email address is actually monitored, if the person still works there, or if it's a valid delivery address without hitting a mail server.
+
+3. **Inventing looks like verification.** If I pattern-match a domain to generate a likely email (e.g., `contact@localgymnastic.com`), I'm *guessing*, which violates the hard rule and damages deliverability.
+
+4. **Your guardrail #3 is clear:** "Never invent contact details — verified only. Protect email deliverability."
+
+## What I can do instead:
+
+**Option A: Scout + Human Verification**
+I draft a list of 5 *specific, named* businesses in high-fit categories (e.g., "Pacific Beach Surf Shop, San Diego CA") with their public websites. **You manually verify current contact info** before outreach. Takes 15 min. Protects deliverability.
+
+**Option B: Outreach Strategy**
+I write a cold-email template and web-research checklist so *you* can find and vet contacts yourself in 30 min using Google Maps, LinkedIn, and websites.
+
+**Option C: Wait for Mercury + Manufacturer**
+Focus on G1 (Mercury bank account) and G2 (TikTok first post). Once you have a live product story and Shopify/Amazon live, warm intros and referral partnerships scale faster than cold B2B anyway.
+
+**Which would be most useful right now?** My read is that cold outreach is lower priority than locking manufacturer quotes and posting that first TikTok.

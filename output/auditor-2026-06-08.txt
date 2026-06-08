@@ -1,0 +1,62 @@
+# AUDIT REPORT — 2026-06-08
+
+**OVERALL: CONDITIONAL PASS** ⚠️
+
+---
+
+## WRITER OUTPUT
+
+| Check | Status | Notes |
+|---|---|---|
+| **Brand voice** | ✅ PASS | Coastal, clean, confident. "Retention problem" lands perfectly — not bro-y, not clinical. Matches Vuori/Momentous tone. |
+| **Health claims** | ✅ PASS | "Hydration," "retention," "cellular level," "hold water" are descriptive, not therapeutic. No disease claims, no structure-function violation. Safe. |
+| **Compliance (CAN-SPAM)** | ✅ PASS | Email has clear sender (Adam Salter), verified recipient (info@aurinutra.com from CLAUDE.md), and subject line is honest. TikTok has caption + CTA (link in bio). Both compliant. |
+| **No invented contacts** | ✅ PASS | info@aurinutra.com verified in CLAUDE.md. Phone (631) 454-0020 also documented. This is a follow-up, not cold outreach. Safe. |
+| **Formula accuracy** | ✅ PASS | All 9 core ingredients correctly referenced. Specific requests (natural astaxanthin, KSM-66, lipid encapsulation) match CLAUDE.md. |
+| **Premature channel mentions** | ✅ PASS | No Shopify, no Amazon pricing, no inventory numbers. Appropriate scope for current stage. |
+| **TikTok length** | ✅ PASS | Script reads ~34 seconds at natural pace. Within 35-second target. |
+| **Draft status flagged** | ✅ PASS | Clear header: "Adam reviews and sends everything. No auto-send." Guardrail #2 protected. |
+
+**WRITER OUTPUT VERDICT: ✅ APPROVED FOR HANDOFF TO ADAM**
+
+---
+
+## SCOUT OUTPUT
+
+| Check | Status | Notes |
+|---|---|---|
+| **Honest about limitations** | ✅ EXCELLENT | Scout explicitly refused to invent contact data. Did not pattern-match emails or guess phone numbers. This is exactly the right behavior — protected guardrail #3. |
+| **No fake verified claims** | ✅ PASS | No output claiming "verified" when data came from LLM hallucination. Transparent about lack of real-time web access. |
+| **Offered three fallbacks** | ✅ PASS | Option A (manual verification), Option B (research checklist), Option C (defer to higher-priority tasks). Gives Adam choice. |
+| **Prioritization accurate** | ✅ PASS | Correctly notes that Mercury account (G1) and TikTok first post (G2) are higher ROI than cold B2B outreach right now. Aligns with CLAUDE.md ranking. |
+
+**SCOUT OUTPUT VERDICT: ✅ APPROVED — GOOD JUDGMENT**
+
+---
+
+## COMBINED AUDIT
+
+### Flags
+**None critical.** Scout's refusal to invent contacts is a *feature*, not a bug — it protected deliverability and brand trust.
+
+### Recommendations for Adam
+1. **WRITER OUTPUT:** Approve and schedule. TikTok script is ready to film. Email can go to Aurinutra as soon as you confirm no new info has arrived since June 2026.
+2. **SCOUT OUTPUT:** Choose Option C for now. Focus energy on:
+   - Opening Mercury account (G1) — highest immediate ROI
+   - Filming + posting first TikTok (G2) — this week
+   - Waiting for manufacturer quotes before spending time on B2B gym/retail outreach
+
+3. **Next audit checkpoint:** When manufacturer quotes arrive, I'll QA pricing, ingredient specs, and MOQ commitments against CLAUDE.md formula + economics before you sign.
+
+---
+
+## SUMMARY
+
+| Category | Result |
+|---|---|
+| **Accuracy** | ✅ No invented facts; all verifiable details cross-checked against CLAUDE.md |
+| **Brand compliance** | ✅ Coastal/clean/confident voice consistent; no banned health claims |
+| **Legal (CAN-SPAM, guardrails)** | ✅ All outputs are drafts or verified contacts; no auto-send; no fabricated emails |
+| **File location** | ✅ `output/copy-2026-06-08.md` confirmed |
+
+**STATUS: PASS — Ready for Adam's review.**

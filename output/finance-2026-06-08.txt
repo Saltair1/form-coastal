@@ -1,0 +1,29 @@
+# Finance Report — 2026-06
+
+**Month spend:** $0.40 of $20.00 cap (2%)
+**Status:** ✅ OK
+**Runs this month:** 15
+**Note:** All runs clustered on 2026-06-07 evening; healthy trajectory well under budget.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| Finance | claude-haiku-4-5-20251001 | 3 | $0.0014 |
+| Director | claude-opus-4-8 | 3 | $0.2685 |
+| Scout | claude-haiku-4-5-20251001 | 3 | $0.0061 |
+| Writer | claude-sonnet-4-6 | 3 | $0.0628 |
+| Auditor | claude-haiku-4-5-20251001 | 3 | $0.0083 |
+
+**Total API cost to date:** $0.3960 USD
+
+---
+
+## Key observations
+- 15 agent runs fired in a single evening (2026-06-07, 21:59–22:52 UTC)
+- Director (claude-opus-4-8) consumed the largest share at $0.2685 due to longer context windows and output
+- All Haiku runs (Finance, Scout, Auditor) kept costs minimal — well-suited to their roles
+- **Remaining budget:** $19.60 — plenty of runway for this month's work
+- No pause condition triggered
