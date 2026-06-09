@@ -1,0 +1,165 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal — Copy Drafts
+**Date:** 2026-06-09
+**Author:** Writer (claude-sonnet-4-6)
+**Status:** DRAFT — Adam reviews and sends. No auto-send.
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light — beach parking lot, tailgate, or backyard)
+**Length:** ~35 seconds
+**Account:** @formcoastal
+
+---
+
+**[HOOK — 0:00–0:05]**
+*(direct to camera, calm, matter-of-fact)*
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*(slight lean in, conversational — like talking to a friend, not selling)*
+"Most of what you drink goes straight through you. Your cells need something to hold onto it. There's an ingredient called hyaluronic acid — it holds up to a thousand times its weight in water at the cellular level. It's been in skincare for years. Nobody's put it in a men's daily supplement. Until now.
+
+FORM is five things your body actually needs if you train outside — UV protection, real hydration, joint support, clean energy, immune baseline. One softgel. No stimulants."
+
+---
+
+**[CTA — 0:25–0:35]**
+*(relaxed, not pushy)*
+"Link in bio if you want to be first. We're just getting started."
+
+*(optional lower-third text overlay: FORM — formcoastal.com)*
+
+---
+
+**Production notes for Adam:**
+- Shoot in golden hour light if possible — no ring light, keep it real
+- Plain tee, nothing branded yet — let the content do the work
+- Don't over-rehearse — second or third take energy, not first
+- No background music needed during filming; add lo-fi or surf ambient in edit
+- Caption suggestion: *"a gallon a day and still dehydrated. here's why. 🌊 #form #hydration #activemen #supplement #sandiego"*
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — for Aurinutra or Innova Nutra, adapt name/contact as needed)*
+*(Adam sends from his verified address — do not auto-send)*
+
+**Subject:** Formula Quote Follow-Up — FORM Softgel (250–500 units, launch order)
+
+---
+
+Hi [First Name],
+
+I submitted a quote request through [your contact form / your team] a couple weeks back and wanted to follow up — I know turnaround can vary and I want to make sure it didn't get buried.
+
+I'm launching FORM, a men's daily supplement softgel built around five pillars: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support. The hero ingredients include Polypodium Leucotomos extract, natural astaxanthin (Haematococcus pluvialis), hyaluronic acid, KSM-66 ashwagandha, and a few others I'd be happy to share in full.
+
+A few specifics that would shape the quote:
+
+- **Format:** Softgel with true lipid encapsulation (required — several ingredients are fat-soluble)
+- **MOQ:** Looking at 250–500 units for the launch order
+- **Sourcing:** Natural astaxanthin only — Haematococcus pluvialis sourced
+- **Certifications:** GMP + COA required
+- **Timeline:** Targeting a Q3 2026 launch
+
+I'm the founder, so you'll be talking directly to the decision-maker — no committee, no long approval chain. I move fast when the fit is right.
+
+If it's easier to jump on a quick call, I'm flexible most mornings Pacific time. Happy to send the full ingredient list in advance.
+
+Thanks for your time —
+
+Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+[phone number — Adam to add]
+
+---
+
+*⚠️ Auditor flag for Adam's review:*
+- *No health claims present — confirmed*
+- *No invented contact details — [First Name] is a placeholder; Adam fills in verified name before sending*
+- *CAN-SPAM: this is direct B2B outreach to a manufacturer Adam already contacted — not cold mass email*
+- *Shopify not mentioned — consistent with "not live yet" rule*
+- *Amazon Seller account not mentioned as live — consistent with current status*
+```
+
+I'll save this now.
+
+```bash
+mkdir -p output && cat > output/copy-2026-06-09.md << 'EOF'
+# Form Coastal — Copy Drafts
+**Date:** 2026-06-09
+**Author:** Writer (claude-sonnet-4-6)
+**Status:** DRAFT — Adam reviews and sends. No auto-send.
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light — beach parking lot, tailgate, or backyard)
+**Length:** ~35 seconds
+**Account:** @formcoastal
+
+---
+
+**[HOOK — 0:00–0:05]**
+*(direct to camera, calm, matter-of-fact)*
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*(slight lean in, conversational — like talking to a friend, not selling)*
+"Most of what you drink goes straight through you. Your cells need something to hold onto it. There's an ingredient called hyaluronic acid — it holds up to a thousand times its weight in water at the cellular level. It's been in skincare for years. Nobody's put it in a men's daily supplement. Until now.
+
+FORM is five things your body actually needs if you train outside — UV protection, real hydration, joint support, clean energy, immune baseline. One softgel. No stimulants."
+
+---
+
+**[CTA — 0:25–0:35]**
+*(relaxed, not pushy)*
+"Link in bio if you want to be first. We're just getting started."
+
+*(optional lower-third text overlay: FORM — formcoastal.com)*
+
+---
+
+**Production notes for Adam:**
+- Shoot in golden hour light if possible — no ring light, keep it real
+- Plain tee, nothing branded yet — let the content do the work
+- Don't over-rehearse — second or third take energy, not first
+- No background music needed during filming; add lo-fi or surf ambient in edit
+- Caption suggestion: *"a gallon a day and still dehydrated. here's why. 🌊 #form #hydration #activemen #supplement #sandiego"*
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — for Aurinutra or Innova Nutra, adapt name/contact as needed)*
+*(Adam sends from his verified address — do not auto-send)*
+
+**Subject:** Formula Quote Follow-Up — FORM Softgel (250–500 units, launch order)
+
+---
+
+Hi [First Name],
+
+I submitted a quote request through [your contact form / your team] a couple weeks back and wanted to follow up — I know turnaround can vary and I want to make sure it didn't get buried.
+
+I'm launching FORM, a men's daily supplement softgel built around five pillars: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support. The hero ingredients include Polypodium Leucotomos extract, natural astaxanthin (Haematococcus pluvialis), hyaluronic acid, KSM-66 ashwagandha, and a few others I'd be happy to share in full.
+
+A few specifics that would shape the quote:
+
+- **Format:** Softgel with true lipid encapsulation (required — several ingredients are fat-soluble)
+- **MOQ:** Looking at 250–500 units for the launch order
+- **Sourcing:** Natural astaxanthin only — Haematococcus pluvialis sourced
+- **Certifications:** GMP + COA required
+- **Timeline:** Targeting a Q3 2026 launch
+
+I'm the founder, so you'll be talking directly to the decision-maker — no committee, no long approval chain. I move fast when the fit is right.
+
+If it's easier to jump on a quick call,

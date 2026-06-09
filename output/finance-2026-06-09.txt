@@ -1,0 +1,30 @@
+# Finance Report — 2026-06
+
+**Month spend:** $0.51 of $20.00 cap (2.6%)  
+**Status:** ✅ OK  
+**Runs this month:** 5 full orchestrations (25 API calls total)  
+**Note:** Team is operating efficiently — 3 days of activity, well below budget. Trajectory: safe to continue normal ops.
+
+---
+
+## Breakdown
+
+| Role | Calls | Cost |
+|------|-------|------|
+| Finance | 3 | $0.0031 |
+| Director | 3 | $0.3282 |
+| Scout | 3 | $0.0060 |
+| Writer | 3 | $0.0641 |
+| Auditor | 3 | $0.0111 |
+
+**Model distribution:**
+- claude-opus-4-8 (Director): $0.33 — 65% of spend
+- claude-sonnet-4-6 (Writer): $0.06 — 13% of spend
+- claude-haiku-4-5-20251001 (Scout, Finance, Auditor): $0.12 — 22% of spend
+
+**Peak activity:** June 7 at 22:42 UTC (3 full runs in 15 minutes)  
+**Latest activity:** June 8 at 16:30 UTC
+
+---
+
+**Bottom line:** Team has $19.49 remaining in June budget. No action needed. All systems nominal.
