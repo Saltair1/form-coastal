@@ -1,0 +1,91 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-10
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (Adam on camera, outdoor/coastal setting — golden hour, post-surf or post-lift)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*[Hold eye contact. Calm, confident. Let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"When you sweat — surfing, lifting, training in the sun — you're not just losing water. You're losing the electrolytes that tell your cells to hold onto it.
+
+That's why I built FORM around hyaluronic acid and magnesium. HA holds up to a thousand times its weight in water at the cellular level. Magnesium is the most depleted mineral in active men.
+
+One softgel. Works with the gallon, not instead of it."
+
+*[Casual, not a lecture. Like explaining it to a friend on the beach.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. If you train outside, this one's for you."
+
+*[Slight nod. Cut.]*
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(For manufacturer follow-up — Aurinutra or Innova Nutra)*
+
+**Subject:** Softgel Formula Quote — Form Coastal / Salt Air Industries
+
+Hi [Name],
+
+I submitted an inquiry recently for a men's daily softgel and wanted to follow up directly.
+
+I'm the founder of Form Coastal (legal entity: Salt Air Industries LLC), based in Oceanside, CA. We're bringing a 5-pillar men's supplement to market — UV protection, cellular hydration, joint recovery, clean energy, and immune support — in a lipid-encapsulated softgel format.
+
+A few specifics I'd love your team to weigh in on:
+
+- **Lipid encapsulation** — essential for fat-soluble ingredients like astaxanthin and D3. Can your facility handle this in softgel?
+- **Astaxanthin sourcing** — we require natural astaxanthin from *Haematococcus pluvialis* only. Synthetic is not an option.
+- **Collagen or Boswellia** — we'd love collagen peptides if a meaningful dose is achievable in softgel; if not, we'll go boswellia. What's your recommendation based on what you're seeing with other formulas?
+- **MOQ** — we're targeting an initial run of 250–500 units. What's your floor at that volume?
+- **Certifications** — GMP and COA are required. Do you have third-party cert documentation ready to share?
+
+I'm aiming to place a first order this summer. Happy to jump on a quick call if that's easier than email.
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com
+[phone optional]
+
+---
+
+*Output generated: 2026-06-10*
+*Status: DRAFT — Adam reviews and sends. Do not auto-send.*
+```
+
+---
+
+**Saved to:** `output/copy-2026-06-10.md`
+
+---
+
+**A few notes for Adam before you send:**
+
+**TikTok script:**
+- The hook is your proven top-of-funnel line — test it exactly as written before varying it
+- "A thousand times its weight" is a product fact, not a health claim — you're good
+- Film this one before product arrives; no product needed, just you and a good background (post-surf parking lot, beach path, rooftop — anything with natural light and coastal context)
+- Keep the energy conversational, not salesy — the calm confidence *is* the brand
+
+**Manufacturer email:**
+- Fill in `[Name]` once you have a direct contact vs. generic inbox — response rate is meaningfully higher
+- The collagen/boswellia question is intentional: it gets them thinking about your formula as a real project, not a template pull
+- If Aurinutra responds first, send a near-identical version to Innova Nutra — competitive quotes protect your COGS

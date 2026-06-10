@@ -1,0 +1,30 @@
+# B2B Leads — 2026-06-10
+
+I need to pause here and be direct: **I cannot complete this task as requested.**
+
+Here's why:
+
+1. **No verified contact database access.** I don't have real-time access to business directories, phone numbers, or email addresses. I can't verify that contact details are current or accurate.
+
+2. **Hard rule violation risk.** CLAUDE.md explicitly states: *"Never invent contact details — verified only. Protect email deliverability."* Generating plausible-sounding but unverified emails or phone numbers would violate this rule and damage Form Coastal's sender reputation.
+
+3. **The human (Adam) decides who to contact.** The Scout role is to *find and qualify*, but without verified data, I'm just guessing—which defeats the purpose and wastes Adam's outreach time on stale or wrong contacts.
+
+## What I can do instead:
+
+**Option A: Give you a research roadmap**
+I can outline *where* to find verified B2B leads:
+- **Gyms/CrossFit boxes:** BrightLocal, Google Maps (local search + "gyms near Oceanside CA"), CrossFit affiliate directory
+- **Surf shops:** Surfrider Foundation retailer list, local SoCal shop registries, Yellow Pages business search
+- **Outdoor retailers:** REI co-op store locator, Dick's Sporting Goods locations, specialty outdoor chains
+- **Sports medicine:** Healthgrades, ZocDoc provider search, local physical therapy registries
+
+**Option B: You provide a source**
+If you have access to a verified business database (ZoomInfo, Apollo, Hunter, Seamless.ai, etc.), I can help you *qualify* and *structure* leads from that source into the clean format you requested.
+
+**Option C: I draft outreach copy**
+Once you have verified contacts, I'll draft the cold email or phone script for Adam to send.
+
+---
+
+**What should I do?** Adam, which path works best for your workflow right now?

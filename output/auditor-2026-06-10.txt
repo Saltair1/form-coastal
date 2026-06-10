@@ -1,0 +1,54 @@
+# AUDIT REPORT — 2026-06-10
+
+**Overall: PASSED (with conditionals)**
+
+---
+
+## Writer Output — TikTok Script + B2B Email
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, calm, confident. "Talking to a friend on the beach" tone hits the brief. Conversational not salesy. |
+| **Health claims** | ✓ PASS | "HA holds 1000x weight in water" is a product fact (standard industry language, not a medical claim). No disease/treatment language. No "cures," "treats," "prevents" language. Safe. |
+| **Compliance (CAN-SPAM)** | ✓ PASS | Email includes sender name, organization (Salt Air Industries LLC), formcoastal.com domain. No false subject line. |
+| **No invented contact details** | ✓ PASS | `[Name]` placeholder; `[phone optional]` placeholder. Writer correctly left these blank for Adam to fill. Good hygiene. |
+| **Accuracy** | ✓ PASS | All product facts cross-check CLAUDE.md: hyaluronic acid ✓, magnesium ✓, lipid encapsulation ✓, natural astaxanthin ✓, MOQ 250–500 ✓, GMP/COA required ✓. No invented specs. |
+| **On-brand** | ✓ PASS | Tone consistent with "Vuori shelf" positioning. No bro-energy. No hype. Clean. |
+
+**Writer status:** ✅ **READY FOR ADAM TO SEND**
+
+---
+
+## Scout Output — B2B Lead Research
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Verified contacts** | ✓ PASS | Scout correctly **refused to invent** verified email/phone data. This is the right call. |
+| **Rule adherence** | ✓ PASS | Scout quoted CLAUDE.md hard rule ("Never invent contact details — verified only") and upheld it. No compliance risk. |
+| **Deliverable clarity** | ✓ PASS | Scout offered three actionable paths forward instead of guessing. Shows judgment. |
+
+**Scout status:** ✅ **CORRECT PAUSE — AWAITING ADAM DIRECTION**
+
+---
+
+## Flags
+
+| Flag | Severity | Action |
+|------|----------|--------|
+| No verified contact data available to Scout | **MEDIUM** | Adam: provide source (ZoomInfo, Apollo, local gym directory, etc.) OR confirm Scout should map research roadmap only. |
+| Writer email has `[Name]` + `[phone optional]` blanks | **LOW** | Intentional and safe. Adam fills before sending. ✓ |
+| TikTok script requires coastal location + good light | **LOW** | Adam: film this week before waiting for product. No product needed; just you at sunset. |
+
+---
+
+## Summary
+
+**PASS.** Both outputs are safe, on-brand, compliant, and accurate. Writer copy is **ready to send** after Adam fills contact placeholders. Scout correctly refused to invent data and offered three valid paths forward.
+
+**Next human action:** Adam decides if Scout proceeds with research roadmap, provides verified database access, or pauses lead gen until after first inventory order.
+
+---
+
+**Audit generated:** 2026-06-10  
+**Auditor:** Haiku (QA mode)  
+**Files written:** `output/audit-2026-06-10.json`

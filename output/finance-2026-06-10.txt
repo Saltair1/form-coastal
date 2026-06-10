@@ -1,0 +1,27 @@
+# Finance Report — 2026-06
+
+**Month spend:** $0.68 of $20.00 cap (3.4%)
+**Status:** ✅ OK
+**Runs this month:** 25
+**Note:** Team is tracking well below budget; current trajectory suggests $0.80–$0.95 for the full month at current activity level.
+
+---
+
+## Breakdown
+
+| Role | Calls | Model | Total Cost |
+|------|-------|-------|-----------|
+| **Finance** | 3 | claude-haiku-4-5 | $0.0046 |
+| **Director** | 4 | claude-opus-4-8 | $0.4968 |
+| **Scout** | 4 | claude-haiku-4-5 | $0.0078 |
+| **Writer** | 4 | claude-sonnet-4-6 | $0.1143 |
+| **Auditor** | 4 | claude-haiku-4-5 | $0.0165 |
+
+**Heaviest spend:** Director (Opus) at 73% of total—expected, given complexity of orchestration and PR review tasks.
+
+**Efficiency:** Haiku models (Finance, Scout, Auditor) combined cost only $0.0289 for 11 calls. Lightweight roles staying lean.
+
+---
+
+## Status
+🟢 **All systems nominal.** No pause file written. Team can continue normal operations. Adam has not reset anything; spend is tracking comfortably.
