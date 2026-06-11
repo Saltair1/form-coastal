@@ -1,0 +1,30 @@
+# Finance Report — 2026-06
+
+**Month spend:** $0.97 of $20.00 cap (4.9%)
+**Status:** ✅ OK
+**Runs this month:** 25
+**Note:** All 5 runs clustered on June 7–10; trajectory is healthy and well under budget.
+
+---
+
+## Breakdown
+
+**By role:**
+- **Director** (claude-opus-4-8): 5 runs → $0.476
+- **Writer** (claude-sonnet-4-6): 5 runs → $0.140
+- **Scout** (claude-haiku-4-5-20251001): 5 runs → $0.013
+- **Auditor** (claude-haiku-4-5-20251001): 5 runs → $0.018
+- **Finance** (claude-haiku-4-5-20251001): 5 runs → $0.007
+
+**By date:**
+- **June 7:** $0.373 (10 runs — initial task sprint)
+- **June 8:** $0.188 (5 runs)
+- **June 9:** $0.182 (5 runs)
+- **June 10:** $0.223 (5 runs)
+
+---
+
+## Status
+**Team is cleared to run.** No pause needed. Spend is 95% under cap with 20 days remaining in June. Current burn rate (~$0.20/day) would end the month at ~$6 total — well within limits.
+
+No PAUSE file created.

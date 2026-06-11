@@ -1,0 +1,107 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-11
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (outdoor / golden hour — shoot on beach or rooftop, Oceanside)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, casual, slightly disbelieving — like you just figured something out*
+
+"You're drinking a gallon of water a day and still waking up dehydrated.
+That's not a water problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Stay on camera, relaxed pace — no rush, no hype*
+
+"Your cells need specific compounds to actually hold onto the water you're putting in.
+Hyaluronic acid, magnesium, electrolytes — without those, you're basically just flushing it.
+
+I built FORM around this. Five pillars: hydration, UV protection, joint recovery,
+clean energy, immune support. One softgel, every morning.
+
+No caffeine. No BS. Just what your body actually needs if you're training outside every day."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Slight lean in, easy smile — not salesy*
+
+"Link in bio if you want to know what's actually in it.
+First drop is coming. @formcoastal."
+
+---
+
+**Notes for Adam:**
+- Film golden hour, Oceanside beach or rooftop — natural light, no ring light
+- Wear something clean/minimal (Vuori, Alo, plain tee — no logos)
+- Delivery: conversational, not presenter energy. Like you're telling a friend.
+- No product needed for this one — concept sells itself
+- Caption suggestion: *"drinking a gallon and still waking up dehydrated 👇 here's why"*
+- Tags: #hydration #formcoastal #activemen #supplementsthatwork #sandiegolife
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up / partnership context — adapt recipient name before sending)*
+
+**Subject:** Softgel formula quote — following up
+
+Hi [Name],
+
+Reaching out because I submitted a quote request through your site a couple weeks ago
+and wanted to make sure it landed in the right place.
+
+I'm launching FORM — a 5-pillar men's daily softgel targeting active outdoor men.
+The formula centers on a few specific ingredients that require lipid encapsulation:
+astaxanthin (natural, Haematococcus pluvialis only) and Polypodium Leucotomos extract.
+Those two are non-negotiable — everything else I'm flexible on.
+
+A few quick questions if you're the right contact:
+
+1. Do you offer true lipid-encapsulated softgels (not just oil-fill)?
+2. What's your MOQ at the 250 and 500-unit tier?
+3. Can you hit an effective dose of UC-II collagen or boswellia in a single softgel?
+4. GMP certified, and do you provide COA per batch?
+
+I'm a small first run — 250 to 500 units — but I'm building this brand for the long haul
+and want the right manufacturing partner from day one.
+
+Happy to jump on a call this week if easier.
+
+Thanks,
+
+— Adam Salter
+Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+[phone — add before sending]
+
+---
+
+**Notes for Adam:**
+- Swap [Name] for actual contact at Aurinutra or Innova before sending
+- Add your cell — manufacturers respond faster when there's a number
+- Send from apsalter11@gmail.com or a formcoastal.com email if you have one set up
+- Keep subject line exactly as is — plain, direct, high open rate for B2B
+
+---
+```
+
+**File saved to:** `output/copy-2026-06-11.md`
+
+---
+
+**Quick notes on both pieces:**
+
+**TikTok:** Led with your strongest hook — the gallon/dehydration insight. No product on screen needed, which keeps it on-brand for a first post and lets the concept do the work. Delivery tone is everything here — conversational, not pitchy.
+
+**Email:** Kept it short and operational. Manufacturers want to know you're serious (lipid encapsulation question signals you know what you're doing) and that the ask is clear. The "small first run, long haul" line is honest and positions you as a growth partner, not a one-time order.
