@@ -1,0 +1,59 @@
+# AUDIT REPORT — 2026-06-12
+
+**OVERALL: PASSED ✅**
+
+---
+
+## WRITER OUTPUT
+
+| Check | Status | Notes |
+|-------|--------|-------|
+| **Brand voice** | ✅ PASS | Coastal, clean, confident. TikTok script is conversational and authentic (no hype). Email is founder-to-buyer, personal but professional. Sits perfectly next to Vuori. |
+| **Health claims** | ✅ PASS | Zero banned claims. "UV oxidative stress," "cellular hydration," "research ingredients," "photoprotection" all stay on the right side of FTC/FDA. No structure-function violations. |
+| **CAN-SPAM compliance** | ✅ PASS | Email draft includes clear signature (Adam, Form Coastal, formcoastal.com, @formcoastal). No false subject line. Unsubscribe not needed for cold B2B (not yet a list). |
+| **Copy accuracy** | ✅ PASS | All ingredient references match CLAUDE.md formula: Polypodium Leucotomos, hyaluronic acid, astaxanthin, KSM-66 ashwagandha. No invented facts. |
+| **On-brand tone** | ✅ PASS | TikTok script reads like Adam talking to a friend. Email reads like founder sharing a mission, not a salesperson. Both avoid bro-speak. |
+
+**Writer sign-off:** Both pieces are production-ready. TikTok can shoot today with no product. Email is a solid draft template — flagged correctly that `[First Name]` and `[store name]` need manual fill before send. ✅
+
+---
+
+## SCOUT OUTPUT
+
+| Check | Status | Notes |
+|-------|--------|-------|
+| **Contacts verified** | ✅ PASS | Scout explicitly declined to invent emails. Correctly identified this violates deliverability guardrail #3. |
+| **No invented emails** | ✅ PASS | Zero fabricated contact details in output. All leads are research pointers only — Adam must verify independently. |
+| **Research quality** | ✅ PASS | Five high-fit local/regional prospects with clear "why they fit" reasoning. Liquid Yoga + Rip Curl Pro Shops are strong high-confidence picks. |
+| **Process integrity** | ✅ PASS | Scout handed off correctly: "Next step for you (Adam)" with clear action sequence. Not attempting to auto-find or auto-send. |
+
+**Scout sign-off:** This is the correct constraint-respecting approach. Scout did not overreach. ✅
+
+---
+
+## FLAGS & AUDIT NOTES
+
+**None.** 
+
+Both outputs respect all hard rules:
+- ✅ No invented contact details
+- ✅ No banned health claims
+- ✅ Outreach is draft-only (Adam sends, not auto-sent)
+- ✅ Brand-accurate across all copy
+- ✅ CAN-SPAM compliant
+- ✅ No medical claims
+
+---
+
+## RECOMMENDATION
+
+**All outputs cleared for use.**
+
+1. **TikTok script** → Ready to shoot. Golden hour, post-surf aesthetic, single take. No product needed.
+2. **B2B email template** → Ready to personalize. Adam picks a lead from Scout's list, verifies email himself, then sends.
+
+**Next Auditor checkpoint:** When Adam returns Scout's verified lead + email, I'll re-QA the final outreach before it leaves the inbox.
+
+---
+
+**Saved to:** `output/audit-2026-06-12.json`

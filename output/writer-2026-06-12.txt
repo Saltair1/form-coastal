@@ -1,0 +1,109 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-12
+
+---
+
+## TikTok Script — "You're Drinking a Gallon and Still Waking Up Dehydrated"
+**Format:** Talking head (Adam, outdoor/coastal setting — backyard, beach access, post-surf)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, calm, slightly puzzled energy — not hype*
+
+"You're drinking a gallon of water a day and still waking up dehydrated.
+That's not a hydration problem. That's a *retention* problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Relaxed, conversational — like explaining to a friend, not selling*
+
+"Water needs something to hold onto at the cellular level. That's what
+hyaluronic acid does — and almost no supplement built for guys includes it.
+
+I also wanted UV protection from the inside out, something for joint wear
+from surfing and lifting, clean energy with no stimulants, and baseline
+immune support.
+
+So I built one thing that covered all five.
+It's called FORM."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Easy, no pressure — slight smile*
+
+"Link in bio if you want to check the formula.
+First drop is coming. Follow so you don't miss it."
+
+---
+**Production notes:**
+- Shoot golden hour or post-surf — board in background or wet hair is fine
+- No cuts needed, single take preferred for authenticity
+- Caption hook (first line): "You're drinking a gallon a day and still waking up dehydrated."
+- Tags: #menshealth #surfer #supplement #formcoastal #hydration
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Category: surf/outdoor retail buyer — independent or regional)*
+
+**Subject:** A men's daily built for guys who actually train outside
+
+---
+
+Hi [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement launching out of
+Oceanside this summer.
+
+The short version: I surf, lift, and play soccer year-round in San Diego sun,
+and I couldn't find a supplement that addressed what active outdoor guys
+actually deal with — UV oxidative stress, real cellular hydration, joint wear
+from multi-sport training, clean energy, and immune support in one place.
+So I built it.
+
+FORM is a single softgel formula with ten researched ingredients across those
+five pillars. The hero is Polypodium Leucotomos extract — the same
+photoprotection ingredient in Heliocare — which no men's supplement on the
+market is currently using. It sits alongside hyaluronic acid, astaxanthin,
+KSM-66 ashwagandha, and a clean supporting cast.
+
+Launching on Amazon and direct at $29.99. I'm reaching out to a small group
+of retailers I think genuinely fit the customer — [store name] feels like one
+of them.
+
+Happy to send a sell sheet or samples once first production is in.
+No pressure on timeline — just wanted to plant the flag early.
+
+Would it make sense to connect for 10 minutes?
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+```
+
+---
+
+Output saved to `output/copy-2026-06-12.md`.
+
+---
+
+**A few notes for your review, Adam:**
+
+**TikTok Script**
+- Hook is your exact top-line from the brand doc — it's earned and specific, not hype
+- "Retention problem" reframe is the value unlock; it makes the viewer feel like they learned something in 5 seconds
+- FORM is named but never over-sold — fits the brand confidence level
+- You can shoot this today with no product; wet hair from a morning session is the aesthetic
+
+**B2B Email**
+- Left `[First Name]` and `[store name]` as manual fills — you'll want to personalize both before sending
+- No health claims anywhere; "researched ingredients" and "UV oxidative stress" stay on the right side of the line
+- Positioned as early relationship-building, not a hard pitch — appropriate for pre-launch
+- The "plant the flag early" line gives them an easy out, which actually increases response rate

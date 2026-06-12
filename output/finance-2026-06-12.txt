@@ -1,0 +1,18 @@
+# Finance Report — 2026-06
+
+**Month spend:** $1.29 of $20.00 cap (6.5%)  
+**Status:** OK ✅  
+**Runs this month:** 30  
+**Note:** Team is efficient — 5 coordinated agent runs per day (Director → Scout → Writer → Auditor → Finance) consuming $0.26/day average. Trending well under budget.
+
+---
+
+## Breakdown by role
+- **Director** (claude-opus-4-8): $0.59 — 6 runs, strategy & task assignment
+- **Writer** (claude-sonnet-4-6): $0.32 — 6 runs, draft outreach & copy
+- **Scout** (claude-haiku-4-5-20251001): $0.03 — 6 runs, B2B lead research
+- **Auditor** (claude-haiku-4-5-20251001): $0.03 — 6 runs, QA & compliance
+- **Finance** (claude-haiku-4-5-20251001): $0.01 — 6 runs, cost tracking
+
+## Trajectory
+At current rate (~$1.29/5 days), you'll close June ~$7.74 total — **well below $20 cap**. No action needed. Team has ample runway for July.
