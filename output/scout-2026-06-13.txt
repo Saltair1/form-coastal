@@ -1,0 +1,32 @@
+# B2B Leads — 2026-06-13
+
+I need to pause here and be direct: **I cannot generate verified B2B contact lists without real-time web access.**
+
+The CLAUDE.md guardrail is clear: *"Never invent contact details — verified only. Protect email deliverability."*
+
+To do this properly, I would need to:
+1. Search current business directories (Google Maps, LinkedIn, industry databases)
+2. Verify email addresses against SMTP records or public company pages
+3. Confirm the business still operates at that address
+4. Cross-check against spam lists to protect deliverability
+
+**Without that access, anything I generate would be invented guesses — which violates the core rule.**
+
+## What I can do instead:
+
+**Option A: I draft a research template for you**
+I can create a structured spreadsheet template with search criteria (geography, business type, estimated size, contact method priority) that *you* can fill in using:
+- Google Maps (gyms + surf shops in CA coastal zones)
+- LinkedIn Sales Navigator (sports medicine practices)
+- Industry directories (Yoga Alliance, IHRSA gym membership, SCSPA surf shop listings)
+- Yellow Pages / Chamber of Commerce
+
+**Option B: You provide verified contacts**
+If you have a list of 5–10 gyms, retailers, or practices in mind (or have already found them), I can draft outreach copy and help you evaluate fit.
+
+**Option C: Recommend a tool**
+Apollo.io, RocketReach, or Hunter.io are built for this — they verify emails in real time and integrate with CRM. Cost ~$15/month for verified B2B prospecting.
+
+---
+
+**What's your preference?** I'm happy to build the research framework or draft outreach once you have real contacts in hand. But I won't guess on emails.

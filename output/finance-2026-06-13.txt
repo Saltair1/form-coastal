@@ -1,0 +1,26 @@
+# Finance Report — June 2026
+
+**Month spend:** $1.47 of $20.00 cap (7%)  
+**Status:** ✅ OK  
+**Runs this month:** 30  
+**Note:** Steady daily workflow with Director (Opus) driving task assignment and Scout/Writer/Auditor supporting—all within budget at current token burn rate.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| Finance | Haiku | 6 | $0.0095 |
+| Director | Opus | 6 | $0.7397 |
+| Scout | Haiku | 6 | $0.0185 |
+| Writer | Sonnet | 6 | $0.1837 |
+| Auditor | Haiku | 6 | $0.0287 |
+
+**Per-run average:** $0.049  
+**Director dominates cost** (50% of spend) due to larger context window and task coordination. Haiku agents (Finance, Scout, Auditor) are lean; Writer (Sonnet) is mid-tier.
+
+---
+
+## Trajectory
+At 30 runs in 6 days (~5 runs/day), the team is on pace for ~150 runs by month-end at ~$7.35 total—well under the $20 cap. **No action needed.** Spend is healthy and sustainable.

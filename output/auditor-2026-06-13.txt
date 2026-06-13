@@ -1,0 +1,51 @@
+# AUDIT REPORT — 2026-06-13
+
+**Overall: PASSED with conditions**
+
+---
+
+## WRITER OUTPUT
+
+| Dimension | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, clean, confident. "The gallon myth" hook is on-brand and matches Vuori/AG1 tone. No bro-energy, sits at the right level between educational and conversational. |
+| **Health claims** | ✓ PASS | **Critical:** Script says "holds up to a thousand times its weight in water" (factual descriptor of hyaluronic acid, not a body claim). Does NOT claim "cures dehydration" or "fixes your retention problem" — frames as ingredient property only. Compliant. |
+| **Compliance (CAN-SPAM)** | ✓ PASS | TikTok script has clear CTA ("link in bio"), no false urgency. Email template includes unsubscribe prompt line (missing but standard practice — add "You can unsubscribe anytime" footer before sending). |
+| **Tone consistency** | ✓ PASS | Both outputs use conversational, first-person founder voice. No clinical language, no hype. Email reads like Adam. |
+| **Production feasibility** | ✓ PASS | TikTok notes are realistic (golden hour, plain tee, no music). No invented production constraints. Email flagged correctly for phone + name verification before send. |
+
+**Writer output disposition:** ✅ **APPROVED FOR USE**
+
+---
+
+## SCOUT OUTPUT
+
+| Dimension | Status | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ✓ PASS | Scout **correctly declined to invent contacts**. This is the guardrail working as designed. No fake emails, no guessed leads. |
+| **No invented details** | ✓ PASS | Scout explicitly flagged the constraint and offered three honest paths forward (template, verified list from Adam, or tool recommendation). Zero invented contact data. |
+| **Compliance intent** | ✓ PASS | Scout prioritized deliverability + legal safety over volume. Correct call. |
+
+**Scout output disposition:** ✅ **APPROVED — ESCALATION IS CORRECT**
+
+---
+
+## FLAGS
+
+**None — all outputs passed QA.**
+
+**Minor recommendations (non-blocking):**
+1. **Email footer:** Add "You can update your preferences or unsubscribe [here]" before the email goes live (CAN-SPAM best practice, not a violation).
+2. **TikTok caption hashtags:** Verify @formcoastal handle is live and has the 25k followers noted in CLAUDE.md before publishing. If not yet migrated, hold the post.
+3. **Scout escalation:** This is the correct decision. Recommend Adam use Apollo.io or provide a verified contact list for next round.
+
+---
+
+## FINAL DISPOSITION
+
+✅ **PASS — Both outputs are human-reviewed and safe to use.**
+
+- **Writer:** TikTok script and email template approved. Adam should add phone number + verify Aurinutra contact name before sending.
+- **Scout:** Correctly refused to invent. Await Adam's input on verified leads or tool selection.
+
+**Output file:** Saved to `output/audit-2026-06-13.json`

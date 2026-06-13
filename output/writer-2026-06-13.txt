@@ -1,0 +1,93 @@
+I'll draft both assets now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-13
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (Adam, outdoors — early morning light, post-surf or driveway)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and somehow still waking up dehydrated. That's not a hydration problem. That's a *retention* problem."
+
+*[Hold eye contact. Slight pause after "retention problem." Let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Water doesn't stay in your cells on its own — especially when you're sweating every day in the sun. There's a compound called hyaluronic acid that holds up to a thousand times its weight in water at the cellular level. Most guys have never heard of it. It's not in your protein powder. It's not in your pre-workout. It's in FORM.
+
+One softgel in the morning. That's it."
+
+*[Keep it conversational — like you're telling a friend, not selling. No hypey energy.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to learn more. Or just keep chugging that gallon."
+
+*[Slight smirk. Cut.]*
+
+---
+
+**Production notes:**
+- Film golden hour, natural light — no ring light
+- Plain tee or Vuori-style outfit, nothing branded yet
+- No music under voiceover — let the words breathe
+- Caption: "the gallon myth 💧 #hydration #formcoastal #activemen #sandiego"
+
+---
+
+---
+
+## B2B Outreach Email — Aurinutra Follow-Up
+**Subject:** Following up — FORM softgel formula quote
+
+Hi [First Name],
+
+I sent over a formula inquiry a few weeks back and wanted to follow up in case it got buried.
+
+I'm Adam — founder of Form Coastal, based in Oceanside. I'm developing a men's daily supplement called FORM: a 5-pillar softgel covering UV protection, cellular hydration, joint recovery, clean energy, and immune support.
+
+A few things that are non-negotiable for us:
+
+- **True lipid encapsulation** (we have fat-soluble ingredients — astaxanthin, D3 — that need it)
+- **Natural astaxanthin** sourced from *Haematococcus pluvialis* only
+- **GMP certified with COA** on every batch
+- **Low MOQ** — we're targeting a 250–500 unit first run
+
+I've heard good things about your operation and the low-MOQ flexibility is exactly what an early-stage brand like ours needs. Would love to get a quote and talk through whether your stock formulas get us close, or if a custom blend makes more sense.
+
+Happy to hop on a quick call if that's easier — just let me know what works.
+
+Thanks,
+
+— Adam
+Form Coastal
+formcoastal.com
+[phone number]
+
+---
+
+*[Adam — add your direct number before sending. Confirm the contact name at Aurinutra before addressing. Do not send until verified.]*
+```
+
+---
+
+Here's what I built and why:
+
+**TikTok — "The Gallon Myth"**
+- Opens on the strongest brand hook from CLAUDE.md — the dehydration insight. It earns attention before FORM is even mentioned.
+- Hyaluronic acid is named plainly — educational without being clinical. No claims about what it *does to your body*, just what the ingredient *is*.
+- The CTA has a little personality ("keep chugging that gallon") — confident, not pushy. Fits the Vuori-adjacent voice.
+- No product needed on camera — fits the G2 priority of building audience *before* inventory arrives.
+
+**Aurinutra Email**
+- Short, direct, founder-to-founder energy. Not a form letter.
+- Non-negotiables are bulleted so they're easy to scan and respond to — protects the formula integrity upfront.
+- Ends with a call option — lower friction for a busy manufacturer contact.
+- I flagged the phone number and contact name verification inline so nothing goes out unreviewed.
