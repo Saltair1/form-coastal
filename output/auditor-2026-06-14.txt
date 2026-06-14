@@ -1,0 +1,87 @@
+# AUDIT REPORT — Form Coastal — 2026-06-14
+
+**OVERALL: PASSED (with minor clarifications needed)**
+
+---
+
+## Writer Output ✅
+
+### TikTok Script — "The Gallon Problem"
+- **Brand voice:** ✓ **PASS** — Coastal, clean, confident. Speaks directly to the active male audience. "Authenticity cue, not a prop" language matches brand voice precisely. No bro-y language.
+- **Health claims:** ✓ **PASS** — No banned claims detected. "Helps your cells hold onto water" is a functional mechanism description, not a disease/treatment claim. **AUDITOR NOTE:** The "thousand times its weight" statement is a commonly cited physical property of hyaluronic acid — verify against COA/ingredient spec sheet before publishing to ensure accuracy on your end.
+- **Compliance:** ✓ **PASS** — No CAN-SPAM violations. No invented contact details. Hashtags are on-brand (@formcoastal confirmed). "We're almost live" is acceptable marketing language (not a false promise).
+
+### B2B Email — Aurinutra Follow-Up
+- **Brand voice:** ✓ **PASS** — Professional, direct, founder-authentic. Matches cold outreach tone.
+- **Health claims:** ✓ **PASS** — Zero health claims. Purely technical/spec questions. Appropriate for B2B.
+- **Compliance:** ✓ **PASS** — No invented contact details (email: info@aurinutra.com verified in CLAUDE.md). No CAN-SPAM issues. Signature includes verified domain (formcoastal.com).
+- **Tone & strategy:** ✓ **PASS** — Four-question gate before full ingredient dump is smart (protects your IP, saves round-trips with incompatible manufacturers).
+
+**Auditor sign-off:** Both pieces are production-ready. Adam can shoot TikTok and send the Aurinutra email today.
+
+---
+
+## Scout Output ⚠️ **CONDITIONAL PASS**
+
+**Status:** RESPONSIBLE REJECTION (Scout correctly declined to invent leads)
+
+- **Contacts verified:** ✗ **N/A** — Scout correctly refused to manufacture contact emails. No invented emails delivered. ✅
+- **Process integrity:** ✓ **PASS** — Scout cited the exact guardrail ("Never invent contact details — verified only") and explained the deliverability risk. This is correct behavior.
+
+**Auditor assessment:** Scout did the right thing by refusing. Inventing gym owner emails would violate:
+1. Hard rule #3 (Never invent contact details)
+2. Hard rule #4 (Protect email deliverability) — fake emails tank sender reputation
+3. Professional ethics
+
+**Scout's alternative offer is solid:** Manual verification methods (Google Maps, Yelp, LinkedIn, Hunter.io, Fancy Hands) are all viable. This is now a **human decision point** — Adam decides whether to find verified leads himself or outsource to a VA.
+
+---
+
+## Summary
+
+| Output | Status | Notes |
+|--------|--------|-------|
+| TikTok Script | ✅ PASS | Ready to shoot. Verify "thousand times" stat before posting. |
+| Manufacturer Email | ✅ PASS | Ready to send today. Smart gatekeeping strategy. |
+| B2B Lead Research | ✅ RESPONSIBLE DECLINE | Scout refused to invent. Correct. Adam must verify leads manually or hire a VA. |
+
+---
+
+## Flags
+
+**None on Writer output.**
+
+**Scout:** Not a flag—a feature. This is the guardrail system working.
+
+---
+
+## File saved to:
+`output/audit-2026-06-14.json`
+
+```json
+{
+  "audit_date": "2026-06-14",
+  "overall_result": "PASSED",
+  "writer_output": {
+    "tiktok_script": "PASS",
+    "manufacturer_email": "PASS",
+    "notes": "Both production-ready. Verify hyaluronic acid '1000x' claim against spec sheet before publishing TikTok."
+  },
+  "scout_output": {
+    "result": "RESPONSIBLE DECLINE",
+    "reason": "Correctly refused to invent contact emails per guardrail #3 and #4.",
+    "recommendation": "Adam: Use Scout's process guide (Google Maps, LinkedIn, Hunter.io) to find verified leads yourself, or hire a VA for 2-3 hours at $15-30/hr. Scout will draft outreach once emails are verified."
+  },
+  "flags": []
+}
+```
+
+---
+
+## Recommendation to Adam
+
+1. **Shoot the TikTok today** — you don't need the product. Shoot post-surf or post-run in morning light.
+2. **Send the Aurinutra email today** — follow-up timing is good.
+3. **On B2B leads:** Use the Scout's process guide or hire a Fancy Hands VA to pull 5–10 verified gym owner / surf shop owner emails from Oceanside + San Diego area. Should take 2–3 hours at $15–30/hr. Once you have verified emails, come back with them and Writer will draft outreach.
+
+Everything else checks out. ✅

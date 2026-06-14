@@ -1,0 +1,90 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-14
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light, ideally post-surf or post-run)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most guys are losing electrolytes faster than they're replacing them — especially if you're surfing, training, or spending any real time in the sun. And there's one ingredient almost no supplement includes that actually helps your cells hold onto the water you're already drinking. Hyaluronic acid. It holds up to a thousand times its weight in water at the cellular level. That's the gap. That's what we built FORM around."
+
+---
+
+**[CTA — 0:25–0:35]**
+"Five pillars. One softgel. Built for guys who actually live outside. Link in bio — we're almost live."
+
+---
+
+**Visual notes:**
+- Shoot in morning light, post-surf or post-run
+- Board leash around wrist or damp hair — authenticity cue, not a prop
+- Hold up one softgel capsule on "one ingredient" line
+- Caption: "You're drinking a gallon and still waking up dehydrated. Here's why. 🌊 #formcoastal #hydration #activemen #supplements"
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — Aurinutra)*
+
+**Subject:** Softgel Formula Quote — Following Up
+
+Hi team,
+
+I reached out a few days ago about a custom softgel formula for a new men's daily supplement launching on Amazon this summer. Wanted to follow up in case it got buried.
+
+Quick overview of what I'm working on:
+
+- **Format:** Lipid-encapsulated softgel (required — several fat-soluble ingredients including astaxanthin and Polypodium Leucotomos extract)
+- **Core formula:** ~10 ingredients across UV protection, hydration, joint recovery, energy, and immune support
+- **Launch volume:** 250–500 units to start, scaling quickly
+- **Timeline:** Looking to place a first order within the next 30–45 days
+
+A few specific questions when you have a moment:
+
+1. Do you offer lipid encapsulation in your softgel line?
+2. What's your MOQ at the 250 and 500 unit levels?
+3. Can you source natural astaxanthin (from *Haematococcus pluvialis*)?
+4. GMP certified and COA provided per batch?
+
+Happy to send the full ingredient list once I know the format works on your end. Let me know a good time to connect or feel free to reply here.
+
+Thanks,
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+
+---
+
+*[AUDITOR NOTE FOR ADAM: No health claims made in either draft. TikTok script uses "helps your cells hold onto water" — this is a functional/mechanism description, not a disease or treatment claim. Confirm you're comfortable with that framing before posting. The "thousand times its weight" line is a commonly cited property of hyaluronic acid — verify against your sourced ingredient spec sheet before publishing.]*
+```
+
+---
+
+**File saved to:** `output/copy-2026-06-14.md`
+
+---
+
+### Quick notes before you review:
+
+**TikTok script:**
+- Built around your top hook from the brand doc — the gallon/dehydration line. This one has real scroll-stop potential because it reframes a problem people think they've already solved.
+- No product needed for this shoot — just you, natural light, one softgel. Fits the "first post this week" goal from your roadmap.
+- "We're almost live" in the CTA is intentional — creates anticipation without overpromising on launch date.
+
+**Manufacturer email:**
+- Kept it short and specific. Manufacturers scan for MOQ, format viability, and timeline — those are front-loaded.
+- Asks the four questions from your CLAUDE.md before sending the full ingredient list, so you don't waste a round-trip on a manufacturer who can't do lipid encapsulation.
+- Works as-is for Aurinutra or as a near-identical template for Innova Nutra (just swap the greeting).

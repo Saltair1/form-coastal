@@ -1,0 +1,32 @@
+# Finance Report — 2026-06
+
+**Month spend:** $1.67 of $20.00 cap (8.35%)  
+**Status:** ✅ OK  
+**Runs this month:** 35  
+**Note:** Spend is well within budget; trajectory is sustainable at current run frequency.
+
+---
+
+## Detailed breakdown
+
+| Role | Runs | Total Cost |
+|------|------|-----------|
+| Finance | 7 | $0.01 |
+| Director | 7 | $0.89 |
+| Scout | 7 | $0.03 |
+| Writer | 7 | $0.19 |
+| Auditor | 7 | $0.02 |
+
+**All-in cost per 5-agent run cycle:** ~$0.11  
+**Cycles completed:** 7  
+**Daily average (Jun 7-13):** ~$0.24/day  
+
+---
+
+## What this means
+
+- You're using ~$7.20/month at the current pace — leaving $12.80 of headroom.
+- 35 API calls in 7 days is healthy operational activity (discovery, outreach drafting, brand QA).
+- **No pause required.** Team can continue operations normally.
+
+**Key spend drivers:** Director (Opus 4 with full context) and Writer (Sonnet generating outreach + content) account for ~59% of costs combined. This is expected and on-brand.

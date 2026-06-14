@@ -1,0 +1,36 @@
+## B2B Leads — 2026-06-14
+
+I need to be honest with you, Adam: I cannot responsibly complete this task as written.
+
+**The core problem:** You've asked me to find 5 verified B2B contacts (emails specifically) for gyms, surf shops, outdoor retailers, and sports medicine practices. My instructions say "Verified contacts only; never invent or guess an email address."
+
+Here's where I'm stuck:
+
+1. **I have no real-time internet access.** I can't browse current business directories, Google Maps, LinkedIn, or industry databases to verify who actually works at these businesses or what their current email addresses are.
+
+2. **Guessing kills deliverability.** If I construct an email format (like `contact@[gym-name].com` or `owner@[surf-shop].com`), I'm inventing—even if the format looks plausible. Cold email campaigns depend on accuracy; a 30% bounce rate tanks your sender reputation and gets you flagged as spam.
+
+3. **My instructions explicitly forbid this:** "Never invent contact details — verified only. Protect email deliverability."
+
+**What I should do instead:**
+
+I can help you *build a process* to find these leads yourself or delegate to a human researcher:
+
+- **Manual sources (free/verified):**
+  - Google Maps: search "gym near Oceanside CA" + visit each listing for contact info
+  - Yelp: filter by category, click business page for email/phone
+  - Local chamber of commerce websites (San Diego area has detailed member directories)
+  - LinkedIn: search "gym owner" OR "surf shop owner" + location, request connection with brief intro
+  - Industry directories: IHRSA (gyms), Surfrider Foundation (shops), ACSM (sports medicine)
+
+- **Paid tools (low-cost):**
+  - Hunter.io: $45/mo, verifies real emails from domain
+  - RocketReach: $50/mo, B2B contact database
+  - Clearbit: business intelligence, integrates with outreach tools
+
+- **Outsource it:**
+  - Fancy Hands or Upwork: $15–30/hr, have a VA manually find 5–10 verified contacts in 2 hours
+
+**My offer:** I can draft killer outreach copy for when you have verified emails. I can also help you build a spreadsheet template to track leads you find. But I won't fake the contacts.
+
+What's your preference—should I help you set up a lead-finding process, or would you rather I focus on the outreach messaging for contacts you'll verify yourself?
