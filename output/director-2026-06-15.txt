@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra — confirm the right quote/sales contact and re-confirm their stated MOQ, GMP/UL status, and softgel + lipid encapsulation capability from public/verified sources only. No new cold contacts, no invented emails — this is verification only to support the G1 manufacturer quote evaluation.
+
+**Writer:** Draft a polite follow-up email to Aurinutra and Innova Nutra (DRAFT ONLY — Adam sends) nudging for their quotes, embedding the key manufacturer questions from CLAUDE.md: lipid encapsulation availability, MOQ at 250/500, GMP + COA, natural astaxanthin (Haematococcus only), and achievable collagen dose in softgel. Stage as a branch + PR, no auto-send.
+
+**Finance:** Confirm month-to-date API spend against the $20/month cap, log per-run costs, and flag remaining headroom so the team stays under budget. Pause the team if the cap is breached.
+
+**Auditor:** QA Scout's verified contact/capability findings and Writer's follow-up draft before either is used — check for accuracy, no invented contacts, no medical/health claims, on-brand voice, and CAN-SPAM compliance.
+
+**Director's note:** Today's top priority is G1 — getting real manufacturer quotes in hand from Aurinutra and Innova Nutra, since locking the formula cost and COGS is the gate that unlocks inventory, label, and launch.

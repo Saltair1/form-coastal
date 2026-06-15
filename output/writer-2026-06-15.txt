@@ -1,0 +1,104 @@
+I'll draft both pieces now and save them to the correct output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-15
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (outdoor setting — deck, beach parking lot, or post-surf)
+**Length:** ~35 seconds
+**Account:** @formcoastal
+
+---
+
+**[HOOK — 0:00–0:05]**
+> "You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+*[Camera close on Adam, direct eye contact, calm delivery. Not hype. Like he's telling a friend something true.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+> "Water alone doesn't stay. Your cells need something to hold it — that's what hyaluronic acid does. It holds up to a thousand times its weight in water at the cellular level.
+>
+> Most men's supplements skip it entirely. Ours doesn't.
+>
+> FORM is built for the guy who trains outdoors, surfs before work, and actually thinks about what he puts in his body. Five pillars — UV protection, hydration, joint recovery, clean energy, immune baseline. One softgel."
+
+*[Cut to overhead shot of ocean, back to Adam. Relaxed. No product shot needed for this post.]*
+
+---
+
+**[CTA �� 0:25–0:35]**
+> "Link in bio. And if you've been chugging water and still feeling off — now you know why."
+
+*[End on Adam. No hard sell. Let the hook do the work.]*
+
+---
+
+**Production notes:**
+- Film golden hour if possible — San Diego morning light is the brand
+- No product needed on camera for this post (pre-inventory)
+- Subtitles on (85% of TikTok watched muted)
+- No music bed under voiceover — let the delivery carry it
+- Caption: *"You're not under-hydrated. You're under-retained. 💧 #FormCoastal #HydrationHack #ActiveRecovery #SanDiego"*
+
+---
+
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Quote Request — Men's Daily Softgel, 250–500 Units (Lipid Encapsulated)
+
+---
+
+Hi [Name / Team],
+
+I sent an inquiry a couple weeks back and wanted to follow up — I'm finalizing my manufacturer shortlist this week and Aurinutra is at the top.
+
+I'm Adam Salter, founder of Form Coastal (Salt Air Industries LLC). I'm developing a men's daily supplement — 10-ingredient softgel, lipid encapsulated — targeting active outdoor men. First production run of 250–500 units.
+
+A few specific questions for your quote:
+
+1. **Lipid encapsulation** — Can you do true lipid-fill softgels (not oil-in-capsule)? Required for fat-soluble actives including astaxanthin.
+2. **Natural astaxanthin** — Do you source from *Haematococcus pluvialis* algae? Synthetic is not an option.
+3. **Collagen in softgel** — Can you hit a meaningful dose (or would you recommend UC-II at ~40mg as the joint ingredient instead)?
+4. **Polypodium Leucotomos Extract** — In your current stock or custom blend library?
+5. **MOQ at 250 units** — Is per-SKU pricing available at that volume?
+6. **Certifications** — GMP and COA per batch confirmed?
+
+Happy to share the full formula sheet if that moves things faster on your end.
+
+Timeline: I want to place a first order before end of July. If you can get me a quote in the next week, I can give you a decision quickly — I'm not slow-playing this.
+
+Thanks for your time.
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+[phone optional — Adam to add]
+
+---
+
+**⚠️ ADAM REVIEW NOTES:**
+- Add your direct phone number before sending
+- Confirm the contact name at Aurinutra if you have one — personalize the greeting
+- The Innova Nutra version of this email should be nearly identical; swap name/address only
+- Do not send until you've verified your EIN and Mercury account are open (G1 priority)
+
+---
+
+*Drafted by Form Coastal Copywriter · 2026-06-15 · Human review required before any send*
+```
+
+---
+
+**A few calls out before you review:**
+
+**On the TikTok script** — I kept the delivery calm and peer-level on purpose. The hyaluronic acid hook is your strongest differentiator and it's genuinely interesting — it earns the watch time without needing hype. No product on camera keeps it clean for pre-launch, and it fits your existing 25k audience before they even know what FORM is.
+
+**On the outreach email** — I structured it around your specific formula questions rather than a generic "I'd like to learn more" pitch. Manufacturers respond faster when you show up knowing exactly what you need. The closing line ("I'm not slow-playing this") is intentional — it signals you're a buyer, not a tire-kicker, which matters with low-MOQ vendors who get a lot of window shopping.
+
+**One flag:** Both manufacturer quotes (Aurinutra + Innova Nutra) are listed as awaiting response from June 2026 — if they haven't replied yet, this follow-up email is the right move. If they have replied, let me know and I'll draft a response to their actual quote instead.

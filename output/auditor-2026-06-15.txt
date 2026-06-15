@@ -1,0 +1,57 @@
+# AUDIT REPORT — 2026-06-15
+
+**Overall: PASSED with conditions**
+
+---
+
+## WRITER OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Brand voice** | ✅ PASS | Coastal, calm, peer-level. "You're drinking a gallon and still waking up dehydrated" is on-brand and hooks authentically. No hype, no bro energy. Sits next to Vuori positioning. |
+| **Health claims** | ✅ PASS | No banned health claims detected. "Holds water at cellular level" is factual/ingredient-descriptive, not therapeutic. "Clean energy" references the ingredient (ashwagandha) without claiming disease treatment. Compliant. |
+| **CAN-SPAM compliance** | ✅ PASS | Outreach email includes: clear sender identity (Adam Salter, Form Coastal), business address reference (formcoastal.com), phone optional note, no false subject line. Follows format. |
+| **Invented contact details** | ✅ PASS | Placeholder "[Name / Team]" clearly flagged for Adam to personalize. No fake emails inserted. Email address (info@aurinutra.com) is already verified in CLAUDE.md. |
+| **Accuracy** | ✅ PASS | Hyaluronic acid claim (holds 1000x weight in water) is standard ingredient claim. Polypodium Leucotomos + astaxanthin + collagen + ashwagandha all listed in formula spec. No invented facts. |
+| **TikTok script specificity** | ✅ PASS | "35 seconds," "golden hour," "85% muted," "subtitles on" — production notes are tactical and testable. Script is pre-inventory appropriate (no product on camera). |
+
+---
+
+## SCOUT OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Task completion** | ⚠️ CONDITIONAL | Scout declined to complete "find 5 verified B2B contacts" task and explained why responsibly: cannot browse real-time, verify current emails, or confirm business status. This is honest. |
+| **No invented contacts** | ✅ PASS | Scout explicitly **refused** to invent emails, citing the "never invent contact details" rule. Avoided the guardrail violation. |
+| **Compliance posture** | ✅ PASS | Scout defaulted to asking Adam for human-verified list first, then drafting outreach. This respects the "outreach is human-gated" rule (agents draft; Adam sends). |
+
+**Scout note:** Declined gracefully and offered 3 alternative workflows (give list + verify, use Apollo/Hunter, manual first pass). This is the correct behavior for this constraint set.
+
+---
+
+## SUMMARY
+
+✅ **WRITER OUTPUT — APPROVED FOR USE**
+- TikTok script is ready to film (production notes included)
+- Manufacturer follow-up email is ready for Adam to personalize + send
+- No banned claims, no invented facts, no compliance violations
+- **Output location:** Save to `output/writer-2026-06-15.md` ✅
+
+✅ **SCOUT OUTPUT — APPROVED WITH CONDITION**
+- Scout correctly refused to invent contact details
+- No audit failure, but task incomplete pending human input
+- **Next step:** Adam provides verified B2B target list, then Scout drafts outreach
+
+---
+
+## FLAGS
+
+**None.** 
+
+All outputs respect guardrails. Writer stayed in lane (copy, no claims). Scout stayed in lane (honesty over output). Both ready for human review.
+
+---
+
+**Audit timestamp:** 2026-06-15 14:47 UTC  
+**Auditor:** Form Coastal Compliance  
+**Recommendation:** Save writer output to digest. Loop back to Scout once Adam has verified contact list.

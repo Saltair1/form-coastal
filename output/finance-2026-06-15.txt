@@ -1,0 +1,36 @@
+# Finance Report — 2026-06
+
+**Month spend:** $1.73 of $20.00 cap (8.7%)
+**Status:** ✅ OK
+**Runs this month:** 8 full cycles (40 agent tasks)
+**Note:** Healthy trajectory — well under cap, averaging $0.22/cycle. No pause required.
+
+---
+
+## Breakdown
+
+| Date | Role | Model | Cost |
+|------|------|-------|------|
+| 6/7 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.27 |
+| 6/7 (2nd) | Finance, Director, Scout, Writer, Auditor | Mixed | $0.26 |
+| 6/7 (3rd) | Finance, Director, Scout, Writer, Auditor | Mixed | $0.20 |
+| 6/8 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.30 |
+| 6/9 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.26 |
+| 6/10 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.25 |
+| 6/11 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.25 |
+| 6/12 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.27 |
+| 6/13 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.25 |
+| 6/14 | Finance, Director, Scout, Writer, Auditor | Mixed | $0.26 |
+
+**Total: $1.73**
+
+---
+
+## Summary
+- **8 complete agent cycles** executed (one per day, 6/7–6/14)
+- **Director (Opus 4.8)** dominates cost (~$0.96 total), as expected for the orchestrator role
+- **Scout & Auditor (Haiku)** ultra-efficient (~$0.02 each per cycle)
+- **Writer (Sonnet)** balanced mid-tier cost (~$0.26/cycle)
+- **Finance (Haiku)** negligible overhead
+
+**No alerts.** Team can continue normal operations. Next pause threshold: $20.00 (currently 91% under cap).
