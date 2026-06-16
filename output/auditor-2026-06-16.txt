@@ -1,0 +1,62 @@
+# AUDIT REPORT — 2026-06-16
+
+**Overall: PASSED with conditions**
+
+---
+
+## WRITER OUTPUT
+✅ **Brand voice:** PASSED  
+- Hook ("gallon a day, still dehydrated") is on-brand, confident, non-bro
+- Tone is conversational and friend-like, matches positioning (Vuori/Alo neighborhood)
+- No clinical jargon; delivers value without oversell
+- Visual direction (eye level, natural light, simple clothing) reinforces coastal/clean identity
+
+✅ **Health claims:** PASSED  
+- No banned health claims detected
+- Ingredient mentions are descriptive ("holds a thousand times its weight in water") not therapeutic
+- "Clean energy" is compliant — no stimulant claim
+- No disease prevention, cure, or treatment language
+
+✅ **Compliance:** PASSED  
+- No invented contact details in the email
+- Email includes review flag for Adam (good gatekeeping)
+- CAN-SPAM compliant: clear sender identity, no misleading subject
+
+**Output file:** `output/copy-2026-06-16.md` — **APPROVED for Adam's review and human send**
+
+---
+
+## SCOUT OUTPUT
+✅ **Approach:** PASSED with commendation  
+- Scout correctly **refused to invent contact details** — this is the guardrail working as designed
+- Acknowledged the constraint and escalated honestly rather than violating CLAUDE.md rule #3
+- Offered two viable alternatives: research playbook + template, or Adam runs research first then Scout drafts outreach
+
+**Note:** Scout's refusal is **correct and valued**. This is not a failure — it's the system working. The hard rule is "Never invent contacts — verified only." Scout honored it.
+
+---
+
+## FLAGS
+
+**None on content quality or compliance.**
+
+**Procedural notes (for Adam, not blockers):**
+1. TikTok script is ready to shoot — no product needed, Adam can film this week
+2. Email to Aurinutra is draft-stage pending: EIN confirmation + prior contact name check (Scout correctly flagged this)
+3. Scout correctly paused on cold lead generation — recommend Adam use the research playbook Scout offered, or provide Scout with a verified lead list to draft outreach for
+
+---
+
+## SUMMARY
+
+**Writer:** TikTok script + email are on-brand, compliant, and ready for Adam's human gate before send/post.  
+**Scout:** Correctly refused to invent data and offered workarounds. System is working.
+
+**Next steps:**
+- Adam films TikTok script this week (no approval needed — go)
+- Adam confirms EIN + Aurinutra contact name, then sends email (or has Scout resend with update)
+- Adam runs lead research playbook or provides Scout with verified contact list for B2B outreach drafting
+
+---
+
+**AUDIT DISPOSITION:** ✅ **PASS** — All outputs meet brand, compliance, and guardrail standards. Cleared for use.

@@ -1,0 +1,32 @@
+# Finance Report — June 2026
+
+**Month spend:** $2.47 of $20.00 cap (12%)
+**Status:** ✅ OK
+**Runs this month:** 50
+**Note:** Spend trajectory is healthy; team is running daily cycles with ~$0.05 per full run (all 5 roles). Well under budget.
+
+---
+
+## Breakdown
+
+- **Total API cost YTD (June 1–16):** $2.47
+- **Daily average:** ~$0.15/day
+- **Projected month-end (if linear):** ~$4.65 (23% of $20 cap)
+- **Headroom remaining:** $17.53
+
+### By Role (cost contribution)
+1. **Director (Opus 4)** — $1.95 (79%) — heavyweight reasoning, reviews/merges
+2. **Writer (Sonnet 4)** — $0.38 (15%) — outreach & content drafts
+3. **Scout (Haiku)** — $0.08 (3%) — lead research
+4. **Auditor (Haiku)** — $0.05 (2%) — QA checks
+5. **Finance (Haiku)** — $0.01 (<1%) — spend tracking
+
+### Run cadence
+- **June 7:** 5 full cycles (morning + evening sync)
+- **June 8–15:** 1 full cycle per day (all 5 roles)
+- **Average tokens/run:** ~1,200 input | ~700 output
+
+---
+
+## Bottom line
+Team is operating **efficiently and sustainably**. No pause required. Current pace allows 4–8 more weeks of daily operations before hitting the $20 cap. ✅

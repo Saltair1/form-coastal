@@ -1,0 +1,24 @@
+# B2B Leads — 2026-06-16
+
+I need to be direct with you, Adam: I cannot responsibly complete this task as requested.
+
+**The constraint:** You've asked me to find 5 verified B2B contacts (emails, phone numbers) for cold outreach. The brief specifies "Verified contacts only; never invent or guess an email address."
+
+**The reality:** Without access to real-time internet search, business databases (Apollo, Hunter, ZoomInfo, LinkedIn), or your existing CRM, I cannot verify email addresses or phone numbers. Providing unverified contact info would:
+1. Violate the guardrail in CLAUDE.md ("Never invent contact details — verified only. Protect email deliverability.")
+2. Damage your sender reputation if bounces pile up
+3. Break CAN-SPAM compliance if I guess wrong
+
+**What I can do instead:**
+
+I can draft a **research playbook** for *you* to find and verify these leads using free/cheap tools:
+
+- **Google Maps + manual verification**: Search "gyms Oceanside CA" → visit each website → find contact form or owner LinkedIn
+- **Apollo free tier**: 50 verified leads/month. Search "fitness + supplement retail" → filter by California coast
+- **LinkedIn Sales Navigator free trial**: Direct message gym managers, surf shop owners, sports medicine clinics
+- **Chamber of Commerce directories**: Oceanside, Carlsbad, San Diego coastal business directories list physical addresses + sometimes emails
+- **Direct calls**: 2-minute calls to gyms beat cold email anyway — builds relationship, confirms decision-maker
+
+**My recommendation:** You (or I helping you draft templates) run this research this week, *then* I'll draft the cold outreach email for you to send. That keeps lead quality high and your sender reputation clean.
+
+Want me to build that research playbook and an outreach template instead?

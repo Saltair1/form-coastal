@@ -1,0 +1,123 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-16
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (Adam, outdoors — golden hour, post-surf or post-run)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated.
+That's not a hydration problem — that's a *retention* problem."
+
+*(Hold eye contact. Slight pause after "retention problem." Let it land.)*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your body can't hold water without the right support.
+Hyaluronic acid — the stuff that holds a thousand times its weight in water —
+is almost never in a men's supplement.
+
+Neither is anything for the UV oxidative stress you're stacking up
+every time you're outside training, surfing, or just living in the sun.
+
+We built something for that.
+Five pillars — hydration, UV protection, joint recovery, clean energy, immune support —
+in one softgel. No stim. No fluff."
+
+*(Relaxed delivery. Not a sales pitch — just talking to a friend.)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"It's called FORM.
+Link in bio — we're launching soon and keeping the first run tight.
+Get on the list."
+
+*(Slight nod, easy smile. Not urgent. Confident.)*
+
+---
+
+**Visual notes:**
+- Shoot at eye level, natural light, outdoor background (ocean, parking lot, beach path — not a gym)
+- Wear something clean and simple — Vuori, Alo, plain tee
+- No music bed needed if delivery is strong — or low acoustic/ambient underneath
+- Caption: "You're drinking a gallon and still waking up dehydrated. Here's why. 🌊 #FORM #hydration #surflife #activemen #supplement"
+
+---
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Formula Quote Follow-Up — FORM Daily Softgel (250–500 units)
+
+---
+
+Hi team,
+
+I reached out a couple weeks ago about a quote for a men's daily softgel
+formula — following up in case it got buried.
+
+Quick summary of what I'm working with:
+
+**Product:** FORM Daily Softgel — a 5-pillar men's supplement
+(UV protection, cellular hydration, joint recovery, energy/testosterone, immune support)
+
+**Key ingredients:**
+Polypodium leucotomos extract, astaxanthin (natural, *Haematococcus pluvialis* only),
+hyaluronic acid, KSM-66 ashwagandha, magnesium, collagen or boswellia,
+vitamin D3, zinc, vitamin C, B12
+
+**Format requirements:**
+- Softgel with lipid encapsulation — non-negotiable for fat-soluble ingredients
+  (astaxanthin, D3)
+- Natural astaxanthin sourcing only
+- GMP certified + COA provided
+
+**Volume:** Starting at 250–500 units. Looking to scale on reorder.
+
+**A few specific questions:**
+1. Can you hit effective dosing for hyaluronic acid and KSM-66 in a single softgel?
+2. Is collagen peptide dosing achievable in softgel format, or would you recommend
+   UC-II or boswellia as the joint ingredient?
+3. What's your lead time at 250–500 units?
+4. Are you sourcing astaxanthin naturally? Can you confirm the algae source?
+
+I'm in San Diego and looking to move quickly once I've evaluated quotes.
+Happy to jump on a call if that's easier.
+
+Thanks —
+
+— Adam Salter
+Form Coastal / Salt Air Industries LLC
+formcoastal.com
+
+---
+
+*[ADAM: Verify quote timeline and confirm EIN is on file before sending.
+Personalize opener if you have a prior contact name from the first send.]*
+
+---
+```
+
+**Output saved to:** `output/copy-2026-06-16.md`
+
+---
+
+**A few notes before you send/post:**
+
+**On the TikTok script:**
+- The hook is your proven top-line — "gallon a day, still dehydrated" is the through-line for the whole brand. Lead with it every time until it stops working.
+- Delivery should feel like a friend explaining something, not a founder pitching. The confidence comes from *not* overselling it.
+- No product needed for this shoot — this is an idea video. Film it this week.
+
+**On the email:**
+- I flagged a review note at the bottom for you in brackets — check if you had a specific contact name from the first outreach before sending.
+- The bulleted format respects manufacturer inboxes — they skim, not read.
+- "Non-negotiable" on lipid encapsulation signals you know your stuff without being aggressive.
