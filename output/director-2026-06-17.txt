@@ -1,0 +1,13 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details and any published MOQ/lead-time info for Aurinutra and Innova Nutra to confirm we have correct reply channels — no cold outreach, just confirm the verified data we already hold and flag anything stale. If both are confirmed, draft a shortlist of 1-2 additional low-MOQ GMP softgel manufacturers (verified contacts only) as backup quote sources for Adam to review.
+
+**Writer:** Draft the first FORM TikTok lifestyle post for this week (G2) — pull from the FORM TikTok Scripts doc in Drive, lead with the "drinking a gallon a day and still waking up dehydrated" hook, lifestyle/no-product framing, on-brand coastal voice, zero medical claims. Deliver as a branch + PR, not to main.
+
+**Finance:** Log today's API cost per run and report month-to-date spend against the $20/month cap. Confirm we have headroom before any further multi-agent work today; flag immediately if we're approaching the limit.
+
+**Auditor:** QA the Writer's TikTok draft before it goes anywhere — check it's on-brand, names the product as "FORM," uses "Form Coastal" only for handles/digital, contains no health/medical claims, and honors all guardrails. Block if anything fails.
+
+**Director's note:** Today's top priority is G1 — the manufacturer quotes are the gate to everything downstream (formula lock, label, inventory, Amazon), so confirming our verified manufacturer contacts and quote-readiness comes first while we parallel-track the no-cost G2 TikTok launch.
+
+Note: The Mercury bank account and EIN steps (immediate next steps #1-2) are human-gated actions Adam must complete himself — I'm not assigning those to agents, but flagging that they remain the critical-path blocker for G1.

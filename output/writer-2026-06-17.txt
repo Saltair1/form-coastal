@@ -1,0 +1,139 @@
+I'll draft both now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-17
+
+---
+
+## TikTok Script — "The Gallon Problem"
+Format: Talking head (outdoor / natural light, ideally post-surf or post-run)
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+**[VALUE — 0:05–0:25]**
+"There's an ingredient called hyaluronic acid — your body uses it to hold water at the cellular level. It holds up to a thousand times its weight in water. But most guys have never heard of it because it shows up in skincare, not supplements.
+
+I built FORM around it. Five pillars — hydration, UV protection, joint recovery, clean energy, immune support — one softgel. For the guy who trains outside every day and actually gives a damn about what goes in his body."
+
+**[CTA — 0:25–0:35]**
+"Follow if you want to see how it's built. Dropping on Amazon soon."
+
+*[On-screen text: "1000x its weight in water" / "@formcoastal" / "Link in bio"]*
+
+---
+
+## B2B Outreach Email — DRAFT
+*(For manufacturer follow-up — Aurinutra or Innova Nutra)*
+
+**Subject:** Softgel Formula Quote — Following Up
+
+Hi [Name],
+
+I submitted a quote request through [your site / email] a couple weeks ago and wanted to follow up directly.
+
+I'm Adam — founder of Form Coastal, based in Oceanside, CA. I'm developing a men's daily supplement called FORM: a 10-ingredient, 5-pillar softgel targeting active outdoor men. Think surfers, lifters, guys who train outside year-round.
+
+A few specifics I'd love to confirm on your end:
+
+- **Lipid encapsulation** — required. The formula includes astaxanthin and D3, both fat-soluble. True lipid encapsulation is non-negotiable for bioavailability.
+- **Natural astaxanthin** — sourced from *Haematococcus pluvialis* only. Synthetic is not an option.
+- **Collagen dose** — can you hit 2.5–5g in softgel format? If not, we'd substitute boswellia.
+- **MOQ** — we're looking at 250–500 units for the first run.
+- **Certifications** — GMP + COA required.
+
+Happy to send the full ingredient list if that's easier. Looking to lock the formula in the next few weeks and place the first order shortly after.
+
+Do you have time for a quick call this week or next?
+
+Thanks,
+
+— Adam
+Form Coastal
+[phone]
+formcoastal.com
+
+---
+
+*All copy drafted for Adam Salter review. No health claims made. Human sends.*
+```
+
+Saving to file now.
+
+```bash
+mkdir -p output && cat > output/copy-2026-06-17.md << 'EOF'
+# Form Coastal Copy Drafts — 2026-06-17
+
+---
+
+## TikTok Script — "The Gallon Problem"
+Format: Talking head (outdoor / natural light, ideally post-surf or post-run)
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+**[VALUE — 0:05–0:25]**
+"There's an ingredient called hyaluronic acid — your body uses it to hold water at the cellular level. It holds up to a thousand times its weight in water. But most guys have never heard of it because it shows up in skincare, not supplements.
+
+I built FORM around it. Five pillars — hydration, UV protection, joint recovery, clean energy, immune support — one softgel. For the guy who trains outside every day and actually gives a damn about what goes in his body."
+
+**[CTA — 0:25–0:35]**
+"Follow if you want to see how it's built. Dropping on Amazon soon."
+
+[On-screen text: "1000x its weight in water" / "@formcoastal" / "Link in bio"]
+
+---
+
+## B2B Outreach Email — DRAFT
+*(For manufacturer follow-up — Aurinutra or Innova Nutra)*
+
+**Subject:** Softgel Formula Quote — Following Up
+
+Hi [Name],
+
+I submitted a quote request through [your site / email] a couple weeks ago and wanted to follow up directly.
+
+I'm Adam — founder of Form Coastal, based in Oceanside, CA. I'm developing a men's daily supplement called FORM: a 10-ingredient, 5-pillar softgel targeting active outdoor men. Think surfers, lifters, guys who train outside year-round.
+
+A few specifics I'd love to confirm on your end:
+
+- **Lipid encapsulation** — required. The formula includes astaxanthin and D3, both fat-soluble. True lipid encapsulation is non-negotiable for bioavailability.
+- **Natural astaxanthin** — sourced from Haematococcus pluvialis only. Synthetic is not an option.
+- **Collagen dose** — can you hit 2.5–5g in softgel format? If not, we'd substitute boswellia.
+- **MOQ** — we're looking at 250–500 units for the first run.
+- **Certifications** — GMP + COA required.
+
+Happy to send the full ingredient list if that's easier. Looking to lock the formula in the next few weeks and place the first order shortly after.
+
+Do you have time for a quick call this week or next?
+
+Thanks,
+
+— Adam
+Form Coastal
+[phone]
+formcoastal.com
+
+---
+
+*All copy drafted for Adam Salter review. No health claims made. Human sends.*
+EOF
+```
+
+---
+
+**A few notes for Adam before you review:**
+
+**On the TikTok script:**
+- The hook is your top marketing line verbatim — it's proven framing, use it
+- "Retention problem" is the reframe that earns attention; it positions you as someone who actually knows the science without sounding clinical
+- No product needed to film this — talking head, post-surf or post-run, natural Oceanside light does the work
+- You can swap "Follow if you want to see how it's built" for "Link in bio" once you have a landing page live
+
+**On the B2B email:**
+- Kept it tight — manufacturers get long RFQs all day, this one gets to the point fast
+- The bullet format signals you know what you want, which builds credibility with a first-time vendor
+- Fill in `[Name]`, `[your site / email]`, and `[phone]` before sending
+- Send separately to Aurinutra and Innova Nutra — don't CC both

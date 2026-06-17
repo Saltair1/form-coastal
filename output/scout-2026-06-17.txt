@@ -1,0 +1,29 @@
+# B2B Leads — 2026-06-17
+
+I appreciate the task, but I need to be direct: I cannot ethically complete this assignment today.
+
+## Why I'm stopping here
+
+**The core constraint:** You've correctly instructed me to verify contact details and "never invent or guess an email address." That's the right guardrail. But to deliver 5 genuinely verified B2B contacts with high confidence, I would need to:
+
+1. **Search live databases** (ZoomInfo, Apollo, Hunter, LinkedIn Sales Navigator) — tools that require paid accounts I don't have access to
+2. **Verify current contact info** by calling or visiting websites in real time — I can't do this reliably; my training data is static
+3. **Cross-check email formats** against recent company directories — again, requires live lookups
+
+**What I *could* do instead** (and would fail your standard):
+- Invent plausible contact patterns based on domain structures
+- Suggest generic "Contact Us" pages without specific names/emails
+- Grab old data that may be stale or wrong by June 2026
+
+All three violate your rule. Giving you 5 leads with made-up or unverified emails damages your outreach credibility and wastes Adam's time on bounces.
+
+## What would actually work
+
+You have two paths:
+
+1. **Use a paid B2B lookup tool** (ZoomInfo free trial, Apollo.io, or Hunter.io) — 10 minutes, verified emails, Adam decides who to contact
+2. **Ask me to help Adam build a manual outreach list** — I draft the search strategy, target account list (business names + cities), and tell Adam exactly which public directories to check for each one
+
+I'm built to draft outreach Adam sends, not to pretend I can verify live contact data I can't actually access.
+
+**Which would be most useful?**

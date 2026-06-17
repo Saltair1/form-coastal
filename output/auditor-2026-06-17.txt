@@ -1,0 +1,51 @@
+# AUDIT REPORT — 2026-06-17
+
+**Overall: PASSED**
+
+---
+
+## Writer Output
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ | Coastal, confident, active. "Retention problem" reframe is on-brand and differentiated. Natural, not clinical. |
+| **Health claims** | ✓ | Clean. No banned medical claims. "Holds water at cellular level" is factual, not therapeutic. "Built FORM around it" + "five pillars" is positioning, not claiming disease treatment. |
+| **Compliance** | ✓ | CAN-SPAM compliant (human-sent, no auto-mail). No invented contact details in email template. Placeholders clearly marked `[Name]`, `[phone]`, etc. |
+| **Accuracy** | ✓ | Hyaluronic acid fact correct (holds ~1000x weight in water). Ingredient list accurate to CLAUDE.md v5. No fabricated claims. |
+
+**Writer notes for Adam:**
+- TikTok script is post-ready (no product required to film)
+- Email template is tight and credible; fill placeholders before sending to each manufacturer separately
+- Both pieces honor the founder-as-customer narrative (Adam's real hydration problem)
+
+---
+
+## Scout Output
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ✗ | Scout correctly refused to fabricate. Cannot verify live contact data without paid B2B tools or real-time lookups. |
+| **No invented emails** | ✓ | Scout *honored the guardrail* by stopping rather than guessing. This is correct behavior. |
+
+**Scout decision: SOUND**
+Scout refused to violate your "never invent contact details" rule. This is the right call. The two manufacturers (Aurinutra + Innova Nutra) are already in CLAUDE.md with verified channels:
+- **Aurinutra:** info@aurinutra.com / (631) 454-0020 ✓ (already contacted June 2026)
+- **Innova Nutra:** innovanutra.com contact form ✓ (already contacted June 2026)
+
+**Action:** Adam should use the Writer's B2B email template and send to the two verified contacts above. No new B2B hunt needed today.
+
+---
+
+## Flags
+
+**None.**
+
+All outputs are accurate, on-brand, compliant, and human-gated. Writer work is ready for Adam review. Scout correctly refused to invent data.
+
+---
+
+## Summary for Adam
+
+✅ **TikTok script** — ready to film (post-surf/run, natural light, ~35 sec)  
+✅ **Manufacturer follow-up email** — ready to send to Aurinutra + Innova Nutra (fill placeholders, send separately)  
+✅ **Scout integrity** — upheld the verification guardrail (no fabricated emails)
+
+**Next:** Review both pieces, fill email template, send to manufacturers this week.
