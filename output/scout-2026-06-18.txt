@@ -1,0 +1,46 @@
+# B2B Lead Scout Report — 2026-06-18
+
+I need to be direct: **I cannot complete this task as specified.**
+
+Here's why:
+
+## The constraint
+You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with **no invented emails**. That's the right guardrail — deliverability matters, and CLAUDE.md explicitly forbids guessing contact details.
+
+**The problem:** I don't have real-time internet access. I cannot:
+- Verify current business contact info
+- Check if emails are still active
+- Confirm phone numbers or contact methods
+- Ensure the people/roles I find are real and current as of June 2026
+
+Publishing unverified contacts as "qualified leads" would violate the spirit of the rule, even if I frame them as "research starting points."
+
+## What I can do instead
+
+**Option A: Provide research framework + verified-only sources**
+I can draft a repeatable outreach template and list *public channels* you (Adam) can verify in <30 minutes:
+- LinkedIn direct search (gym owners, retail managers)
+- Local Chamber of Commerce directories (Oceanside, San Diego County)
+- Yelp/Google Maps (surf shops, outdoor retailers with phone numbers you can call)
+- Sports medicine clinic websites (contact forms, staff directories)
+
+**Option B: Wait for you to provide a list**
+If you have 5 businesses in mind or a spreadsheet of prospects, I can help you:
+- Draft outreach copy
+- Qualify fit against the formula
+- QA contact info for accuracy
+
+## Recommendation
+Given FORM's stage (pre-launch, manufacturer quotes pending), **B2B outreach might be premature anyway.** You don't have:
+- Product imagery or samples yet
+- Amazon listing live
+- Retail packaging
+
+Standard B2B wholesale approach: list live + reviews → then approach retailers with proof of traction. 
+
+**Should I pivot to something more immediate?** G1–G3 priorities:
+- Mercury business banking (open TODAY)
+- TikTok first post as FORM (this week)
+- Helium 10 Cerebro analysis (free trial, starts immediately)
+
+Want me to draft the Mercury application or the TikTok script instead?

@@ -1,0 +1,30 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.29 of $20.00 cap (16.4%)
+**Status:** ✅ OK
+**Runs this month:** 55
+**Note:** Steady daily cadence since June 7; trajectory well within budget. No pause required.
+
+---
+
+## Breakdown
+
+| Role | Model | Calls | Total Cost |
+|------|-------|-------|-----------|
+| Finance | claude-haiku-4-5-20251001 | 11 | $0.02 |
+| Director | claude-opus-4-8 | 11 | $1.40 |
+| Scout | claude-haiku-4-5-20251001 | 11 | $0.02 |
+| Writer | claude-sonnet-4-6 | 11 | $0.32 |
+| Auditor | claude-haiku-4-5-20251001 | 11 | $0.05 |
+
+**Director (Opus)** accounts for 43% of spend — expected, given context window size and task complexity.  
+**Writer (Sonnet)** is second at 10% — efficient for draft copy and scripts.  
+**Finance, Scout, Auditor (Haiku)** combined: 3% — lightweight roles running lean.
+
+---
+
+## Trajectory
+11 days of operations, 55 API calls total = **5 calls/day average** (one complete agent cycle per day).  
+At this pace, June will close around **$5–6 total**, leaving comfortable headroom for any spike in July.
+
+**No action required. Team cleared to continue operations.**

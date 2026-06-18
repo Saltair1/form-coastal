@@ -1,0 +1,13 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (confirm info@aurinutra.com / (631) 454-0020 still active) and Innova Nutra — and source 1-2 additional low-MOQ GMP softgel manufacturers with lipid encapsulation capability as backup quote options. Verified contacts only; draft nothing for sending.
+
+**Writer:** Draft Adam's first FORM TikTok post for this week (G2) — lifestyle content, no product needed, pulling from the TikTok Scripts doc in Drive. On-brand coastal/clean voice, no health claims. Draft only — Adam posts.
+
+**Finance:** Confirm current month-to-date API spend against the $20 cap and log per-run cost. Flag immediately if we cross 75% so we throttle before the Finance pause triggers.
+
+**Auditor:** QA Writer's TikTok draft before it reaches Adam — check brand voice, FORM (one word) usage, and zero medical/health claims. Also re-confirm the manufacturer-question checklist (lipid encapsulation, MOQ 250/500, GMP+COA, natural astaxanthin, collagen dose) is ready for when quotes land.
+
+**Director's note:** Today's top priority is G1 — keeping the manufacturer quote pipeline alive by verifying Aurinutra/Innova contacts and lining up backups, since received-and-evaluated quotes are the gating step before we can lock formula, order inventory, and unlock everything downstream.
+
+(Note: opening Mercury and getting the EIN are G1 actions but human-gated to Adam — I've assigned the agent-executable G1 work and queued the G2 TikTok task in parallel since it needs no product. No PRs to merge today; reminder that any CLAUDE.md, roles.json, or workflow changes must go to Adam by hand.)

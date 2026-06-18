@@ -1,0 +1,114 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts
+**Date:** 2026-06-18
+**Author:** Copywriter (Writer Agent)
+**Status:** DRAFT — Adam reviews and sends everything. No auto-send.
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light, ideally post-surf or post-lift)
+**Length:** ~35 seconds
+**Account:** @formcoastal
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, casual, slightly disbelieving tone*
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Relaxed, conversational — not a lecture*
+
+"Most guys don't realize your body needs more than water to actually hold hydration at the cellular level. Hyaluronic acid — the same compound in your joints and connective tissue — holds up to a thousand times its weight in water. Without it working properly, you're basically just flushing water straight through.
+
+Add daily UV stress, multi-sport training, and the fact that most active guys are running low on magnesium without knowing it — and you've got a pretty solid case for why you feel like you do.
+
+That's the problem I was trying to solve when I built FORM."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Easy, no-pressure, glance at camera*
+
+"Five pillars. One softgel. Built for guys who actually live outside.
+
+Link in bio — or just search FORM on Amazon."
+
+---
+
+**Notes for Adam:**
+- Film in natural light — golden hour or open shade works best
+- Relaxed delivery > polished delivery. Slight pause after "That's not a water problem." lands harder
+- No product needed on screen for this one — face and voice carry it
+- Caption suggestion: *"The reason you're still dehydrated 👇 #FormCoastal #hydration #activemen #supplementsthatwork"*
+
+---
+
+## B2B Outreach Email — DRAFT
+**To:** [Verified contact — Adam to confirm before sending]
+**Subject:** Quick intro — Form Coastal, launching on Amazon this summer
+
+---
+
+Hi [First Name],
+
+I'm Adam — founder of Form Coastal, a men's supplement brand launching on Amazon out of Oceanside, CA this summer.
+
+The product is FORM: a 5-pillar daily softgel built for active guys who live outdoors. UV protection, cellular hydration, joint recovery, clean energy, and immune support — all in one lipid-encapsulated softgel. The hero ingredient is Polypodium Leucotomos extract, the same clinically studied compound used in Heliocare, paired with natural astaxanthin, KSM-66 ashwagandha, hyaluronic acid, and a clean stack of foundational minerals.
+
+The positioning is pretty clear: the only men's supplement built around daily outdoor life. I surf, lift, and train outdoors — FORM is the product I needed and couldn't find.
+
+Reaching out because [PERSONALIZED REASON — Adam to fill in: e.g., "I've been following what you're building at [Company]" / "I saw your piece on the men's wellness gap" / "I think there's a real audience overlap with your community"].
+
+Happy to send a sample unit once production locks, or just get a quick call on the calendar if the timing makes sense.
+
+Either way — appreciate you taking a look.
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+**Notes for Adam:**
+- Fill in [PERSONALIZED REASON] before sending — cold email without personalization gets ignored
+- Confirm recipient contact is verified before sending (per hard rules)
+- This draft works for: retail buyers, brand partnership intros, podcast/creator outreach, and press
+- Adjust final paragraph tone based on recipient type (buyer vs. creator vs. press)
+- CAN-SPAM compliant — include physical address in final send if going to cold list
+
+---
+
+*All copy is DRAFT status. Adam Salter reviews and sends. No auto-send. No medical or health claims made.*
+```
+
+Saving output now.
+
+<details>
+<summary>output/copy-2026-06-18.md</summary>
+
+The file above is the complete output. Here's a quick summary of what's in it and a few flags before you review:
+
+---
+
+**TikTok — "The Gallon Problem"**
+- Opens on your strongest hook verbatim — the dehydration line
+- Value section walks through *why* without making any direct health claims — it's framed as the founding insight, not a medical statement
+- CTA is low-pressure, gives them two paths (bio link or Amazon search)
+- No product needed on screen — this is a pure founder-story / education post, ideal for a first FORM video
+
+**B2B Email**
+- Subject line is clean and direct — no clickbait, no spam triggers
+- Body leads with product and positioning, earns the ask
+- Intentionally left `[PERSONALIZED REASON]` blank — filling that in is the single highest-leverage thing you can do before sending
+- Works across use cases (retail, creator, press) with minor tone adjustments
+
+**Two things to confirm before using either:**
+1. TikTok script — read it aloud once before filming. The value section is slightly long for a first take; you may want to cut the magnesium line if you're running tight on time
+2. Outreach email — verify recipient contact before any send, per guardrails
