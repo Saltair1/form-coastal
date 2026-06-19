@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra, and confirm whether a third low-MOQ, GMP-certified softgel manufacturer with lipid encapsulation should be qualified as backup — verified contacts only, no invented details, draft for Adam to review.
+
+**Writer:** Draft a polite quote follow-up email to Aurinutra and Innova Nutra (sent June 2026, awaiting response) using the key manufacturer questions from CLAUDE.md — lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel. DRAFT ONLY — Adam sends. No medical claims.
+
+**Finance:** Confirm month-to-date API spend against the $20/month cap, log per-run cost for today, and verify we have budget headroom for the Helium 10 free trial (immediate step #4) and the upcoming Amazon Seller ($39/mo) signup — flag immediately if approaching the cap.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts before they reach Adam — check brand voice, factual accuracy against the v5 Master Brand Document, that all key manufacturer questions are included, and zero banned medical/health claims.
+
+**Director's note:** Today's top priority is G1 — getting manufacturer quotes moving (follow-ups drafted, contacts verified) since locked formula pricing gates inventory, label design, and every downstream launch step; Mercury account opening and EIN remain Adam's manual actions to complete.

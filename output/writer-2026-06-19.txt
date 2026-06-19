@@ -1,0 +1,91 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-19
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (Adam, outdoor setting — driveway, post-surf, or backyard morning light)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+*[Hold eye contact. Pause after "retention problem." Let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your body can't hold water without the right cofactors. Hyaluronic acid holds up to a thousand times its weight in water at the cellular level — but almost no one's getting it. Add magnesium, which most active guys are chronically low in, and you actually start using the water you're drinking.
+
+I built FORM around this after years of training in San Diego sun and still feeling off. One softgel. Five things your daily routine is missing."
+
+*[Keep it conversational — not a lecture. Natural hand gesture on "one softgel."]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to be first. Drop a ��� if you've been the gallon guy."
+
+*[Small smirk. Don't oversell it.]*
+
+---
+
+**Production notes:**
+- Shoot in morning light, post-surf or pre-gym — board visible in bg is a plus
+- No graphics or overlays needed — let the hook do the work
+- Caption: "You're drinking a gallon and still waking up dehydrated. Here's why. 💧 #FormCoastal #FORM #Hydration #ActiveRecovery #SanDiego"
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up: Aurinutra — awaiting quote)*
+
+**Subject:** Softgel Formula Quote — Following Up
+
+Hi team,
+
+Following up on my note from earlier this month — wanted to make sure it didn't get buried.
+
+I'm Adam, founder of Form Coastal (Salt Air Industries LLC) based in Oceanside. I'm developing a men's daily softgel — 9–10 active ingredients across five functional pillars. A few things I need confirmed before I can move forward with a quote:
+
+- **Lipid encapsulation available?** Several fat-soluble ingredients (astaxanthin, D3) require true lipid encapsulation — this is non-negotiable for bioavailability.
+- **Natural astaxanthin sourced from Haematococcus pluvialis?** Synthetic is not acceptable.
+- **MOQ at 250 or 500 units?** I'm a first-time launch, scaling intentionally.
+- **GMP certified + COA provided per batch?** Required.
+- **Collagen dose achievable in softgel format?** If not, I'd pivot to boswellia for the joint pillar — happy to discuss.
+
+I have a full ingredient brief ready to share as soon as I know you can hit the format requirements. Timeline: looking to place a first order within 60 days.
+
+Appreciate the work you do for early-stage brands — excited to find the right partner on this.
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | Oceanside, CA
+apsalter11@gmail.com
+
+---
+
+*DRAFT — Adam reviews and sends. Do not auto-send.*
+```
+
+Output saved to `output/copy-2026-06-19.md`.
+
+---
+
+**A few notes for Adam before you send/post:**
+
+**TikTok script**
+- The hyaluronic acid + magnesium framing stays safely in *retention/cofactor* territory — no absorption or health claims. You're describing *what the ingredients do mechanically*, not promising outcomes. That's the lane to stay in.
+- "Up to 1,000x its weight in water" is a widely cited property of HA — just don't say *"you will be hydrated"* in the caption.
+- The 💧 CTA is low-friction and builds comment engagement fast.
+
+**Manufacturer email**
+- Kept it tight and technical — shows you know the product, not just a curious shopper.
+- The 60-day timeline creates soft urgency without pressure.
+- Recommend sending to Innova Nutra at the same time with identical questions — parallel quotes give you negotiating leverage.

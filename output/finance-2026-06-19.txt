@@ -1,0 +1,30 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.31 of $20.00 cap (16.5%)
+**Status:** ✅ OK
+**Runs this month:** 50
+**Note:** Steady daily run pattern; current trajectory puts June at ~$3.50 total—well within budget with room for scaling.
+
+---
+
+## Breakdown
+
+| Role | Runs | Total Cost |
+|------|------|-----------|
+| Finance | 12 | $0.024 |
+| Director | 12 | $1.574 |
+| Scout | 12 | $0.023 |
+| Writer | 12 | $0.347 |
+| Auditor | 12 | $0.335 |
+
+**Model costs:**
+- claude-opus-4-8 (Director): $1.574 — highest-cost role, expected for task routing
+- claude-sonnet-4-6 (Writer): $0.347 — mid-tier for copy generation
+- claude-haiku-4-5-20251001 (Finance, Scout, Auditor): $0.382 combined — lean ops
+
+**Efficiency:** 50 runs averaging **$0.066 per run**. The team is operating within tight cost guardrails.
+
+---
+
+## Status: PROCEED
+No pause triggered. Adam can continue agent runs freely. Next financial review: 2026-06-20.

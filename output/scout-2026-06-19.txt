@@ -1,0 +1,43 @@
+## B2B Leads — 2026-06-19
+
+I need to pause here and be direct with you, Adam.
+
+I cannot complete this task as specified today because **I lack verified contact data** for specific B2B prospects. My training data has a June 2024 cutoff, and I don't have real-time access to:
+
+- Current gym/surf shop owner directories
+- Active email addresses for sports medicine practices
+- Live retailer contact databases
+- Verified phone numbers or email formats for specific locations
+
+**The guardrail is absolute**: "Never invent contact details — verified only. Protect email deliverability."
+
+If I generate names and addresses from my training knowledge, I risk:
+1. **Outdated or wrong contact info** (businesses close, owners change, emails become invalid)
+2. **Bouncebacks that hurt your sender reputation** on cold outreach
+3. **CAN-SPAM violations** if emails are guessed/wrong
+
+### Here's what I recommend instead:
+
+**Option A — Use a verified B2B database** (1–2 hours, one-time cost ~$50–200):
+- ZoomInfo, Hunter.io, Apollo, or Clearbit for gym/retail owner emails by location/industry
+- Filter: California coastal gyms, surf shops, sports medicine practices
+- Export verified emails; I'll help draft the outreach once you have real contacts
+
+**Option B — Local research first** (30 mins, free):
+- Google Maps: "gyms near Oceanside CA," "surf shops San Diego," "sports medicine Carlsbad"
+- Visit 3–5 websites, find "Contact Us" pages, grab verified emails
+- Send me the list; I'll qualify and help you draft outreach
+
+**Option C — LinkedIn Sales Navigator** ($50/mo):
+- Search "gym owner" + "San Diego area"
+- Verify email via LinkedIn or business website
+- Same process: list → qualification → draft
+
+### What I can do right now:
+
+Once you provide **verified contact info** (name, business, email), I'll:
+1. ✅ Qualify fit (FORM product-market alignment)
+2. ✅ Draft personalized cold email
+3. ✅ Structure it into `output/leads-2026-06-19.json` with high confidence ratings
+
+**Should I wait for you to source verified emails, or would you prefer I draft a cold email template you can customize for manual outreach?**
