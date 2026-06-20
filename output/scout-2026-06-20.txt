@@ -1,0 +1,28 @@
+## B2B Leads — 2026-06-20
+
+I need to pause here and be direct: **I cannot complete this task as requested.**
+
+Here's why:
+
+1. **No verified contact access**: I don't have real-time internet access to validate gym names, surf shops, outdoor retailers, or sports medicine practices in specific locations, nor can I verify current email addresses or contact details for real businesses.
+
+2. **"Never invent emails" guardrail**: This is a hard rule in CLAUDE.md. Finding 5 high-fit B2B prospects *without inventing contact info* requires me to either:
+   - Query live business databases (not available to me)
+   - Browse current websites and verified contact pages (I can't browse in real-time)
+   - Cross-reference public directories with 2026 accuracy (I have knowledge cutoff limitations)
+
+3. **Risk of deliverability harm**: If I guess or construct plausible-sounding email addresses, I violate the guardrail AND damage Form Coastal's sender reputation when cold outreach bounces.
+
+---
+
+## What I can do instead:
+
+**Option A**: I can draft a **Scout work plan** — specific search criteria (gym chains in Southern California, independent surf shops in San Diego County, sports medicine clinics near coastal areas) with instructions for *you or Adam* to manually verify contacts via:
+- Google Maps + business websites
+- LinkedIn Sales Navigator
+- Apollo.io or ZoomInfo (paid tools with verified databases)
+- Direct phone calls to confirm contact names
+
+**Option B**: If you provide me with a **list of business names you've already identified**, I can evaluate their fit against the FORM customer profile and draft outreach copy for Adam to send.
+
+Which would be more useful?

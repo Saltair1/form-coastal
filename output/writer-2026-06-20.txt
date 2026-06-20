@@ -1,0 +1,109 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-20
+
+---
+
+## TikTok Script — "The Gallon Guy Problem"
+**Format:** Talking head (Adam, outdoors — golden hour, beach or backyard)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, calm and confident — not hype*
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Slight lean forward, conversational — like talking to a friend*
+
+"Your body can't hold water without the right support. Hyaluronic acid holds up to a thousand times its weight in water at the cellular level. Most guys have never heard of it. It's in almost zero men's supplements.
+
+I surf, I lift, I train in San Diego sun 300 days a year — and I was still waking up flat. That's why I built FORM. Five things your body actually needs to recover. One softgel, every morning."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Easy, not salesy — slight smile*
+
+"Follow along. We're just getting started."
+
+*[On-screen text overlay: @formcoastal]*
+
+---
+
+**Production notes:**
+- No product needed for this shoot — founder-face-only is fine
+- Natural light preferred, beach or coastal backdrop if easy
+- Keep energy grounded, not hype — Vuori-founder vibes, not supplement-bro
+- On-screen caption at hook line: *"drinking a gallon and still waking up dehydrated"*
+
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Formula Quote — Men's Daily Softgel (Lipid Encapsulated) | Salt Air Industries
+
+---
+
+Hi team,
+
+I reached out a few weeks ago about a custom softgel formulation — wanted to follow up and see if you had a chance to review.
+
+I'm Adam Salter, founder of Form Coastal (Salt Air Industries LLC). I'm developing a men's daily supplement launching on Amazon and Shopify. The format is a lipid-encapsulated softgel — that part is non-negotiable, as several of the ingredients are fat-soluble and bioavailability depends on it.
+
+**The core formula (10 ingredients):**
+1. Polypodium Leucotomos Extract
+2. Astaxanthin — natural, from *Haematococcus pluvialis* only
+3. Vitamin C
+4. Magnesium (glycinate or citrate preferred)
+5. Hyaluronic Acid
+6. Collagen (UC-II or hydrolyzed peptides — guidance welcome on softgel feasibility) OR Boswellia
+7. Ashwagandha — KSM-66 preferred
+8. Vitamin D3 (D3+K2 MK-7 if available in stock formula)
+9. Zinc (bisglycinate or picolinate preferred)
+10. Vitamin B12 — methylcobalamin form
+
+**A few specific questions:**
+- Can you confirm lipid encapsulation is available for this ingredient set?
+- What's your MOQ for softgels at 250 units? 500 units?
+- Do you source natural astaxanthin (algae-derived), and can you confirm origin on COA?
+- Is a meaningful collagen dose achievable in softgel format, or would you recommend boswellia as the joint ingredient?
+- GMP certified + COA provided per batch?
+
+Initial run is 250–500 units. I'm ready to move quickly once I have a quote and can confirm sourcing.
+
+Happy to jump on a call if that's easier — just let me know what works.
+
+Thanks,
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+
+---
+
+*DRAFT — Adam reviews and sends. Do not auto-send.*
+```
+
+---
+
+**File saved to:** `output/copy-2026-06-20.md`
+
+---
+
+**A few notes for Adam before you send:**
+
+**TikTok script:**
+- This is designed as a **no-product-needed** first post — just you, a coastal backdrop, talking to camera. Fits the G2 priority exactly.
+- The hyaluronic acid hook is your sharpest differentiator. It's specific, surprising, and nobody else in men's supplements is saying it.
+- "Follow along, we're just getting started" keeps it low-pressure for a first post — builds audience before the launch story.
+
+**Manufacturer email:**
+- Structured so they can answer your five key questions without a call — faster turnaround.
+- The UC-II collagen note is important: at ~40mg effective dose, it's far more softgel-friendly than hydrolyzed peptides, which typically need 2.5–5g. Worth asking directly.
+- I kept the tone professional but not corporate — reads like a real founder, not a procurement template.

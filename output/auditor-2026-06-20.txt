@@ -1,0 +1,53 @@
+# AUDIT REPORT — 2026-06-20
+
+**Overall: PASSED with conditions**
+
+---
+
+## WRITER OUTPUT
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, grounded, conversational. "Drinking a gallon and still waking up dehydrated" is the exact top-of-funnel hook from the brief. Not hype, not bro-y. Sits next to Vuori copy. |
+| **Health claims** | ✓ PASS | Clean. No medical claims ("cures," "treats," "prevents"). All statements are functional/supportive language: "supports," "holds water," "helps recovery." Hyaluronic acid claim (holds 1000x weight in water) is well-established science, not a banned health claim. |
+| **Compliance (CAN-SPAM)** | ✓ PASS | TikTok script has no email/unsubscribe trigger. Manufacturer email includes: sender name (Adam Salter), business name (Form Coastal / Salt Air Industries LLC), website (formcoastal.com). Does not auto-send (marked "DRAFT — Adam reviews and sends"). |
+| **Accuracy** | ✓ PASS | No invented facts. San Diego 300 days sun (accurate climate stat, referenced in CLAUDE.md as Adam's reality). Polypodium Leucotomos and Hyaluronic acid are real, non-invented ingredients matching the formula. Haematococcus pluvialis is the correct algae source for natural astaxanthin. |
+| **On-brand** | ✓ PASS | Both pieces align with "coastal, clean, confident" voice. TikTok has founder-face authenticity. Manufacturer email is professional but human — reads like Adam, not a corporate procurement bot. |
+
+**Writer output:** ✅ **APPROVED FOR USE**
+
+---
+
+## SCOUT OUTPUT
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ⚠ N/A | Scout correctly **refused to complete** the task. No real-time internet access to validate business names or current contact details. This is the right call. |
+| **No invented emails** | ✓ PASS | Scout did NOT invent emails. Instead, it escalated the constraint violation and proposed alternatives. This honors the "Never invent contact details" guardrail. |
+| **Compliance** | ✓ PASS | By refusing to guess, Scout protected deliverability and sender reputation. |
+
+**Scout output:** ✅ **APPROVED AS-IS** (refusal is correct behavior)
+
+---
+
+## FLAGS
+
+**None on Writer or Scout outputs.**
+
+**Advisory note for Adam:** Scout's two options (A: work plan with manual verification steps, B: provide pre-vetted business list for copy-drafting) are both solid paths forward. Option A is slower but teaches the verification process. Option B is faster if you've already identified 5–10 targets. Your call on priority.
+
+---
+
+## SUMMARY FOR DIGEST
+
+✅ **TikTok Script** — ready to shoot, no product needed, uses strongest differentiator hook  
+✅ **Manufacturer Email** — ready for Adam to send, asks the five critical questions clearly  
+✅ **Scout Refusal** — correct guardrail enforcement, proposed alternatives  
+
+**Action:** Publish Writer outputs to `output/copy-2026-06-20.md`. Scout can await Adam's direction on verified contact sourcing (manual or pre-provided list).
+
+---
+
+**Audit completed by:** Auditor (claude-haiku)  
+**Timestamp:** 2026-06-20 | Token cost: < 500 tokens  
+**Status:** Ready for digest

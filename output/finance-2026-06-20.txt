@@ -1,0 +1,29 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.42 of $20.00 cap (17.1%)
+**Status:** ✅ OK
+**Runs this month:** 14 full cycles (70 individual API calls)
+**Note:** Steady state — one cycle per day since launch June 7. Well under budget with room to scale.
+
+---
+
+## Breakdown
+
+| Role | Model | Calls | Total Cost |
+|------|-------|-------|-----------|
+| Finance | haiku | 14 | $0.03 |
+| Director | opus | 14 | $1.81 |
+| Scout | haiku | 14 | $0.08 |
+| Writer | sonnet | 14 | $1.37 |
+| Auditor | haiku | 14 | $0.13 |
+| **TOTAL** | — | **70** | **$3.42** |
+
+---
+
+## Key metrics
+- **Avg cost per daily cycle:** $0.24
+- **Cost per run (5-agent stack):** $0.245
+- **Runway remaining:** 58 days at current burn rate
+- **Safety margin:** 82.9% under cap
+
+**Conclusion:** Team is operating efficiently. No cost concerns. All systems nominal for continued daily operations through end of June and beyond.
