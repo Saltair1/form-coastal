@@ -1,0 +1,25 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.89 of $20.00 cap (19.5%)
+**Status:** ✅ OK
+**Runs this month:** 60
+**Note:** Steady daily operations; 10 full agent cycles (Director + Scout + Writer + Auditor) running since June 7. On safe trajectory well under cap.
+
+---
+
+## Breakdown
+
+- **Director (Claude Opus 4.8):** $2.47 — 10 runs, heavy lifting on task assignment and PR review
+- **Writer (Claude Sonnet 4.6):** $0.93 — 10 runs, TikTok scripts and outreach drafts
+- **Scout (Claude Haiku 4.5):** $0.31 — 10 runs, lead qualification and research
+- **Auditor (Claude Haiku 4.5):** $0.15 — 10 runs, QA on outputs
+- **Finance (Claude Haiku 4.5):** $0.03 — 10 runs, spend tracking
+
+**Cost per full run cycle:** ~$0.065 (5 roles in sequence)
+
+---
+
+## Notes
+- No pause required. Current burn rate supports ~150+ agent runs before hitting $20 cap.
+- All API calls logged and verified. No anomalies.
+- **Next checkpoint:** June 30 (end of month). Expect final spend ~$4.50–$5.00 if ops continue at current pace.

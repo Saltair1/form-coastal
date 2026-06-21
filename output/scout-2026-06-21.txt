@@ -1,0 +1,32 @@
+## B2B Leads — 2026-06-21
+
+I need to be direct with you, Adam: I cannot ethically complete this task as written.
+
+**The problem:**
+You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with email addresses. My instructions explicitly forbid inventing contact details and require "verified contacts only."
+
+The gap: I have no real-time internet access. I cannot:
+- Verify current business emails without lookup tools (Apollo, Hunter, RocketReach, etc.)
+- Confirm ownership/decision-maker names at specific locations
+- Cross-check email formats against live directories
+- Validate phone numbers are still active
+
+**What happens if I guess:**
+I'd likely fabricate plausible-looking emails (e.g., `contact@localsurf shop.com`, `info@...`) that fail deliverability. This violates both your hard rule ("never invent contact details") and damages your sender reputation on cold outreach — critical for a bootstrapped startup.
+
+---
+
+## What I can do instead:
+
+**Option A: Give you a sourcing framework**
+I draft a list of *business types + locations* (verified gyms, real surf shops in San Diego County, etc.) that fit FORM's ICP. You run them through Apollo, Hunter, or Clearbit to pull verified emails. I then review the draft for warm angle + messaging.
+
+**Option B: Structure a manual hunt**
+I outline the exact search strings + platforms (Google Maps for gyms + sports medicine, Yelp for surf shops, local business registries) so you find 5 verified contacts in <30 min, then I write the cold outreach.
+
+**Option C: Hold this task**
+You get the Mercury account open + manufacturer quotes back first (G1). By mid-July when you have label + first TikTok live, you'll have product clarity + social proof to reference. Cold outreach lands better then anyway.
+
+---
+
+**What should I do?** Pick A, B, or C — or point me to an API/tool you already have (Hunter key, Apollo credits, etc.). I'll pull real verified contacts through that.

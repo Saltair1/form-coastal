@@ -1,0 +1,96 @@
+I'll draft both pieces now and save them to the correct output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-21
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (Adam, outdoor / natural light — beach parking lot, post-surf)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most guys are losing electrolytes faster than they can replace them — especially if you're training outside, sweating in the sun, living in a warm climate. Water moves *through* you. What keeps it at the cellular level is hyaluronic acid, magnesium, and the right electrolyte balance. Nobody puts those three together in a daily supplement for guys who actually train outside. So we did."
+
+---
+
+**[CTA — 0:25–0:35]**
+"It's called FORM. Link in bio — we're launching soon and the early list gets first access."
+
+---
+
+**Production notes:**
+- Film handheld, natural morning light, board or wetsuit visible in background (no forced product placement — product doesn't exist yet)
+- Speak directly to camera, relaxed pace
+- No music overlay needed — voice carries it
+- Caption hook: "Drinking a gallon and still waking up dehydrated 👇"
+
+---
+
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+
+**Subject:** FORM Daily Softgel — Quote Follow-Up + Key Formula Questions
+
+Hi [Name / Team],
+
+I sent over an inquiry a couple weeks ago about a men's daily softgel formula and wanted to follow up in case it got buried.
+
+I'm Adam Salter, founder of Form Coastal (Salt Air Industries LLC). I'm developing a 10-ingredient men's daily supplement — lipid-encapsulated softgel format, targeting active outdoor men. Clean positioning, premium ingredients, no fillers.
+
+A few things that would make or break Aurinutra as the right partner for this:
+
+1. **Lipid encapsulation** — I have fat-soluble ingredients (astaxanthin, D3) that require true lipid delivery, not standard softgel fill. Can you confirm you offer this?
+2. **Natural astaxanthin sourcing** — specifically from *Haematococcus pluvialis*. Synthetic is not acceptable for this formula.
+3. **MOQ flexibility** — I'm planning a 250–500 unit launch. Can you work at that scale for a first run?
+4. **Collagen in softgel** — Can you hit an effective dose of collagen peptides (or UC-II at ~40mg) within softgel size constraints? Or do you recommend boswellia as the joint ingredient instead?
+5. **GMP + COA** — confirming both are standard on your end.
+
+I've got a full ingredient list and target dose ranges ready to share once I know you can hit these five points. Timeline is tight — looking to place a first order within the next 4–6 weeks.
+
+Happy to jump on a quick call if that's easier.
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+apsalter11@gmail.com
+formcoastal.com
+
+---
+
+*[ADAM — review before sending. Swap [Name] for actual contact if identified. Confirm your preferred reply-to and phone if you want to include it. This draft does not auto-send.]*
+```
+
+---
+
+Saving to output now.
+
+<details>
+<summary>Output file path</summary>
+
+`output/copy-2026-06-21.md`
+
+</details>
+
+---
+
+**A few notes on these drafts:**
+
+**TikTok script:**
+- The hook uses your top marketing line verbatim — it's already proven framing, lead with it
+- "Retention problem" reframe does the education in one sentence without going clinical
+- No product exists yet so the CTA points to an early-access list — keeps the momentum without a broken link
+- 35 seconds is tight at natural speaking pace; you may trim "Nobody puts those three together..." if needed
+
+**Outreach email:**
+- Structured as 5 go/no-go questions so Aurinutra can answer quickly — reduces friction for a reply
+- Flags the two non-negotiables (lipid encapsulation, natural astaxanthin) without being demanding
+- Collagen vs. boswellia question is framed as a collaborative decision, not a requirement — gives them an out while still getting useful intel
+- Same email structure works for Innova Nutra with minor edits; flag if you want a second version

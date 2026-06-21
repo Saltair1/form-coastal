@@ -1,0 +1,55 @@
+# AUDIT REPORT — 2026-06-21
+
+**Overall: PASSED** (with conditions noted)
+
+---
+
+## WRITER OUTPUT — TikTok Script + Outreach Email
+
+**Brand voice:** ✓ **PASS**
+- Hook ("drinking a gallon and still waking up dehydrated") is the core marketing line — on-brand, confident, not bro-y
+- Educational angle (retention vs. hydration problem) matches the coastal-clean positioning
+- CTA is appropriate for pre-launch (early-access list, no broken product link)
+- Email tone is direct, collaborative, respectful of manufacturer's time — fits the Vuori / premium-but-not-pretentious voice
+
+**Health claims:** ✓ **PASS**
+- TikTok script avoids medical language ("keeps it at the cellular level" is descriptive, not a claim; "no fillers" is factual)
+- No banned claims: no "cures," "treats," "prevents," "FDA-approved," testosterone boosting language
+- Ingredient benefits (hyaluronic acid holds water, magnesium supports electrolyte balance) are ingredient-level education, not product-level claims
+- Email is B2B — not consumer-facing marketing copy, so compliance bar is lower, but still clean
+
+**Compliance:** ✓ **PASS**
+- No invented contact details in email (uses placeholder `[Name / Team]`, flags for Adam review before send)
+- Email footer includes real verified contact: apsalter11@gmail.com + formcoastal.com (both verified in CLAUDE.md)
+- Production notes are practical and feasible (no product required, natural light, handheld)
+- Both outputs are drafts for human review — no auto-send, no bypass of gatekeeping
+
+**Flags:** None
+
+---
+
+## SCOUT OUTPUT — B2B Lead Research
+
+**Contacts verified:** ✗ **CONDITIONAL PASS**
+- Scout correctly identified the constraint: no real-time internet access means no ability to verify emails through live lookup tools (Apollo, Hunter, RocketReach)
+- Rather than inventing contacts (which would violate hard rule #3), Scout escalated with three viable options instead
+- This is the *right call* — protecting deliverability and brand reputation
+
+**No invented emails:** ✓ **PASS**
+- Scout did NOT generate a fake contact list
+- Acknowledged the risk upfront and asked for clarification on how to proceed
+
+**Recommendation to Adam:** 
+Scout's **Option A (sourcing framework + you verify)** or **Option B (search strings + manual hunt)** are both solid. Option C (hold until mid-July) is also defensible since you'll have product + social proof by then, which improves cold outreach ROI anyway.
+
+Scout should not attempt lead gen without a verified lookup tool (API key or credits). Flag for next run.
+
+---
+
+## SUMMARY
+
+**Outputs to retain:**
+- ✅ Save `output/copy-2026-06-21.md` — both TikTok script and email draft are production-ready after Adam review
+- ⏸️ Scout output: awaiting Adam's choice on B2B lead sourcing method (A / B / C)
+
+**Next step:** Adam reviews TikTok script + email, confirms preferred edits, and resolves Scout's method question before next run.
