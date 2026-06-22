@@ -1,0 +1,27 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.68 of $20.00 cap (18.4%)
+**Status:** ✅ OK
+**Runs this month:** 16 (80 API calls total)
+**Note:** Steady daily ops; no cost spike. On track for healthy monthly margin.
+
+---
+
+## Breakdown
+
+| Role | Calls | Cost |
+|------|-------|------|
+| Director (Opus) | 16 | $1.96 |
+| Writer (Sonnet) | 16 | $0.47 |
+| Scout (Haiku) | 16 | $0.09 |
+| Auditor (Haiku) | 16 | $0.09 |
+| Finance (Haiku) | 16 | $0.07 |
+| **Total** | **80** | **$3.68** |
+
+---
+
+## Summary
+
+Team has run one full cycle per day since June 7 (16 days). Each cycle runs all 5 roles in sequence. Director (Opus-4-8) is the cost driver at 53% of total spend due to higher token pricing. All other roles maintain tight budgets via Haiku/Sonnet models.
+
+**Trajectory:** Sustainable. At current pace (~$0.23/day), June will close at ~$7.00–$7.50, well under the $20 cap. No cost controls triggered.

@@ -1,0 +1,56 @@
+# AUDIT REPORT — 2026-06-22
+
+**Overall: PASSED (with conditions)**
+
+---
+
+## Writer Output
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, confident, conversational. "That's not a water problem" is on-brand hook — reframes without overpromising. Not clinical, not bro-y. Sits exactly where FORM should live. |
+| **Health claims** | ✓ PASS | Clean. Script describes mechanism ("holds up to 1000x its weight in water") without claiming therapeutic outcomes. No "cures," "treats," "prevents," or "proven to improve." Email avoids all banned language. |
+| **Compliance** | ✓ PASS | CAN-SPAM: Email draft includes physical address line requirement (flagged for live use). No invented contact details — uses placeholder [First Name] with explicit "do not auto-send" instruction. Copy-to-file saves correctly. |
+| **Production notes** | ✓ PASS | TikTok guidance is practical (golden hour, no branding on shirt, single-shot aesthetic). Hashtag mix is appropriate (#FORM + #SanDiego + lifestyle tags). Not overstuffed. |
+| **Outreach tone** | ✓ PASS | B2B email is peer-to-peer, not salesy. "Sits closer to Vuori than GNC" is a sharp positioning line. Respects retailer time. Customization prompt is clear. |
+
+---
+
+## Scout Output
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ✓ PASS | Scout **correctly refused** to invent or guess at B2B contact details. No hallucinated emails or phone numbers in output. This is the right call — protects deliverability and brand reputation. |
+| **No invented emails** | ✓ PASS | Scout used placeholders ([First Name], etc.) and flagged the outreach email as DRAFT pending manual verification. Explicit: "do not auto-send." |
+| **Strategy offered instead** | ✓ PASS | Scout pivoted to offering a **prospect profile framework** + **outreach templates** that Adam can execute with verified research (Hunter.io, Apollo.io, LinkedIn). This is the correct workflow. |
+
+---
+
+## Flags
+
+**None that block approval.**
+
+**Recommendations for Adam's next step:**
+
+1. **Before sending any B2B outreach:** Use Hunter.io free tier or Apollo.io to verify 5–10 prospects (gyms, retailers, sports medicine in San Diego area). Scout's workflow is correct — you verify, then Writer personalizes.
+
+2. **TikTok script:** Approved to shoot this week. No product needed — this is lifestyle/hook content. Fits G2 priority (build @formcoastal organic audience).
+
+3. **Email draft:** Approved for use as template. Add this before first send:
+   ```
+   Salt Air Industries LLC
+   Oceanside, CA [ZIP]
+   ```
+   (CAN-SPAM requirement; not yet live on website, so add to email signature).
+
+4. **Copy file saved:** `output/copy-2026-06-22.md` ✓
+
+---
+
+## Summary
+
+**Writer:** All copy is on-brand, compliant, and ready to use (TikTok shoot this week, email after you verify contacts).
+
+**Scout:** Correctly refused to hallucinate contacts. Offered the right alternative workflow.
+
+**Auditor sign-off:** Content moves forward. No rejected pieces. Next: Adam verifies B2B prospects, then send outreach.

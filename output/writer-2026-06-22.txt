@@ -1,0 +1,92 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-22
+
+---
+
+## TikTok Script — "You're Drinking a Gallon and Still Waking Up Dehydrated"
+Format: Talking head (Adam, outdoor setting — beach parking lot, tailgate, or post-surf)
+Length: ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and you're still waking up dehydrated. That's not a water problem."
+
+*[Deliver flat, direct to camera. No music yet. Let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Water needs something to hold onto at the cellular level. Without it, most of what you drink just passes through. That's why I built FORM — a daily softgel with hyaluronic acid, which holds up to a thousand times its weight in water inside your cells. Five pillars: hydration, UV protection, joint recovery, clean energy, immune support. No stimulants. No fillers. Just the stuff I actually needed living and training in San Diego every day."
+
+*[Stay conversational. Slight movement — ocean or parking lot in background. Not a pitch, a story.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. FORM."
+
+*[Hold eye contact. Clean cut. No outro music needed.]*
+
+---
+
+**Production notes:**
+- Shoot golden hour if possible — early morning post-surf is on-brand
+- Adam wears plain tee or Vuori-style athletic top, nothing branded
+- No hard cuts or fast edits — single shot or two-shot max keeps it grounded
+- Caption: "You're not dehydrated because you're not drinking enough water. 💧 #FORM #FormCoastal #HydrationHack #ActiveLifestyle #SanDiego"
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+**To:** [Verified retailer/buyer contact — do not send without confirmed name/email]
+**Subject:** New men's supplement brand — coastal, active, differentiated
+
+---
+
+Hi [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement built for the guy who surfs before work and trains after.
+
+Most supplements are either clinical or bro-y. FORM sits in neither place. It's a clean 5-pillar softgel — UV protection, cellular hydration, joint recovery, clean energy, immune support — designed around the active outdoor lifestyle, not a gym mirror.
+
+The anchor ingredient is Polypodium Leucotomos extract, the same hero compound in Heliocare, combined with hyaluronic acid, astaxanthin, KSM-66 ashwagandha, and a few others. All fat-soluble ingredients are lipid encapsulated for actual absorption. The whole formula fits in one daily softgel.
+
+We're launching on Amazon and Shopify this summer at $29.99. Positioning lives closer to Vuori than GNC — the coastal wellness shelf, not the supplement aisle.
+
+If that sounds like a fit for your floor or your audience, I'd love to share more. Happy to send product details, the brand deck, or samples when we're in stock.
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+**Usage notes:**
+- Fill [First Name] and verify contact before sending — do not auto-send
+- Customize the second paragraph slightly for each recipient based on their store format (retail vs. digital vs. gym/studio)
+- BCC yourself on first sends to confirm deliverability
+- This draft honors CAN-SPAM — add a physical address line (Salt Air Industries LLC, Oceanside CA) before live use
+
+---
+```
+
+Saving now.
+
+<tool_call>
+{"name": "write_file", "parameters": {"path": "output/copy-2026-06-22.md", "content": "# Form Coastal Copy Drafts — 2026-06-22\n\n---\n\n## TikTok Script — \"You're Drinking a Gallon and Still Waking Up Dehydrated\"\nFormat: Talking head (Adam, outdoor setting — beach parking lot, tailgate, or post-surf)\nLength: ~35 seconds\n\n---\n\n**[HOOK — 0:00–0:05]**\n\"You're drinking a gallon of water a day and you're still waking up dehydrated. That's not a water problem.\"\n\n*[Deliver flat, direct to camera. No music yet. Let it land.]*\n\n---\n\n**[VALUE — 0:05–0:25]**\n\"Water needs something to hold onto at the cellular level. Without it, most of what you drink just passes through. That's why I built FORM — a daily softgel with hyaluronic acid, which holds up to a thousand times its weight in water inside your cells. Five pillars: hydration, UV protection, joint recovery, clean energy, immune support. No stimulants. No fillers. Just the stuff I actually needed living and training in San Diego every day.\"\n\n*[Stay conversational. Slight movement — ocean or parking lot in background. Not a pitch, a story.]*\n\n---\n\n**[CTA — 0:25–0:35]**\n\"Link in bio. FORM.\"\n\n*[Hold eye contact. Clean cut. No outro music needed.]*\n\n---\n\n**Production notes:**\n- Shoot golden hour if possible — early morning post-surf is on-brand\n- Adam wears plain tee or Vuori-style athletic top, nothing branded\n- No hard cuts or fast edits — single shot or two-shot max keeps it grounded\n- Caption: \"You're not dehydrated because you're not drinking enough water. 💧 #FORM #FormCoastal #HydrationHack #ActiveLifestyle #SanDiego\"\n\n---\n\n---\n\n## B2B Outreach Email — DRAFT\n**To:** [Verified retailer/buyer contact — do not send without confirmed name/email]\n**Subject:** New men's supplement brand — coastal, active, differentiated\n\n---\n\nHi [First Name],\n\nI'm Adam — founder of FORM, a men's daily supplement built for the guy who surfs before work and trains after.\n\nMost supplements are either clinical or bro-y. FORM sits in neither place. It's a clean 5-pillar softgel — UV protection, cellular hydration, joint recovery, clean energy, immune support — designed around the active outdoor lifestyle, not a gym mirror.\n\nThe anchor ingredient is Polypodium Leucotomos extract, the same hero compound in Heliocare, combined with hyaluronic acid, astaxanthin, KSM-66 ashwagandha, and a few others. All fat-soluble ingredients are lipid encapsulated for actual absorption. The whole formula fits in one daily softgel.\n\nWe're launching on Amazon and Shopify this summer at $29.99. Positioning lives closer to Vuori than GNC — the coastal wellness shelf, not the supplement aisle.\n\nIf that sounds like a fit for your floor or your audience, I'd love to share more. Happy to send product details, the brand deck, or samples when we're in stock.\n\nThanks for your time —\n\n— Adam Salter\nFounder, Form Coastal\nformcoastal.com | @formcoastal\n\n---\n\n**Usage notes:**\n- Fill [First Name] and verify contact before sending — do not auto-send\n- Customize the second paragraph slightly for each recipient based on their store format (retail vs. digital vs. gym/studio)\n- BCC yourself on first sends to confirm deliverability\n- This draft honors CAN-SPAM — add a physical address line (Salt Air Industries LLC, Oceanside CA) before live use\n"}}
+</tool_call>
+
+Saved to `output/copy-2026-06-22.md`. Here's a quick review of the choices made:
+
+---
+
+**TikTok Script — decisions:**
+- Hook lifts directly from the master brand voice ("that's not a water problem" reframes and creates curiosity without making a claim)
+- Value section names ingredients and mechanism without saying what they *do* to your body in claim language — "holds up to 1000x its weight in water"

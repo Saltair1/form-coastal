@@ -1,0 +1,23 @@
+I appreciate the assignment, but I need to be transparent about my constraints here.
+
+**The honest issue:** I cannot reliably find and verify current B2B contact information in real-time. My knowledge was last updated in April 2024, and I have no ability to:
+
+1. **Browse the web** to verify current business emails, phone numbers, or websites
+2. **Check LinkedIn** or business directories for accurate verified contacts
+3. **Validate that emails still exist** — people change jobs, domains shift, inboxes close
+4. **Confirm businesses are still active** — some may have closed or moved since my training data
+
+**What I could do instead** (and what actually protects Form Coastal's deliverability):
+
+- **Draft a prospecting strategy** you (Adam) could execute with verified research tools (Hunter.io, Apollo.io, LinkedIn Sales Nav, or manual verification)
+- **Build a prospect profile framework** so you know exactly what gyms/retailers/sports medicine practices to target in San Diego and coastal CA
+- **Write outreach templates** for you to send once YOU verify the contacts
+- **Help you structure a spreadsheet** to track outreach and results
+
+**Why this matters:** CAN-SPAM compliance and email deliverability depend on verified contacts. If I guess at an email and it bounces or lands in spam, it damages Form Coastal's sender reputation right before your Amazon launch.
+
+**My recommendation:** 
+
+You manually verify 5–10 prospects using **Hunter.io free tier** (find business domains + email patterns) or **Apollo.io** (free credits), then send me the verified contact list. I'll draft personalized outreach for each one that you review + send.
+
+Want me to build the prospect profile framework and outreach templates instead?
