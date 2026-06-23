@@ -1,0 +1,25 @@
+# B2B Leads — 2026-06-23
+
+I need to be honest with you, Adam: I cannot generate verified B2B contact information without real-time internet access to current business databases, phone directories, or public registries. Inventing emails or guessing contact details violates my core rule — "Verified contacts only; never invent or guess an email address" — and would tank your deliverability if you use them.
+
+Here's what I *can* do instead:
+
+## What I need to deliver real leads:
+
+1. **Access to a verified B2B database** (e.g., Apollo.io, ZoomInfo, Hunter.io, RocketReach) — these sync live with public records and let you filter by business type, location, and decision-maker title.
+
+2. **Or:** Point me to a specific geography (e.g., "San Diego County gyms," "California surf shops") and I'll outline the *research process* you should follow manually:
+   - Google Maps search: "gyms near [city]" → pull 10, verify websites, find contact forms or LinkedIn
+   - Yelp / TripAdvisor for sports medicine practices → cross-reference with clinic websites
+   - Specialty retail directories (e.g., Surf Industry Manufacturers Association for shops)
+   - Cold call verification before outreach
+
+3. **Or:** If you have a list of prospects already (even partial), I can help you:
+   - Structure outreach drafts (you decide who to contact)
+   - Design a verification checklist before sending
+   - Build a CRM template to track them
+
+## Why this matters:
+One bad email bounce or spam complaint tanks your sender reputation on any new domain. You're launching FORM with a clean Mercury account — guard that.
+
+**What's your preference?** Do you have a database you use, or should we map out the manual research workflow for your top 3 target geographies?

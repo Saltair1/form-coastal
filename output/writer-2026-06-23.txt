@@ -1,0 +1,81 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-23
+
+---
+
+## TikTok Script — "The Gallon Guy Problem"
+**Format:** Talking head (Adam, outdoor / natural light background — patio, beach parking lot, or tailgate)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, casual, slightly puzzled tone*
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Lean in slightly, conversational — like you're telling a friend something they don't know yet*
+
+"Your body can't hold onto water without the right co-factors. Hyaluronic acid holds a thousand times its weight in water at the cellular level — most guys have never heard of it. I built FORM around five things active guys actually burn through: hydration retention, joint recovery, UV protection from the inside, clean energy, and immune baseline. One softgel, daily. No stimulants, no chalk tablets."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Relaxed, not salesy — more like a recommendation*
+
+"Link in bio if you want to try it. Or just Google 'Polypodium Leucotomos' — that's the other reason I made this thing."
+
+*(slight smirk / walk off or cut)*
+
+---
+
+**Production notes:**
+- Film golden hour if possible — early morning or late afternoon SD light
+- No supplement bottle needed for this one (pre-launch safe)
+- Keep it one take, minimal cuts — authenticity > polish for first post
+- Caption: "Not a water problem. 💧 #formcoastal #suncare #hydration #activemen #supplements"
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Intended recipient: outdoor/active lifestyle brand, potential co-marketing or retail partner — Adam to customize before sending)*
+
+**Subject:** Collab idea — coastal men's supplement × [Brand Name]
+
+Hi [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement built around active outdoor life. We're San Diego-based, launching on Amazon this summer.
+
+The angle is a bit different from most supplements: FORM is built around UV protection from the inside (using the same hero ingredient as Heliocare), real hydration retention, joint recovery, and clean daily energy — the five things guys who surf, train, and spend time outside actually feel. Softgel format, no stimulants, clean label.
+
+I've been a fan of what [Brand Name] has built — the customer overlap feels genuine. Wondering if there's a conversation worth having: a product collab, bundled gifting, or just a mutual shoutout to our audiences. Nothing heavy — just want to put it in front of the right people.
+
+Happy to send a sample when we're live, or just jump on a quick call if the timing makes sense.
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+**Usage notes for Adam:**
+- Swap [Brand Name] and [First Name] before sending
+- Best fit targets: Vuori, local SD surf shops, outdoor gear brands, clean nutrition retailers
+- Personalize the "fan of what you've built" line with one specific detail — a product, a campaign, a collab they did
+- Do not bulk send — one at a time, verified contacts only
+```
+
+---
+
+Output saved to `output/copy-2026-06-23.md`.
+
+**Quick notes on the drafts:**
+
+- **TikTok hook** leans into the "gallon guy" insight — it's the sharpest, most relatable tension point in the brand story and safe to post before product is live. Ends on Polypodium Leucotomos as a curiosity hook rather than a claim.
+- **B2B email** is intentionally lean — one clear ask, no pitch deck energy. The best outreach for a launch-stage brand sounds like a real person, not a deck.
+- Both are claim-free. "UV protection from the inside" in the email describes the ingredient category, not a medical outcome — worth flagging if you want me to soften it further.

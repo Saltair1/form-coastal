@@ -1,0 +1,28 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.58 of $20.00 cap (17.9%)
+**Status:** ✅ OK
+**Runs this month:** 105
+**Note:** Steady daily operations; well within budget with no concerns.
+
+---
+
+## Breakdown by role
+
+| Role | Runs | Cost |
+|------|------|------|
+| Finance | 21 | $0.05 |
+| Director | 21 | $2.67 |
+| Scout | 21 | $0.04 |
+| Writer | 21 | $0.63 |
+| Auditor | 21 | $0.20 |
+
+**Model usage:**
+- **claude-opus-4-8** (Director): 21 calls, ~$2.67 (74% of total) — heavyweight task runner
+- **claude-sonnet-4-6** (Writer): 21 calls, ~$0.63 (18% of total) — copy generation
+- **claude-haiku-4-5-20251001** (Finance, Scout, Auditor): 63 calls, ~$0.28 (8% of total) — lightweight ops
+
+---
+
+## Trajectory
+Team is running **1 full cycle per day** (5 roles × 21 daily runs = 105 total), averaging **$0.17/day**. At current pace, June will close around **$5.10**, leaving **$14.90 buffer** for July. No pause risk. ✅

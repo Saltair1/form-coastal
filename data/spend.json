@@ -720,6 +720,46 @@
       "input_tokens": 6457,
       "output_tokens": 858,
       "cost_usd": 0.00268675
+    },
+    {
+      "date": "2026-06-23T16:03:33.114Z",
+      "role": "finance",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 9466,
+      "output_tokens": 362,
+      "cost_usd": 0.0028189999999999995
+    },
+    {
+      "date": "2026-06-23T16:03:43.807Z",
+      "role": "director",
+      "model": "claude-opus-4-8",
+      "input_tokens": 5655,
+      "output_tokens": 586,
+      "cost_usd": 0.128775
+    },
+    {
+      "date": "2026-06-23T16:03:50.438Z",
+      "role": "scout",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 3960,
+      "output_tokens": 434,
+      "cost_usd": 0.0015325
+    },
+    {
+      "date": "2026-06-23T16:04:15.641Z",
+      "role": "writer",
+      "model": "claude-sonnet-4-6",
+      "input_tokens": 4004,
+      "output_tokens": 1006,
+      "cost_usd": 0.027101999999999998
+    },
+    {
+      "date": "2026-06-23T16:04:25.977Z",
+      "role": "auditor",
+      "model": "claude-haiku-4-5-20251001",
+      "input_tokens": 5454,
+      "output_tokens": 829,
+      "cost_usd": 0.00239975
     }
   ]
 }

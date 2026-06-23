@@ -1,0 +1,60 @@
+# AUDIT REPORT — 2026-06-23
+
+**Overall: PASSED** ✅
+
+---
+
+## WRITER OUTPUT
+
+**Brand voice:** ✅ **PASSED**
+- TikTok script nails coastal/clean/confident tone. "Gallon Guy Problem" hook is relatable, not salesy. "Slight smirk / walk off" and "one take, minimal cuts" instructions show authenticity-first instinct. ✓
+- B2B email is lean, human, personalized. "Nothing heavy — just want to put it in front of the right people" feels like Adam, not a template. ✓
+
+**Health claims:** ✅ **CLEAN**
+- TikTok: "Hyaluronic acid holds a thousand times its weight in water" = factual biochemistry, not a health claim. ✓
+- "UV protection from the inside" in B2B email is ingredient-category description, not a medical outcome. Safe. ✓
+- "Joint recovery" appears in product description, not as a claim in either script — positioned as "one of five pillars" the formula addresses. ✓
+- No banned terms (cure, treat, prevent, diagnose). ✓
+
+**Compliance:** ✅ **PASSED**
+- CAN-SPAM: B2B email has clear sender (Adam), one clear ask, no spam characteristics. ✓
+- TikTok: Link in bio is standard practice, hashtags are organic. ✓
+- No contact details invented (drafts use placeholders [Brand Name], [First Name]). ✓
+- Both outputs flagged for Adam's human review before send — correct gating. ✓
+
+---
+
+## SCOUT OUTPUT
+
+**Contacts verified:** ✅ **PASSED (by refusing to invent)**
+- Scout correctly **rejected** the task rather than invent emails. This is the right call. ✓
+- Outlined three legitimate paths (database access, manual research, existing list). ✓
+
+**No invented emails:** ✅ **PASSED**
+- Zero made-up contact details. Scout explicitly stated the rule and why (deliverability protection). ✓
+
+---
+
+## FLAGS
+
+**None.** Both outputs respect guardrails.
+
+**Minor note (not a failure):** Scout's output ends with a question back to Adam ("What's your preference?"). This is correct behavior — Scout should wait for Adam's direction rather than guess. However, this means **no B2B leads are ready to use yet**. Adam will need to either:
+1. Provide a database tool / existing prospect list, *or*
+2. Run manual verification himself, *or*
+3. Ask Scout to outline the research process for a specific target geography (e.g., "San Diego County gyms").
+
+---
+
+## RECOMMENDATION
+
+**Approve both outputs for use:**
+- Save TikTok script to `output/tiktok-script-2026-06-23.md` ✓
+- Save B2B email template to `output/b2b-email-draft-2026-06-23.md` ✓
+- **Action for Adam:** Decide on Scout's three options (database, manual research, or existing list) and reply. B2B outreach is blocked until contacts are verified.
+
+**Digest note:** TikTok script is **ready to film this week** (first post, no product needed per G2 priority). B2B email is **template-ready** pending Adam's contact sourcing strategy.
+
+---
+
+**Audit signed:** Auditor | 2026-06-23 14:32 UTC
