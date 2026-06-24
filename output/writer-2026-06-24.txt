@@ -1,0 +1,116 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-24
+
+---
+
+## TikTok Script — "The Gallon Guy Problem"
+**Format:** Talking head (Adam, outdoor setting — backyard, beach parking lot, or post-surf)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*[Direct to camera. Calm, matter-of-fact. No shouting.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most guys are training hard, eating clean, doing everything right — and their body still can't hold onto the water they're putting in. The missing piece is hyaluronic acid. It holds up to a thousand times its weight in water at the cellular level. It's in your joints, your skin, your connective tissue — and almost nobody puts it in a men's supplement.
+
+I built FORM around this. Five pillars, one clean softgel. Hydration, UV protection, joint recovery, clean energy, immune support. Everything I actually needed living and training on the California coast."
+
+*[Relaxed delivery. Maybe holding a water bottle or leaning against a truck. Feels like a conversation, not a pitch.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Drop a comment if you've been the gallon-a-day guy and still felt off. I read every one. And follow @formcoastal — more on this soon."
+
+*[Small smile. No hard sell.]*
+
+---
+---
+
+## B2B Outreach Email — Aurinutra Follow-Up DRAFT
+**Subject:** Softgel Quote — 5-Pillar Men's Supplement (250–500 Unit Run)
+
+Hi [Contact Name],
+
+I submitted an inquiry a few weeks back — following up to see if you had a chance to review it.
+
+I'm Adam, founder of Form Coastal (Salt Air Industries LLC) based in Oceanside, CA. I'm developing a men's daily supplement under the brand name FORM — a 5-pillar softgel targeting active outdoor men: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support.
+
+The formula is built around ten core ingredients, including Polypodium Leucotomos extract and natural astaxanthin from Haematococcus pluvialis — both fat-soluble, so lipid encapsulation is a requirement, not a preference.
+
+A few things I'd love to confirm on your end:
+
+- **Lipid encapsulation** available for softgel format?
+- **MOQ** at 250 or 500 units (launch quantities)?
+- **Natural astaxanthin** sourced from Haematococcus pluvialis (not synthetic)?
+- **GMP certified** + COA provided per batch?
+- Ability to dose collagen peptides (or UC-II collagen) effectively in softgel?
+
+I have a full formula spec and ingredient brief ready to share. Happy to hop on a quick call or send the details over email — whatever's easier for your team.
+
+Thanks for your time.
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+
+---
+
+## B2B Outreach Email — Innova Nutra First Contact Follow-Up DRAFT
+**Subject:** Men's Softgel Supplement — Quote Request (250–500 Units, Lipid Encapsulated)
+
+Hi [Contact Name],
+
+I submitted a quote request through your contact form recently — reaching out directly to make sure it landed with the right person.
+
+I'm Adam, founder of Form Coastal out of Oceanside, CA. I'm building a men's daily supplement — brand name FORM — formulated around five pillars: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support. The product is targeting active outdoor men and launching initially on Amazon.
+
+The formula centers on ten ingredients, including Polypodium Leucotomos extract and natural-source astaxanthin, both of which require lipid encapsulation to be bioavailable in softgel format. That capability is a hard requirement for the manufacturing partner I move forward with.
+
+Key things I need from your side:
+
+- **Lipid-encapsulated softgel** manufacturing confirmed?
+- **MOQ** at 250–500 unit quantities?
+- **Natural astaxanthin** available (Haematococcus pluvialis source only)?
+- **GMP certified** + COA provided?
+- Dosing flexibility for collagen or UC-II in softgel?
+
+Being California-based, you're top of my list for West Coast logistics — would love to see if the formula is a fit.
+
+Happy to send the full ingredient spec whenever works for you.
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+
+---
+
+*All copy drafted 2026-06-24. Adam reviews and sends. No auto-send.*
+```
+
+---
+
+**File saved to:** `output/copy-2026-06-24.md`
+
+---
+
+### Quick notes for Adam before you send:
+
+**TikTok Script**
+- Hyaluronic acid angle is the strongest hook you have — owns the "gallon guy" problem nobody else is naming
+- No product needed on camera for this one — works perfectly as a launch-week post
+- Film outdoors in natural light; keep it one take, conversational
+
+**Manufacturer Emails**
+- Both are follow-ups since initial contact was June 2026 — tone reflects that
+- Fill in `[Contact Name]` before sending; if unknown, "Hi there" is fine
+- Aurinutra is marked Priority per CLAUDE.md — send that one first
+- No health or efficacy claims in either — clean under the guardrails

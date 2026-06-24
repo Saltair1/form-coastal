@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details and quote-response status for Aurinutra (info@aurinutra.com) and Innova Nutra — confirm we have a working reply channel and flag whether either has responded since the June 2026 outreach, so Adam can follow up. Do NOT send anything; verified contacts only, no invented details.
+
+**Writer:** Draft this week's first TikTok post as FORM (G2) — lifestyle content, no product needed — pulling from the FORM TikTok Scripts + Content Calendar in Drive. Deliver as a branch + PR for Auditor review; humans post.
+
+**Finance:** Run the month-to-date API cost tally against the $20/month cap and report headroom; flag immediately if we're trending toward the limit so the team isn't paused.
+
+**Auditor:** QA the Manufacturer Quote Evaluation Framework against CLAUDE.md's 9 non-negotiable ingredients + key manufacturer questions (lipid encapsulation, natural astaxanthin, collagen dose, MOQ at 250/500, GMP+COA) — confirm it's ready to score incoming quotes the moment they arrive. Also pre-clear the Writer's TikTok draft for brand voice and zero medical/health claims.
+
+**Director's note:** Top priority is unblocking G1 — getting manufacturer quotes in hand and ready to evaluate is the gate to every downstream step (formula lock, label, inventory, Amazon), so Scout's follow-up prep and Auditor's framework check come first.

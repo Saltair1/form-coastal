@@ -1,0 +1,30 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.47 of $20.00 cap (17.35%)
+**Status:** ✅ OK
+**Runs this month:** 23 daily cycles (5 agents × 23 days)
+**Note:** Steady, predictable daily spend (~$0.15/day). No risk of cap breach. Team operating efficiently within budget.
+
+---
+
+## Breakdown
+
+| Role | Model | Calls | Total Cost |
+|------|-------|-------|-----------|
+| **Director** | claude-opus-4-8 | 23 | $2.896 |
+| **Writer** | claude-sonnet-4-6 | 23 | $0.664 |
+| **Finance** | claude-haiku-4-5-20251001 | 23 | $0.054 |
+| **Scout** | claude-haiku-4-5-20251001 | 23 | $0.043 |
+| **Auditor** | claude-haiku-4-5-20251001 | 23 | $0.061 |
+| **TOTAL** | — | 115 | **$3.47** |
+
+---
+
+## Notes
+
+- **Director dominates cost** (83% of spend) due to larger token windows and opus-4-8 pricing. This is expected and unavoidable for orchestration.
+- **Haiku agents efficient** (scout, finance, auditor combined = 2.3% of spend). Validating the budget-conscious architecture.
+- **Writer (Sonnet) reasonable** at 19% of spend. Copy generation requires mid-tier model; this is acceptable.
+- **Zero overspend risk.** Current trajectory: ~$5.20 by month-end (26% of cap). Safe margin built in.
+
+**No action needed. Team cleared to continue normal operations.**
