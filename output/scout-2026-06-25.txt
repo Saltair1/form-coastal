@@ -1,0 +1,73 @@
+# B2B Lead Scout Report — 2026-06-25
+
+I need to be direct with you, Adam: I can't ethically complete this task as written.
+
+**The problem:** You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with email addresses. The instruction says "Verified contacts only; never invent or guess an email address."
+
+But here's the reality: I don't have real-time access to business directories, phone numbers, or email databases. I can't verify current contact details. If I list a gym or surf shop by name and location and guess at a contact method, I'm either:
+1. **Inventing** (violates your hard rule #3)
+2. **Outputting outdated info** (useless for outreach)
+3. **Driving you to use a tool that actually works** (better path)
+
+**What I *can* do:**
+
+I can draft a **prospect profile template** and a **research workflow** you can execute in 20 minutes with free tools:
+
+---
+
+## B2B Lead Research Workflow (Adam does this)
+
+### Tools (all free or low-cost):
+- **Google Maps** — search "CrossFit near Oceanside CA" + "surf shops" + "orthopedic clinics" → grab website + phone
+- **Apollo.io free tier** — search by business type + location → pulls verified emails
+- **Hunter.io free tier** — drop website URL → extract emails
+- **LinkedIn Sales Navigator free trial** — search gym owners, retail managers by location + title
+
+### 5-Lead Template (you fill in the blanks):
+
+**1. [Local CrossFit / Functional Fitness Box]**
+Location: [Oceanside/Carlsbad/Encinitas, CA]
+Why they fit: High concentration of outdoor-training athletes (surfers, trail runners, swimmers). Buy supplements for members. Repeat customers.
+Contact: [Google Maps → website → "Contact" page]
+Confidence: [High — local, decision-maker usually reachable via phone]
+
+**2. [Premium Surf Shop]**
+Location: [Oceanside/Huntington Beach/San Clemente, CA]
+Why they fit: Direct access to target demographic (male surfers 22-38). Retail partnerships move product + validate market.
+Contact: [Google Maps or Surfline directory → website]
+Confidence: [High — owner often on-site]
+
+**3. [Sports Medicine / Orthopedic Clinic]**
+Location: [Oceanside area]
+Why they fit: Physicians + PTs recommend supplements to recovery-focused patients. High-trust endorsement channel. Joint recovery pillar is a natural fit.
+Contact: [Google Maps + clinic website → contact form or front desk]
+Confidence: [Medium — gatekept, but worth the call]
+
+**4. [Outdoor / Lifestyle Retailer]** *(REI, Patagonia, local equivalent)*
+Location: [San Diego County]
+Why they fit: Vendors to the exact customer (outdoor athletes, active men). Already curate supplements.
+Contact: [Corporate website or local store manager contact]
+Confidence: [Medium-High — larger orgs require vendor applications; local shops faster]
+
+**5. [High-End Gym / Training Studio]** *(Peloton, Barry's, boutique strength)*
+Location: [San Diego area]
+Why they fit: Premium positioning matches FORM's brand. Members are repeat supplement buyers. Retail partnerships or member discounts.
+Contact: [Google Maps → studio website → "partner with us" or GM email]
+Confidence: [Medium — requires pitch deck, but high LTV if converted]
+
+---
+
+## What you do this week:
+
+1. Spend 30 minutes on Google Maps + Apollo/Hunter searching your top 5 prospects by type + Zip
+2. Verify current websites + contact methods
+3. For each, document:
+   - Business name + owner/manager name (LinkedIn)
+   - Phone number (verified via Google Maps)
+   - Email (Apollo/Hunter or website contact form)
+   - Decision-maker title (helps with pitch)
+4. Pass verified list to me → I draft personalized cold emails for each
+
+**This keeps your deliverability clean** (verified contacts only) **and gives you a sales-ready list.**
+
+Want me to help with email drafts once you have verified contacts, or walk through the Apollo/Hunter process?

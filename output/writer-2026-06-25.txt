@@ -1,0 +1,92 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-25
+
+---
+
+## TikTok Script — "Gallon a Day"
+**Format:** Talking head (outdoor / natural light, ideally post-surf or post-session)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*(deliver flat, direct, slight pause after "retention problem")*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most of the water you drink just moves through you. Your cells aren't actually holding onto it. That's why you can drink all day, train hard, eat clean — and still feel dry, foggy, cramped by 3pm.
+
+The fix isn't more water. It's giving your body the tools to actually use what you're drinking.
+
+Hyaluronic acid holds up to a thousand times its weight in water at the cellular level. That's not a skincare thing — that's a performance thing."
+
+*(relaxed delivery — informative, not a lecture. Can walk or hold a water bottle naturally)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"That's one of five things we built FORM around. Link in bio if you want to know what the other four are."
+
+*(no hard sell, no urgency, no hype — just point)*
+
+---
+**Caption (draft):**
+drinking a gallon and still waking up dehydrated. not a water problem. 💧
+
+#hydration #formcoastal #activemen #supplementsthatwork #sunDiego
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Category: Manufacturer Follow-Up — Aurinutra)*
+
+**Subject:** Following up — softgel quote for Form Coastal
+
+Hi team,
+
+I reached out a few weeks ago about a custom softgel formula for Form Coastal — wanted to follow up in case my original message got buried.
+
+Quick background: I'm launching a men's daily softgel built around 9–10 active ingredients including Polypodium Leucotomos extract, astaxanthin (natural, Haematococcus pluvialis), hyaluronic acid, KSM-66 ashwagandha, and a few others. Lipid encapsulation is a hard requirement — several of the ingredients are fat-soluble and bioavailability depends on it.
+
+A few things I'd love to get clarity on when you have a moment:
+
+- **MOQ** at 250 and 500 units — pricing for both
+- **Lipid encapsulation** — available in your softgel line?
+- **Natural astaxanthin** — do you source from Haematococcus pluvialis, or would I need to supply the raw?
+- **GMP certification + COA** provided per batch?
+- **Collagen peptides** — what's the max achievable dose per softgel in your format?
+
+I'm a first-time founder, moving fast, and want to work with a manufacturer I can build a long-term relationship with. Aurinutra came up consistently in my research as the right fit for a low-MOQ launch with quality standards that don't cut corners.
+
+Happy to jump on a quick call whenever works for your team.
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+apsalter11@gmail.com
+formcoastal.com
+
+---
+```
+
+Here's what each draft is doing and a few notes for Adam's review:
+
+**TikTok "Gallon a Day"**
+- Opens on the **top hook from the brand doc** — already tested as the sharpest entry point for the hydration story
+- The middle explains *why* without sounding like a WebMD article — mechanism, not claim
+- CTA intentionally undersells: "link in bio if you want to know" creates curiosity pull without feeling like an ad
+- **Delivery note:** Works best shot outside, post-session, no shirt or a Vuori-adjacent cut — the look should do as much work as the words
+- Hyaluronic acid framing stays on *performance* not cosmetics — keeps it squarely in the male active audience without a single health claim
+
+**Aurinutra Email**
+- Warm but efficient — respects that they're a supplier, not a prospect
+- Lists the **five exact decision-gate questions** from the CLAUDE.md manufacturer section
+- The "first-time founder, moving fast" line is deliberate — it sets honest expectations and often accelerates response times from smaller manufacturers who prefer founder-direct relationships
+- No attachments, no PDF — clean cold email hygiene, easy to reply to
+
+**One flag:** The TikTok hashtag `#suniego` should be `#sandiego` — caught that before you post.

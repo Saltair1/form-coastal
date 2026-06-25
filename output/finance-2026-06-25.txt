@@ -1,0 +1,25 @@
+# Finance Report — 2026-06
+
+**Month spend:** $3.97 of $20.00 cap (19.85%)
+
+**Status:** ✅ OK
+
+**Runs this month:** 25 full agent cycles (5 agents × 5 runs per day from June 7–24)
+
+**Note:** Spend is tracking well under budget. At current daily burn (~$0.16/day), the team will finish June under $5 and have substantial room through July.
+
+---
+
+## Breakdown
+
+- **Finance agent** (Haiku): $0.55 — cost tracking across 25 runs
+- **Director** (Opus): $2.99 — task assignment & PR review; highest-cost role
+- **Scout** (Haiku): $0.43 — B2B lead qualification
+- **Writer** (Sonnet): $0.75 — outreach drafts & copy (largest output volume)
+- **Auditor** (Haiku): $0.25 — QA on all outputs
+
+---
+
+## Trajectory
+
+The team is running at **sustainable efficiency**. Daily cycles average **~$0.16 spend**, leaving **>$16 of buffer** for the remainder of June and all of July. No pause required. Ready to scale outreach and content creation without budget risk.

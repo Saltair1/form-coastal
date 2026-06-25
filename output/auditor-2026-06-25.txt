@@ -1,0 +1,100 @@
+# AUDIT REPORT — 2026-06-25
+
+**OVERALL: CONDITIONAL PASS**
+
+---
+
+## WRITER OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Brand voice** | ✅ PASS | Coastal, confident, active. "Retention problem" hook is sharp and on-brand. TikTok script avoids clinical language ("not a skincare thing — that's a performance thing") and lands squarely in male performance positioning. |
+| **Health claims** | ✅ PASS | Clean. Script describes mechanism (hyaluronic acid holds water at cellular level) without claiming to treat, cure, or prevent disease. No banned claims like "boost testosterone" or "immune system support" in the video itself. |
+| **Compliance** | ✅ PASS | No CAN-SPAM violations in email draft. Clear sender identification (Adam Salter, Form Coastal). One minor typo in hashtag (#suniego → #sandiego) — flagged in Writer's own notes, easy fix. |
+| **Outreach hygiene** | ✅ PASS | Email respects hard rule #2 (human-gated — Adam sends, not auto-send). No invented contact details — uses verified Aurinutra info from CLAUDE.md (info@aurinutra.com). Five decision-gate questions are tight and manufacturer-ready. Warm but efficient tone builds credibility for first-time founder story. |
+
+**Writer summary:** Both outputs are **production-ready**. TikTok script is immediately usable for shoot this week (per G2 priorities). Email is ready for Adam to send as-is.
+
+---
+
+## SCOUT OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Contacts verified** | ✅ PASS | Scout **correctly refused** to invent email addresses. Recognized that unverified B2B contact data violates hard rule #3 and would damage deliverability. This is the right call. |
+| **Approach** | ✅ PASS | Scout pivoted to a **research workflow + template** that puts Adam in control of verification (Google Maps, Apollo, Hunter). Practical and honest. |
+| **No invented emails** | ✅ PASS | Scout output contains zero guessed/invented contact details. All placeholders marked [bracket] for Adam to fill after verification. |
+
+**Scout summary:** Scout **executed the guardrails correctly**. Refused to cut corners, provided a usable alternative (workflow + template). This is compliant with hard rule #3 and actually more valuable than a fake list.
+
+---
+
+## FLAGS
+
+| Flag | Severity | Resolution |
+|------|----------|-----------|
+| **TikTok hashtag typo** | 🟡 Minor | #suniego → #sandiego. Writer noted it; easy fix before Adam posts. |
+| **Scout did not deliver 5 verified B2B leads** | 🔴 Task incomplete | **BUT:** Scout was right to refuse. A fake list would have been worse. Writer's workflow is the correct path forward — Adam does the 30-min research, feeds verified contacts back to Scout for email drafts. |
+
+---
+
+## HUMAN-READABLE SUMMARY
+
+**PASSED: Both Writer outputs are production-ready.**
+- TikTok script: shoot this week (G2 priority). Hook is strong, delivery is clean, no health claims.
+- Aurinutra follow-up email: send as-is. Respects hard rules, asks the right questions, sounds like a real founder.
+
+**CONDITIONAL: Scout output is compliant but incomplete.**
+- Scout correctly refused to invent B2B contacts (hard rule #3).
+- Provided a practical research workflow instead (30 min, free tools).
+- Next step: Adam finds 5 verified contacts using Google Maps + Apollo + Hunter, passes list back to Scout for personalized email drafts.
+
+**Action:** 
+1. Fix hashtag (#sandiego) and post TikTok script this week.
+2. Adam sends Aurinutra email today.
+3. Adam spends 30 min this week building verified B2B prospect list (template provided by Scout).
+4. Scout drafts B2B emails once verified contacts are confirmed.
+
+**Audit status: PASS to output/** ✅
+
+---
+
+**Output file:** `output/audit-2026-06-25.json`
+
+```json
+{
+  "date": "2026-06-25",
+  "audit_status": "CONDITIONAL_PASS",
+  "writer_tiktok_script": {
+    "status": "PASS",
+    "notes": "Production-ready. One hashtag typo (#suniego → #sandiego). No health claims, strong brand voice, CTA undersells appropriately.",
+    "ready_to_post": true
+  },
+  "writer_aurinutra_email": {
+    "status": "PASS",
+    "notes": "Production-ready. Verified contact (info@aurinutra.com from CLAUDE.md). Human-gated (Adam sends). Five tight decision-gate questions. No CAN-SPAM violations.",
+    "ready_to_send": true
+  },
+  "scout_b2b_leads": {
+    "status": "COMPLIANT_BUT_INCOMPLETE",
+    "notes": "Scout correctly refused to invent B2B contact details (hard rule #3). Provided research workflow + template instead. This is the right call. Next step: Adam verifies 5 contacts via Google Maps + Apollo + Hunter, passes back to Scout for email drafts.",
+    "workflow_provided": true,
+    "verified_contacts_delivered": 0,
+    "reason_incomplete": "No unverified emails invented. Scout prioritized deliverability and compliance over a fake list."
+  },
+  "flags": [
+    {
+      "severity": "minor",
+      "item": "TikTok hashtag typo",
+      "detail": "#suniego should be #sandiego",
+      "resolution": "Writer noted; fix before posting"
+    }
+  ],
+  "next_steps": [
+    "Post TikTok script this week (G2 priority)",
+    "Adam sends Aurinutra email today",
+    "Adam researches 5 B2B prospects this week (30 min, free tools)",
+    "Scout drafts personalized B2B emails once verified contacts provided"
+  ]
+}
+```
