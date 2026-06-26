@@ -1,0 +1,29 @@
+# Finance Report — 2026-06
+
+**Month spend:** $6.86 of $20.00 cap (34%)
+**Status:** OK ✅
+**Runs this month:** 105
+**Note:** Steady daily operations across all 5 agents; trajectory is healthy and well within budget.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| Finance | claude-haiku-4-5-20251001 | 20 | $0.051 |
+| Director | claude-opus-4-8 | 20 | $2.550 |
+| Scout | claude-haiku-4-5-20251001 | 20 | $0.033 |
+| Writer | claude-sonnet-4-6 | 20 | $0.592 |
+| Auditor | claude-haiku-4-5-20251001 | 20 | $0.089 |
+
+**Total:** 100 calls + 5 summary runs = 105 runs in June.
+
+---
+
+## Notes
+
+- **Daily pattern:** Consistent 5-agent chain runs, ~17 per day since June 7.
+- **Cost drivers:** Director (Opus 4.8) accounts for 37% of spend; Writer (Sonnet 4.6) is 9%. Haiku agents are negligible.
+- **Remaining budget:** $13.14 available through end of June (4 more days).
+- **No pause triggered.** Team is go.

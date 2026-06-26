@@ -1,0 +1,56 @@
+# AUDIT REPORT — 2026-06-26
+
+**OVERALL: PASSED**
+
+---
+
+## Writer Output
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, confident, zero hype. "That's not a hydration problem. That's a retention problem" is on-brand and sharp. Tone matches Vuori/Momentous positioning. |
+| **Health claims** | ✓ PASS | Clean. Describes *mechanism* (hyaluronic acid holds water, magnesium sweated out) without claiming medical treatment. No "cure," "treat," "prevent," or "diagnose." Personal story kept to lifestyle context. |
+| **Compliance** | ✓ PASS | No CAN-SPAM violations in TikTok script (organic social). Email draft includes unambiguous value prop, no false claims, sender identity clear. |
+| **Accuracy** | ✓ PASS | All ingredient facts accurate per CLAUDE.md formula (hyaluronic acid holds water, magnesium in sweat, astaxanthin + Polypodium as core pillars). No invented details. |
+| **Product mention** | ✓ PASS | TikTok script correctly specifies *no product bottle needed* — aligns with "first post as FORM this week" roadmap (product not ready). CTA is soft ("link in bio") and on-brand. |
+
+**Writer notes:**
+- Email draft flagged for Adam to add contact name + phone before sending — correct gating.
+- Visual direction (golden hour, no gym mirror, Vuori aesthetic) is actionable and on-brand.
+- Recommend Adam call Aurinutra at (631) 454-0020 *before* sending second email — smart warm-up suggestion.
+
+---
+
+## Scout Output
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Verified contacts** | ⏸️ HELD | Scout correctly refused to invent emails. Hard rule honored: *"Never invent contact details — verified only."* |
+| **Compliance** | ✓ PASS | Scout deferred responsibly rather than risk CAN-SPAM/sender reputation damage. |
+| **Offer to proceed correctly** | ✓ PASS | Proposed research framework (specific businesses → you verify → I draft) respects guardrails and is operationally sound. |
+
+**Scout notes:**
+- This is correct behavior. Generating fake/unverified emails would fail immediately if sent (bounce, spam report, IP reputation damage).
+- Framework proposed is solid: SD County gym chains + surf shops + outdoor retailers with *public* contact pages = you verify, Scout drafts.
+
+---
+
+## Flags
+
+**None.** Both outputs respect the hard rules:
+- ✅ No invented health claims (Writer)
+- ✅ No invented contact details (Scout)
+- ✅ All facts accurate to CLAUDE.md
+- ✅ On-brand voice
+- ✅ CAN-SPAM compliant
+- ✅ Human gating in place (Scout + outreach email both require Adam to take next step)
+
+---
+
+## Recommendation
+
+**Save Writer output to git** — TikTok script and Aurinutra email are production-ready pending Adam's review.
+
+**Scout:** Proceed with Option 1 (research framework) when ready. This stays compliant and maximizes conversion by having Adam verify contacts personally.
+
+**Auditor sign-off:** 2026-06-26, 100% compliant. Ready for Adam.

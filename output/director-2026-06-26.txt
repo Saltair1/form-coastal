@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra, and confirm whether either has responded to the June outreach — no new cold contacts invented, verified-only, since both quotes are the G1 bottleneck.
+
+**Writer:** Draft a polite follow-up email to Aurinutra and Innova Nutra requesting their quotes, anchored to the key manufacturer questions (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel) — DRAFT ONLY for Adam to send; do NOT auto-send.
+
+**Finance:** Tally month-to-date API spend per run against the $20/month cap and report current burn; flag immediately if we are approaching the limit since Finance pauses the team if exceeded.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts for accuracy against the v5 Master Brand Document, on-brand voice, and zero banned medical/health claims before they reach Adam.
+
+**Director's note:** Today's top priority is unblocking G1 — chasing the Aurinutra and Innova Nutra quotes is the single dependency gating formula lock, COGS validation, and every downstream step, so all hands point at getting those quotes moving (human-gated, Adam sends).

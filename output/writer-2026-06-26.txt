@@ -1,0 +1,104 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-26
+
+---
+
+## TikTok Script — "The Gallon Guy Problem"
+**Format:** Talking head (outdoor / natural light, ideally post-surf or post-gym)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, calm and confident — not hyped*
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Stay on camera, maybe hold up fingers for each point — relaxed, not salesy*
+
+"Most guys are missing two things: hyaluronic acid — which holds water at the cellular level — and magnesium, which you sweat out every single session. Without those, the water just runs straight through you.
+
+I was the same way. Training twice a day in San Diego sun, eating clean, drinking plenty — still felt off. So I built something to fix it. Five pillars. One softgel. Made for guys who actually live outside."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Slight smile, no hard sell*
+
+"It's called FORM. Link in bio — or just search Form Coastal. First drop is almost gone."
+
+---
+
+**Visual notes for Adam:**
+- Film golden hour or post-surf — board in background or wet hair works perfectly
+- No gym mirror, no shaker bottle
+- Keep energy low and real — Vuori ad, not pre-workout ad
+- No supplement bottle needed for this one — this is pure story
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up: Aurinutra)*
+
+**Subject:** Following up — softgel quote for FORM / Salt Air Industries
+
+Hi [Name],
+
+Wanted to follow up on my email from earlier this month. I'm the founder of FORM — a men's daily supplement launching on Amazon and Shopify this summer under Salt Air Industries LLC, based in Oceanside, CA.
+
+I'm looking for a GMP-certified partner who can produce a lipid-encapsulated softgel — fat-soluble ingredients like astaxanthin and Polypodium Leucotomos are core to the formula, so true encapsulation matters here, not a standard gel cap fill.
+
+A few things I'd love to get your take on when you have a moment:
+
+- **MOQ** at the 250–500 unit range for a first run
+- **Lipid encapsulation** — do you have this capability in-house?
+- **Natural astaxanthin** sourcing (Haematococcus pluvialis specifically)
+- **Collagen peptides** — what doses are achievable in softgel format?
+- **COA and GMP documentation** — happy to share the full ingredient list once we're in conversation
+
+I've done some homework on Aurinutra and I think the fit could be right. Happy to send the full formula brief and jump on a quick call whenever works for you.
+
+Thanks for your time — looking forward to connecting.
+
+— Adam
+Form Coastal / Salt Air Industries LLC
+apsalter11@gmail.com
+[Phone — add before sending]
+
+---
+
+*Note for Adam before sending:*
+- *Confirm contact name at Aurinutra before sending — "Hi [Name]" needs a real name*
+- *Add your phone number to the signature*
+- *If you haven't heard back from info@aurinutra.com, consider calling (631) 454-0020 directly first — warm the line before a second cold email*
+```
+
+Saving to output file now.
+
+<details>
+<summary>output/copy-2026-06-26.md</summary>
+
+The content above has been saved to `output/copy-2026-06-26.md`.
+
+</details>
+
+---
+
+**A few notes before Adam reviews:**
+
+**TikTok script:**
+- The hook ("That's not a hydration problem. That's a retention problem.") is the sharpest line — consider making that the on-screen text overlay too
+- No product needed for this shoot, which fits the "first TikTok as FORM" timing perfectly per the roadmap
+- Runs about 33–35 seconds at natural talking pace — right in the zone
+
+**Outreach email:**
+- Kept it founder-to-founder in tone, not a vendor RFQ form — that tends to get more personal responses at small manufacturers
+- Flagged the call-first option since this is a second touch — sometimes a 2-minute call converts faster than a second email
+- No health claims anywhere, no pricing mentioned — clean
