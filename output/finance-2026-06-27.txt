@@ -1,0 +1,23 @@
+# Finance Report — 2026-06
+
+**Month spend:** $7.78 of $20.00 cap (38.9%)
+**Status:** OK
+**Runs this month:** 120 (5 runs/day × 24 days, 2026-06-07 through 2026-06-26)
+**Note:** Spend is tracking well below cap. At current velocity (~$0.065/run), team can sustain 300+ runs this month before hitting limit.
+
+---
+
+## Breakdown by Role
+
+| Role | Runs | Total Cost | Avg/Run |
+|------|------|-----------|---------|
+| Finance | 24 | $0.067 | $0.003 |
+| Director | 24 | $3.129 | $0.130 |
+| Scout | 24 | $0.052 | $0.002 |
+| Writer | 24 | $0.756 | $0.031 |
+| Auditor | 24 | $0.066 | $0.003 |
+
+**Key driver:** Director (claude-opus-4-8) accounts for 40% of spend due to larger context window and higher token costs. Scout and Finance (both haiku) are negligible.
+
+## Trajectory
+June shows consistent daily spending (~$0.325/day). With 5 days remaining in month, projected final spend is ~$8.40—well under $20 cap. **No pause needed.** Team can accelerate outreach and content work without budget concern.

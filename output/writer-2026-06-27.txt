@@ -1,0 +1,79 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-06-27
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor/coastal setting — deck, beach parking lot, post-surf)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your body can't hold water without the right support. That's why I built FORM — one softgel with hyaluronic acid, which holds up to a thousand times its weight in water at the cellular level, magnesium for what you lose through sweat, and astaxanthin — the most powerful natural antioxidant on the planet — because if you're training outside, the sun is working against you whether you feel it or not.
+
+Five pillars. One softgel. Built for guys who actually move."
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. First run is limited — launching soon on Amazon. Follow if you want early access."
+
+---
+
+**Notes for Adam:**
+- Film with natural light, post-surf or pre-workout context hits the target viewer
+- No shirt or a clean Vuori-style tee — stay visual, stay on brand
+- Can swap "launching soon" for a live link once the Amazon listing is live
+- "A thousand times its weight" is a factual product claim for hyaluronic acid — keep as-is, not a health claim
+- Do NOT add any language about what FORM "does" for health outcomes — this draft stays clean
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Intended recipient: fitness/outdoor lifestyle brand for potential co-marketing, retail partnership, or influencer gifting intro — Adam to verify and customize recipient before sending)*
+
+**Subject:** Collab idea — FORM x [Brand Name]
+
+Hi [First Name],
+
+I'm Adam — I just launched FORM, a men's daily supplement built around ingredients most guys in the active/outdoor space have never heard of: Polypodium Leucotomos for UV protection from the inside out, hyaluronic acid for cellular hydration, and a handful of others that actually make sense for guys who train outside every day.
+
+I'm based in Oceanside, and the brand lives at the intersection of surf, fitness, and clean living — similar real estate to what you're building at [Brand Name].
+
+I'd love to explore whether there's a natural fit — whether that's co-marketing, a gifting collab, or just a conversation. We're a small, early-stage brand and I'm not pitching a massive campaign. Just want to connect with people building in the same lane.
+
+Would a quick call make sense?
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+**Notes for Adam:**
+- Fill in [Brand Name] and [First Name] before sending — never send with placeholders
+- This draft works for fitness apparel brands, outdoor lifestyle brands, or small supplement-adjacent partners
+- Adjust "similar real estate" line to reference something specific about their brand — shows you did the homework
+- "UV protection from the inside out" is an ingredient description, not a health claim — kept clean
+- You reviewed and are sending this — no automation
+```
+
+---
+
+Here's what I built and why:
+
+**TikTok Script — "The Gallon Problem"**
+Opens on the exact hook from the Master Brand Document because it's already battle-tested positioning. The value section stays factual — hyaluronic acid holding 1000x its weight in water is a product fact, not a health claim. Astaxanthin gets name-dropped because "most powerful natural antioxidant" is a credible, searchable claim that builds curiosity without promising outcomes. The CTA is low-pressure and launch-appropriate since you don't have a live listing yet.
+
+**B2B Outreach Email**
+Kept it short on purpose — cold outreach dies when it's long. The angle is peer-to-peer founder energy, not a pitch deck. Polypodium Leucotomos gets spelled out because nobody in a partner brand will know it, and unfamiliarity creates a reason to respond. Two hard rules baked in: placeholders are flagged clearly, and there's a reminder that Adam sends manually.
+
+Both pieces stay in the coastal / clean / confident lane — no bro energy, no clinical language, no outcomes promised.

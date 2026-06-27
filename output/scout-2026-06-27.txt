@@ -1,0 +1,24 @@
+# B2B Leads — 2026-06-27
+
+I need to be direct with you, Adam: I can't complete this task as specified.
+
+**The constraint:** You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with email addresses. My instructions say "Verified contacts only; never invent or guess an email address."
+
+**The problem:** I don't have real-time access to business directories, phone numbers, or email addresses. I can't browse the web to verify contact info. If I list businesses and invent plausible-looking emails (e.g., `info@surfshopdiego.com`), I'm violating the core rule — and those emails might be wrong, tanking deliverability when you actually reach out.
+
+**What I can do instead:**
+
+1. **Give you a curated list of business *types* and search strategies** — specific gym chains, surf shop networks, and sports med clinics near Oceanside/San Diego where you can manually verify contacts via their websites or a quick call.
+
+2. **Draft outreach templates** once you've found real emails yourself — so when you do cold email, the pitch is locked.
+
+3. **Point you to cheap verification tools** — RocketReach, Apollo.io, or Clearbit (API) can batch-verify emails for $20-50/month if you want to scale this.
+
+**My recommendation:** Since you're in Oceanside and know the local scene, start with 5 gyms or surf shops within 10 miles — call the front desk, ask for the owner or manager's email, then send the pitch I draft. You'll get higher open rates and you'll know the contact is real.
+
+**Want me to:**
+- Draft a cold email template for gym/shop owners?
+- List specific Oceanside-area business types to target?
+- Help you set up a cheap email verification workflow?
+
+Let me know — I'm ready to move fast once we have verified contacts.
