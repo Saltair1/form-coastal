@@ -1,0 +1,35 @@
+# Finance Report — 2026-06
+
+**Month spend:** $4.87 of $20.00 cap (24%)
+**Status:** ✅ OK
+**Runs this month:** 22 daily cycles (5 agents × 22 days)
+**Note:** Steady daily burn at ~$0.22/day; on track for ~$6.60/month at current velocity — well under cap.
+
+---
+
+## Breakdown by agent
+
+| Agent | Model | Runs | Total Cost |
+|-------|-------|------|-----------|
+| **Finance** | claude-haiku-4-5-20251001 | 22 | $0.063 |
+| **Director** | claude-opus-4-8 | 22 | $2.791 |
+| **Scout** | claude-haiku-4-5-20251001 | 22 | $0.417 |
+| **Writer** | claude-sonnet-4-6 | 22 | $0.749 |
+| **Auditor** | claude-haiku-4-5-20251001 | 22 | $0.625 |
+| **TOTAL** | — | 110 | **$4.87** |
+
+---
+
+## Key insights
+
+- **Director dominates spend** (57%) — expected; Opus-4-8 is the most expensive model and handles PR reviews + task coordination.
+- **Haiku trio (Finance + Scout + Auditor)** combines for 25% — cost-efficient for lightweight QA and research.
+- **Writer on Sonnet** (15%) — appropriate for outreach drafts and content.
+- **No cost spikes** — consistent daily rhythm suggests stable agent workloads.
+- **Runway:** At $0.22/day, team can sustain ~90+ days at $20 cap before reset needed.
+
+---
+
+## Recommendation
+
+**No action required.** Spend is healthy and predictable. Continue monitoring daily. Next reset: **2026-07-01 at 00:00 UTC**.

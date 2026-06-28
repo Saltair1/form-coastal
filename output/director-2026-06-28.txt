@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra and Innova Nutra (confirm email/phone still valid) and check whether either has published response times or quote turnaround — so Adam can follow up on the June quotes still outstanding. Verified contacts only; do not invent any details.
+
+**Writer:** Draft the first FORM TikTok post for this week — lifestyle/coastal content, no product needed — pulling from the FORM TikTok Scripts + Content Calendar in Drive and the brand voice in CLAUDE.md. Draft only; Adam posts. No health claims.
+
+**Finance:** Run today's per-run API cost tally and report month-to-date spend against the $20/month cap. Flag immediately if we're trending toward the limit; confirm we're clear to continue.
+
+**Auditor:** QA the Writer's TikTok draft once delivered — check it's on-brand (coastal, clean, not bro-y), contains zero medical/health claims, and matches the v5 Master Brand Document. Also flag if the post implies product availability before launch.
+
+**Director's note:** Today's top priority is G1 — chasing the outstanding manufacturer quotes is the gate that unlocks formula lock, COGS, label design, and inventory, so Scout's verification work to enable Adam's follow-up is the highest-leverage move while the TikTok draft advances G2 in parallel at no cost.

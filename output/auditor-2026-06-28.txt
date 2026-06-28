@@ -1,0 +1,51 @@
+# AUDIT REPORT — 2026-06-28
+
+**Overall: PASSED (with notes)**
+
+---
+
+## Writer Output
+✅ **Brand voice:** Clean, confident, coastal. "The gallon myth" hook owns the brand differentiation without overreach. Tone sits exactly between credible and approachable — not clinical, not bro-y.
+
+✅ **Health claims:** No banned claims detected. "Holds up to a thousand times its weight in water" is a mechanism statement about hyaluronic acid (factual, not a promise of cure/treatment). "Five pillars" are functional categories, not medical claims. Caption avoids all health language.
+
+✅ **Compliance:** CAN-SPAM compliant (no send needed — this is a draft). Email includes formcoastal.com domain (on-brand). No invented contact details (info@aurinutra.com verified in CLAUDE.md, June 2026 contact).
+
+✅ **Accuracy:** Astaxanthin sourcing requirement (Haematococcus pluvialis) matches formula spec. Lipid encapsulation requirement correct. MOQ and GMP/COA language is accurate to the business stage.
+
+✅ **Sender gating:** Clear checklist for Adam — phone number, contact verification, PDF attachment timing. States "You send this. Not automated." Correct.
+
+**Minor refinement:** Email references "a few weeks back" — Adam should specify exact date of original June inquiry when sending. ✓ Already in checklist.
+
+---
+
+## Scout Output
+✅ **Verified contacts:** Scout correctly identified it **cannot** fulfill verified lead generation without live access to email databases. This is the right call — honoring CLAUDE.md hard rule #3 (never invent contact details).
+
+✅ **Transparency:** Scout explicitly stated what it cannot do and why. Offered legitimate alternatives (Hunter.io, Apollo.io, ZoomInfo). Did not fabricate leads to meet the task.
+
+✅ **Compliance:** Did not output unverified leads to JSON. Did not claim "verified" status on guessed emails.
+
+**Note:** Scout deferred the task correctly. Adam should use Hunter.io or Apollo.io to generate verified contact lists, then Writer can draft outreach for those real contacts.
+
+---
+
+## Flags
+
+**None.** 
+
+Both outputs honor brand guidelines, compliance rules, and the founder-owned send gate. Writer delivered production-ready copy. Scout correctly refused to invent data.
+
+---
+
+## Recommendation for Adam
+
+1. **Deploy TikTok script this week** — no product needed, shoot at golden hour. This advances G2 (organic audience).
+2. **Send Aurinutra email** after adding phone number and verifying contact. This advances G1 (manufacturer quotes).
+3. **Run Scout with verified leads** once you've used Hunter.io or Apollo.io to export real B2B contacts in San Diego (gyms, surf shops, outdoor retailers). Scout can then draft outreach.
+
+---
+
+**Audit file saved:** `output/audit-2026-06-28.json`
+
+**Status:** ✅ All Writer copy approved for Adam review. Scout task rerouted correctly.

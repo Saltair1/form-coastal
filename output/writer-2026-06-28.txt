@@ -1,0 +1,99 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts
+**Date:** 2026-06-28
+**Author:** Writer (claude-sonnet-4-6)
+**Status:** DRAFT — Adam reviews and sends everything. No auto-send.
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (Adam, outdoor setting — early morning, golden hour, near water)
+**Length:** ~35 seconds
+**Account:** @formcoastal
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, dry delivery*
+
+> "You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Slight lean in, conversational*
+
+> "Your cells can't hold water without the right support. Hyaluronic acid — yeah, the same stuff in your skin — holds up to a thousand times its weight in water at the cellular level. Nobody puts it in a men's supplement.
+>
+> I built FORM because I was training every day in San Diego sun and still felt flat. Five pillars: UV protection, hydration, joint recovery, clean energy, immune baseline. One softgel."
+
+---
+
+**[CTA — 0:25–0:35]**
+*Relaxed, not salesy*
+
+> "Link in bio. First run is limited — we're small on purpose."
+
+---
+
+**Production notes:**
+- Shoot at sunrise or golden hour — beach or rooftop, natural light only
+- No supplement bottle needed (pre-launch content)
+- Caption: "The gallon myth. 💧 #formcoastal #hydration #activemen #supplements #sandiego"
+- No health claims in caption or on-screen text
+
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Quote Follow-Up — Lipid Softgel Formula, 250–500 Unit MOQ
+
+---
+
+Hi team,
+
+I sent over a formula inquiry a few weeks back and wanted to follow up — I know turnaround on quotes can take time.
+
+I'm Adam, founder of Form Coastal (Salt Air Industries LLC) out of Oceanside, CA. I'm developing a men's daily supplement in lipid-encapsulated softgel format — 9–10 core ingredients including some fat-solubles (astaxanthin, Vitamin D3) that need true lipid encapsulation to be worth putting in at all.
+
+A few specifics I want to confirm when we connect:
+
+- **Natural astaxanthin** sourced from *Haematococcus pluvialis* — synthetic won't work for us
+- **Lipid encapsulation** confirmed for the full softgel (not just coating)
+- **MOQ** at 250 or 500 units — we're a first run, want to do this right before we scale
+- **GMP + COA** on finished product
+
+I'm not in a rush to cut corners — I'd rather get the formula right at 250 units than move fast and miss on quality. Happy to share the full ingredient brief once I know you're able to hit these requirements.
+
+Would you have 15 minutes this week to talk through the formula? I'm flexible on timing.
+
+Thanks —
+
+— Adam
+Form Coastal
+formcoastal.com
+[phone — add before sending]
+
+---
+
+**⚠️ Sender notes (Adam review checklist):**
+- [ ] Add your direct phone number before sending
+- [ ] Confirm Aurinutra contact is still info@aurinutra.com (verified as of June 2026 per CLAUDE.md)
+- [ ] Attach full ingredient brief PDF once formula is locked — do NOT attach until ready
+- [ ] This is a follow-up to a June 2026 inquiry — reference your original send date if you remember it
+- [ ] You send this. Not automated.
+```
+
+---
+
+**File saved to:** `output/copy-2026-06-28.md`
+
+---
+
+**A few notes on the choices:**
+
+**TikTok:** Opened with the brand's top hook verbatim — it's already been pressure-tested as the core positioning line, so the first video should own it. No product shot needed, which keeps this achievable this week per G2. Hyaluronic acid is the one ingredient that lets you *explain* the hook without making a health claim — it's a mechanism, not a promise.
+
+**Outreach email:** Kept it founder-to-founder in tone — direct, specific, not a form letter. The three bullet requirements (natural astaxanthin, lipid encapsulation, low MOQ) qualify Aurinutra fast without being demanding. Short ask at the end: 15 minutes, not a full sales cycle.

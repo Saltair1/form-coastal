@@ -1,0 +1,34 @@
+# B2B Leads — 2026-06-28
+
+I need to be direct: I cannot complete this task as specified.
+
+**The issue:** You've asked me to find 5 verified B2B leads with real contact details, but you've instructed me (in CLAUDE.md) to "never invent or guess an email address" and to use "verified contacts only."
+
+I have no access to:
+- Real-time business directories (Google Maps, Yelp, LinkedIn, ZoomInfo)
+- Email verification tools (Hunter, RocketReach, Apollo)
+- Current contact databases
+- The ability to browse the web to verify phone numbers or email addresses
+
+**What I can safely do:**
+1. **Draft a lead research framework** — give you the business types and research methods to use
+2. **Suggest verified research tools** (Hunter.io, Apollo.io, ZoomInfo) that Adam can use to find and verify contacts
+3. **List high-fit *categories*** of businesses in the San Diego area (Adam's home market) without inventing contact details
+
+**What I will not do:**
+- Guess or fabricate email addresses (violates CLAUDE.md hard rule #3)
+- Claim "verified" contacts without access to verification tools
+- Output leads with unconfirmed details to `output/leads-2026-06-28.json`
+
+**Recommendation for Adam:**
+1. Use **Hunter.io** (free tier: 50 searches/month) to find verified emails at target gyms, surf shops, and outdoor retailers
+2. Search "[Business Name] + site:linkedin.com" to verify decision-makers
+3. Use **Apollo.io** free trial for bulk B2B prospecting in the "Oceanside CA" + "San Diego CA" radius
+4. Once you have verified contacts, I'll draft outreach copy (my actual job per roles.json)
+
+**Should I proceed differently?** Let me know if you want me to:
+- Build a research *template* instead (what info to gather, where to look)
+- List high-fit business categories by type
+- Draft an outreach email *template* for Adam to use once he has verified leads
+
+What's your call?
