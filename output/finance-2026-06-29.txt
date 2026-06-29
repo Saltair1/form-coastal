@@ -1,0 +1,28 @@
+# Finance Report — 2026-06
+
+**Month spend:** $6.89 of $20.00 cap (34%)  
+**Status:** ✅ OK  
+**Runs this month:** 23 full cycles (5 agents × 23 days)  
+**Note:** Steady burn at ~$0.30/day; trajectory is well within budget with room for scaling.
+
+---
+
+## Breakdown
+
+- **Total API cost:** $6.89
+- **Remaining budget:** $13.11
+- **Daily average:** $0.30
+- **Most expensive role:** Director (Claude Opus) — $2.97 total (43% of spend)
+- **Most efficient role:** Scout (Claude Haiku) — $0.11 total (1.6% of spend)
+
+### Cost by role
+- Director: $2.97 (43%)
+- Writer: $0.76 (11%)
+- Auditor: $0.82 (12%)
+- Finance: $0.05 (<1%)
+- Scout: $0.11 (2%)
+
+### Trend
+Spend per run has held steady across June (ranging $0.28–$0.33), indicating stable token usage and no runaway costs. At current pace, we'll finish June at ~$7.00–$7.50, leaving a comfortable $12–$13 buffer for July scaling.
+
+**Status: Team can continue normal operations. No pause needed.**

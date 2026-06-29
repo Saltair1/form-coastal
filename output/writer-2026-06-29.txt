@@ -1,0 +1,179 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-06-29
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light, beach or backyard setting)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+*(direct to camera, calm and confident — not reactive, not hype)*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Without the right compounds, water just moves through you. Hyaluronic acid is what actually holds it at the cellular level — it binds up to a thousand times its weight in water. Most men's supplements don't touch this.
+
+I built FORM around five things I actually needed living and training in San Diego: UV protection, real hydration, joint recovery, clean energy, and immune support. One softgel. Daily."
+
+*(keep pace relaxed — not a pitch, just a guy explaining something he figured out)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to follow along. We're almost ready."
+
+*(slight smile, unhurried — leave them curious, not sold)*
+
+---
+
+**On-screen text cues:**
+- Hook line mirrored as text at 0:00
+- "hyaluronic acid" label at mention
+- "FORM" wordmark fade-in at 0:28
+
+**Music:** Lo-fi coastal/surf instrumental, low in mix — Artlist or similar
+
+---
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Softgel Formula Quote — Following Up (Salt Air Industries)
+
+---
+
+Hi [Name / Team],
+
+Wanted to follow up on the inquiry I sent over earlier this month.
+
+I'm Adam — founder of Form Coastal (Salt Air Industries LLC), based in Oceanside, CA. We're developing a men's daily supplement called FORM — a 10-ingredient lipid-encapsulated softgel built around five pillars: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support.
+
+A few things that matter most to us as we evaluate partners:
+
+- **Lipid encapsulation** — non-negotiable for fat-soluble ingredients (astaxanthin, D3)
+- **Natural astaxanthin** sourced from *Haematococcus pluvialis* specifically
+- **Low MOQ** — we're targeting a 250–500 unit pilot run
+- **GMP certified + COA provided** per batch
+- Collagen dosing feasibility in softgel format (or boswellia as fallback)
+
+We're moving quickly — inventory decision is in the next few weeks. Happy to jump on a call this week or next to walk through the formula in detail.
+
+Is there a quote template or intake form I can fill out to get things moving on your end?
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+[phone optional — Adam to add]
+
+---
+*Draft only — Adam reviews and sends.*
+```
+
+Saving to output file now.
+
+```bash
+mkdir -p output && cat > output/copy-2026-06-29.md << 'EOF'
+# Form Coastal Copy — 2026-06-29
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor / natural light, beach or backyard setting)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+*(direct to camera, calm and confident — not reactive, not hype)*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Without the right compounds, water just moves through you. Hyaluronic acid is what actually holds it at the cellular level — it binds up to a thousand times its weight in water. Most men's supplements don't touch this.
+
+I built FORM around five things I actually needed living and training in San Diego: UV protection, real hydration, joint recovery, clean energy, and immune support. One softgel. Daily."
+
+*(keep pace relaxed — not a pitch, just a guy explaining something he figured out)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to follow along. We're almost ready."
+
+*(slight smile, unhurried — leave them curious, not sold)*
+
+---
+
+**On-screen text cues:**
+- Hook line mirrored as text at 0:00
+- "hyaluronic acid" label at mention
+- "FORM" wordmark fade-in at 0:28
+
+**Music:** Lo-fi coastal/surf instrumental, low in mix — Artlist or similar
+
+---
+---
+
+## B2B Outreach Email — Manufacturer Follow-Up (Aurinutra)
+**To:** info@aurinutra.com
+**Subject:** Softgel Formula Quote — Following Up (Salt Air Industries)
+
+---
+
+Hi [Name / Team],
+
+Wanted to follow up on the inquiry I sent over earlier this month.
+
+I'm Adam — founder of Form Coastal (Salt Air Industries LLC), based in Oceanside, CA. We're developing a men's daily supplement called FORM — a 10-ingredient lipid-encapsulated softgel built around five pillars: UV/antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support.
+
+A few things that matter most to us as we evaluate partners:
+
+- **Lipid encapsulation** — non-negotiable for fat-soluble ingredients (astaxanthin, D3)
+- **Natural astaxanthin** sourced from *Haematococcus pluvialis* specifically
+- **Low MOQ** — we're targeting a 250–500 unit pilot run
+- **GMP certified + COA provided** per batch
+- Collagen dosing feasibility in softgel format (or boswellia as fallback)
+
+We're moving quickly — inventory decision is in the next few weeks. Happy to jump on a call this week or next to walk through the formula in detail.
+
+Is there a quote template or intake form I can fill out to get things moving on your end?
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+[phone optional — Adam to add]
+
+---
+*Draft only — Adam reviews and sends.*
+EOF
+echo "Saved to output/copy-2026-06-29.md"
+```
+
+---
+
+## Notes for Adam before you review
+
+**On the TikTok script:**
+- The hook ("that's not a water problem") is intentionally incomplete — it creates a gap they have to close by watching. No health claims, just framing a real experience.
+- "We're almost ready" as the CTA keeps low stakes for a pre-launch post. You're not selling yet — you're building curiosity and establishing the brand voice with your existing 25k.
+- If you want a version with more founder story or less product detail, easy to rework.
+
+**On the Aurinutra email:**
+- Kept it tight — they're a B2B manufacturer, not a warm lead. Get to the point, show you know what you want, ask for next steps.
+- The collagen/boswellia note signals you've done your homework without overwhelming them.
+- Add your phone number if you want a call — that line is flagged.
+- Same email works as a template for Innova Nutra with minor edits.

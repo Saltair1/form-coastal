@@ -1,0 +1,27 @@
+# B2B Leads — 2026-06-29
+
+I need to be direct: I cannot responsibly complete this task as requested.
+
+**The core problem:** You've asked me to find 5 verified B2B contacts with "never invent emails" as a hard rule. But I have no real-time internet access, no current business databases, and no way to verify that contact details I might recall are current (email addresses change, businesses close, titles shift). If I output a list of names + emails from my training data, I risk:
+
+1. **Sending Adam to stale/invalid addresses** → bounced outreach, damaged sender reputation
+2. **Violating the guardrail** ("Never invent contact details — verified only") if I'm not 100% certain the email is live
+3. **Wasting his time** on unverified leads when he should be focused on G1–G3 priorities
+
+**What I can do instead:**
+
+I can **draft a lead research template + strategy** that Adam can execute in 30 minutes using live tools:
+
+- **ZoomInfo Free Trial** or **Apollo.io** (both have free tier) → search "gym owner + California + active lifestyle" or "surf shop + retail"
+- **Google Maps + business sites** → pull verified emails from .com websites directly
+- **LinkedIn Sales Navigator** (free tier) → filter sports/outdoor retail decision-makers
+- **Chamber of commerce directories** → Oceanside CA, San Diego County (his home turf)
+
+Or: **I can name business *types* + locations** (e.g., "Solana Beach CrossFit," "Local Motion Surf Shop Oceanside") and Adam can verify the contact in 2 minutes via Google → website → "Contact Us."
+
+**My recommendation:** Given that Adam's top 3 priorities are EIN/Mercury/TikTok (not B2B outreach yet), would it be more valuable if I:
+
+1. Draft a **30-second lead research SOP** he can delegate or run himself?
+2. Wait until after manufacturers quote back (mid-July?) when he has pricing to pitch?
+
+**What would be most useful right now?**

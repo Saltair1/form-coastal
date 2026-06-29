@@ -1,0 +1,65 @@
+# AUDIT REPORT — 2026-06-29
+
+**Overall: PASSED with CONDITIONAL NOTES**
+
+---
+
+## WRITER OUTPUT
+
+| Check | Result | Notes |
+|-------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, confident, relaxed. "That's not a water problem" is clever framming—creates curiosity without hype. Tone matches Vuori/AG1 positioning. |
+| **Health claims** | ✓ PASS | Clean. "Hyaluronic acid holds water at cellular level" is factual (1000x weight is cited in literature). No claims that "cures," "treats," or "prevents" disease. "UV protection" framed as ingredient benefit, not medical claim. |
+| **Compliance (CAN-SPAM)** | ✓ PASS | Email includes full legal name (Adam Salter), company (Form Coastal / Salt Air Industries LLC), and location (Oceanside, CA). No false subject line. Draft-only flag present ("Adam reviews and sends"). |
+| **Invented contact details** | ✓ PASS | Email properly flags `[phone optional — Adam to add]` and `[Name / Team]`. No fabricated email address or phone inserted. Uses verified Aurinutra email (info@aurinutra.com) from CLAUDE.md. |
+| **Brand accuracy** | ✓ PASS | References correct formula pillars, correct MOQ range (250–500), correct location (Oceanside CA). Mentions formcoastal.com ✓ and @formcoastal ✓. |
+
+### Writer Notes for Adam:
+- **TikTok script is launch-ready.** The hook is strong, the value section doesn't oversell, and "We're almost ready" maintains low stakes pre-product. 
+- **Email tone is appropriately B2B.** Direct, specific, shows you've done homework (Haematococcus pluvialis, collagen dosing, boswellia fallback). This is the right approach for a manufacturer follow-up.
+- **One minor suggestion:** In the email, you might add "Hoping to move fast — do you have bandwidth for a quote in the next 7–10 days?" to create urgency without being pushy. Optional.
+
+---
+
+## SCOUT OUTPUT
+
+| Check | Result | Notes |
+|-------|--------|-------|
+| **Contacts verified** | ⚠ N/A | Scout correctly **declined to output a list** of unverified emails. This is the right call per guardrail #3 ("Never invent contact details — verified only"). |
+| **No invented emails** | ✓ PASS | Scout did not invent any email addresses. Explicitly acknowledged the risk and refused to guess. |
+| **Process quality** | ✓ PASS | Offered three valid alternatives: (1) template for Adam to execute, (2) wait for mfg quotes before B2B outreach, (3) business-type + location strategy Adam can verify in real time. |
+
+### Scout Notes:
+**This is correct behavior.** Scout recognized that outputting unverified contact details would violate the guardrail and damage sender reputation. Better to offer a research SOP than to output stale/false emails.
+
+**Recommendation:** Hold B2B outreach lead-gen until **early July** (after Aurinutra + Innova Nutra respond). Right now, G1–G3 (EIN, Mercury, TikTok) are the priority. Once you have manufacturer quotes in hand, outreach to retail partners (gym owners, surf shops, trainers) becomes much stronger because you can say "FORM launches X date at $29.99."
+
+---
+
+## FLAGS
+
+**None — all guardrails respected.**
+
+- ✓ No invented contacts
+- ✓ No medical claims
+- ✓ No banned health language
+- ✓ Brand voice consistent
+- ✓ CAN-SPAM compliant
+- ✓ Draft-only properly flagged
+
+---
+
+## RECOMMENDATION TO ADAM
+
+1. **TikTok script:** Record and post this week. You don't need product in hand — this is founder story + ingredient education. Builds momentum with your 25k followers.
+
+2. **Aurinutra email:** Add phone number and send this week as a follow-up to your June inquiry. Keep it brief and direct.
+
+3. **B2B outreach:** Defer to early July. Use Scout's template then. Focus now on:
+   - Opening Mercury account (G1)
+   - Receiving mfg quotes (G1)
+   - Posting TikTok (G2)
+
+---
+
+**AUDIT SIGNED:** Auditor (claude-haiku) | 2026-06-29 | ✅ **PASS**

@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details and quote-status for Aurinutra (info@aurinutra.com) and Innova Nutra — confirm we have correct reply addresses and check for any verified additional low-MOQ GMP softgel manufacturers as backup. Verified contacts only; do NOT send anything.
+
+**Writer:** Draft a polite quote follow-up email to both Aurinutra and Innova Nutra (separate drafts, manufacturer-facing — not cold outreach) covering the key manufacturer questions from CLAUDE.md: lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, and collagen dose achievable in softgel. Leave as a draft for Adam to send. Also prep this week's first FORM TikTok script (lifestyle, no product) per G2, pulling from the TikTok Scripts doc in Drive.
+
+**Finance:** Confirm month-to-date API spend against the $20 cap and log per-run cost; flag immediately if we're trending toward the limit and confirm cheapest-model usage across the team.
+
+**Auditor:** QA the manufacturer follow-up drafts and the TikTok script before Adam sees them — check accuracy against the v5 Master Brand Document, on-brand voice, and zero medical/health claims or banned language.
+
+**Director's note:** Today's top priority is G1 — unblocking the manufacturer quotes from Aurinutra and Innova Nutra, since locking the formula and COGS gates inventory, Amazon launch, and everything downstream; the TikTok work runs in parallel because it needs no product and keeps G2 moving for free.
