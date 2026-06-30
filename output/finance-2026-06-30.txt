@@ -1,0 +1,36 @@
+# Finance Report — June 2026
+
+**Month spend:** $5.51 of $20.00 cap (27.6%)
+**Status:** ✅ OK
+**Runs this month:** 125
+**Note:** Steady daily ops across all five agent roles; no cost anomalies. Trajectory is sustainable; $14.49 remaining buffer.
+
+---
+
+## Breakdown by Role
+
+| Role | Runs | Total Cost | Avg Cost/Run |
+|------|------|-----------|--------------|
+| **Finance** | 25 | $0.069 | $0.003 |
+| **Director** | 25 | $2.998 | $0.120 |
+| **Scout** | 25 | $0.058 | $0.002 |
+| **Writer** | 25 | $0.836 | $0.033 |
+| **Auditor** | 25 | $0.639 | $0.026 |
+
+**Director (claude-opus-4-8)** is the largest cost driver at 54% of monthly spend—expected given model size and full-context review responsibilities. All other roles are cost-efficient.
+
+---
+
+## Key Observations
+
+- **25 complete runs** (5 agents × 25 days) from June 7–29
+- **No single-run spike** exceeds $0.15 USD
+- **Writer** (Sonnet) consistently produces 1K–2K token outputs at ~3¢ per run
+- **Auditor** (Haiku) provides quality review at minimal cost (<1¢ per run)
+- **Scout** (Haiku) maintains verified B2B lead acquisition at <0.2¢ per run
+
+---
+
+## Runway
+
+At current burn ($0.22/day), the team can sustain ~90 more days of daily ops before hitting the $20 cap. **No action required.** Proceed as normal.

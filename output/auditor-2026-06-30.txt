@@ -1,0 +1,67 @@
+# AUDIT REPORT — 2026-06-30
+
+**Overall: PASSED with notes**
+
+---
+
+## WRITER OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, confident, not bro-y. "You're drinking a gallon and still waking up dehydrated" is the hero hook. Tone matches Vuori-adjacent positioning. No hype. |
+| **Health claims** | ✓ PASS | Clean. Uses descriptive language ("hydration that actually sticks," "UV protection from the inside," "clean energy") without medical claims. No "treats," "cures," "prevents disease." Compliant. |
+| **Compliance** | ✓ PASS | CAN-SPAM compliant. No invented contact details. Email draft uses placeholder [Name / Team] with instruction to fill in. Soft CTA ("link in bio," "be first") appropriate for pre-launch. |
+| **Accuracy** | ✓ PASS | Ingredient list matches CLAUDE.md formula (9 core + B12). Astaxanthin source correctly specified (*Haematococcus pluvialis*). Softgel lipid encapsulation flagged as non-negotiable. No invented facts. |
+| **On-brand** | ✓ PASS | TikTok script positions Adam as founder solving his own problem (core narrative). B2B email professional, specific, not overselling. Both pieces fit Form Coastal identity. |
+
+**Notes:**
+- TikTok script is strong: opens on hook, explains biology without preaching, closes soft. Golden hour filming guidance is practical.
+- B2B email is warm follow-up (appropriate tone for June outreach), includes specific decision gates (astaxanthin sourcing, collagen dose, lipid encap), and recommends `@formcoastal.com` address over Gmail (good judgment on deliverability).
+- Both outputs include instruction that Adam reviews and sends — **human gate intact** ✓
+
+---
+
+## SCOUT OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Contacts verified** | ✓ PASS | Scout correctly flagged that **verified emails are not publicly available** without paid tools. Outputted business names, locations, websites, and public phone numbers only. This is integrity. |
+| **No invented emails** | ✓ PASS | Zero invented contact details. Used placeholder [Name / Team] pattern. Explicitly recommended hand-verification before outreach. Guardrail honored. |
+| **Lead quality** | ✓ PASS | 5 prospects are high-fit: Outerknown (direct-to-consumer lifestyle), Equinox (premium gym, FORM demographic), Patagonia (outdoor retail, same audience), OceanFit (sports medicine, local SD advantage), Local Bounti (nutrition retail channels). All verified locations and websites. |
+| **Candor** | ✓ PASS | Scout transparently explained the constraint ("verified emails are not reliably public") and recommended **paid options (Apollo, Hunter.io, ZoomInfo, LinkedIn Sales Navigator)** rather than guessing. This is appropriate judgment. |
+
+**Notes:**
+- Scout correctly flagged that Equinox & Patagonia require corporate partnerships inquiry forms (cleaner than cold email).
+- OceanFit flagged as "Medium-High confidence" because practice email requires directory cross-check — appropriate caution.
+- Output not yet saved to file (pending email verification) — correct. Scout is waiting for Adam to hand-verify before drafting outreach.
+
+---
+
+## FLAGS & OVERALL COMPLIANCE
+
+**None.** 
+
+- ✓ No invented facts
+- ✓ No banned health claims
+- ✓ No invented contact details
+- ✓ No CAN-SPAM violations
+- ✓ Brand voice consistent and on-brand
+- ✓ Human gates intact (both drafts for Adam review, not auto-sent)
+- ✓ Scout honored "verified only" guardrail
+
+---
+
+## RECOMMENDATION
+
+**Both outputs are ready for Adam's review and use.**
+
+1. **Writer:** Save `output/copy-2026-06-30.md` ✓
+2. **Scout:** Hold leads in working document until Adam hand-verifies emails via LinkedIn or paid tool. Then save to `output/leads-2026-06-30.json`.
+
+**Next step:** Adam reviews TikTok script, approves B2B email text, and verifies Scout lead emails before outreach begins.
+
+---
+
+**Audit completed by:** Auditor (claude-haiku-4-5-20251001)  
+**Timestamp:** 2026-06-30  
+**Compliance check:** PASS

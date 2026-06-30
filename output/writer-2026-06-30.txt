@@ -1,0 +1,109 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-06-30
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (Adam on camera, outdoor/natural light, casual — beach parking lot or backyard)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a you problem — that's a biology problem."
+
+*[Slight pause. Direct eye contact. No jump cuts here — let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Water doesn't just stay in your cells on its own. Your body needs specific compounds to actually hold onto it — hyaluronic acid, magnesium, electrolytes. Without them, you're basically drinking a gallon and flushing most of it.
+
+I figured this out after years of surfing, lifting, training in the San Diego sun every single day — and still feeling off. So I built something around it.
+
+Five pillars: hydration that actually sticks, UV protection from the inside, joint recovery, clean energy, immune baseline. One softgel, daily."
+
+*[Calm delivery. Not pitching — explaining. Hold frame steady.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"It's called FORM. We're launching soon — link in bio if you want to be first."
+
+*[No hard sell. Let curiosity do the work.]*
+
+---
+
+**Notes for Adam:**
+- Film outdoors, golden hour or overcast — avoid harsh midday shadows
+- Wear something clean and simple (Vuori, linen, no logos)
+- No graphics or text overlays needed on this one — voice carries it
+- This is the anchor script for launch week; built around the hero hook from the brand doc
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up: Aurinutra — awaiting quote from June 2026 outreach)*
+
+**Subject:** Following up — FORM softgel formula quote
+
+Hi [Name / Team],
+
+Just wanted to follow up on my note from earlier this month. I'm the founder of Form Coastal — we're building a men's daily supplement called FORM, and Aurinutra is our top-of-list manufacturer given your GMP certification, softgel capability, and low MOQ flexibility.
+
+Quick recap of what we're working with:
+
+- **Format:** Lipid-encapsulated softgel (non-negotiable — we have fat-soluble ingredients)
+- **Key ingredients:** Polypodium Leucotomos extract, astaxanthin (natural, *Haematococcus pluvialis* only), hyaluronic acid, KSM-66 ashwagandha, magnesium, Vitamin D3, Vitamin C, zinc, B12 — plus a joint support ingredient TBD based on what's achievable at dose in softgel format
+- **Launch quantity:** 250–500 units to start
+- **Timeline:** Targeting Q3 2026
+
+A few specific questions when you have a moment:
+
+1. Do you have a stock or semi-custom softgel formula that covers most of these ingredients?
+2. Can you confirm natural astaxanthin sourcing from *H. pluvialis*?
+3. What's the realistic dose ceiling for collagen peptides in a softgel, or would you recommend a boswellia swap?
+4. Lipid encapsulation available at our MOQ range?
+
+Happy to jump on a quick call if that's easier — I'm flexible. Would love to get a quote in hand so we can move forward.
+
+Thanks,
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+
+---
+
+**Notes for Adam:**
+- Fill in the rep's name if you have it — "Hi Team" works if not
+- This is a warm follow-up, not cold — you already submitted in June, so the tone is appropriately direct
+- The ingredient list is detailed enough to get a real quote back; don't trim it
+- Send from your business email once Mercury + domain email are set up, not Gmail if you can help it
+
+---
+
+*Draft prepared by Form Coastal Copywriter — Adam reviews and sends. Not auto-sent.*
+```
+
+Saving now:
+
+```bash
+mkdir -p output && cat > output/copy-2026-06-30.md << 'EOF'
+[file contents above]
+EOF
+```
+
+---
+
+**What's in here and why:**
+
+**TikTok — "The Gallon Guy"**
+Opens on the hero hook from your brand doc — it's already proven to stop thumbs. Keeps Adam in explanation mode, not pitch mode, which fits the Vuori-adjacent tone you're after. The CTA is soft on purpose: at 0 product in hand, "link in bio / be first" builds the list without overpromising a ship date.
+
+**Aurinutra follow-up**
+Warm, not cold — you already reached out, so the tone earns being direct. The ingredient list is specific enough that they can actually quote it, and the three decision-gate questions (astaxanthin sourcing, collagen dose ceiling, lipid encap at MOQ) will flush out any formula compromises before you're locked in. Recommend sending from a `@formcoastal.com` address once that's wired up — keeps deliverability clean and looks buttoned up to a manufacturer.
