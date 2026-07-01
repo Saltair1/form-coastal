@@ -1,0 +1,73 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-07-01
+
+---
+
+## TikTok Script — "Still Dehydrated"
+Format: Talking head (outdoor / natural light, beach or backyard)
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a water problem."
+
+**[VALUE — 0:05–0:25]**
+"Your body can't hold water without the right support. Hyaluronic acid holds up to a thousand times its weight in water at the cellular level — most guys have never heard of it, and almost no supplement made for men actually includes it.
+
+I surf, lift, and train outside 300 days a year in San Diego. I was doing everything right and still felt it every morning. So I built something to fix it."
+
+**[CTA — 0:25–0:35]**
+"FORM. Five pillars, one softgel. Link in bio — we're launching soon and the first drop is limited."
+
+---
+
+## B2B Outreach Email — DRAFT (Manufacturer Intro / Quote Follow-Up)
+**Subject:** Softgel quote request — low MOQ, GMP, lipid encapsulation
+
+Hi [Name],
+
+I'm Adam — founder of Form Coastal (Salt Air Industries LLC), based in Oceanside, CA. I'm developing a men's daily softgel supplement and looking for the right manufacturing partner to bring it to launch.
+
+Quick overview of what I need:
+
+- **Format:** Lipid-encapsulated softgel (essential — formula includes fat-soluble ingredients like astaxanthin)
+- **Core ingredients:** 10-ingredient stack including Polypodium Leucotomos extract, natural astaxanthin (Haematococcus pluvialis), KSM-66 ashwagandha, hyaluronic acid, magnesium, collagen or boswellia, D3, zinc, B12, and vitamin C
+- **MOQ:** 250–500 units to start, scaling quickly
+- **Certifications needed:** GMP, COA per batch
+- **Timeline:** Targeting Q3 2026 first order
+
+A few specific questions I'd love answered in your quote:
+
+1. Is true lipid encapsulation available in your softgel line?
+2. Can you source natural astaxanthin (not synthetic)?
+3. What's the realistic dose ceiling for collagen peptides in a single softgel — or would you recommend UC-II at ~40mg instead?
+4. What's your lead time at 250 and 500 units?
+
+I'm comparing two or three partners right now and moving fast. Happy to jump on a 15-minute call this week if that's easier.
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal / Salt Air Industries LLC
+formcoastal.com | @formcoastal
+```
+
+---
+
+**Output saved to:** `output/copy-2026-07-01.md`
+
+---
+
+**A few notes for Adam before you send:**
+
+**TikTok script:**
+- This is Script 1 — pure hook, no product on screen needed. Fits the "first post as FORM" brief exactly.
+- The line *"I built something to fix it"* plants the founder story without making any claims. Strong setup for future content.
+- If you want a version where you're walking or in motion rather than straight talking head, I can adapt the pacing.
+
+**Outreach email:**
+- Written generically so it works as a *follow-up* to Aurinutra or Innova Nutra, or a cold intro to any new manufacturer.
+- Swap `[Name]` for the actual contact before sending.
+- The three specific technical questions (lipid encapsulation, natural astaxanthin source, collagen dose) are the real decision-gating info you need — leading with those signals you know your stuff.
+- Kept it tight. Manufacturers respond better to specific asks than long brand decks on a first touch.

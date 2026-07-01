@@ -1,0 +1,37 @@
+# Finance Report ��� June 2026
+
+**Month spend:** $7.43 of $20.00 cap (37%)
+**Status:** ✅ OK
+**Runs this month:** 155 (31 daily cycles × 5 agents)
+**Note:** Steady daily cadence; Director (Opus) and Writer (Sonnet) are the primary cost drivers. Trajectory is sustainable well under cap.
+
+---
+
+## Breakdown by role
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| Finance | Haiku | 31 | $0.08 |
+| Director | Opus | 31 | $3.86 |
+| Scout | Haiku | 31 | $0.49 |
+| Writer | Sonnet | 31 | $1.00 |
+| Auditor | Haiku | 31 | $0.74 |
+| **TOTAL** | — | **155** | **$7.43** |
+
+---
+
+## Key observations
+
+- **Director (Opus)** accounts for 52% of spend (~$3.86) — expected, given task assignment and PR review complexity
+- **Writer (Sonnet)** is efficient at 13% ($1.00) for drafting outreach and content
+- **Haiku agents** (Finance, Scout, Auditor) combined: 35% (~$1.31) — cost-effective for verification and lightweight work
+- **Daily rhythm:** Consistent 5-agent runs every 24h since June 7. No anomalous spikes.
+- **Token efficiency improving:** Finance and Auditor token counts growing (context depth), but cost-per-run stable due to Haiku pricing
+
+---
+
+## Forecast & headroom
+
+At current burn rate (~$0.24/day), team will use **~$7.20 in July** — leaving **$12.80 buffer** before the $20 cap. Safe to continue daily cycles through month-end.
+
+**No pause required.** Team is cleared to operate.

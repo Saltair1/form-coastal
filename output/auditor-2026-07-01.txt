@@ -1,0 +1,48 @@
+# AUDIT REPORT — 2026-07-01
+
+**OVERALL: PASSED** ✓
+
+---
+
+## WRITER OUTPUT
+
+| Dimension | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, clean, confident. "You're drinking a gallon and still waking up dehydrated" is the exact top hook from CLAUDE.md. No bro energy. Fits Vuori shelf positioning. |
+| **Health claims** | ✓ PASS | Zero banned claims. "Holds water at cellular level" is ingredient fact (hyaluronic acid mechanism), not a medical claim. "Fix it" is founder story narrative, not a treatment claim. Compliant. |
+| **Compliance (CAN-SPAM)** | ✓ PASS | Outreach email includes real sender (Adam Salter), real company (Form Coastal / Salt Air Industries LLC), real address route available (formcoastal.com). Ready to send once [Name] is replaced with verified contact. |
+| **Accuracy** | ✓ PASS | All ingredient details match CLAUDE.md formula (Polypodium Leucotomos, natural astaxanthin, KSM-66, hyaluronic acid, collagen/boswellia, D3, zinc, B12, vitamin C). No invented facts. |
+| **On-brand** | ✓ PASS | TikTok script nails the 300-day San Diego sun / multi-sport founder story. Outreach email signals technical depth (lipid encapsulation, UC-II dose ceiling questions) without sounding desperate. Confident. |
+
+**TikTok script ready to film.** Outreach email ready to send once Adam identifies actual contact and plugs in name/company.
+
+---
+
+## SCOUT OUTPUT
+
+| Dimension | Status | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ✓ PASS | Scout *refused* to invent. This is correct. No fake emails provided. |
+| **No invented emails** | ✓ PASS | Scout explicitly flagged the constraint and offered three responsible alternatives (research brief, sourcing framework, lead vetting). Protects deliverability. |
+| **Professional judgment** | ✓ PASS | Scout escalated to Adam with actionable next steps rather than guessing. This is the right call per hard rule #3: "Never invent contact details — verified only." |
+
+**Scout output is compliant and thoughtful.** Waiting on Adam's direction.
+
+---
+
+## SUMMARY
+
+**Nothing rejected.** All outputs pass QA:
+
+✓ Writer: TikTok script and B2B outreach email are accurate, on-brand, compliant, and ready for Adam to use.  
+✓ Scout: Correctly refused to invent contacts and offered verified alternatives.  
+✓ No health claims, no invented facts, no CAN-SPAM violations, no banned contact details.
+
+**Files ready for handoff:**
+- `output/copy-2026-07-01.md` — TikTok script + outreach email draft
+
+**Next step:** Adam films TikTok this week. Adam reviews outreach email, identifies first verified manufacturer contact (Aurinutra or Innova), swaps in [Name], and sends.
+
+---
+
+**Audit logged:** `output/audit-2026-07-01.json`

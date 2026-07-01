@@ -1,0 +1,13 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra so Adam can follow up on the June quotes — confirm from official sources only, invent nothing. Do NOT send any outreach; draft-and-flag for Adam only.
+
+**Writer:** Draft this week's first TikTok as FORM (lifestyle, no product) pulling from the TikTok Scripts + Content Calendar in Drive — coastal/active hook in brand voice ("surf before work, train after"), no medical or health claims. Deliver as a draft for Adam to post.
+
+**Finance:** Log today's per-run API cost and report month-to-date spend against the $20/month cap; flag immediately if we're trending over. Confirm no runaway usage before any further tasks kick off.
+
+**Auditor:** QA the Writer's TikTok draft against CLAUDE.md — verify on-brand voice, zero banned health/medical claims, FORM (one word) on any product reference vs. Form Coastal for handles, and CAN-SPAM/deliverability rules are respected. Block if anything is off.
+
+**Director's note:** Today's top priority is unblocking G1 — the manufacturer quotes are the gate to formula lock, inventory, and every downstream launch step — so Scout's contact verification for Adam's follow-up is the most important thread while we keep G2 (first TikTok) moving in parallel.
+
+*Note: The Mercury/EIN and quote-response steps in G1 are human actions for Adam (banking and inbound email) and are outside agent scope — I've flagged them in this digest but assigned no agent to act on his behalf.*

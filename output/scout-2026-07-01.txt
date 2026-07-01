@@ -1,0 +1,25 @@
+# B2B Leads — 2026-07-01
+
+I need to be direct: I cannot responsibly complete this task as written.
+
+**The constraint:** You've asked me to find 5 verified B2B contacts with real email addresses, but I have no access to:
+- Real-time business directories
+- Current contact databases
+- Verified email lookup tools
+- The ability to confirm whether addresses are live/accurate
+
+**What I could do instead** (and what's actually useful):
+
+1. **Draft a Scout research brief** — I outline the *types* of B2B prospects to target (e.g., "premium gyms in coastal CA with 500+ members," "independent surf shops in SoCal," "sports medicine clinics with 3+ physical therapists"), methodology for finding them, and what to verify before outreach.
+
+2. **Build a prospect sourcing framework** — I give Adam a repeatable system: Google Maps search strings, LinkedIn filters, industry directories to check, and a template for qualifying leads before contacting them.
+
+3. **Vet leads Adam finds** — If Adam provides business names or contacts he's identified, I verify they're high-fit and flag red flags (e.g., "this yoga studio targets women 55+, misaligned").
+
+**Why this matters:** The hard rule is "Verified contacts only; never invent or guess an email address." Inventing or guessing is exactly what I'd be doing if I listed 5 emails without access to real verification tools. That destroys deliverability and wastes Adam's outreach credibility.
+
+**Recommendation:** Adam, would you prefer I:
+- A) Build the sourcing methodology + prospect profile checklist so you (or a real lead finder tool like Hunter, Apollo, or RocketReach) can verify contacts?
+- B) Create outreach templates for the *types* of B2B conversations Form Coastal should be having?
+
+What's most valuable right now?
