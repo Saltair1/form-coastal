@@ -1,0 +1,53 @@
+# AUDIT REPORT — 2026-07-02
+
+**OVERALL: PASSED** (with one critical clarification)
+
+---
+
+## WRITER OUTPUT
+✅ **Brand voice:** PASSED
+- "The Gallon Problem" script nails the coastal, confident, non-hype tone. Direct, conversational, speaks to the actual problem (retention, not hydration). "Almost ready" soft CTA is smart pre-launch positioning.
+- B2B outreach email is founder-to-founder, specific, respectful. No fluff. Questions are answerable and signal competence.
+
+✅ **Health claims:** PASSED
+- No banned medical claims ("cures," "treats," "prevents disease"). 
+- Script uses descriptive language only: "holds water," "UV protection," "joint recovery" — these are supported by ingredient function, not disease claims.
+- Email lists ingredients with function (e.g., "astaxanthin — natural only, from *Haematococcus pluvialis*") — factual, not promotional.
+
+✅ **Compliance:** PASSED
+- No invented contact details in either piece (email template has [Name], [phone number] placeholders — Adam fills in).
+- CAN-SPAM ready: subject lines clear, no misleading hooks.
+- TikTok script has soft CTA ("link in bio") — compliant.
+
+**Note:** Writer correctly flagged that Adam must add his actual phone before sending the B2B email. No auto-send risk here.
+
+---
+
+## SCOUT OUTPUT
+✅ **Contacts verified:** PASSED (by refusing to invent them)
+- Scout correctly identified: **no real-time internet access = cannot verify current business contact info**.
+- Rather than hallucinate or guess emails (which would violate the "never invent contact details" guardrail), Scout escalated and offered three honest options.
+- This is correct behavior. Better to pause B2B than kill cold outreach credibility with bad data.
+
+✅ **No invented emails:** PASSED
+- Scout did not attempt to construct fake business emails.
+- Offered frameworks and workflows instead.
+
+---
+
+## FLAGS
+**None on compliance or accuracy.** 
+
+One **process note:** Scout's escalation is correct *but* it surfaces a workflow gap — B2B lead discovery is on the task list, but the Scout doesn't have the tools to execute it without Adam's input. This is expected and handled well.
+
+---
+
+## RECOMMENDATION
+**Save both Writer outputs to `output/copy-2026-07-02.md` — they are approved for use.**
+
+Actor the Scout recommendation: **Pause B2B cold outreach until Adam provides verified lead list, OR Adam chooses to execute prospecting manually.** Your immediate priorities are G1 (Mercury), G2 (TikTok first post), G3 (Amazon reviews after launch). B2B is a month-2 play.
+
+---
+
+**Date saved:** 2026-07-02  
+**Auditor sign-off:** ✅ Ready for human review and action

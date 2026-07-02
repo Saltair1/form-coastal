@@ -1,0 +1,28 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $0.00 of $20.00 cap (0%)
+**Status:** ✅ OK
+**Runs this month:** 0
+**Note:** No API calls logged for July yet. All 150 runs (750 total agent calls) occurred in June; team is operating within budget.
+
+---
+
+## June 2026 Summary (for reference)
+
+**Total spend:** $10.38 of $20.00 cap (52%)
+**Runs in June:** 30 full cycles (5 agents per cycle)
+**Breakdown:**
+- **Director** (claude-opus-4-8): $3.66 — strategy, task assignment, PR reviews
+- **Scout** (claude-haiku): $0.72 — B2B lead qualification
+- **Writer** (claude-sonnet): $4.24 — outreach drafts, TikTok scripts, copy
+- **Auditor** (claude-haiku): $1.46 — QA on claims, brand alignment, compliance
+- **Finance** (claude-haiku): $0.30 — spend tracking, cost logging
+
+**Trajectory:** Steady daily runs June 7–30 (~$0.35/day). Team is efficiently operating at ~52% of monthly cap with room for scaling.
+
+---
+
+**⚠️ Next steps for July:**
+- Monitor spend closely as team expands (new roles, higher-frequency runs)
+- Pause will trigger automatically if cumulative spend exceeds $20.00
+- Adam can reset TEAM_PAUSED.txt if needed

@@ -1,0 +1,118 @@
+I'll draft both pieces now and save to the correct output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-02
+
+---
+
+## TikTok Script — "The Gallon Problem"
+Format: Talking head (outdoor / natural light, ideally post-surf or on a balcony)
+Length: ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*[Direct to camera. Dry, confident delivery. No music yet or very low underneath.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+
+"Most of that water is just moving through you. Your cells aren't actually holding onto it. There's an ingredient called hyaluronic acid — it holds up to a thousand times its weight in water at the cellular level. It's in a lot of women's skincare. Almost nobody's putting it in a men's supplement.
+
+We did. Along with four other things I was personally missing — UV protection, joint recovery, clean energy, immune support — all in one softgel, no stimulants."
+
+*[Calm, conversational. Not a pitch — talking to a friend. Can cut away to b-roll of ocean, morning routine, supplement on a clean surface mid-section.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+
+"It's called FORM. Link in bio if you want to be first. We're almost ready."
+
+*[Slight smile. Low key. Let the product do the work.]*
+
+---
+
+**Notes for Adam:**
+- Film in natural light — golden hour or overcast works great
+- Keep energy calm and direct, not salesy
+- The "almost ready" CTA is intentional — builds waitlist energy before launch
+- Can swap "link in bio" for a product page URL once live
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+
+**To:** [Manufacturer contact — Aurinutra / Innova Nutra]
+**Subject:** Softgel Quote Request — Men's Daily Supplement, 250–500 Unit Run
+
+---
+
+Hi [Name],
+
+I'm Adam — founder of Form Coastal (Salt Air Industries LLC), based in Oceanside, CA. I'm developing a men's daily supplement launching on Amazon and Shopify this summer and I'm looking for the right manufacturing partner to start with.
+
+Here's the quick version of what I need:
+
+**Format:** Lipid-encapsulated softgel (fat-soluble ingredients make this non-negotiable)
+
+**Core ingredient stack (9–10 ingredients):**
+- Polypodium Leucotomos Extract — hero ingredient, UV/antioxidant protection
+- Astaxanthin — natural only, from *Haematococcus pluvialis* (not synthetic)
+- Hyaluronic Acid
+- Magnesium (glycinate or citrate preferred)
+- Ashwagandha (KSM-66 preferred)
+- Vitamin D3
+- Vitamin C
+- Zinc (bisglycinate or picolinate preferred)
+- Vitamin B12 (methylcobalamin preferred)
+- Collagen (UC-II or hydrolyzed peptides — dosability in softgel TBD, open to boswellia if collagen isn't achievable)
+
+**Run size:** 250–500 units to start
+
+**A few things I need answered in your quote:**
+1. Do you offer lipid encapsulation in softgel format?
+2. Can you source natural astaxanthin from *Haematococcus pluvialis*?
+3. What's your MOQ for a 250-unit run, and does pricing step down at 500?
+4. Are you GMP certified? Can you provide a COA per batch?
+5. Is collagen (hydrolyzed peptide or UC-II) achievable at an effective dose in softgel, or do you recommend boswellia instead?
+6. What's the typical lead time from formula lock to first shipment?
+
+I'm moving quickly — manufacturer selection is happening this month. Happy to jump on a call if that's easier.
+
+Thanks for your time.
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com
+[phone number]
+
+---
+
+**Notes for Adam:**
+- Fill in [Name] once you have a contact name from each manufacturer
+- Add your phone number before sending
+- Send separately to Aurinutra and Innova Nutra — don't CC both
+- Subject line is intentionally plain/direct for B2B deliverability
+- The "moving quickly" line is honest pressure — use it
+
+---
+```
+
+**Saving to** `output/copy-2026-07-02.md`
+
+---
+
+Here's a quick note on the creative choices:
+
+**TikTok:** The hook leads with the insight, not the product �� "retention problem" lands because it reframes something the viewer thought they understood. The CTA is soft on purpose. Pre-launch, you want curiosity and follows, not a hard sell to nowhere. "We're almost ready" makes the audience feel like they're in early.
+
+**Outreach email:** Kept it founder-to-founder in tone — direct, specific, respectful of their time. The numbered question list makes it easy to respond to without a phone call. B2B buyers respond to specificity; the ingredient detail signals you know what you're doing.
+
+Both are ready for your review. Adjust the TikTok CTA once the product page or waitlist is live.
