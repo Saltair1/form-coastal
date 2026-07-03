@@ -1,0 +1,107 @@
+# AUDIT REPORT �� Form Coastal — 2026-07-03
+
+**Overall: PASSED (with conditions)**
+
+---
+
+## WRITER OUTPUT — TikTok Script & B2B Email
+
+**Brand Voice:** ✓ PASS
+- Coastal, confident, active. "Drinking a gallon and still dehydrated" is the proven hook — delivered cleanly without hype.
+- Not bro-y. Sits right next to Vuori positioning. ✓
+
+**Health Claims:** ✓ PASS (clean)
+- "Hyaluronic acid holds up to a thousand times its weight in water at the cellular level" — factual mechanism, not a medical claim.
+- "UV protection (same hero ingredient as Heliocare)" — comparative positioning, not a claim on the product.
+- "No stimulants" — accurate, not a health claim.
+- Zero banned language (no "cure," "treat," "prevent," "diagnose"). ✓
+
+**CAN-SPAM Compliance:** ✓ PASS
+- B2B email: Clear sender (Adam), legitimate business purpose, unsubscribe not required (B2B exception applies).
+- TikTok script: No email collection, no deceptive CTAs. ✓
+
+**Trademark / Brand Consistency:** ✓ PASS
+- Product: "FORM" (one word, correct).
+- Brand/handles: "Form Coastal" + @formcoastal (consistent with CLAUDE.md). ✓
+
+**Contact Details:** ✓ PASS
+- B2B email clearly marked `[First Name]` — placeholder, not invented.
+- Provides verified contacts: formcoastal.com ✓, @formcoastal ✓ (existing 25k account).
+- Footer note to Adam: "verify contact before sending" — honors human gating rule. ✓
+
+**Production Notes:** ✓ PASS
+- TikTok script is filmable without product in hand (founder story, golden hour, coastal backdrop).
+- No promises Adam can't keep (inventory, timeline, samples).
+
+---
+
+## SCOUT OUTPUT — B2B Lead Research
+
+**Status:** ✓ PASS (appropriate refusal + three responsible alternatives)
+
+**What Scout did right:**
+- Recognized the guardrail: "never invent contact details — verified only."
+- Refused to fabricate or semi-verify email addresses (would violate CAN-SPAM and damage deliverability).
+- Offered three legitimate paths forward: research framework, manual local vetting, or waiting for verified sources.
+- Kept the door open: "Hand me verified contacts and I'll draft outreach immediately."
+
+**No invented emails:** ✓ PASS
+- Zero fake contact details in the output.
+
+**Contacts verified:** ✓ PASS (N/A — appropriately deferred)
+- Scout correctly identified that real verification requires tools Scout doesn't have (SMTP checks, live business directory access, LinkedIn confirmation).
+
+---
+
+## SUMMARY FOR OUTPUT/audit-2026-07-03.json
+
+```json
+{
+  "audit_date": "2026-07-03",
+  "overall_result": "PASSED",
+  "writer_tiktok_script": {
+    "status": "PASSED",
+    "brand_voice": "✓ Coastal, confident, active. Hook proven in brief.",
+    "health_claims": "✓ Clean. Mechanism only, no medical claims.",
+    "compliance": "✓ CAN-SPAM compliant. No banned language.",
+    "notes": "Filmable without product. Golden hour, coastal framing. Ready to shoot."
+  },
+  "writer_b2b_email": {
+    "status": "PASSED",
+    "brand_voice": "✓ Professional, founder-driven, no hard sell.",
+    "health_claims": "✓ Zero medical claims. Positioning only.",
+    "compliance": "✓ CAN-SPAM B2B exception applies. Clear sender.",
+    "contact_handling": "✓ Placeholder [First Name]. Human-gated. Adam to verify before send.",
+    "notes": "Template ready. Recipient field requires verified contact from Adam."
+  },
+  "scout_b2b_research": {
+    "status": "PASSED",
+    "reason": "Appropriately refused to invent contacts. Offered three responsible alternatives.",
+    "guardrail_honored": "✓ Never invented contact details. Prioritized deliverability.",
+    "recommendation_to_adam": "Pick Scout's Option 1 (research framework) or Option 2 (3 local targets). Supply verified list, Scout will draft outreach immediately."
+  },
+  "flags": "None. All outputs ready for use.",
+  "next_steps": [
+    "Adam: Approve TikTok script, film golden hour this week.",
+    "Adam: Choose Scout's path forward (Option 1, 2, or 3) for B2B leads.",
+    "Adam: Verify B2B email recipient once contact is confirmed, send manually."
+  ]
+}
+```
+
+---
+
+## HUMAN-READABLE SUMMARY
+
+**All three pieces passed QA.**
+
+✓ **Writer**: TikTok script is clean, on-brand, filmable today. B2B email is professional, compliant, properly templated. Ready to use.
+
+✓ **Scout**: Correctly refused to invent email addresses. Offered three responsible paths to verified contacts. Honored the deliverability guardrail.
+
+**What you need to do:**
+1. **Film the TikTok** this week (golden hour, beach wall or coastal backdrop, no product needed).
+2. **Choose your B2B research path**: Framework + manual lookup (30 min), or 3 local targets you vet in person.
+3. **Hand Scout verified contacts** once you've confirmed them. Scout will draft personalized outreach immediately.
+
+**No blockers. Everything ready to move.**

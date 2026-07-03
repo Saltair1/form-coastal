@@ -1,0 +1,26 @@
+# B2B Leads — 2026-07-03
+
+I need to be direct with you, Adam: I cannot complete this task responsibly as written.
+
+**The problem:** You've asked me to find 5 verified B2B contacts (emails specifically) for gyms, surf shops, outdoor retailers, and sports medicine practices. My core guardrail is "never invent contact details — verified only. Protect email deliverability."
+
+Here's what I can't do:
+- Scrape live business directories in real-time (no access to current databases)
+- Verify email formats against live SMTP servers
+- Confirm that contact info I retrieve today is still accurate
+- Guarantee a person at that email is the decision-maker
+
+What I *can* do instead:
+
+## Option 1: Give you a research framework + manual verification
+I draft a list of **business categories and search terms** you can use with tools you control (Apollo, RocketReach, Hunter.io with credits, or manual LinkedIn). You verify the emails before I draft outreach.
+
+## Option 2: Quality over speed
+I identify **3 high-confidence local targets** (San Diego area, since you're there) where you can walk in or call first, then I draft the outreach once you confirm the contact.
+
+## Option 3: Wait for the right tool
+Once you have a verified lead source (paid database, referral, or manual research), hand me the list and I'll immediately draft personalized outreach.
+
+**My recommendation:** Pick **Option 1**. I'll give you a search playbook, you spend 30 min filling a spreadsheet with verified contacts, and I'll turn it into killer outreach.
+
+Which works for you?

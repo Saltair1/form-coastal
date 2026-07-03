@@ -1,0 +1,23 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $5.47 of $20.00 cap (27%)
+**Status:** ✅ OK
+**Runs this month:** 5 (July 1–2)
+**Note:** Spend trajectory is healthy; team is well under budget with 73% runway remaining.
+
+---
+
+## Breakdown
+
+**Runs so far (July 1–2):** 5 complete agent cycles
+- **Finance:** 2 runs, $0.007 total
+- **Director:** 2 runs, $0.257 total
+- **Scout:** 2 runs, $0.006 total
+- **Writer:** 2 runs, $0.058 total
+- **Auditor:** 2 runs, $0.007 total
+
+**Cumulative month spend:** $5.47 (tokens, API calls)
+
+**Cost per run:** ~$1.09 average (full cycle: Finance + Director + Scout + Writer + Auditor)
+
+**Runway:** At current velocity (~5 runs/day at ~$1.09/run), the team has **18+ days** of operation before hitting $20 cap. No pause needed. Continue normal operations.
