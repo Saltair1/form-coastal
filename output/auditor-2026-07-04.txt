@@ -1,0 +1,48 @@
+# AUDIT REPORT — 2026-07-04
+
+**Overall: FAILED**
+
+---
+
+## WRITER OUTPUT
+- **Brand voice:** ✓ Coastal, confident, conversational. Sits next to Vuori. No bro energy.
+- **Health claims:** ✗ **FLAG — "holds moisture in your joints and skin"** — This is a structure/function claim on hyaluronic acid. Acceptable under CAN-SPAM if paired with a disclaimer, but the script as written implies a therapeutic benefit without caveat. **REVISION REQUIRED.**
+- **Compliance:** ✗ **MISSING:** No disclaimer language. Script needs: "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease." Or reframe HA benefit to pure mechanism without therapeutic implication.
+
+**SPECIFIC REVISION:**
+Change:
+> "That's why I built FORM around hyaluronic acid — same stuff that holds moisture in your joints and skin — because it works at the cellular level"
+
+To:
+> "That's why I built FORM around hyaluronic acid — it works at the cellular level to help retain the water you drink — because most of what you take in just passes through."
+
+This removes the implied therapeutic claim and stays factual/mechanical.
+
+---
+
+## SCOUT OUTPUT
+- **Contacts verified:** ✗ **REJECTED.** Scout correctly self-identified inability to verify real contacts without internet access or third-party lookup tools.
+- **No invented emails:** ✓ Scout refused to invent. Correct gatekeeping.
+
+**FINDING:** Scout output is a **NON-DELIVERY** (appropriate refusal), not a failed deliverable. Scout should NOT attempt B2B prospecting without verified contact infrastructure. This is correct behavior per CLAUDE.md guardrail #3.
+
+---
+
+## FLAGS
+
+1. **Writer — Health claim in TikTok script** → Revise HA language before posting. Do not shoot video until revised.
+2. **Scout — No lead database access** → Build a manual prospecting workflow for Adam instead. Do not guess at emails.
+3. **CAN-SPAM compliance missing** → Add FDA disclaimer to TikTok script or reframe all benefit claims as mechanism-only (no therapeutic language).
+
+---
+
+## RECOMMENDATION
+
+**HOLD both outputs pending revision:**
+
+1. **Writer:** Resubmit TikTok script with HA claim reframed to mechanism only (see revision above). No FDA disclaimer needed if claim is purely mechanical.
+2. **Scout:** Resubmit as a **research framework + manual prospecting checklist** for Adam to verify leads locally (gyms, shops, sports medicine) before outreach. Do not attempt email verification without tool access.
+
+**Status:** ✗ **DO NOT USE** until Writer revises. Scout output redirected to a useful framework instead of unverified contact list.
+
+Saved to `output/audit-2026-07-04.json` ��

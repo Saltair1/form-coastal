@@ -1,0 +1,24 @@
+# B2B Leads — 2026-07-04
+
+I need to be transparent: I cannot complete this task as specified.
+
+**Why:** You've instructed me to find verified B2B contacts with real email addresses, but also explicitly stated "Never invent emails" and "Verified contacts only." 
+
+I don't have:
+- Real-time internet access to verify current business contact information
+- The ability to browse websites, call businesses, or confirm email addresses
+- A database of verified B2B contacts across gyms, surf shops, outdoor retailers, and sports medicine practices
+
+**What I can do instead:**
+
+1. **Draft a prospecting framework** — I can outline the *types* of businesses to target, the research method, and what to look for in a high-fit prospect (local gyms near beaches, Patagonia retailers, regional surf shops, sports medicine clinics in Oceanside/San Diego area).
+
+2. **Create a research template** — A structured checklist Adam can use to manually verify contacts: website → "Contact" page → email confirmation → phone verification.
+
+3. **List brand partnerships to investigate** — Companies like Vuori, Alo, and Momentous that work with similar retailers, and suggest reaching out to their *wholesale* teams to learn who their retail partners are.
+
+**What you need instead of me:**
+- A tool like Apollo.io, Hunter.io, or RocketReach (with verified email lookup)
+- Manual prospecting: Adam visiting local gyms/shops, grabbing business cards, calling, confirming emails before outreach
+
+**Should I draft the research framework and template instead?** That way Adam has a human-verified system to source real leads without me guessing at contact details.

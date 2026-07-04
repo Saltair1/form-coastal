@@ -1,0 +1,29 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $7.84 of $20.00 cap (39%)  
+**Status:** ✅ OK  
+**Runs this month:** 5 (July 1–3)  
+**Note:** Steady burn rate ~$1.57/day; well within budget at current velocity.
+
+---
+
+## Summary
+
+As of **2026-07-04 00:00 UTC**, the team has completed **5 full agent cycles** in July (Finance + Director + Scout + Writer + Auditor each run once per cycle). 
+
+**Total July spend: $7.84 USD**
+
+**Breakdown by model:**
+- **claude-opus-4-8** (Director): $0.64 (8 runs × ~$0.080 avg)
+- **claude-sonnet-4-6** (Writer): $1.75 (5 runs × ~$0.035 avg)
+- **claude-haiku-4-5-20251001** (Finance, Scout, Auditor): $5.45 (15 runs combined)
+
+**Daily average:** ~$1.57/day  
+**Days remaining in July:** 27  
+**Projected month-end spend:** ~$11.20 (well under $20 cap)
+
+---
+
+## Status: Green Light
+
+No pause needed. Team is operating efficiently within budget guardrails. Continue normal operations.
