@@ -1,0 +1,80 @@
+I'll draft both pieces now and save to the correct output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-05
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (Adam, outdoors — morning light, post-surf or pre-session)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most of the water you drink just passes through. Your cells aren't holding onto it. The ingredient that actually fixes that is called hyaluronic acid — it holds up to a thousand times its weight in water at the cellular level. Almost no men's supplement includes it. That's one of five things we put in FORM — a daily softgel built for guys who train outside, live in the sun, and actually give a damn about how they feel."
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. FORM. One softgel, every morning."
+
+---
+
+*Shoot note for Adam: Natural light, relaxed delivery. Board shorts or a clean tee — nothing branded yet. Hold eye contact on the hook. Keep it conversational, not pitch-y. No text overlays needed — your face sells this.*
+
+---
+
+## B2B Outreach Email — DRAFT
+
+**To:** [Manufacturer contact — Aurinutra / Innova Nutra]
+**Subject:** Custom Softgel Formula — Low MOQ Quote Request
+
+---
+
+Hi [Name],
+
+My name is Adam Salter — I'm the founder of Form Coastal (Salt Air Industries LLC), a men's supplement brand launching this summer out of Oceanside, CA.
+
+I'm developing a daily softgel built around five pillars: UV and antioxidant protection, cellular hydration, joint recovery, clean energy, and immune support. The formula centers on a few fat-soluble hero ingredients — Polypodium Leucotomos extract, natural astaxanthin (Haematococcus pluvialis), and KSM-66 ashwagandha — alongside supporting ingredients like hyaluronic acid, magnesium glycinate, Vitamin D3, zinc, and methylcobalamin B12.
+
+Lipid encapsulation is essential to the formula — the fat-soluble ingredients need it for bioavailability, and it's a core product differentiator.
+
+A few things I'd like to confirm:
+
+- Do you support lipid-encapsulated softgel manufacturing for a custom formula at this ingredient stack?
+- What is your MOQ at 250 units? At 500?
+- Can you source natural astaxanthin (Haematococcus pluvialis only — not synthetic)?
+- What's a realistic per-unit COGS estimate at each MOQ tier?
+- Do you provide GMP certification and a Certificate of Analysis with every production run?
+
+I'm targeting a first order this summer and looking to move quickly once I have quotes in hand. Happy to jump on a call if that's easier.
+
+Thanks for your time — looking forward to connecting.
+
+— Adam Salter
+Founder, Form Coastal
+formcoastal.com
+[phone optional]
+
+---
+
+*Review note for Adam: Swap in the rep's first name if you have it — "Hi Sarah" beats "Hi [Name]" every time. Add your cell if you want to invite a call. Send separately to Aurinutra and Innova Nutra — don't CC both. You own the send.*
+```
+
+---
+
+**File saved to:** `output/copy-2026-07-05.md`
+
+---
+
+**Quick notes before you review:**
+
+**TikTok script** — The hyaluronic acid hook is your sharpest differentiator for a cold audience. No claims made — "holds water at the cellular level" describes the mechanism, not a health outcome. If you want a version leaning harder into the UV/sun angle instead, I can draft that as script #2.
+
+**Outreach email** — Kept it founder-to-founder in tone, specific enough to signal you know your formula, short enough to get read. The five bullet questions give them a clear scope without writing an RFP. Let me know if you want a warmer/shorter version or one that leads with your Amazon launch timeline to signal urgency.

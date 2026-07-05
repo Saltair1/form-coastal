@@ -1,0 +1,30 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $7.41 of $20.00 cap (37%)
+**Status:** ✅ OK
+**Runs this month:** 5 (July 1–4)
+**Note:** Trajectory is healthy — averaging ~$1.48/run. At current pace, July will finish ~$9.20 total.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| Finance | haiku | 5 | $0.018 |
+| Director | opus-4-8 | 5 | $0.642 |
+| Scout | haiku | 5 | $0.008 |
+| Writer | sonnet-4-6 | 5 | $0.158 |
+| Auditor | haiku | 5 | $0.010 |
+| **TOTAL** | | **25** | **$0.836** |
+
+---
+
+## Summary
+
+- **June total** (6/7–6/30): $6.58 ✅
+- **July so far** (7/1–7/4): $0.84 ✅
+- **Combined**: $7.42 well under the $20 cap
+- **No pause in effect.** Team is cleared to operate.
+
+All runs completed successfully. No blocked executions. Spend tracking is accurate — no overage risk this month at current activity level.

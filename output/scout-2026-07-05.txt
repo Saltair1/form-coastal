@@ -1,0 +1,27 @@
+# B2B Leads — 2026-07-05
+
+I need to be direct with you, Adam: **I cannot generate these leads responsibly today.**
+
+Here's why:
+
+1. **No verified contact data access** — I don't have real-time access to business directories, phone numbers, or email addresses. I can tell you *what types of businesses* to target (Equinox, Lululemon, REI, local CrossFit boxes, Rip Curl shops), but I cannot verify current decision-maker names or contact methods without inventing them — which violates the guardrail: "Never invent contact details — verified only."
+
+2. **The risk** — If I draft a list with guessed emails or outdated phone numbers, you'll hit invalid addresses, tank your sender reputation, and waste outreach energy on contacts that don't exist.
+
+## What I recommend instead:
+
+**Use these verified sources to build your list:**
+- **LinkedIn Sales Navigator** (free trial available) — filter by company type + role (VP Sales, Owner, Buyer)
+- **Apollo.io / Hunter.io** (freemium) — paste a company name, get verified emails with confidence scores
+- **ZoomInfo** (paid, but one-click export once you subscribe)
+- **Local research** — call gyms/shops directly, ask for the buyer's name, grab their email from the website footer or LinkedIn
+
+Once you have a shortlist of 10-15 real businesses + verified contacts, I can help you draft a personalized outreach email that positions FORM Coastal correctly.
+
+**Who should you target first?**
+- Local San Diego gyms + CrossFit boxes (easiest warm intro, you live there)
+- Surf shops within 50 miles (Rip Curl, Surfdome, local independents)
+- REI co-op locations (supplement buyer role exists)
+- Sports medicine practices (orthopedists + PT clinics in coastal markets)
+
+Want me to help you build a research template to gather these verified contacts instead? I can draft a simple spreadsheet outline.

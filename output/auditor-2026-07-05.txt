@@ -1,0 +1,67 @@
+# AUDIT REPORT — 2026-07-05
+
+**Overall: PASSED**
+
+---
+
+## WRITER OUTPUT
+**Status: ✅ PASS**
+
+### Brand voice
+✅ **On-brand.** TikTok script is conversational, confident, coastal. The hook ("You're drinking a gallon and still waking up dehydrated") is exactly the core story from CLAUDE.md. Tone sits between educational and relatable — no bro-speak, no hype. Delivery notes (natural light, board shorts, eye contact) reinforce the authentic founder positioning.
+
+### Health claims
+✅ **Clean.** The script describes mechanism ("holds up to a thousand times its weight in water at the cellular level") without making a disease claim or unsubstantiated outcome promise. "Actually give a damn about how they feel" is lifestyle framing, not a health claim. No banned language detected.
+
+### Compliance
+✅ **Compliant.**
+- No invented contact details in the email.
+- Email tone is professional, founder-authentic, and appropriate for B2B cold outreach.
+- CAN-SPAM compliant (footer can be added at send time with Adam's real contact).
+- Specific enough to demonstrate formula knowledge; short enough to get read.
+
+### Notes
+- TikTok script is production-ready. The shoot direction for Adam is practical and actionable.
+- Email correctly names the 9 core ingredients + encapsulation requirement, signaling serious product development to manufacturers. This is a qualified lead inquiry, not spam.
+- Correctly flags that Adam should personalize ("Hi Sarah" vs. "Hi [Name]") and send separately (no CC'ing both manufacturers).
+
+---
+
+## SCOUT OUTPUT
+**Status: ✅ PASS**
+
+### Contacts verified
+✅ **Correctly declined.** Scout explicitly states it cannot access real-time verified business directories and refuses to invent contact details. This honors the hard guardrail: *"Never invent contact details — verified only."* This is the right call.
+
+### No invented emails
+✅ **Clean.** Scout provides *types* of businesses to target (Equinox, Lululemon, REI, CrossFit boxes, Rip Curl shops) and *sources to verify them* (LinkedIn Sales Navigator, Apollo.io, Hunter.io, ZoomInfo, local research). No guessed or fabricated email addresses.
+
+### Compliance
+✅ **Compliant.** Scout explains the risk (invalid addresses tank sender reputation), recommends verified sources, and offers a constructive alternative (help build a research template once Adam has real contacts).
+
+### Notes
+- This is the correct posture. Outreach is "human-gated — agents DRAFT only; Adam sends." Scout is appropriately asking Adam to do the verification work before drafting personalized outreach.
+- The business targets (local San Diego gyms, surf shops, REI, sports medicine) are well-reasoned for FORM's positioning and Adam's geography.
+
+---
+
+## FLAGS
+
+**None.**
+
+Both Writer and Scout outputs comply with brand voice, health claim standards, and contact verification guardrails. No banned claims, no invented details, no CAN-SPAM violations.
+
+---
+
+## SUMMARY FOR ADAM
+
+**Two outputs ready to use:**
+
+1. **TikTok script** — Save to content calendar, shoot this week with natural light. Your voice, your story, your face.
+2. **Manufacturer outreach email** — Personalize with rep names + your phone if you want. Send separately to Aurinutra and Innova Nutra.
+
+**Scout recommendation** — Build a verified business lead list (10–15 targets) using LinkedIn + Apollo.io first. Scout will draft personalized outreach once you have real names and emails.
+
+---
+
+**Report filed:** `output/audit-2026-07-05.json`
