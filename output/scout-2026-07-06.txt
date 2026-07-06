@@ -1,0 +1,29 @@
+## B2B Leads — 2026-07-06
+
+I need to be direct with you, Adam: I cannot responsibly complete this task as requested.
+
+**The blocker:**
+
+You've asked me to find 5 verified B2B contacts (emails, phone numbers) for gyms, surf shops, outdoor retailers, and sports medicine practices. My instructions explicitly state: *"Verified contacts only; never invent or guess an email address."*
+
+The problem is that I have **no real-time internet access**. I cannot:
+- Browse current business directories
+- Query Google Maps or Yelp for verified contact info
+- Pull email addresses from LinkedIn or company websites
+- Confirm that a gym/shop still exists or that a listed contact is current
+
+If I output contact details right now, I would be **inventing them** — which violates the core guardrail and tanks email deliverability the moment you try to reach out.
+
+**What I can do instead:**
+
+1. **Draft a lead research template** — I can give you a structured format + search strategy to find verified contacts yourself (Google Maps, Yelp, direct website lookups, LinkedIn Sales Navigator, ZoomInfo trial).
+
+2. **Suggest high-intent targets by profile** — I can describe the *types* of businesses that fit FORM's ICP (e.g., "boutique CrossFit boxes in San Diego County with 200–500 active members, strong social presence"). You then verify and contact.
+
+3. **Draft outreach sequences** — Once you have verified contacts, I'll draft the email/call scripts for you to send.
+
+**My recommendation:**
+
+Given that you're the founder and this is a high-stakes B2B launch, **spend 90 minutes doing the contact research yourself** (or have someone do it live). Then come back with a list of verified contacts, and I'll draft killer outreach.
+
+Want me to create a research template + target profile list instead?

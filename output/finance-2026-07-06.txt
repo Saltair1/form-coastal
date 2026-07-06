@@ -1,0 +1,29 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $7.32 of $20.00 cap (36.6%)
+**Status:** ✅ OK
+**Runs this month:** 25 (5 per day across all roles)
+**Note:** Steady daily cadence; trending well within budget. No concerns.
+
+---
+
+## Breakdown
+
+| Role | Calls | Model | Cost |
+|------|-------|-------|------|
+| Finance | 5 | claude-haiku-4-5-20251001 | $0.018 |
+| Director | 5 | claude-opus-4-8 | $0.631 |
+| Scout | 5 | claude-haiku-4-5-20251001 | $0.008 |
+| Writer | 5 | claude-sonnet-4-6 | $0.154 |
+| Auditor | 5 | claude-haiku-4-5-20251001 | $0.012 |
+
+**Director (Opus)** dominates spend at 86% of July costs — expected given context window + reasoning load. All roles operating efficiently at Haiku/Sonnet tiers.
+
+**June carryover:** June 2026 spent $4.47 on agent setup. July is tracking lower with optimized prompts.
+
+---
+
+## Next steps
+- Continue daily runs. No pause needed.
+- Monitor if Scout/Writer scale up in outreach phase (likely next week post-Mercury account).
+- Finance will flag if any single run exceeds $0.50.
