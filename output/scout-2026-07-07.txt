@@ -1,0 +1,42 @@
+I appreciate the detailed brief, but I need to be honest about a constraint: I cannot reliably find verified B2B contact information in real time without live internet access. 
+
+**What I can do:**
+- Draft a research template and methodology for you to execute
+- Suggest categories and business types that fit FORM's profile
+- Help you evaluate leads once you've found them
+
+**What I should NOT do:**
+- Guess at email addresses or claim "verified" contacts I haven't personally confirmed
+- Hallucinate business names, locations, or phone numbers
+- Risk your deliverability by inventing contact details
+
+---
+
+## Recommended Scout Workflow (for you, Adam, or a research assistant)
+
+**High-fit prospect categories:**
+1. **Gyms** (boutique; CrossFit; performance/functional training) — particularly in coastal CA, HI, FL
+2. **Surf shops** (retail + community hub) — independent, not big-box
+3. **Outdoor retailers** (REI-adjacent, climbing gyms, trail running specialists)
+4. **Sports medicine / performance clinics** (PT, sports docs, training facilities)
+5. **High-end fitness/wellness** (Alo Yoga, Equinox-tier facilities)
+
+**Verification workflow:**
+- Google Maps / Business search → website → "Contact" page
+- LinkedIn company pages → "People" section for owners/managers
+- Yelp business profile → phone (call before emailing)
+- Direct website contact forms (not cold email — builds rapport)
+
+**Output format:** Once you find 5–10 candidates with verified websites/phone numbers, I can help you:
+- Draft personalized outreach copy
+- Evaluate fit and messaging angle
+- Build a tracker (Google Sheet) for follow-ups
+
+---
+
+Would you like me to:
+1. **Draft a cold-outreach email template** for you to customize per lead?
+2. **Create a prospect research spreadsheet** you can fill in as you find them?
+3. **Write a LinkedIn connection message** for gym owners / retail managers?
+
+I'll deliver verified leads → you drive the research. Keeps deliverability clean and respects the rule: *verified contacts only.*

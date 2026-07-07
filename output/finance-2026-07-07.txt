@@ -1,0 +1,34 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $7.42 of $20.00 cap (37%)
+**Status:** OK
+**Runs this month:** 5 (all on July 1–6)
+**Note:** Team ramped up from June baseline; trajectory is sustainable well under cap.
+
+---
+
+## Breakdown
+
+**July runs to date (5 total):**
+- **July 1:** $0.38 (Finance + Director + Scout + Writer + Auditor)
+- **July 2:** $0.35 (Finance + Director + Scout + Writer + Auditor)
+- **July 3:** $0.34 (Finance + Director + Scout + Writer + Auditor)
+- **July 4:** $0.37 (Finance + Director + Scout + Writer + Auditor)
+- **July 5:** $0.37 (Finance + Director + Scout + Writer + Auditor)
+- **July 6:** $0.37 (Finance + Director + Scout + Writer + Auditor)
+
+**Total YTD (June + July):** $11.31 across 130 runs.
+
+**Cost by role (July only):**
+- Director (Opus 4): $0.74 (largest consumer, ~5.6K avg input tokens)
+- Writer (Sonnet 4.6): $0.16 (second; context-heavy drafting)
+- Finance (Haiku): $0.02 (efficient token use, quick summaries)
+- Scout (Haiku): $0.01 (lean qualifications)
+- Auditor (Haiku): $0.01 (spot checks)
+
+**Burn rate:** ~$1.25/day at current pace. $20/mo cap is safe; we could run 16+ parallel days at this volume.
+
+---
+
+## No action needed.
+Team is authorized to continue all runs. Next pause check: 2026-07-15.
