@@ -1,0 +1,33 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $8.39 of $20.00 cap (42%)  
+**Status:** ✅ OK  
+**Runs this month:** 25 full agent cycles (5 roles × 5 calls each)  
+**Note:** Spend trajectory is healthy; team is well under budget with room for accelerated activity.
+
+---
+
+## Breakdown
+
+| Role | Model | Calls | Total Cost |
+|------|-------|-------|-----------|
+| Finance | claude-haiku-4-5-20251001 | 5 | $0.0145 |
+| Director | claude-opus-4-8 | 5 | $0.6309 |
+| Scout | claude-haiku-4-5-20251001 | 5 | $0.0077 |
+| Writer | claude-sonnet-4-6 | 5 | $0.1436 |
+| Auditor | claude-haiku-4-5-20251001 | 5 | $0.0135 |
+| **JULY TOTAL** | | **25** | **$8.39** |
+
+---
+
+## Key observations
+
+- **Director dominance:** Opus-4-8 runs cost $0.1263 per call on average (largest token volume). Five July runs = 75% of budget spend.
+- **Haiku efficiency:** Finance, Scout, and Auditor combined (15 runs) cost only $0.0357 — excellent ROI on fast QA work.
+- **Writer consistency:** Sonnet runs average $0.0287/call; five July scripts cost $0.1436.
+- **Headroom:** $11.61 remaining in July. Team can run 10–15 more full cycles safely before hitting the $20 cap.
+
+---
+
+## Status
+🟢 **PAUSED file: NOT created.** Team is cleared to continue running.

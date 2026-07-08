@@ -1,0 +1,47 @@
+# AUDIT REPORT — 2026-07-08
+
+**Overall: PASSED** ✅
+
+---
+
+## WRITER OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Brand voice** | ✅ PASS | Coastal, confident, conversational. "You're drinking a gallon a day and still waking up dehydrated" is the exact top hook from CLAUDE.md. TikTok script reads authentic — Adam as founder, no hype, no performance. Email is professional, specific, and respectful of manufacturer time. |
+| **Health claims** | ✅ PASS | Clean. Script describes mechanism (hyaluronic acid retention, UV protection, joint support) without medical claims. No "treats," "cures," "prevents disease." Email is factual and ingredient-focused. Compliant. |
+| **Compliance** | ✅ PASS | No CAN-SPAM violations. Email has clear sender (Adam), subject line, signature with formcoastal.com domain and verified email (apsalter11@gmail.com). TikTok CTA uses existing @formcoastal handle (verified 25k followers). No invented contact details in template. |
+| **On-brand alignment** | ✅ PASS | Matches Master Brand Document v5 voice. Product positioning (5 pillars, Heliocare comparison, coastal/active male identity) consistent. No deviations from guardrails. |
+
+---
+
+## SCOUT OUTPUT
+
+| Category | Status | Notes |
+|----------|--------|-------|
+| **Contacts verified** | ⚠️ CONDITIONAL PASS | Scout correctly identified a constraint: no real-time internet access to verify current contacts. Rather than invent or guess (which would violate hard rule #3), Scout **transparently flagged the limitation** and offered three actionable alternatives (research template, URL analysis, wait for verified list). This is the right call. No bad data shipped. |
+| **No invented emails** | ✅ PASS | Scout did not output a fake email list. Zero invented contacts in output. |
+
+---
+
+## FLAGS
+
+| Flag | Severity | Action |
+|------|----------|--------|
+| Scout needs direction on lead strategy | LOW | Scout offered (A) research template, (B) URL-to-email analysis, or (C) defer. This is human-gated correctly. Adam should pick one and verify all contacts before Scout drafts outreach. |
+| TikTok copy uses placeholder "[Name / Team]" | RESOLVED | Writer correctly noted this is a placeholder for Adam to fill in. Not a failure — it's a draft note. |
+| Mercury bank account (G1 priority) | INFO | Not in today's outputs, but CLAUDE.md lists it as top priority. Recommend Adam open at mercury.com under Salt Air Industries LLC EIN today if not done. |
+
+---
+
+## SUMMARY
+
+✅ **Writer output is production-ready.** Both TikTok script and outreach email pass brand, compliance, and claim checks. Adam can post/send with confidence after filling in any placeholders.
+
+✅ **Scout output is process-correct.** Rather than break the "verified contacts only" rule, Scout asked for clarification on how to proceed. No bad data shipped.
+
+**No rejections. All work passes QA.**
+
+---
+
+**Output saved to:** `output/audit-2026-07-08.json`

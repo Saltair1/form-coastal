@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, direct contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra, and check for any published MOQ/lead-time info to prep the G1 quote follow-ups — verified sources only, no invented contacts.
+
+**Writer:** Draft a polite quote follow-up email to both Aurinutra and Innova Nutra (last contacted June 2026, no response yet) using the key manufacturer questions from CLAUDE.md — lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose in softgel. DRAFT ONLY — Adam sends; do not auto-send.
+
+**Finance:** Confirm month-to-date API spend against the $20/month cap, log cost per run, and flag immediately if we're on pace to exceed it — the team pauses if the cap is hit.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts before they reach Adam — verify accuracy of ingredient/spec asks against the v5 Master Brand Document, confirm no medical/health claims, and confirm no unverified contact details were introduced.
+
+**Director's note:** Today's top priority is G1 — chasing the two outstanding manufacturer quotes is the critical path to locking the formula, COGS, and first inventory order, so everything routes toward getting a clean, human-gated follow-up ready for Adam.

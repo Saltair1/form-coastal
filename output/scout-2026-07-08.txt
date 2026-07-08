@@ -1,0 +1,27 @@
+# B2B Leads — 2026-07-08
+
+I need to pause here and be transparent with you, Adam.
+
+**The constraint:** I'm instructed to find "verified contacts only; never invent or guess an email address." That's the right call for deliverability and brand trust.
+
+**The problem:** I don't have real-time internet access. I can't:
+- Browse current gym/surf shop websites to pull real contact emails
+- Verify that a person listed on LinkedIn still works at that company today
+- Confirm phone numbers are current
+
+If I output a list with emails or phone numbers, I'd be violating the rule—either inventing them (bad) or pulling them from my training data (likely outdated, unverified).
+
+**What I can do instead:**
+
+1. **Draft a lead research template** — give you the business types + research method so *you* can verify emails in real-time
+2. **Name 5 high-fit prospects by business type + location hints** — you find and verify the contact
+3. **Wait for you to provide verified contacts** — then I draft the outreach
+
+**My recommendation:** 
+
+Tell me which you prefer:
+- **(A)** I draft a research worksheet with 5 target business types + how to find verified contacts
+- **(B)** You give me a list of 5 gyms/shops with website URLs → I analyze them and *you* pull the email from their contact page
+- **(C)** Skip this for now — prioritize Mercury bank account + manufacturer quotes instead
+
+Which works for your flow right now?
