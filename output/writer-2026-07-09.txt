@@ -1,0 +1,84 @@
+I'll draft both now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-09
+
+---
+
+## TikTok Script — "The Gallon Lie"
+Format: Talking head (Adam, outdoors — golden hour, post-surf or post-run)
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated.
+That's not a hydration problem. That's a retention problem."
+
+**[VALUE — 0:05–0:25]**
+"Most guys chug water all day and just flush it straight out.
+The missing piece is hyaluronic acid — it holds up to a thousand times
+its weight in water at the cellular level. That's what actually makes
+the water you drink stick.
+
+I built FORM around this — five things active guys are actually missing:
+UV protection, real hydration, joint recovery, clean energy, immune baseline.
+One softgel. No stimulants. No powders."
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to know what's in it.
+First drop is coming — @formcoastal."
+
+---
+**Production notes:**
+- Film at eye level, natural light, coastal setting preferred (beach, parking lot, open sky)
+- Keep it conversational — no teleprompter energy
+- On-screen text: "a gallon a day and still dehydrated?" over the hook line
+- No product needed for this video — founder story only
+
+---
+
+## B2B Outreach Email — DRAFT
+**To:** [Verified contact — confirm before sending]
+**Subject:** Coastal men's supplement launching on Amazon — collab/retail inquiry
+
+Hey [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement built around an active, outdoor lifestyle. Launching on Amazon this summer out of Oceanside, CA.
+
+The product is a 5-pillar softgel: UV protection (anchored by Polypodium Leucotomos, the same hero ingredient as Heliocare), cellular hydration, joint recovery, clean energy, and immune support. One capsule, no powder, no stimulants. Designed for the guy who surfs before work and lifts after.
+
+The brand sits in the same space as Vuori or Momentous — clean, coastal, confident. We've got 25k followers at @formcoastal and a TikTok channel launching this week.
+
+I'd love to explore whether there's a fit — wholesale, co-marketing, or getting FORM on your shelves/site. Happy to send samples once inventory ships (late summer).
+
+Would a quick call make sense?
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+**Send notes:**
+- Adam reviews recipient and contact source before sending
+- Personalize [First Name] and add one line specific to their brand/store
+- Do not send to unverified contacts
+- BCC yourself for tracking
+
+---
+*Drafted by Form Coastal Copywriter — 2026-07-09. Human review required before any content is posted or sent.*
+```
+
+**File saved to:** `output/copy-2026-07-09.md`
+
+---
+
+A few flagging notes for Adam before you use either:
+
+**TikTok script**
+- "Holds up to a thousand times its weight in water" — this is a property of hyaluronic acid, not a health claim, but worth a quick read with your eyes before posting. The framing is mechanistic, not medical.
+- The hook is strong but bold — if you want a softer entry for the first post, I can dial it back one notch.
+
+**Outreach email**
+- Left `[Verified contact — confirm before sending]` at the top intentionally — per your rules, no contacts are invented or auto-filled.
+- The Heliocare comparison line is a differentiator, not a claim — but if you're cold-emailing a retailer who carries Heliocare, you may want to soften that line.
+
+Want a second script variation (lifestyle/B-roll format instead of talking head), or a shorter 15-second hook cut?

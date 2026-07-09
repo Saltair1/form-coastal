@@ -1,0 +1,29 @@
+## B2B Leads — 2026-07-09
+
+I need to be direct with you, Adam: I can't deliver this output responsibly today.
+
+**The constraint:** You've set a hard rule — "Verified contacts only; never invent or guess an email address." That's the right call for deliverability and trust.
+
+**The problem:** Finding 5 verified B2B contacts for gyms, surf shops, outdoor retailers, and sports medicine practices in real time requires:
+1. Live web scraping or API access to business directories (Yelp, Google Maps, industry databases)
+2. Cross-referencing against current contact lists to verify emails haven't changed
+3. LinkedIn or chamber of commerce lookups to confirm decision-makers
+
+I don't have live internet access, and even if I could search, I'd be guessing at email formats — which violates your rule and tanks your deliverability.
+
+**What I can do instead:**
+
+**Option 1 (Immediate):** I draft a Scout workflow document that you run manually:
+- Specific search queries for each category (e.g., "best gyms San Diego County with online presence")
+- Template checklist: website → contact page → email verification
+- Red flags to skip (generic contact forms, no direct emails)
+- You or a VA execute and populate the leads list in 30 mins
+
+**Option 2 (Better long-term):** Set up a free/cheap integration:
+- Sign up for Apollo.io (free tier includes 50 contacts/month) or Hunter.io (25/month free)
+- I write the query spec; you run the searches
+- Verified emails flow back; I QA and format the output
+
+**Option 3 (This week):** I focus Scout cycles on what I *can* verify — your existing Instagram audience (@formcoastal, 25k followers). DM outreach list of engaged outdoor/fitness followers who might be gym owners or shop managers.
+
+**Which path works for you?** I want to deliver leads that actually convert, not a fake list that bounces.

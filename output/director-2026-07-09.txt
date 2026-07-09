@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, publicly-listed contact details and quote-submission status for Aurinutra (info@aurinutra.com / 631-454-0020) and Innova Nutra — confirm whether a follow-up channel exists so Adam can chase the outstanding June quotes. Verified sources only; draft only, do not send.
+
+**Writer:** Draft a short, human-gated follow-up email to Aurinutra and Innova Nutra requesting their quotes, front-loading the key manufacturer questions (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, achievable collagen softgel dose). Leave in a branch/PR for Adam to review and send — no auto-send.
+
+**Finance:** Log month-to-date API spend per run against the $20/month cap, confirm we're clear, and flag the recurring monthly commitments queued for G1 (Amazon Seller $39, Shopify $39 — not yet) plus the $2,500–$4,500 startup range so Adam sees runway before placing inventory.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts before they reach Adam — check for accuracy against the v5 Master Brand Document, correct ingredient/formula specs, on-brand voice, and zero medical/health claims. Confirm no invented contact details slipped in.
+
+**Director's note:** Today's top priority is unblocking G1 — the two outstanding manufacturer quotes are the critical path to COGS validation and the first inventory order, so every worker is pointed at getting those quotes moving while keeping outreach human-gated.

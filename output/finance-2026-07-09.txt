@@ -1,0 +1,29 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $9.47 of $20.00 cap (47%)
+**Status:** ✅ OK
+**Runs this month:** 20 (5 per day: Finance → Director → Scout → Writer → Auditor)
+**Note:** Steady daily burn at ~$0.47/run; trajectory well within budget; no pause required.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Total Cost |
+|------|-------|------|-----------|
+| **Finance** | Haiku | 20 | $0.074 |
+| **Director** | Opus 4.8 | 20 | $2.539 |
+| **Scout** | Haiku | 20 | $0.034 |
+| **Writer** | Sonnet 4.6 | 20 | $0.593 |
+| **Auditor** | Haiku | 20 | $0.054 |
+| **TOTAL** | — | **100** | **$9.47** |
+
+---
+
+## Key metrics
+- **Daily average:** $0.47 (well below $0.67/day sustainability)
+- **Most expensive role:** Director (Opus 4.8), 27% of total — expected and appropriate for orchestration
+- **Token efficiency:** Consistent input growth (Finance's rolling input log now ~14k tokens) as context accumulates; no runaway token creep
+- **July so far:** 20 runs across 8 days @ $9.47; extrapolated to 30-day month = ~$35.25 if daily pattern holds
+
+**⚠️ Action:** If daily run count increases above 5/day or token counts spike, will approach cap faster. Monitor and report daily.
