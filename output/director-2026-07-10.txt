@@ -1,0 +1,13 @@
+## Today's Assignments
+
+**Scout:** Confirm the verified contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra, and check whether any quote responses have landed since the June outreach — do NOT invent or send anything; flag if either manufacturer needs a follow-up nudge for Adam to send by hand.
+
+**Writer:** Draft a short, polite follow-up email to Aurinutra and Innova Nutra requesting their quotes, explicitly asking the key manufacturer questions (lipid encapsulation available? MOQ at 250/500? GMP + COA? natural astaxanthin sourced? collagen dose achievable in softgel?). Draft only — Adam sends. Also draft this week's first TikTok post script (lifestyle, no product) using the approved brand voice from the TikTok Scripts doc, to keep G2 moving in parallel.
+
+**Finance:** Report month-to-date API spend against the $20/month cap and confirm we're clear to keep running; flag immediately if we're approaching the limit so the team can throttle model usage.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts and TikTok script — verify no medical/health claims, on-brand voice, CAN-SPAM compliant, and that no contact details were invented. Block anything that isn't clean before it reaches Adam.
+
+**Director's note:** Top priority is G1 — unblocking the manufacturer quotes from Aurinutra and Innova Nutra (outstanding since June), because locking the formula and cost gates every downstream step from label design to first inventory order.
+
+*Note: Mercury account opening and EIN (step 1 of G1) are human-only actions for Adam — flagging as the highest-priority human task, but no agent can execute it. All drafted outreach remains human-gated per guardrail #2.*

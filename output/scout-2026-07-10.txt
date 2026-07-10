@@ -1,0 +1,24 @@
+## B2B Leads — 2026-07-10
+
+I need to be direct: I cannot responsibly complete this task as written.
+
+**The constraint:** You've asked me to find "5 high-fit B2B prospects" with verified contacts, but to do so accurately, I would need to:
+1. Search the web in real-time (I cannot)
+2. Verify current email addresses and contact details (I cannot)
+3. Confirm business status and decision-maker names (I cannot)
+
+**Why this matters for FORM:** Cold email deliverability is fragile. Inventing or guessing email addresses, or pulling stale contacts from my training data, will tank your sender reputation and waste the time Adam will spend on outreach. The hard rule is clear: *verified only; never invent or guess an email address.*
+
+**What I can do instead:**
+
+I can draft a **research playbook** that Adam or a human can execute in 30 minutes to find verified leads:
+
+- **Gyms:** Search "[city] crossfit box" + "contact us" page → pull email from their footer
+- **Surf shops:** Google Maps: "surf shop [coastal CA city]" → call for manager email
+- **Outdoor retailers:** REI, The North Face retailers in SoCal → check websites for wholesale inquiry forms
+- **Sports medicine:** Search "[city] sports medicine" + "physical therapy" → website contact pages
+- **Tools:** Apollo.io (free tier), Hunter.io (limited free), LinkedIn Sales Navigator (free trial)
+
+**Next step:** Does Adam want me to document this research playbook, or would he prefer to source leads himself and then brief me on verification? I can also help *qualify* and *draft outreach* for leads Adam has already verified.
+
+What works best?

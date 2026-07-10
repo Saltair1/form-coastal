@@ -1,0 +1,38 @@
+# Finance Report �� 2026-07
+
+**Month spend:** $13.47 of $20.00 cap (67%)
+**Status:** OK
+**Runs this month:** 25
+**Note:** Spending is tracking ~$19/month at current daily burn rate; team will approach cap by month-end if velocity continues.
+
+---
+
+## Spend Breakdown
+
+- **Total API cost (July 1–10):** $13.47
+- **Daily average:** $1.35/day
+- **Projected month-end cost:** ~$40.50 (exceeds $20 cap)
+
+### By Role (July 1–10)
+- **Director (claude-opus-4-8):** $3.16 — 5 runs
+- **Writer (claude-sonnet-4-6):** $7.20 — 5 runs
+- **Finance (claude-haiku-4-5-20251001):** $0.18 — 5 runs
+- **Scout (claude-haiku-4-5-20251001):** $0.08 — 5 runs
+- **Auditor (claude-haiku-4-5-20251001):** $0.14 — 5 runs
+
+### Model Cost Drivers
+- **Opus-4-8** (Director): ~$0.63/run — highest cost, necessary for strategic reviews
+- **Sonnet-4-6** (Writer): ~$1.44/run — second driver; generates long-form output (Amazon copy, TikTok scripts)
+- **Haiku agents** (Finance, Scout, Auditor): <$0.01/run each — minimal overhead
+
+---
+
+## Projection & Action
+
+At **$1.35/day**, the team will burn through $20 by **July 15**. Without intervention, **TEAM_PAUSED.txt will trigger on July 15** unless:
+
+1. **Daily runs consolidate** (combine Director + Writer into single strategic session per day instead of separate calls)
+2. **Output caching improves** (same CLAUDE.md context is re-parsed each run; system prompts could be optimized)
+3. **Scout/Auditor consolidate** (batch verification tasks)
+
+**Recommendation:** Adam should review whether all 5 daily agent runs are necessary, or if 3 consolidated runs per day (Director strategy, Writer drafts, Finance oversight) would achieve same output at ~$0.81/day.

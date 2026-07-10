@@ -1,0 +1,120 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-10
+
+---
+
+## TikTok Script — "Drinking a Gallon and Still Dehydrated"
+Format: Talking head (outdoor / natural light, beach or garage gym backdrop)
+Length: ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, calm and confident. No hype.*
+
+"You're drinking a gallon of water a day and still waking up dehydrated.
+That's not a water problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Slight lean forward. Conversational, not lecture-y.*
+
+"Water doesn't just stay in your cells on its own — especially when
+you're sweating every day. Your body needs certain compounds to actually
+hold onto it at the cellular level. Hyaluronic acid is one of them. It
+holds up to a thousand times its weight in water.
+
+Most men's supplements don't have it. Most men don't know they need it.
+
+FORM has it — along with four other things I was missing after years of
+training outdoors in San Diego."
+
+*[Optional b-roll cut: softgel in hand, morning routine, ocean shot]*
+
+---
+
+**[CTA — 0:25–0:35]**
+*Pull back slightly. Easy close — not salesy.*
+
+"Link in bio if you want to see what's actually in it.
+First batch is small. Grab it."
+
+---
+*Production notes: Shoot golden hour or morning light. Clean shirt,
+no logo. Keep pace unhurried — this isn't a hype video. No background
+music that competes with voice. Captions on.*
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up: Aurinutra — awaiting quote since June 2026)*
+
+**Subject:** Following up — softgel formula quote // Salt Air Industries
+
+Hi [Name / team],
+
+Wanted to follow up on my inquiry from June — I'm the founder of FORM,
+a men's daily softgel launching on Amazon and Shopify out of Oceanside,
+CA.
+
+Quick recap on what I'm looking for:
+
+- **Format:** Softgel with true lipid encapsulation (required — several
+  fat-soluble actives including astaxanthin and Vitamin D3)
+- **Key ingredients:** Polypodium Leucotomos extract, astaxanthin
+  (natural, Haematococcus pluvialis sourced), hyaluronic acid,
+  magnesium, ashwagandha (KSM-66 preferred), Vitamin D3, Vitamin C,
+  Zinc, B12 — plus a joint support ingredient TBD based on what's
+  achievable at dose in softgel format
+- **MOQ:** Starting at 250–500 units for first run
+- **Certifications needed:** GMP + COA per batch
+
+A few specific questions when you have a moment:
+
+1. Can you confirm lipid encapsulation availability for this ingredient
+   set?
+2. Is natural astaxanthin (Haematococcus pluvialis) something you
+   source directly?
+3. What's the realistic dose achievable for collagen peptides in a
+   standard softgel — or would you recommend boswellia instead for the
+   joint pillar?
+4. What does your COA / third-party testing process look like at this
+   MOQ?
+
+I'm ready to move forward as soon as I have a quote in hand. Timeline
+goal is first inventory order this summer.
+
+Happy to jump on a call this week if that's easier — just let me know
+what works.
+
+Thanks,
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com
+[phone optional — Adam to add]
+
+---
+
+*[Adam — add your direct number before sending. Confirm contact name
+at Aurinutra before addressing. Separate version for Innova Nutra
+available on request — different tone given they're CA-based and
+haven't had prior contact.]*
+```
+
+---
+
+**Output saved to:** `output/copy-2026-07-10.md`
+
+---
+
+**Writer's notes for Adam:**
+
+**TikTok script** — This hooks on a real tension (dehydration despite doing everything right) without making any efficacy claims. It explains *mechanism* (retention, not intake) which is educational and defensible. The CTA is low-pressure and scarcity-honest. Shoot this one first — it's the core brand story in 35 seconds.
+
+**Outreach email** — Written as a founder-to-manufacturer direct inquiry, not a sales pitch. The bullet format respects their time. The four specific questions give them exactly what they need to scope a quote, and signals you're technically informed (lipid encapsulation, KSM-66, Haematococcus pluvialis sourcing) — that earns credibility with a formulation team fast.

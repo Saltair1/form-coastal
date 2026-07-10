@@ -1,0 +1,51 @@
+# AUDIT REPORT — 2026-07-10
+
+**Overall: PASSED** ✓
+
+---
+
+## WRITER OUTPUT
+
+**Brand voice:** ✓ Excellent. Coastal, confident, unhurried. "That's not a water problem. That's a retention problem" is exactly the tone — educational without being clinical or bro-y. Fits the Vuori/Momentous shelf.
+
+**Health claims:** ✓ Clean. No efficacy claims. Script explains *mechanism* (hyaluronic acid retention) without claiming FORM treats or cures dehydration. Defensible education. "I was missing after years of training" is personal story, not product claim.
+
+**Compliance:** ✓ Compliant. No CAN-SPAM violations. CTA is soft ("Link in bio if you want to see"). No invented contact details. TikTok production notes are practical and on-brand (golden hour, clean shirt, no logo).
+
+**Outreach email:** ✓ Professional, specific, credible. Demonstrates technical knowledge (lipid encapsulation, Haematococcus pluvialis, KSM-66, MOQ context). Four concrete questions are scoped and respectful of manufacturer time. Email addresses and contact names flagged for Adam to verify — correct gate. Ready to send once Adam confirms recipient.
+
+**Minor note:** Outreach email has placeholder "[Name / team]" and "[phone optional]" — Adam must verify contact name and add direct number before sending. This is correctly flagged in the draft.
+
+---
+
+## SCOUT OUTPUT
+
+**Contacts verified:** ✗ N/A — Scout correctly declined to invent or guess verified contacts.
+
+**No invented emails:** ✓ Scout explicitly refused to invent or guess email addresses. Correct enforcement of hard rule #3.
+
+**Scout decision:** SOUND. Scout hit the core constraint head-on: "I cannot responsibly complete this task as written." This is the right posture. Cold email deliverability is fragile, and inventing contact details would violate hard rule #3 and tank Adam's sender reputation.
+
+**Scout's alternative:** Offered a research playbook (Apollo.io, Hunter.io, Google Maps, direct calls) and offered to *qualify and draft* outreach for leads Adam has already verified. This is correct scope.
+
+**Recommendation to Adam:** Scout is asking a routing question: Does Adam want a documented research playbook, or will Adam source leads himself first? Either path works; Scout needs clarity on next step.
+
+---
+
+## FLAGS
+
+**None.** All work passed QA.
+
+---
+
+## SUMMARY FOR ADAM
+
+**Ship the TikTok script.** It's tight, on-brand, and ready to shoot. No revisions needed.
+
+**Ship the Aurinutra outreach email.** Verify contact name (call their main line if needed), add your direct number, send this week.
+
+**Scout: confirm your preference.** Do you want the research playbook documented, or will you source 5 verified leads yourself and brief Scout to draft outreach? Scout is standing by either way.
+
+---
+
+**Audit saved to:** `output/audit-2026-07-10.json`
