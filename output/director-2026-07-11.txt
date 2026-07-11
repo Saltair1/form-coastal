@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com / (631) 454-0020) and Innova Nutra, and check whether any third softgel manufacturer with confirmed lipid encapsulation + low MOQ (250/500) and GMP/COA certification is worth adding as a backup quote — verified contacts only, no invented details. This directly supports G1 (manufacturer quotes).
+
+**Writer:** Draft a polite follow-up email to Aurinutra and Innova Nutra requesting their quotes (sent June 2026, still awaiting response), incorporating the key manufacturer questions: lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, and achievable collagen dose in softgel. Draft only — Adam sends. This pushes G1 forward.
+
+**Finance:** Confirm month-to-date API spend against the $20/month cap and log per-run cost. Flag immediately if we're on pace to exceed. Also produce a quick startup-cost readiness snapshot ($2,500–$4,500 range) so Adam can confirm Mercury funding once the account opens — supports the G1 banking step.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts before they reach Adam — verify accuracy against the v5 Master Brand Document formula section, confirm no medical/health claims, confirm no invented contact details, and check tone stays on-brand and professional. Gate the output.
+
+**Director's note:** Today's top priority is G1 — specifically breaking the manufacturer-quote logjam (quotes have been outstanding since June), because locked pricing and formula feasibility are the bottleneck for label design, inventory, and every downstream launch step.

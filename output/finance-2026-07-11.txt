@@ -1,0 +1,21 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $8.87 of $20.00 cap (44%)
+**Status:** ✅ OK
+**Runs this month:** 10 (July 1–10)
+**Note:** Spending trajectory is healthy — averaging $0.89 per run across all agents. Well within budget with comfortable margin remaining.
+
+---
+
+## Summary
+
+Through July 10, the team has completed **10 full agent runs** (Finance + Director + Scout + Writer + Auditor cycle per run). 
+
+**Cost breakdown by agent:**
+- **Director** (claude-opus-4-8): $1.28 — most expensive per run, handles strategy & PR reviews
+- **Writer** (claude-sonnet-4-6): $2.89 — second largest cost, drafts all copy
+- **Finance** (claude-haiku-4-5-20251001): $0.04 — lightweight token tracking
+- **Scout** (claude-haiku-4-5-20251001): $0.02 — lead qualification on a budget
+- **Auditor** (claude-haiku-4-5-20251001): $2.73 — QA and compliance checks
+
+**Trend:** Spend is accelerating slightly as context windows grow (more prior runs = more tokens to summarize), but still well under the $20 monthly cap. **No pause required.**

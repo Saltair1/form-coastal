@@ -1,0 +1,103 @@
+I'll draft both assets now and save to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-07-11
+
+---
+
+## TikTok Script — "Still Dehydrated"
+**Format:** Talking head (outdoor / natural light, beach or backyard setting)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Look directly at camera. Calm, matter-of-fact.*
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Stay natural. No hype. Speak like you're telling a friend something you figured out.*
+
+"Your body needs certain things to actually hold onto the water you're putting in — electrolytes, minerals, compounds like hyaluronic acid that work at the cellular level.
+
+Without them, most of what you drink just runs right through.
+
+I built FORM around this. One softgel that covers hydration, joint recovery, UV protection, clean energy — everything I was piecing together from five different products."
+
+*[Optional B-roll cut: sunrise surf session, gym, softgel on clean surface]*
+
+---
+
+**[CTA — 0:25–0:35]**
+*Relaxed. Not pushy.*
+
+"Link in bio if you want to see what's inside. First drop is limited."
+
+---
+
+**Notes for Adam:**
+- Film in natural light — golden hour or open shade. No ring light.
+- Keep it conversational, not polished. One take energy.
+- Caption draft: `you're drinking a gallon a day and still waking up tired. here's why. 💧 #formcoastal #hydration #supplementsthatwork #surf #activemen`
+- Consider adding text overlay on hook line for silent viewers.
+
+---
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — Aurinutra / Innova Nutra)*
+
+**Subject:** Softgel Formula Quote — Following Up
+
+Hi [Name],
+
+I submitted an inquiry a few weeks back through [your site / contact form] about a custom softgel formula — wanted to follow up in case it got buried.
+
+I'm Adam Salter, founder of Form Coastal. We're launching a men's daily supplement called FORM — a 10-ingredient lipid-encapsulated softgel built around an active outdoor lifestyle. Think surfers, multi-sport athletes, guys training outdoors daily.
+
+A few things that'll help you scope this quickly:
+
+- **Format:** Softgel, lipid encapsulation required (we have fat-soluble ingredients — astaxanthin, D3, PLE)
+- **MOQ:** Looking to start at 250–500 units
+- **Cert requirements:** GMP certified, COA per batch
+- **Timeline:** Targeting first order Q3 2026
+
+The formula is locked. I'm ready to share the full ingredient list as soon as we're in conversation.
+
+Would a quick call next week work? Happy to come to you if you're in Southern California.
+
+Thanks —
+
+Adam Salter
+Founder, Form Coastal
+formcoastal.com
+[phone]
+
+---
+
+**Notes for Adam:**
+- Fill in [Name] before sending — don't send to a generic inbox if you can find a direct contact.
+- Customize the "Southern California" line for Innova (CA-based) — remove or adjust for Aurinutra (NY).
+- Send from your business email, not Gmail, once Mercury is set up and you have a formcoastal.com address.
+- You mentioned quotes were sent in June — if you have a prior thread, reply to that thread instead of sending fresh. Keeps context.
+```
+
+---
+
+Output saved to `output/copy-2026-07-11.md`.
+
+---
+
+**A few flags before you send:**
+
+1. **TikTok hook** — "still waking up dehydrated" is the core brand hook per CLAUDE.md. This is the first post as FORM, no product needed in frame. Film it this weekend if the light is right.
+
+2. **B2B email** — I kept it short on purpose. Manufacturers get long RFQ emails all day. This one respects their time and signals you're ready to move. The key ask is a call, not a quote — easier yes.
+
+3. **No health claims** — reviewed clean. "Works at the cellular level" describes mechanism (hyaluronic acid's known property), not a disease or treatment claim. Still flag this with your legal eye before posting.
+
+4. **Aurinutra vs. Innova** — the email is templated for both but needs the California line adjusted. Innova Nutra is West Coast; lean into that. Aurinutra is New York; drop the "come to you" line.

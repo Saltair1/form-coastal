@@ -1,0 +1,36 @@
+I appreciate the detailed brief, but I need to be direct: **I cannot complete this task as specified.**
+
+Here's why:
+
+### The Core Problem
+You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with real email addresses or phone numbers. The guardrail is clear: *"Never invent or guess an email address. Verified contacts only."*
+
+**I don't have real-time internet access.** I can't:
+- Browse current business directories or Google Maps
+- Verify which gyms/surf shops in a given area are still operating in July 2026
+- Scrape or pull verified contact details from websites
+- Confirm that an email address is current and deliverable
+
+Inventing a contact list would violate the core principle you've stated and damage your cold outreach (invalid emails tank deliverability and sender reputation).
+
+### What I Can Do Instead
+
+**Option 1: I draft a research template for you**
+I can give you a structured format + research strategy (where to search, what to verify, red flags to avoid) so *you* can find and validate leads in 30 minutes using Google Maps, LinkedIn, and direct website lookups.
+
+**Option 2: I help you build a lead-finding system**
+I can write a GitHub workflow that:
+- Takes a CSV of unverified leads *you've* researched
+- Validates them against public records (LinkedIn, business websites, review sites)
+- Flags confidence levels
+- Outputs clean JSON you can hand to Adam for outreach
+
+**Option 3: I create a cold-outreach playbook**
+Since you're targeting fitness/outdoor verticals, I can draft:
+- Email templates (human-gated, CAN-SPAM compliant)
+- Qualifying questions to filter high-intent prospects
+- A Shopify + Amazon pitch angle for B2B (wholesale, affiliate, co-marketing)
+
+---
+
+**Which path helps most right now?** I'm ready to move fast once you clarify — Adam should focus on verified, high-quality leads, and I can make sure the research is bulletproof.
