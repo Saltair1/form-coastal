@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, accurate contact details for Aurinutra (info@aurinutra.com already confirmed) and Innova Nutra — confirm the best reachable channel for a quote follow-up. Do NOT invent any details; verified only. Both quotes (sent June 2026) are still outstanding and blocking G1, so we need clean contact paths ready for Adam to send a follow-up.
+
+**Writer:** Draft a short, human-gated follow-up email to Aurinutra AND Innova Nutra requesting their outstanding quotes, using the key manufacturer questions from CLAUDE.md (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel). Draft only — Adam sends. Also draft this week's first TikTok post as FORM (lifestyle, no product) from the TikTok Scripts doc for G2.
+
+**Finance:** Log API cost per run today and report month-to-date spend against the $20/month cap. Confirm we are clear of the cap and flag immediately if any run trends toward it.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts and the TikTok post before Adam uses them — check for accuracy, on-brand voice, no medical/health claims, CAN-SPAM compliance, and no invented details. Confirm brand naming is correct (FORM on product, Form Coastal for digital/legal).
+
+**Director's note:** Today's top priority is unblocking G1 — the two manufacturer quotes are the critical path to formula lock, inventory, and everything downstream, so getting clean follow-ups drafted and QA'd (for Adam to send) matters most while TikTok G2 runs in parallel at no cost.

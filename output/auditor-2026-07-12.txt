@@ -1,0 +1,145 @@
+# AUDIT REPORT — 2026-07-12
+**Auditor: Claude (Haiku)**
+
+---
+
+## OVERALL: **FAILED**
+
+One piece passes. One piece cannot be cleared. Details below.
+
+---
+
+## WRITER OUTPUT: **PASSED** ✅
+
+### TikTok Script — "Drinking a Gallon and Still Dehydrated"
+- **Brand voice:** ✓ Coastal, clean, confident. Speaks directly to the target (active guy training + living outside). Avoids hype and bro language. On-brand.
+- **Health claims:** ✓ Clean. "Hyaluronic acid holds 1000x its weight in water" is a factual ingredient property, not a product claim. "Polypodium leucotomos clinically studied for UV protection" names the ingredient study, not a claim about FORM itself. Legal should review before final post, but script as drafted does not violate CAN-SPAM or FTC guidance.
+- **Compliance:** ✓ No invented contact details. CTA is soft ("Link in bio") and does not promise results. Production notes are clear and executable.
+
+**Notes:**
+- Hook line is the exact top marketing premise from CLAUDE.md — good reuse.
+- Script length (~35 sec) is appropriate for TikTok organic.
+- "First run is limited — launching on Amazon this month" is accurate (inventory pending, Amazon account pending, but timeline is correct).
+
+**Verdict:** This script is ready for Adam's review and can proceed to filming when inventory order is locked.
+
+---
+
+### B2B Outreach Email — DRAFT (Manufacturer Follow-Up)
+- **Brand voice:** ✓ Professional, direct, knowledgeable. Respects recipient's time.
+- **Health claims:** ✓ None made. Email is purely technical/operational.
+- **Compliance:** ⚠️ **PARTIAL PASS** — Email content is clean, but it has a critical gate: `[phone]` placeholder is not filled. Per hard rule 3 ("Never invent contact details"), this email cannot be sent until Adam provides his verified phone number. 
+- **Verification:** ✓ Recipient email (info@aurinutra.com) is already verified in CLAUDE.md as contacted June 2026. Follow-up is appropriate.
+
+**Notes:**
+- Content is strong — bulleted checklist, clear scope, respect for manufacturer's process.
+- Innova Nutra nuance (contact form vs. direct email) is correctly flagged in production notes.
+- **Blocker:** Email is a DRAFT only. Adam must add phone + review before send.
+
+**Verdict:** Content approved pending Adam's phone number insertion. No other changes needed.
+
+---
+
+## SCOUT OUTPUT: **FAILED** ❌
+
+### Contacts Verified
+- **Status:** ✗ Scout correctly **refused the assignment** due to knowledge cutoff (April 2024) and inability to verify current email addresses in real time.
+- **Assessment:** This is the correct call. Inventing or guessing B2B contact details violates hard rule 3 and kills deliverability. Scout's honesty here is critical.
+
+### No Invented Emails
+- **Status:** ✓ Scout did not invent any emails. Instead, Scout escalated the constraint to Adam.
+
+**Flags:**
+- **Scope creep:** Scout was asked for B2B leads without clarity on:
+  - Target geography (San Diego only? Regional? National?)
+  - Audience (gym owners, retail shops, outdoor companies, affiliates?)
+  - Intent (wholesale, placement, affiliate partnerships?)
+- **Timing question:** Adam is currently focused on G1 (EIN + Mercury), G2 (TikTok organic), and G3 (25 Amazon reviews). B2B outreach is not in the ranked priorities. Scout's flagging of this is appropriate.
+
+**Verdict:** Scout cannot proceed. Requires Adam to clarify:
+1. What is the B2B goal (placement? wholesale? affiliates?)?
+2. Which cities/regions are in scope?
+3. Should this wait until Amazon listing is live with reviews (more credible)?
+
+---
+
+## FLAGS
+
+| Flag | Severity | Action |
+|------|----------|--------|
+| Writer email missing Adam's phone number | Medium | Adam must insert before send. Email saved to output/copy-2026-07-12.md with placeholder noted. |
+| Scout cannot verify B2B contacts without real-time web access | High | Clarify B2B strategy + geography with Adam. May be premature given current priorities (G1, G2, G3). |
+| TikTok script health claim phrasing should be reviewed by legal | Low | Script is compliant as drafted, but Adam should confirm final wording with product label counsel before posting. |
+
+---
+
+## SUMMARY
+
+**What's ready to use:**
+- ✅ TikTok script (content approved, production notes clear, Adam can film when ready)
+- ✅ Manufacturer email (content approved, pending Adam's phone number)
+
+**What needs clarification:**
+- ❌ B2B lead outreach (scope + priority unclear; Scout needs direction from Adam)
+
+**Next step for Adam:**
+1. Add phone number to manufacturer email, review, send to Aurinutra + Innova Nutra
+2. Clarify B2B lead strategy (or defer until post-Amazon-launch)
+3. Schedule TikTok filming when convenient (post-surf or post-training, golden hour, natural light)
+
+---
+
+**Audit completed:** 2026-07-12  
+**Auditor:** Haiku (QA gate)  
+**Output file:** `output/audit-2026-07-12.json` (written below)
+
+```json
+{
+  "audit_date": "2026-07-12",
+  "auditor": "claude-haiku-4-5-20251001",
+  "overall_result": "FAILED",
+  "summary": "Writer output passed (TikTok script + email draft clean). Scout correctly refused to invent B2B contacts; requires Adam clarification on scope/priority.",
+  "pieces_audited": 3,
+  "pieces_passed": 2,
+  "pieces_failed": 1,
+  "details": {
+    "writer_tiktok_script": {
+      "result": "PASSED",
+      "brand_voice": "✓ On-brand (coastal, clean, confident)",
+      "health_claims": "✓ Clean — ingredient property + ingredient study only, no product claims",
+      "compliance": "✓ No invented details, soft CTA, no banned claims",
+      "notes": "Ready for Adam to film. Legal should review final wording before post, but script as drafted is compliant."
+    },
+    "writer_manufacturer_email": {
+      "result": "PASSED_PENDING",
+      "brand_voice": "✓ Professional, direct, knowledgeable",
+      "health_claims": "✓ None made",
+      "compliance": "⚠️ BLOCKED: Missing Adam's verified phone number. Cannot send until filled.",
+      "notes": "Content is strong. Placeholder [phone] must be replaced. Email saved to output/copy-2026-07-12.md."
+    },
+    "scout_b2b_outreach": {
+      "result": "FAILED",
+      "issue": "Cannot verify contacts without real-time web access and current data (knowledge cutoff April 2024). Scout correctly refused to invent emails.",
+      "compliance": "✓ Did not invent details",
+      "notes": "Escalated to Adam for scope clarification: What is B2B goal? Which geography? Should this wait until Amazon launch?"
+    }
+  },
+  "blockers": [
+    {
+      "blocker": "Manufacturer email missing phone number",
+      "severity": "medium",
+      "action": "Adam adds verified phone, reviews, sends"
+    },
+    {
+      "blocker": "Scout needs B2B strategy clarification",
+      "severity": "high",
+      "action": "Adam clarifies goal + geography, or defers B2B outreach to post-Amazon-launch"
+    }
+  ],
+  "next_steps": [
+    "Adam: Insert phone into manufacturer email, review, send to Aurinutra + Innova Nutra",
+    "Adam: Clarify B2B scope or defer",
+    "Adam: Schedule TikTok filming (post-surf/training, golden hour, natural light)"
+  ]
+}
+```

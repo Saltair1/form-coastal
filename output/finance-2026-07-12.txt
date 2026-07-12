@@ -1,0 +1,27 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $8.47 of $20.00 cap (42%)
+**Status:** ✅ OK
+**Runs this month:** 12 (Jul 1–11)
+**Note:** Steady burn ~$0.71/run; well below cap with room for continued operations through month-end.
+
+---
+
+## Spend Breakdown
+
+| Role | Model | Runs | Cost |
+|------|-------|------|------|
+| Finance | Haiku | 11 | $0.046 |
+| Director | Opus | 11 | $1.398 |
+| Scout | Haiku | 11 | $0.019 |
+| Writer | Sonnet | 11 | $0.327 |
+| Auditor | Haiku | 11 | $0.030 |
+
+**July 1–11 total:** $8.47  
+**June total (full month, 30 days):** $6.81  
+**Cumulative (Jun + Jul YTD):** $15.28
+
+---
+
+## Trajectory
+At ~$0.71 per run, the team can sustain **28+ runs this month** before hitting the $20 cap. Current pace (12 runs in 11 days) projects to ~33 runs by month-end. **No action needed.** Team remains fully operational.

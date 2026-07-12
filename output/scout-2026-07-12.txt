@@ -1,0 +1,30 @@
+I appreciate the assignment, but I need to be direct: I can't deliver verified B2B leads with high confidence today without real-time internet access to validate contact details.
+
+Here's why:
+
+**What I'd need to do it right:**
+1. Search gym/surf shop/outdoor retailer directories (Google Maps, Yelp, industry databases)
+2. Visit each business website to find decision-maker names and verified email addresses
+3. Cross-check those emails (LinkedIn, company staff pages, cold email verification tools)
+4. Confirm they're active/current before output
+
+**What I can't do from my training data alone:**
+- I have knowledge cutoff at April 2024. Many gyms, surf shops, and sports medicine practices have changed locations, closed, or restructured in the past 15 months.
+- I cannot browse the web in real time to verify current email addresses. Inventing emails violates your hard rule and kills deliverability.
+- I cannot access verification services (Hunter.io, RocketReach, Clearbit) that would give me confidence > 70% on contact accuracy.
+
+**What I CAN do:**
+
+**Option 1: I'll draft a research template** — tell me a few target cities (e.g., "San Diego, Orange County, LA"), and I'll outline *how* to find these leads yourself with publicly available tools:
+- Specific Google Maps search queries
+- LinkedIn advanced search filters for decision-makers
+- Free email verification checklist
+
+**Option 2: Flag this for Adam** — B2B outreach might be premature until:
+- Amazon listing is live with reviews (more credible pitch)
+- Shopify is built (gives prospects a buying option)
+- TikTok has momentum (social proof for gyms/shops considering placement)
+
+What's Adam's intent for these B2B leads — wholesale orders, in-gym placement, affiliate partnerships? That shapes the search strategy.
+
+**Which approach works best for Form Coastal right now?**
