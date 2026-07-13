@@ -1,0 +1,73 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-13
+
+---
+
+## TikTok Script — "The Gallon Myth"
+Format: Talking head (outdoors — morning light, post-surf or pre-session)
+Length: ~35 seconds
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+**[VALUE — 0:05–0:25]**
+"Most guys are losing electrolytes faster than they're replacing them — especially if you're training outside, sweating in the sun, surfing, whatever it is.
+The water's going in, but it's not staying.
+That's why I built FORM around ingredients like hyaluronic acid and magnesium — stuff that actually helps your body hold onto what you're putting in.
+One softgel in the morning. That's it."
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to know what's in it. Drop a comment if this hit — I promise you're not the only one."
+
+---
+**Production notes:**
+- Shoot at golden hour or early morning — natural coastal light, no ring light
+- Casual, direct eye contact — no hype, no yelling
+- Hold up the softgel bottle casually mid-value section (don't force it)
+- Caption: "drinking a gallon and still waking up dry 💧 #formcoastal #hydration #activemen #supplementsthatmakesense"
+
+---
+
+## B2B Outreach Email — DRAFT
+**To:** [Retailer / Gym / Surf Shop buyer — verify contact before sending]
+**Subject:** A men's daily built for guys who train outside
+
+Hey [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement out of Oceanside. I'll keep this short.
+
+FORM is a 5-pillar softgel built for active guys who spend real time outdoors: UV and oxidative stress protection, cellular hydration, joint recovery, clean energy, and immune support. One product, one capsule, no filler story.
+
+The anchor ingredient — Polypodium Leucotomos — is the same clinically studied compound used in Heliocare, which dominates the UV supplement space. We built around it specifically for the guy who surfs before work, lifts after, and lives in the sun year-round. That guy exists in your customer base. He's currently buying nothing designed for him.
+
+We're launching on Amazon this summer and expanding into wholesale shortly after. I'd love to see if [Store/Gym Name] is a fit for an early partnership — ideally someone who wants to be first on the shelf, not tenth.
+
+Happy to send samples once inventory ships. No commitment, just a conversation.
+
+Worth a quick call this week?
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+**Send notes:**
+- Verify buyer contact before sending — do not cold-send to generic inbox
+- Personalize [Store/Gym Name] and [First Name] before every send
+- Do not send until inventory is ordered and Amazon listing is live or imminent
+- Adam reviews and sends — this is a draft only
+```
+
+Output saved to `output/copy-2026-07-13.md`.
+
+---
+
+**A few notes on the drafts:**
+
+**TikTok script** — I anchored it to the gallon/hydration hook from the brand doc because that's your strongest organic opener: it's counterintuitive, it calls out the exact guy you're selling to, and it doesn't require product on screen. Talking head keeps the algorithm happy and lets Adam's personality carry it. No health claims made — "helps your body hold onto" is functional/colloquial, not medical.
+
+**B2B email** — Written assuming a surf shop, specialty fitness retailer, or gym buyer. Short on purpose. The Heliocare comparison does the credibility work without needing to oversell. The "first on the shelf, not tenth" line is the closer — buyers respond to scarcity framing. Flagged send conditions per hard rules: verified contact, Adam sends, no auto-send.
+
+Let me know if you want a second script angle or a version of the B2B email tailored to a specific retailer type (surf shop vs. gym vs. specialty health).

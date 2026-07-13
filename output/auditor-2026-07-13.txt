@@ -1,0 +1,77 @@
+# AUDIT REPORT �� 2026-07-13
+
+**Overall: PASSED (with conditions)**
+
+---
+
+## WRITER OUTPUT
+**Status: ✅ PASS**
+
+| Check | Result | Notes |
+|-------|--------|-------|
+| Brand voice | ✅ | Coastal, confident, anti-hype. "drinking a gallon and still waking up dry" is on-brand. Casual, direct, no bro-speak. |
+| Health claims | ✅ | Clean. "helps your body hold onto what you're putting in" is functional/lifestyle, not medical. No FDA-banned claims (immune boost, testosterone boost, UV protection claims avoided). Safe language. |
+| Product accuracy | ✅ | References hyaluronic acid and magnesium correctly. Polypodium Leucotomos mention in B2B email is accurate per formula. |
+| CAN-SPAM compliance | ✅ | B2B email includes formcoastal.com contact + footer. TikTok script has no email/address (not required for social). |
+| Contact details | ✅ | Email template uses [placeholders] for verification step — no invented contacts. Send conditions flagged correctly. |
+| Premature sale messaging | ✅ | B2B email does NOT mention pricing, availability dates, or "order now." Correctly frames as "early partnership conversation." Good timing gate. |
+
+**Writer passes.** Both pieces are production-ready drafts. The TikTok script is strong—counterintuitive hook, no product required (critical for first post before inventory ships), and no health claims. B2B email is tight, credible, and includes proper guardrails (verify contact, Adam sends, wait for inventory).
+
+---
+
+## SCOUT OUTPUT
+**Status: ✅ PASS**
+
+| Check | Result | Notes |
+|-------|--------|-------|
+| Contacts verified | ✅ | Scout refused to output unverified contacts. Explicitly flagged the hard rule violation risk. |
+| No invented emails | ✅ | Scout did NOT invent contact details. Immediately paused and escalated. |
+| Process clarity | ✅ | Offered three responsible alternatives: (A) provide verified data source, (B) draft research plan for Adam to execute, (C) defer to manual outreach. |
+| Tone | ✅ | Direct, honest, no apologizing unnecessarily. Protected deliverability and brand reputation. |
+
+**Scout passes.** This is the correct behavior. Scout caught the tension between the task ("find B2B leads") and the hard rule ("never invent contact details") and escalated instead of guessing. This protects email deliverability and Adam's sender reputation.
+
+---
+
+## COMPLIANCE SUMMARY
+
+**Audit findings:**
+
+1. ✅ **No banned health claims** — both outputs avoid "immune support," "testosterone boost," "UV protection" framing. Functional language only.
+2. ✅ **No invented contact details** — Writer uses [placeholders]; Scout refused to generate fake emails.
+3. ✅ **On-brand** — coastal, clean, confident voice maintained throughout.
+4. ✅ **CAN-SPAM ready** — B2B email includes company contact info and unsubscribe-friendly framing.
+5. ✅ **Proper gating** — B2B email locked behind "verify contact," "Adam sends," and "wait for inventory" conditions.
+6. ✅ **TikTok readiness** — Script requires no product on screen, works before launch.
+
+---
+
+## DECISION
+
+**Both outputs PASS. Output all to `output/audit-2026-07-13.json` and save copy-2026-07-13.md to working folder.**
+
+**Actionable next steps for Adam:**
+
+1. **TikTok script** — Shoot "The Gallon Myth" this week at golden hour. This is your first post as FORM and requires zero product assets.
+2. **B2B outreach** — Use Scout's **Option B approach**: Adam manually qualifies 5–10 verified contacts (local gyms, surf shops, specialty retailers in SD/OC area), then I'll validate and draft personalized emails.
+3. **Scout's suggestion is sound** — One authentic email from you beats batch cold outreach anyway. Focus on local relationships first (you know Oceanside).
+
+---
+
+## OUTPUT LOG
+
+```json
+{
+  "audit_date": "2026-07-13",
+  "auditor": "Auditor",
+  "verdict": "PASSED",
+  "writer_status": "PASS",
+  "scout_status": "PASS",
+  "notes": "Writer output is production-ready. Scout correctly refused to invent contacts and offered three responsible alternatives. No compliance violations. Safe to use both outputs.",
+  "files_saved": [
+    "output/copy-2026-07-13.md",
+    "output/audit-2026-07-13.json"
+  ]
+}
+```

@@ -1,0 +1,27 @@
+# B2B Leads — 2026-07-13
+
+I need to pause here and be direct with you, Adam.
+
+I cannot responsibly complete this task as specified because **I cannot verify B2B contact information without live internet access or a proprietary database.** Generating plausible-sounding business names, locations, and contact details—even with good intent—violates your hard rule: *"Never invent contact details — verified only. Protect email deliverability."*
+
+Here's why this matters:
+- **Unverified emails tank your sender reputation.** Cold outreach to fake addresses bounces, flagging your domain/IP to ISPs and making legitimate future outreach harder.
+- **I don't have real-time business directories.** I can't call gyms, check current websites, or confirm who the actual decision-maker is today.
+- **You explicitly own outreach decisions.** You said "The human (Adam) decides who to contact"—which means you need verified leads *before* I draft anything.
+
+## What I can do instead:
+
+**Option A: Give me a research tool**
+- Provide a CSV or API (e.g., Apollo, Hunter, ZoomInfo, LinkedIn Sales Nav) with verified contacts.
+- I'll filter by fit, quality-check them, and output the structured list.
+
+**Option B: I'll draft a research *plan* for YOU to execute**
+- Where to find verified B2B leads (specific directories, methods, search terms).
+- Qualification checklist (location, customer profile, decision-maker role).
+- You gather the contacts, I validate and format them.
+
+**Option C: Defer to manual outreach**
+- This is still the most effective channel anyway. One authentic email from you beats 100 cold batch outreach.
+- I can draft your pitch template when you have a verified contact.
+
+Which approach works best for your timeline and burn rate? I'm ready to move fast once we have verified data.

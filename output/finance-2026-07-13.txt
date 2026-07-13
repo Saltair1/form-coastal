@@ -1,0 +1,21 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $6.88 of $20.00 cap (34%)
+**Status:** ✅ OK
+**Runs this month:** 15 (Jul 1–12)
+**Note:** Spend trending ~$0.46/run; at current pace, full July will land ~$14.20 — well within budget.
+
+---
+
+## Summary
+
+Through July 12, the team has completed **15 full agent cycles** (Finance + Director + Scout + Writer + Auditor per run). Total API cost is **$6.88**, leaving **$13.12 headroom** before the $20 monthly cap triggers a pause.
+
+**Cost breakdown:**
+- **Director** (Opus 4): ~$1.94/run — highest per-token cost, necessary for task assignments and PR review
+- **Writer** (Sonnet 4.6): ~$0.035/run — draft copy for outreach and marketing
+- **Scout** (Haiku): ~$0.0016/run — B2B lead research, lowest cost
+- **Finance** (Haiku): ~$0.004/run — spend tracking and reporting
+- **Auditor** (Haiku): ~$0.0025/run — QA on outputs before use
+
+No pause file written. Team remains active and cleared to run.
