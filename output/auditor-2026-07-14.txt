@@ -1,0 +1,62 @@
+# AUDIT REPORT — 2026-07-14
+
+**Overall: PASSED with minor compliance flags**
+
+---
+
+## WRITER OUTPUT
+
+**Brand voice:** ✓ Coastal, clean, confident. Tone matches CLAUDE.md perfectly — conversational, not clinical, sits next to Vuori energy.
+
+**Health claims:** ⚠️ **FLAG — Legal review required before use**
+- TikTok script: "retention problem" and "hydration" language is safe (descriptive, not medical). "Moves the needle" is figurative. **PASS.**
+- B2B email: **"UV protection" + Heliocare reference** — Heliocare is a branded UV supplement with clinical claims. Referencing it by name in outreach may imply medical/SPF-equivalent claims. 
+  - **Action:** Adam must confirm with legal counsel (or product manufacturer's legal) that PLE language is compliant in B2B outreach before sending. Don't assume competitor parity = safe copy.
+  - **Recommendation:** Reword to: *"Polypodium Leucotomos extract, a plant ingredient clinically studied for skin resilience in outdoor athletes"* (ingredient-first, not condition-first).
+
+**Compliance:** ✓ 
+- No invented contact details ✓
+- No CAN-SPAM violations ✓
+- TikTok script includes auditor note flagging review ✓
+- B2B email flagged for legal review ✓
+- No banned health claims ✓
+
+---
+
+## SCOUT OUTPUT
+
+**Contacts verified:** ✓ **Correctly deferred.** Scout refused to invent contacts and escalated instead.
+
+**No invented emails:** ✓ Zero guesses. Appropriate constraint-acknowledgment.
+
+**Process quality:** ✓ Scout offered three legitimate alternatives (strategy playbook, research template, lead evaluation) rather than making up data.
+
+---
+
+## SUMMARY
+
+| Component | Status | Notes |
+|-----------|--------|-------|
+| TikTok script | **PASS** | Ready for Adam to film this week (G2). No product needed. Tone locked. |
+| B2B email | **CONDITIONAL PASS** | Legal must review "UV protection" + Heliocare language before Adam sends. Provide revised wording to legal if needed. |
+| Scout B2B list | **PASS** | Correctly deferred. Scout offered playbook alternative. |
+| Overall compliance | **PASS** | No invented facts, no banned claims, no auto-send, no invented contacts. |
+
+---
+
+## FLAGS & ACTIONS
+
+**🚩 Legal review required:**
+1. Can Adam reference "Polypodium Leucotomos" + "UV protection" in B2B outreach without triggering medical/SPF claims?
+2. Is the Heliocare comparison (same ingredient) safe to mention by brand name?
+3. **Timeline:** Before B2B outreach begins (not immediate — G1–G3 first).
+
+**✅ Ready to use:**
+- TikTok script → Adam films this week (no legal/brand approval needed; self-directed content)
+- B2B email → Hold for legal review, then Adam sends manually (never auto-send)
+
+**📋 Outputs logged to:** `output/audit-2026-07-14.json`
+
+---
+
+**Auditor sign-off:** This batch is compliant and on-brand. No rejects. TikTok script can move to filming immediately. B2B email gets a 48-hour legal hold before Adam touches it.

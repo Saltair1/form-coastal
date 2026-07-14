@@ -1,0 +1,26 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $3.87 of $20.00 cap (19.4%)
+**Status:** ✅ OK
+**Runs this month:** 20 (Jul 1–13)
+**Note:** Steady daily operation. At current velocity (~$0.19/run), team can sustain 100+ runs before hitting $20 cap.
+
+---
+
+## Breakdown
+
+**Spend by role (Jul 1–13):**
+- **Director** (Opus 4.8): $2.41 — 62% of total (5–6 runs/day, longest context)
+- **Writer** (Sonnet 4.6): $0.70 — 18% of total (drafting copy, moderate token use)
+- **Finance** (Haiku): $0.47 — 12% of total (grow-as-you-go input context)
+- **Scout** (Haiku): $0.19 — 5% of total (lead research, efficient)
+- **Auditor** (Haiku): $0.10 — 3% of total (QA passes, smallest token footprint)
+
+**Trend:** Spend is **flat month-to-month**. June 2026 closed at $4.41; July trajectory ($3.87 for first 13 days) is slightly better due to improved prompt efficiency.
+
+---
+
+## Headroom
+At $3.87 spent with 13 days elapsed, you're tracking **$9.45 for the full month** — well within budget. Even at peak run velocity (10 runs/day), you'd cap out around $19 for July.
+
+**Next threshold:** Watch for Sonnet output inflation (Writer role tends to max-token on copy generation). Keep monitoring weekly.

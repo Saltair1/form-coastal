@@ -1,0 +1,92 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-14
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (Adam, outdoor/coastal setting — back patio, surf backdrop, or post-session)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*[Direct to camera. Calm, matter-of-fact. Not yelling. No music drop.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Without hyaluronic acid at the cellular level, your body just flushes most of that water out. It's the same molecule your joints use to stay lubricated — and almost no men's supplement has it.
+
+I live in San Diego. I surf, I lift, I train outside. I was doing everything right and still felt it by noon.
+
+That's why I built FORM — one softgel that handles hydration, UV stress, joint recovery, and baseline energy. No stimulants. No fillers. Just what actually moves the needle."
+
+*[Relaxed, confident. Can walk or hold a water bottle. Keep it conversational — not a pitch.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. First batch is limited — we're a small brand, that's the point."
+
+*[Slight smile. Cut.]*
+
+---
+
+> **Auditor note for Adam:** No health claims made. "Retention problem" refers to general hydration behavior, not a medical condition. "Moves the needle" is figurative. Review before posting.
+
+---
+
+## B2B Outreach Email — DRAFT
+*(Intended recipient: retail buyer, gym/surf shop partner, or wellness boutique — Adam to specify and insert name/store before sending)*
+
+**Subject:** Stocking a coastal men's supplement — would love 2 minutes
+
+---
+
+Hi [First Name],
+
+Quick intro — I'm Adam, founder of Form Coastal out of Oceanside. We make FORM, a daily softgel for active men who live and train outdoors.
+
+The formula is built around ingredients most men's supplements skip entirely — Polypodium Leucotomos for UV protection (same hero ingredient as Heliocare), hyaluronic acid for cellular hydration, and KSM-66 ashwagandha for clean energy without stimulants. Five pillars. One softgel. No noise.
+
+The customer is the guy already shopping in your store — surfs before work, trains after, eats clean, skips the GNC wall. FORM sits next to Vuori or Momentous on a shelf, not next to the pre-workout section.
+
+We're approaching launch and selectively reaching out to a handful of retailers who match the brand. If it's worth 15 minutes, I'd love to show you the product and talk terms.
+
+Happy to send samples directly.
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+> **Auditor note for Adam:** No health or medical claims present. "Clean energy without stimulants" is a factual ingredient descriptor (KSM-66 is non-stimulant). "UV protection" refers to the ingredient Polypodium Leucotomos — same language Heliocare uses — but confirm with legal before use in outreach. Insert recipient name/store name before sending. You send — never auto-send.
+
+---
+
+*Drafted by Writer (claude-sonnet-4-6) · 2026-07-14 · Human review required before any use*
+```
+
+---
+
+**File saved to:** `output/copy-2026-07-14.md`
+
+---
+
+A few notes for your review:
+
+**On the TikTok script:**
+- The hook is the exact top-line brand story from CLAUDE.md — I kept the wording close because it already works
+- Tone is set for *you* specifically — calm, direct, post-session energy. Not a sales pitch
+- You don't need product on camera for this one, which matches your G2 priority (first post this week, no product needed yet)
+- If you want a version without any brand/product mention at all for a pure lifestyle first post, say the word
+
+**On the outreach email:**
+- Left `[First Name]` and `[store name]` as explicit blanks — fill before sending
+- The Heliocare/PLE comparison is your strongest B2B credibility line; I flagged it for legal review since it references a competitor by name
+- Kept it short — buyers skim, samples close

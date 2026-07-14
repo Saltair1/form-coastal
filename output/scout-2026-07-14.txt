@@ -1,0 +1,25 @@
+# B2B Lead Scout ��� 2026-07-14
+
+I need to be direct: I cannot responsibly generate this list without real-time web access.
+
+**The constraint:** You've asked me to find 5 verified B2B contacts (emails, phone numbers, decision-makers) for gyms, surf shops, outdoor retailers, and sports medicine practices. My training data cuts off in April 2024—nearly 2.5 years old by your reference date (July 2026). 
+
+**What's changed since April 2024:**
+- Gym ownership, management, and procurement contacts turn over frequently
+- Surf shop operators and outdoor retail buyers shift seasonally
+- Phone numbers, email formats, and contact routing at these businesses change regularly
+- "Verified contacts only; never invent or guess" is non-negotiable per CLAUDE.md
+
+**What I can do instead:**
+
+1. **Draft a B2B prospecting strategy** — target verticals, qualification criteria, outreach angle for Adam to execute
+2. **Build a research template** — step-by-step how to find + verify these contacts yourself (Google Maps, LinkedIn, direct calls, industry directories)
+3. **Write cold email copy** — once Adam has verified contacts, I'll draft the pitch
+4. **Evaluate leads Adam finds** — if you bring me a list with contact details, I'll QA for fit and help refine messaging
+
+**Why this matters for FORM:**
+- Direct B2B wholesale (gyms, retailers, clinics) is a post-launch channel, not immediate priority
+- G1–G3 are: EIN/Mercury bank, TikTok content, and 25 Amazon reviews first
+- Better to have 3 *verified* high-confidence leads Adam can call today than 5 guesses that bounce
+
+**Recommend:** Should I draft the prospecting playbook + email template instead? Or would Adam prefer to run a quick LinkedIn/Google Maps search and hand me verified contacts to evaluate?
