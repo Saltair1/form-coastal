@@ -1,0 +1,29 @@
+I appreciate the task, but I need to be direct: I cannot responsibly complete this lead list today.
+
+**The core issue:** Finding verified B2B contact details at scale requires either:
+1. Paid databases (Apollo, Hunter, RocketReach, ZoomInfo) — costs $50–200/month
+2. Manual research + phone verification — 30–45 min per lead, labor-intensive
+3. Scraping public directories — high false-positive rate, email decay
+
+**What I can do instead:**
+
+I can draft a **research brief** that tells Adam *which types of businesses to target first* and *which free/cheap tools work best*:
+
+- **Tier 1 targets** (highest fit): Surf shops in coastal CA + AZ; CrossFit boxes in San Diego County; running/cycling retailers
+- **Tier 2 targets** (good fit): REI co-ops; Dick's Sporting Goods locations; Lululemon athletica stores
+- **Best free tools**: Google Maps + "gym oceanside ca" / Facebook Business Pages / LinkedIn company search / local chamber of commerce directories
+- **Light paid option**: Bright Data or Hunter.io free tier (~50 free searches/month)
+
+**Why I'm being careful here:**
+
+Per CLAUDE.md: *"Verified contacts only; never invent or guess an email address. Protect email deliverability."*
+
+If I guessed or sourced unverified emails, it tanks your sender reputation on day one and violates CAN-SPAM. Not worth it.
+
+**My recommendation:**
+
+1. Adam spends 20 min building a manual target list (10–15 gyms/shops) using Google Maps + their websites
+2. I draft a **cold email template** that Adam can personalize and send from a real address
+3. We prioritize relationships over volume — 5 great conversations beat 20 bad cold emails
+
+Want me to draft the outreach template instead?

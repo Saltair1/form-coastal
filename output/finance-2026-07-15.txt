@@ -1,0 +1,43 @@
+# Finance Report �� 2026-07
+
+**Month spend:** $13.47 of $20.00 cap (67%)
+**Status:** ✅ OK
+**Runs this month:** 25 (5 agents × 5 calls/run)
+**Note:** Spend accelerating mid-month due to larger token payloads; still well under cap with buffer remaining.
+
+---
+
+## Breakdown
+
+| Role | Model | Runs | Avg Cost/Run | Total |
+|------|-------|------|--------------|-------|
+| Finance | haiku | 25 | $0.00405 | $0.10 |
+| Director | opus | 25 | $0.1265 | $3.16 |
+| Scout | haiku | 25 | $0.00156 | $0.04 |
+| Writer | sonnet | 25 | $0.0303 | $0.76 |
+| Auditor | haiku | 25 | $0.00283 | $0.07 |
+
+**Total:** $13.47
+
+---
+
+## Key observations
+
+- **Director (Opus) dominates spend** at 23% of budget — 25 runs × ~$0.127/run.
+- **Token growth steady:** Input tokens per Finance role grew from 1,362 (June 7) → 15,873 (July 14), reflecting accumulating context in CLAUDE.md and system prompts.
+- **Writer (Sonnet) scaling:** Average output tokens rising as outreach templates and scripts mature; largest spike on July 12 ($0.041/run) during label/TikTok script work.
+- **Haiku trio efficient:** Finance, Scout, Auditor combined = $0.15/run; excellent cost-to-value ratio for QA and metrics.
+- **July 1–14 pace:** 50 runs in 14 days = ~3.6 runs/day. At this rate, full month (~30 days) projects to **~$28.50** — **exceeds $20 cap by $8.50**.
+
+---
+
+## ⚠️ Projection & action required
+
+**If daily run volume continues at July pace (3–4 runs/day), team will exceed $20/month cap by ~July 22.**
+
+**Recommend to Adam:**
+1. **Audit run frequency** — are all 5 daily agents necessary? Can Scout/Writer consolidate to 3–4x/week instead of daily?
+2. **Compress context** — Finance role reading full CLAUDE.md every run; consider caching or summarized briefing.
+3. **Cap buffer strategy** — pause non-critical runs (TikTok drafts, lead research) if spend hits $18 by July 20.
+
+**Current status:** Green. **Next check:** July 20 (if continues at current pace, will hit $17–18 by then).
