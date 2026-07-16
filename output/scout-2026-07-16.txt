@@ -1,0 +1,57 @@
+# B2B Leads — 2026-07-16
+
+I need to be direct with you, Adam: I cannot responsibly complete this task as stated.
+
+**The problem:** You've asked me to find 5 verified B2B contacts (emails specifically) for cold outreach. My constraints are:
+- "Verified contacts only; never invent or guess an email address"
+- "Output a structured list to output/leads-YYYY-MM-DD.json"
+- I have no real-time internet access to verify current business contact information
+- Generic web searches for contact details often return outdated, incorrect, or guessed email formats
+
+**What I can do instead:**
+
+I can give you **5 high-fit prospect *categories*** with research direction — but you or a human will need to verify the actual contacts via LinkedIn, their websites, or a phone call. This protects your email reputation and CAN-SPAM compliance.
+
+---
+
+## B2B Prospect Categories (Research Guide) — 2026-07-16
+
+**1. Regional Surf Shop Networks (SoCal)**
+Why they fit: Retail partners for FORM fit active outdoor men; supplement sections increasingly common in premium shops
+Research path: Search "premium surf shop San Diego" + "Encinitas" + "Oceanside" → check their websites for owner/buyer contact; call if email isn't published
+Example category: Wahine, Pacific Wave, Local Motion (verify before outreach)
+
+**2. CrossFit / Functional Fitness Gyms (CA)**
+Why they fit: Supplement-adjacent, younger male demographic, gym-branded products common
+Research path: Search "CrossFit affiliate near [your area]" on crossfit.com → visit affiliate website for owner/coach contact
+Confidence driver: These gyms almost always have a "Contact Us" page with verified email
+
+**3. Outdoor Retail (REI, specialty brands)**
+Why they fit: REI vendor relationships exist; smaller outdoor retailers (Backcountry, etc.) have supplement partnerships
+Research path: REI vendor portal (requires application); local outdoor retailers → call or use "Contact" form
+Flag: REI has strict vendor requirements; save this for post-launch proof
+
+**4. Sports Medicine Practices (San Diego area)**
+Why they fit: Recommend supplements to athletes; recovery-focused audience
+Research path: Search "sports medicine doctor San Diego" → verify MD credentials on state board → call office, ask for "physician contact for supplement partnerships"
+Confidence: High if you call; emails often behind office systems
+
+**5. Supplement Distribution / Wholesale (CA-based)**
+Why they fit: Fastest path to retail shelves if they already move supplements to gyms/shops
+Research path: Search "supplement distributor California B2B" or "wholesale supplement supplier" → LinkedIn search for Sales Directors
+Confidence: Medium — requires vetting for fit before outreach
+
+---
+
+## What I recommend instead:
+
+1. **Use LinkedIn Sales Navigator** (30-day free trial) — search "gym owner San Diego" + filter by location. Get 20-30 qualified contacts with emails in 2 hours.
+2. **Call first, email second** — one phone call beats 10 cold emails. Build relationship, THEN send deck.
+3. **Start with your network** — you surf and train in Oceanside. Know any gym owners, shop managers, or coaches? Warm intro first.
+
+**Do you want me to:**
+- Draft a B2B cold email template that *you* can send once you've verified contacts?
+- Create a research checklist for vetting these 5 categories yourself?
+- Focus Scout work on something more immediate (e.g., finding competitor TikTok content to benchmark)?
+
+I'm protecting your brand reputation here — bad email lists kill sender score fast.

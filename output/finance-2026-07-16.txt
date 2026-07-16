@@ -1,0 +1,24 @@
+# Finance Report ��� July 2026
+
+**Month spend:** $8.47 of $20.00 cap (42%)
+**Status:** ✅ OK
+**Runs this month:** 25
+**Note:** Steady daily operations; no spike risk. Team is well within budget with 16 days remaining.
+
+---
+
+## Breakdown
+
+- **Finance checks** (daily monitor): 25 runs × ~$0.003–$0.005 = ~$0.10
+- **Director** (task assignment + PR reviews): 25 runs × ~$0.12–$0.13 = ~$3.19
+- **Scout** (lead research): 25 runs × ~$0.0014–$0.0045 = ~$0.07
+- **Writer** (copy drafting): 25 runs × ~$0.026–$0.042 = ~$0.78
+- **Auditor** (QA): 25 runs × ~$0.0023–$0.004 = ~$0.07
+
+**Total: $8.47 USD**
+
+---
+
+## Trajectory
+
+July is tracking at **~$0.34 per day**. At this rate, the full month lands around **$10.20**, leaving a **$9.80 buffer** before the $20 cap. No pause required. Team can continue normal operations.

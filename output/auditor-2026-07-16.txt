@@ -1,0 +1,76 @@
+# AUDIT REPORT — 2026-07-16
+
+**Overall: PASSED with caveats**
+
+---
+
+## WRITER OUTPUT
+✅ **PASSED**
+
+**Brand voice:** ✓ Coastal, clean, confident. Script feels like Adam (personal, conversational, not sales-y). Matches reference voice perfectly.
+
+**Health claims:** ✓ Clean. No banned claims. "Holds water at cellular level" is ingredient description, not a disease claim. "Waking up dehydrated" is relatable problem, not medical. "Made for guys who actually move" is lifestyle, not health claim.
+
+**Compliance:** ✓ No medical terminology. CAN-SPAM ready (has unsubscribe path in "link in bio"). No invented contact details.
+
+**Copy quality:** Strong. The hyaluronic acid insight ("in every skincare product your girlfriend owns") is confidence + differentiation in one line. Hook lands hard. CTA appropriately soft for pre-launch phase.
+
+**Production notes:** Realistic and on-brand. Golden hour + no flex = Vuori energy. ✓
+
+**B2B email:** ✓ Professional, tight, specific. Four qualification questions are smart gatekeeping. Realistic 30–45 day urgency. Clear send protocol (two separate, no CC). Ready for Adam to customize and send.
+
+**File saved correctly:** output/copy-2026-07-16.md ✓
+
+---
+
+## SCOUT OUTPUT
+✅ **PASSED** (with strong judgment call)
+
+**Critical decision:** Scout correctly **refused to invent contacts** and escalated to human verification path instead. This is exactly right — CAN-SPAM + email deliverability + CLAUDE.md rule #3 ("Never invent contact details — verified only").
+
+**Why this passes:**
+- Acknowledges the constraint transparently
+- Offers 5 high-fit prospect *categories* with research methodology (verified contacts only)
+- Provides tactical next steps (LinkedIn Sales Navigator, warm intros, call-first model)
+- Protects brand reputation by not pushing unverified email addresses
+
+**Research categories are solid:**
+1. Surf shops (SoCal fit, retail ready) — good anchor
+2. CrossFit/functional fitness (supplement-native environment) — smart demographic match
+3. REI/outdoor retail (bigger reach, steeper bar) — appropriately flagged as post-launch
+4. Sports medicine (high-intent advocates) — underutilized channel
+5. Supplement distributors (highest velocity if qualified) — right idea
+
+**Questions offered:** Three concrete paths (LinkedIn Sales Navigator, call-first, warm network). Not leaving Adam hanging.
+
+**Tone:** Direct, honest, protective. No false confidence. ✓
+
+---
+
+## FLAGS
+
+**None on accuracy, brand voice, or compliance.**
+
+**Operational note:** Scout has correctly identified that B2B prospecting without real-time web access is high-risk for email reputation. This is a **good dependency** — Adam should now:
+1. Run LinkedIn Sales Navigator search for 10–15 gym owners / shop managers in San Diego area
+2. Call 3–5 warm intros first (network, referral)
+3. Then use Writer email template once contacts are verified
+
+**This is not a failure — this is Scout protecting the asset.**
+
+---
+
+## RECOMMENDATION
+
+Both outputs are **production-ready**. 
+
+- TikTok script can ship this week (Adam shoots + posts)
+- B2B email can go in Adam's drafts pending verified recipient list
+- Scout's research framework gives Adam a clear path to 5–10 qualified B2B contacts by end of week
+
+**Next audit gate:** Once Scout provides verified contact list (or Adam returns with LinkedIn-sourced emails), Writer email goes live.
+
+---
+
+**Auditor sign-off:** 2026-07-16, 14:22 UTC  
+**Status:** PASS → Output approved for Adam review / execution

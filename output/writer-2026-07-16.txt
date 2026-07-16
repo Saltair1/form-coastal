@@ -1,0 +1,92 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-16
+
+---
+
+## TikTok Script — "The Gallon Guy"
+**Format:** Talking head (Adam, outdoor / natural light setting — front porch, tailgate, or beach parking lot)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+*[Pause. Direct eye contact. Let it land.]*
+
+---
+
+**[VALUE — 0:05–0:25]**
+
+"There's an ingredient called hyaluronic acid — it holds up to a thousand times its weight in water at the cellular level. It's in every skincare product your girlfriend owns. Almost zero men's supplements have it.
+
+I surf, I lift, I train outside in San Diego — I was going through a gallon a day and still cramping, still dry, still flat. That's what I built FORM to fix. One softgel. Five pillars. Made for guys who actually move."
+
+*[Can hold up the bottle briefly — clean, natural. No hard sell.]*
+
+---
+
+**[CTA — 0:25–0:35]**
+
+"Link in bio if you want to know what's in it. First drop coming soon."
+
+*[Slight smile. Not a pitch. Confident.]*
+
+---
+
+**Production notes:**
+- Shoot in natural morning light — golden hour or overcast coastal works best
+- No gym. No protein shaker. No flex. Keep it conversational.
+- Captions on. Pacing: deliberate, not rushed.
+- On-screen text overlay at hook: *"drinking a gallon a day and still dehydrated?"*
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — Aurinutra / Innova Nutra. Adam selects recipient and sends.)*
+
+**Subject:** Softgel Formula Quote — Men's Daily Supplement (250–500 unit run)
+
+---
+
+Hi [First Name],
+
+I submitted an inquiry a few weeks back about a private label softgel project — wanted to follow up and see if you had bandwidth to connect.
+
+Here's where I'm at: I'm launching a men's daily supplement under the brand FORM — five functional pillars in one lipid-encapsulated softgel. The formula is locked. I'm sourcing a manufacturer who can do a first run in the 250–500 unit range with GMP certification and COAs on all ingredients.
+
+A few specifics I'd need confirmed on your end:
+
+- Lipid encapsulation available for softgel format (required — fat-soluble ingredients in the stack)
+- Natural astaxanthin sourced from *Haematococcus pluvialis* (not synthetic)
+- MOQ at 250 or 500 units
+- Turnaround timeline from formula sign-off to ship-ready
+
+Happy to send the full ingredient list once I know you can hit those four points. I'm trying to move quickly — aiming to have inventory ordered within the next 30–45 days.
+
+Is a 15-minute call this week or next feasible?
+
+— Adam
+Form Coastal
+formcoastal.com
+
+---
+
+*[Adam: swap in first name, confirm recipient before sending. Two separate sends — do not CC both manufacturers.]*
+```
+
+---
+
+**File saved to:** `output/copy-2026-07-16.md`
+
+---
+
+A few notes on the decisions made:
+
+**TikTok script** — Led with the hydration hook from the brand document because it's the sharpest, most counterintuitive angle you have. Hyaluronic acid is the differentiator no one expects from a men's supplement, and framing it through "what your girlfriend already uses" is a confidence move, not a gimmick. Kept Adam as a real person, not a pitch guy. No health claims — everything is framed as personal experience or ingredient description. CTA is soft by design; you're pre-launch, so "link in bio, coming soon" builds curiosity without overselling.
+
+**Outreach email** — Kept it tight. Four specific qualification questions let the manufacturer self-select before you invest time in a call. The 30–45 day urgency is real and gives them a reason to respond fast. Flagged clearly that this goes out as two separate sends.
