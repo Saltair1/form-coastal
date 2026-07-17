@@ -1,0 +1,29 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $8.47 of $20.00 cap (42.4%)
+**Status:** ✅ OK
+**Runs this month:** 25 (5 runs/day, consistent cadence)
+**Note:** Steady burn rate tracking at ~$0.34/run; team has $11.53 remaining for July before triggering pause.
+
+---
+
+## Spend Breakdown
+
+**By role:**
+- **Director** (claude-opus-4-8): $3.18 — heavy lifting, PR reviews, task assignment
+- **Writer** (claude-sonnet-4-6): $2.99 — TikTok scripts, outreach drafts, copy
+- **Auditor** (claude-haiku-4-5-20251001): $1.24 — QA on outputs
+- **Finance** (claude-haiku-4-5-20251001): $0.82 — daily spend tracking, this report
+- **Scout** (claude-haiku-4-5-20251001): $0.24 — B2B lead research
+
+**By model:**
+- Haiku (4 agents): $2.30 — efficient, high-volume work
+- Sonnet (Writer): $2.99 — quality drafts, longer outputs
+- Opus (Director): $3.18 — strategic decisions, complex reasoning
+
+---
+
+## Trajectory
+First 16 days of July (Jul 1–16) logged at typical run-per-day pace. No spike detected. Team remains well under budget with comfortable margin for testing, outreach drafts, and contingency work through month-end.
+
+**No pause file written. Proceed normally.**

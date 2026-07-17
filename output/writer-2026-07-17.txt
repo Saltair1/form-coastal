@@ -1,0 +1,91 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-17
+
+---
+
+## TikTok Script — "Drinking a Gallon"
+**Format:** Talking head (outdoor / natural light, ideally post-surf or pre-session)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem. That's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your body can't hold onto water without the right support. Hyaluronic acid holds up to a thousand times its weight in water at the cellular level. That's the difference between drinking a gallon and actually keeping it.
+
+I built FORM around this — five things active guys actually need. UV protection, cellular hydration, joint recovery, clean energy, immune support. One softgel. No stimulants. No fluff.
+
+If you're training hard and living outside, this was made for you."
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. First drop coming soon — follow so you don't miss it."
+
+---
+
+*Production notes for Adam:*
+- *Film outside, morning light if possible — golden hour or post-surf works perfectly*
+- *No need for product on camera yet (pre-launch)*
+- *Deliver the hook directly to camera, calm and confident — no hyping*
+- *Pause naturally between the hook and the value section*
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up: Aurinutra)*
+
+**Subject:** Softgel Formula Quote — Following Up (Salt Air Industries)
+
+Hi team,
+
+I sent over an inquiry a few weeks back about a custom softgel formula for our men's supplement brand — wanted to follow up in case it landed in the wrong inbox.
+
+We're Salt Air Industries LLC, launching a product called FORM — a 5-pillar daily softgel for active men. The formula runs 9–10 core ingredients including Polypodium Leucotomos extract, natural astaxanthin (Haematococcus pluvialis), hyaluronic acid, KSM-66 ashwagandha, and a few others. Lipid encapsulation is a requirement given the fat-soluble ingredients.
+
+A few things I'd love to nail down on a call or over email:
+
+- MOQ at 250 and 500 unit runs
+- Whether lipid encapsulation is available in your softgel format
+- Natural astaxanthin sourcing (non-synthetic only)
+- Collagen peptide dosability in softgel (or boswellia as the fallback)
+- GMP certification and COA availability
+
+We're a lean early-stage brand but moving fast — first inventory order is imminent. Happy to share the full ingredient list and target doses as soon as we're in contact.
+
+What's the best way to get a formal quote started?
+
+Thanks,
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com
+apsalter11@gmail.com
+
+---
+
+*Notes for Adam:*
+- *Send from your email directly — no mail client automation*
+- *BCC yourself so you have a send-record*
+- *If Aurinutra has a dedicated rep from your first contact, address them by name and cut the "Hi team" opener*
+- *Innova Nutra version of this email is identical in structure — swap company name and adjust greeting*
+
+---
+
+*— Draft prepared by Form Coastal Copywriter, 2026-07-17. Adam reviews and sends.*
+```
+
+---
+
+**A few notes on the drafts:**
+
+**TikTok script** — Written for the pre-launch phase where no product exists on camera yet. The hook leads with the insight, not a sell. The hyaluronic acid line is the sharpest differentiator you have right now, and framing it as a *retention* problem (not a hydration problem) immediately positions FORM as something most people haven't heard of. Talking head keeps it simple for a first post on a renamed account.
+
+**Outreach email** — Kept it tight and founder-voiced. Specific enough to show you know what you want, open enough to get them on a call. The ingredient specificity (KSM-66, Haematococcus pluvialis, lipid encapsulation) signals you're not a tire-kicker — manufacturers respond faster to buyers who know their formula. Same template works for Innova Nutra with a name swap.

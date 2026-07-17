@@ -1,0 +1,59 @@
+# AUDIT REPORT �� 2026-07-17
+
+**Overall: PASSED (with conditions)**
+
+---
+
+## WRITER OUTPUT
+
+| Check | Status | Notes |
+|-------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, confident, non-clinical. "Retention problem" hook is sharp and on-brand. Talking head framing is clean. No bro energy. Sits next to Vuori. |
+| **Health claims** | ✓ PASS | No banned health claims present. "Holds up to a thousand times its weight in water" is factual (standard HA spec). "UV protection," "joint recovery," "clean energy" are ingredient-supportive, not disease claims. No "cures," "treats," or "prevents" language. |
+| **CAN-SPAM compliance** | ✓ PASS | Email includes: sender ID (Adam Salter), company name (Salt Air Industries LLC / Form Coastal), verified contact (apsalter11@gmail.com), clear CTA, BCC instruction for record-keeping. |
+| **Verified contacts** | ✓ PASS | Aurinutra and Innova Nutra are real manufacturers already in CLAUDE.md with documented contact history (June 2026 outreach). No invented emails. |
+| **Production feasibility** | ✓ PASS | TikTok notes are practical and Adam-executable (no product required, matches G2 priority). Email template is founder-voiced and manufacturer-appropriate. |
+
+**Writer output disposition:** ✅ **APPROVED FOR USE.** Both pieces are accurate, on-brand, and ready for Adam to execute.
+
+---
+
+## SCOUT OUTPUT
+
+| Check | Status | Notes |
+|-------|--------|-------|
+| **Contacts verified** | ⚠️ CONDITIONAL PASS | Scout correctly refused to invent contacts. This is the right call per hard rule #3 ("Never invent contact details"). However, no leads were delivered. |
+| **No invented emails** | ✓ PASS | Zero invented emails. Scout prioritized integrity over task completion. |
+| **Compliance** | ✓ PASS | Scout's refusal protects email deliverability and brand credibility. Better to skip than poison the list. |
+| **Actionability** | ⚠️ CONDITIONAL FAIL | The output provides *frameworks* instead of *executable leads*. This doesn't meet the immediate need (verified contacts for B2B outreach today). However, it's honest and useful for Adam to do the work himself. |
+
+**Scout output disposition:** ⚠️ **CONDITIONAL PASS — OUTPUT NOT READY FOR DIGEST.** Scout did the right thing by refusing to invent data, but the output should be reframed for Adam as a **research task assignment** rather than a completed lead list. Scout should provide:
+1. A bulleted list of 3–5 **specific tools** Adam can use TODAY (Apollo.io, Hunter.io, LinkedIn Navigator with step-by-step)
+2. A **CSV template** ready to populate
+3. A **due date** (suggest EOD 2026-07-18)
+
+This keeps Scout honest while moving the work forward.
+
+---
+
+## FLAGS
+
+1. **Scout scope creep:** Scout attempted a task (find verified B2B contacts) that requires real-time data access Scout doesn't have. The refusal was correct, but the **assignment itself needs clarification** in roles.json. Scout's job is to draft qualified lead *research frameworks* and templates, not source raw contacts without verification tools.
+
+2. **No output file path:** Neither Writer nor Scout saved to `output/audit-2026-07-17.json`. **Director should ensure both outputs are logged** with pass/fail stamps before digest goes live.
+
+3. **TikTok timing:** Writer's script is ready, but it depends on **G2 milestone** (first TikTok post this week). Confirm Adam has time to film before EOW.
+
+---
+
+## SUMMARY FOR DIGEST
+
+✅ **Writer: APPROVED**  
+⚠️ **Scout: REFRAME & RESUBMIT** (provide research task + tools instead of invented leads)
+
+**Recommendation:** Merge Writer output to digest today. Ask Scout to deliver a revised B2B research checklist + tool guide by EOD 2026-07-18, then Adam sources verified contacts using provided tools.
+
+---
+
+**Audit completed:** 2026-07-17 | **Auditor:** Anthropic Claude (Haiku)  
+**Output logged to:** `output/audit-2026-07-17.json`

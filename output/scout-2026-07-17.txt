@@ -1,0 +1,26 @@
+# B2B Leads — 2026-07-17
+
+I need to be direct with you, Adam: I can't complete this task as specified today.
+
+**The constraint:** You've asked me to find 5 verified B2B contacts with real email addresses. My training data cuts off in April 2024, and I have no real-time ability to:
+- Search current business directories
+- Verify which gyms, surf shops, and retailers still exist in July 2026
+- Confirm active email addresses without inventing them
+- Check if contact info has changed
+
+**What I *can* do instead:**
+
+1. **Give you a research framework** — I can outline exactly which types of businesses to target and how to vet them (SIC codes, geography, decision-maker titles).
+
+2. **Draft outreach templates** — Once *you* find the verified contacts using tools like Apollo.io, Hunter.io, or LinkedIn Sales Navigator, I can write high-converting intro emails for you to send.
+
+3. **Suggest lead sources** — I can point you to where verified B2B contact lists live:
+   - **Local angle:** San Diego County business directory + Google Maps for gyms/surf shops within 20mi of Oceanside
+   - **National angle:** SurferToday gym/shop directory, REI co-op member retailers, CrossFit affiliates (outdoor-adjacent)
+   - **Tools:** Apollo.io free tier, Hunter.io free searches, LinkedIn Sales Navigator ($60/mo), Zoominfo free trial
+
+4. **Build a tracking sheet** �� Once you gather leads, I can help you organize them in a CSV to avoid duplicates and track outreach.
+
+**My rule:** I never invent or guess contact details. If I did, it would tank your deliverability and waste your credibility on the first cold email. That's not worth it.
+
+**Next move:** Want me to build you a lead research checklist + outreach templates instead? That way you own the verified data, and I help you convert it.
