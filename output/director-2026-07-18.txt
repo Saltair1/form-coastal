@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, direct contact details (business email + phone) for Aurinutra and Innova Nutra to confirm we have live channels for the awaiting quotes — and surface 1-2 additional low-MOQ GMP softgel manufacturers with verified contacts as backup, in case the June outreach goes cold. Verified only; no invented details.
+
+**Writer:** Draft a polite follow-up email to Aurinutra (info@aurinutra.com) and Innova Nutra chasing the June quote requests, restating our key manufacturer questions (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel). Draft only — Adam sends. Do NOT auto-send.
+
+**Finance:** Log month-to-date API spend per run and confirm we're under the $20/month cap. Flag immediately if we approach it. Also draft a quick reference cost sheet for the pending G1 spend items (Amazon Seller $39/mo, Shopify $39/mo, startup $2,500–4,500) so Adam has numbers ready when quotes land — no accounts opened.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts against CLAUDE.md — confirm no health/medical claims, on-brand voice, CAN-SPAM compliant, no invented contact info, and that all formula questions match the v5 Master Brand Document (highest version). Confirm nothing is queued to auto-send.
+
+**Director's note:** Today's top priority is G1 — unblocking the manufacturer quotes (Aurinutra + Innova Nutra) since those quotes gate formula lock, COGS validation, label design, and the first inventory order that everything downstream depends on.

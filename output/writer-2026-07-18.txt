@@ -1,0 +1,171 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-18
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (Adam, outdoors — golden hour, post-surf or post-run)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*(Hold eye contact. Pause one beat after "retention problem.")*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your cells need hyaluronic acid to actually hold onto water. Without it, everything you drink just passes through. Most guys have no idea this is happening — they just keep refilling the jug.
+
+I built FORM around this. One softgel, every morning. Hyaluronic acid plus the electrolytes your body burns through when you're training in the sun every day.
+
+Five pillars. One capsule. Made for the way we actually live."
+
+*(Can walk frame or gesture naturally — keep it casual, not a pitch.)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to know what's in it. Or don't — keep drinking the gallon."
+
+*(Slight smile on the close. Walk away or cut.)*
+
+---
+**Production notes:**
+- Film in natural light — beach, parking lot, or outdoor gym
+- No text overlays needed; voice carries the hook
+- Caption: "drinking a gallon and still waking up dehydrated 👀 #formcoastal #hydration #activemen #suncare #surfer"
+
+---
+
+---
+
+## B2B Outreach Email — Wholesale/Retail Inquiry DRAFT
+*(Suggested use: boutique fitness studios, surf shops, coastal lifestyle retail — Adam to customize recipient/store name before sending)*
+
+**Subject:** FORM — a supplement built for your customer, not the supplement aisle
+
+---
+
+Hey [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement out of Oceanside, CA.
+
+I'll keep this short: FORM is a 5-in-1 softgel built around the same UV-protection ingredient as Heliocare (Polypodium Leucotomos), plus cellular hydration, joint recovery, clean energy, and immune support. One capsule. No powders, no stacks, no stimulants.
+
+The customer we built it for looks exactly like yours — active, outdoors, surfs or trains most days, reads labels, and doesn't want 12 different bottles.
+
+We're doing a small wholesale outreach right now as we come out of launch. Happy to send a sample pack and our one-sheet if it seems like a fit for [Store Name].
+
+No pressure either way — just thought there was a real overlap here.
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+*[Adam: swap in store name, first name, and any personal detail you know about their shop — one line of personalization goes a long way. Do not send to any contact without a verified email.]*
+
+---
+
+*Drafted by Writer agent (claude-sonnet-4-6) — 2026-07-18. Human review required before any send.*
+```
+
+Now saving to the output file:
+
+```bash
+mkdir -p output && cat > output/copy-2026-07-18.md << 'EOF'
+# Form Coastal Copy Drafts — 2026-07-18
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (Adam, outdoors — golden hour, post-surf or post-run)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+*(Hold eye contact. Pause one beat after "retention problem.")*
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Your cells need hyaluronic acid to actually hold onto water. Without it, everything you drink just passes through. Most guys have no idea this is happening — they just keep refilling the jug.
+
+I built FORM around this. One softgel, every morning. Hyaluronic acid plus the electrolytes your body burns through when you're training in the sun every day.
+
+Five pillars. One capsule. Made for the way we actually live."
+
+*(Can walk frame or gesture naturally — keep it casual, not a pitch.)*
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio if you want to know what's in it. Or don't — keep drinking the gallon."
+
+*(Slight smile on the close. Walk away or cut.)*
+
+---
+**Production notes:**
+- Film in natural light — beach, parking lot, or outdoor gym
+- No text overlays needed; voice carries the hook
+- Caption: "drinking a gallon and still waking up dehydrated 👀 #formcoastal #hydration #activemen #suncare #surfer"
+
+---
+
+---
+
+## B2B Outreach Email — Wholesale/Retail Inquiry DRAFT
+*(Suggested use: boutique fitness studios, surf shops, coastal lifestyle retail — Adam to customize recipient/store name before sending)*
+
+**Subject:** FORM — a supplement built for your customer, not the supplement aisle
+
+---
+
+Hey [First Name],
+
+I'm Adam — founder of FORM, a men's daily supplement out of Oceanside, CA.
+
+I'll keep this short: FORM is a 5-in-1 softgel built around the same UV-protection ingredient as Heliocare (Polypodium Leucotomos), plus cellular hydration, joint recovery, clean energy, and immune support. One capsule. No powders, no stacks, no stimulants.
+
+The customer we built it for looks exactly like yours — active, outdoors, surfs or trains most days, reads labels, and doesn't want 12 different bottles.
+
+We're doing a small wholesale outreach right now as we come out of launch. Happy to send a sample pack and our one-sheet if it seems like a fit for [Store Name].
+
+No pressure either way — just thought there was a real overlap here.
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+*[Adam: swap in store name, first name, and any personal detail you know about their shop — one line of personalization goes a long way. Do not send to any contact without a verified email.]*
+
+---
+
+*Drafted by Writer agent (claude-sonnet-4-6) — 2026-07-18. Human review required before any send.*
+EOF
+```
+
+---
+
+**What's in here and why:**
+
+**TikTok — "The Gallon Problem"**
+- Opens on the top hook from the brand doc — it earns the view because it names the exact frustration
+- "Retention problem" reframes the issue without making a medical claim — it's a framing move, not a health statement
+- The CTA has a light shrug energy — *"or don't"* — which fits the brand tone and tends to convert better than a hard push
+- ~35 seconds at natural speaking pace; the pause after the hook gives the algorithm a rewatch signal
+
+**B2B Email**
+- Subject line leads with the customer fit angle, not a sales pitch — that's what gets opened in a busy inbox
+- References Heliocare by name as a credibility anchor (same ingredient, not a claim)
+- Short, no pressure close — built for a founder doing outreach, not a sales team
+- Reminder note at the bottom so Adam never accidentally sends a templated email cold

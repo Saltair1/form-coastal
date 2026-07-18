@@ -1,0 +1,21 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $6.38 of $20.00 cap (31.9%)  
+**Status:** ✅ OK  
+**Runs this month:** 20 (July 1–18)  
+**Note:** Spend is well under cap with steady daily operations; trajectory is safe through end of month.
+
+---
+
+## Breakdown
+
+- **Finance role** (cost tracking): $0.09
+- **Director role** (task assignment, PR review): $2.52
+- **Scout role** (lead research): $0.34
+- **Writer role** (copy drafting): $0.57
+- **Auditor role** (QA): $0.09
+
+**Average cost per daily run:** ~$0.32  
+**Remaining budget for July:** $13.62
+
+All agents are operating efficiently within token budgets. No pause file needed.

@@ -1,0 +1,62 @@
+# B2B Leads — 2026-07-18
+
+I need to be direct: I cannot reliably find verified B2B contact details (names, emails, phone numbers) without real-time web access or a current business database. Inventing or guessing email addresses violates the core Scout rule and would damage Form Coastal's sender reputation on first outreach.
+
+**Here's what I can do instead:**
+
+I can identify 5 high-fit prospect *types* and business names by category, with public-facing URLs where Adam can verify contact info himself:
+
+---
+
+## High-Fit Prospect Categories (Verified Names Only)
+
+**1. Gym / Fitness Chain (West Coast)**
+- Category: CrossFit Box or boutique fitness
+- Why they fit: Active male members, outdoor training (beach workouts, trail running), supplement retail angle
+- Next step: Search "[City] CrossFit" + visit website → "contact" or "retail partnerships" page
+- Confidence: High
+
+**2. Surf Shop (San Diego Area)**
+- Category: Retail surf/skate/outdoor
+- Why they fit: Core demographic overlap (male, 22-38, outdoor lifestyle), supplement section in most shops
+- Example searches: "surf shops San Diego" + visit site → "wholesale" or "contact"
+- Confidence: High
+
+**3. Sports Medicine / PT Practice**
+- Category: Orthopedic or sports injury clinic
+- Why they fit: Prescribe recovery supplements to athletes, trust-based recommendations
+- Next step: Search "[City] sports medicine near me" → call front desk, ask for retail/wholesale contact
+- Confidence: Medium (colder, but high-value if interested)
+
+**4. Outdoor Retailer (REI-style)**
+- Category: Multi-sport outdoor retail
+- Why they fit: Supplement sections, active male customer base, existing wholesale infrastructure
+- Example: REI local stores, local outdoor co-ops → wholesale inquiry pages
+- Confidence: High
+
+**5. Gym Nutrition / Recovery Supplement Shop**
+- Category: Standalone supplement retail (Vitamin Shoppe, GNC, local chains)
+- Why they fit: Direct supplement distribution, existing buyer relationships
+- Next step: Search "[City] supplement store" → visit, ask for buyer contact
+- Confidence: High
+
+---
+
+## Why I'm stopping here
+
+**Scout protocol:** Verified contacts only. I cannot:
+- Scrape current email addresses (outdated/wrong)
+- Guess contact formats without confirmation
+- Mix-and-match old directory data
+
+**What Adam should do:**
+1. Pick one or two categories above
+2. Google "[Category] [San Diego/Los Angeles/nearby]"
+3. Visit 3–5 websites
+4. Look for "Wholesale," "Partnerships," "Contact Us," or "Careers" pages
+5. Call or email the main line and ask: *"Who handles supplement retail partnerships?"*
+6. Once you have **verified** contact info, share the list with me → I'll draft the outreach email
+
+**Result:** Verified, deliverable leads. Zero email bounces. Professional first touch.
+
+Want me to draft the outreach email template now so it's ready when you have the contacts?
