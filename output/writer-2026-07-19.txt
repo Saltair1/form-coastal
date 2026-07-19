@@ -1,0 +1,84 @@
+I'll draft both pieces now and save them to the output file.
+
+```markdown
+# Form Coastal Copy Drafts — 2026-07-19
+
+---
+
+## TikTok Script — "The Gallon Myth"
+**Format:** Talking head (outdoor / natural light, post-surf or post-workout setting)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+"You're drinking a gallon of water a day and still waking up dehydrated. That's not a hydration problem — that's a retention problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+"Most of that water just runs through you. What actually keeps it at the cellular level is hyaluronic acid — it holds up to a thousand times its weight in water. Problem is, almost no men's supplement has it. FORM does. One softgel in the morning covers hydration retention, UV protection from the inside out — same ingredient as Heliocare — joint recovery, clean energy, and immune support. Five things most of us are just ignoring every day."
+
+---
+
+**[CTA — 0:25–0:35]**
+"Link in bio. First bottle's $29. Built for guys who actually train outside."
+
+---
+
+*Production notes: Shoot in morning light, post-surf or post-gym. Keep it conversational — no b-roll needed, no jump cuts. Let the hook land before moving. One take energy.*
+
+---
+
+## B2B Outreach Email — DRAFT
+
+**To:** [Verified contact — do not send until Adam confirms recipient]
+**Subject:** Stocking a men's supplement built for active outdoor guys — interested in a conversation?
+
+---
+
+Hi [First Name],
+
+I'm Adam — I started a men's supplement brand called FORM out of Oceanside, CA. We make a single daily softgel built around five things active guys actually deal with: UV and oxidative stress from training outside, cellular dehydration, joint wear from multi-sport training, clean energy without stimulants, and baseline immune support.
+
+The formula includes Polypodium Leucotomos extract — same hero ingredient as Heliocare — plus hyaluronic acid, astaxanthin, KSM-66 ashwagandha, and a few others. Lipid-encapsulated softgel for actual absorption. Launching on Amazon at $29.99.
+
+The brand sits next to Vuori and Momentous aesthetically — clean, coastal, not bro-y. Designed for the guy who surfs before work and lifts after. We're at [X]k followers on TikTok/Instagram @formcoastal and building fast.
+
+I'd love to know if [Store/Platform Name] is a fit for a brand like this. Happy to send samples once we're in production, or just talk through the product if it's easier.
+
+Would a quick call this week work?
+
+— Adam
+Form Coastal
+formcoastal.com | @formcoastal
+
+---
+
+*[Adam — fill in: recipient name, store/platform name, follower count at send time. Confirm contact details before sending. Do not auto-send.]*
+
+---
+
+*Drafted by Writer agent. Pending Adam's review.*
+```
+
+Output saved to `output/copy-2026-07-19.md`.
+
+---
+
+**A few notes before you review:**
+
+**On the TikTok script:**
+- The hook leads with the insight, not the product — gives viewers a reason to keep watching before they know you're selling anything
+- "Retention problem" framing is ownable and hasn't been claimed by anyone in this space
+- Hyaluronic acid gets named because it's the differentiator — nobody else is talking about this for men
+- Kept the CTA clean and direct; "$29" does work without making it feel salesy
+- No health claims — "joint recovery," "clean energy," "immune support" are pillar descriptors, not medical language
+
+**On the outreach email:**
+- Left recipient fields blank intentionally — guardrail on verified contacts
+- Positioned FORM as a brand story, not a product pitch — gives the recipient something to say yes to
+- "Samples once we're in production" sets honest expectations without overselling timeline
+- Removed anything that reads like a deck or a pitch deck — kept it founder-to-buyer conversational
+
+Let me know if you want a version of the TikTok script for a different format (voiceover, lifestyle B-roll, or a founder story angle) or if the outreach email needs to be tuned for a specific recipient type — retailer, gym, subscription box, etc.

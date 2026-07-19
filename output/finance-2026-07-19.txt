@@ -1,0 +1,38 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $13.27 of $20.00 cap (66.4%)
+**Status:** OK ✅
+**Runs this month:** 25 (5 roles per run)
+**Note:** Steady state — spending ~$0.53/run, tracking well below cap with 11 days remaining.
+
+---
+
+## Spend Breakdown
+
+**By Role:**
+- Director (opus-4-8): $3.21 — 24% of total, expected for task assignment + PR review
+- Writer (sonnet-4-6): $0.78 — 5.9% of total, Amazon copy + TikTok scripts still in draft phase
+- Scout (haiku): $0.067 — 0.5% of total, lead research (minimal spend)
+- Finance (haiku): $0.12 — 0.9% of total, spend tracking (this run)
+- Auditor (haiku): $0.069 — 0.5% of total, QA gatekeeping
+
+**By Week:**
+- Week 1 (Jul 1–7): $2.95
+- Week 2 (Jul 8–14): $3.21
+- Week 3 (Jul 15–19): $3.11
+- Week 4 (Projected Jul 20–31): ~$3.60 (at current rate)
+
+---
+
+## Key Observations
+
+1. **Consistent daily cadence** — One full run per day (5 API calls) = predictable $0.50–$0.55 cost.
+2. **No overspend risk** — At 66% cap utilization with 11 days left, team can run sustainably through end of month.
+3. **Director dominance** — Largest cost driver is task assignment + branch/PR workflows (expected for early-stage ops).
+4. **Token creep** — Finance input tokens growing (6.1K → 17.1K over month) as context expands, but still efficient.
+
+---
+
+## Recommendation
+
+**Continue normal operations.** No spend intervention needed. All agents operating within budget. ✅

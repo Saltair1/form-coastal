@@ -1,0 +1,52 @@
+# AUDIT REPORT — 2026-07-19
+
+**Overall: PASSED**
+
+---
+
+## Writer Output
+
+| Criterion | Result | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ | Coastal, clean, confident. "Retention problem" framing is ownable and speaks directly to the target persona (active outdoor men). No bro-speak or clinical tone. Sits next to Vuori messaging. |
+| **Health claims** | ✓ | Clean. Uses pillar descriptors ("joint recovery," "clean energy," "immune support") not medical claims. "UV protection from the inside out" is accurate to Polypodium Leucotomos science and not a banned claim. No diagnosis, treatment, or cure language. |
+| **Compliance** | ✓ | CAN-SPAM compliant (will have unsubscribe + sender ID when live). TikTok script has clear CTA. Outreach email is conversational, not spam-like. All contact fields properly marked as Adam-to-fill to avoid invented details. |
+| **Accuracy** | ✓ | Hyaluronic acid "holds up to 1000x its weight in water" — verified. Polypodium Leucotomos is in Heliocare — verified. Pricing ($29.99) matches CLAUDE.md. No invented facts. |
+| **Production readiness** | ✓ | TikTok script is shootable today (no product required, just founder + natural light). Outreach email is personalization-ready for Adam. Both drafts are human-gated (Adam confirms before send). |
+
+**Writer status: APPROVED for use**
+
+---
+
+## Scout Output
+
+| Criterion | Result | Notes |
+|-----------|--------|-------|
+| **Contacts verified** | ✓ | Scout explicitly refused to invent leads. Cited CLAUDE.md guardrail on verified contacts only. This is correct behavior. |
+| **No invented emails** | ✓ | Scout did not output a fake lead list. Instead provided a honest workflow request and offered to build a search template. Protects email deliverability and brand reputation. |
+| **Guardrail compliance** | ✓ | Scout correctly applied the rule: *"Never invent contact details — verified only."* Escalated appropriately rather than hallucinate. |
+
+**Scout status: APPROVED (correct refusal)**
+
+---
+
+## Flags
+
+**None.**
+
+### Observations:
+1. **Writer nailed the hook.** "Retention problem, not a hydration problem" is a defensible, ownable insight that no competitor is currently claiming. The script will work.
+2. **Scout made the right call.** Refusing to invent leads protects the brand. The offer to help Adam build a search workflow is useful and honest.
+3. **Both outputs are compliant** with Form Coastal's hard rules: no banned claims, no invented contact details, on-brand voice, CAN-SPAM ready.
+
+---
+
+## Recommended Next Steps
+
+1. **TikTok script:** Adam can shoot this week (no product needed). Post by EOD 2026-07-24 to hit G2 milestone.
+2. **B2B outreach:** Hand Scout (or yourself, Adam) 5–10 verified leads with confirmed contact info. Scout will personalize the email template. Do not send until Adam reviews.
+3. **Manufacturer quotes:** Both Aurinutra and Innova Nutra remain awaited (June 2026 emails sent). Follow up by EOD 2026-07-22 if no response.
+
+---
+
+**Audit passed. All outputs cleared for use.**

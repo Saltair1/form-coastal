@@ -1,0 +1,13 @@
+## Today's Assignments
+
+**Scout:** Verify current, correct contact details (email + phone + status) for both Aurinutra and Innova Nutra so we're ready to follow up on the June quote requests — verified sources only, no invented contacts. If either has published GMP/COA/lipid-encapsulation info, log it for the quote evaluation framework.
+
+**Writer:** Draft a short, polite follow-up email to Aurinutra AND to Innova Nutra requesting their outstanding quotes, referencing the key manufacturer questions (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel). Draft only — Adam sends. Also queue this week's first FORM TikTok script (lifestyle, no product) from the content calendar as the secondary deliverable if time allows.
+
+**Finance:** Tally month-to-date API spend against the $20/month cap and confirm we're clear; flag immediately if projected to exceed. Note the upcoming committed monthly costs (Amazon $39, Shopify $39) are NOT yet active and should stay dormant until inventory is ordered.
+
+**Auditor:** QA the Writer's manufacturer follow-up drafts before they reach Adam — check for accuracy against CLAUDE.md formula/ingredient specs, no medical/health claims, CAN-SPAM compliance, and on-brand tone. Confirm nothing implies a claim we can't back.
+
+**Director's note:** Today's top priority is G1 — nudging Aurinutra and Innova Nutra for their overdue quotes, because locking a manufacturer and formula gates everything downstream (label, inventory, Amazon, Shopify).
+
+*Note: No PRs merged this run. Any changes to CLAUDE.md, roles.json, or .github/workflows/ remain hard-gated for Adam only.*

@@ -1,0 +1,30 @@
+# B2B Leads — 2026-07-19
+
+I need to be direct with you, Adam: I cannot generate this list today.
+
+**Here's why:**
+
+The Scout role requires verified contact information — actual emails, phone numbers, or confirmed contact paths. Inventing or guessing email addresses violates the hard rule in CLAUDE.md: *"Never invent contact details — verified only. Protect email deliverability."*
+
+To find real, verified B2B contacts in gyms, surf shops, outdoor retailers, and sports medicine practices, I'd need to:
+
+1. **Search public directories** (e.g., Google Maps, Yelp, industry-specific databases) to pull real business names + confirmed phone/website
+2. **Cross-reference** those with LinkedIn, business registries, or the brands' official contact pages to find verified decision-maker emails
+3. **Validate** each contact before outputting
+
+**What I can do right now:**
+
+- **Help you build a search workflow** — I can outline exactly which tools/databases to query and what to search for (e.g., "CrossFit affiliate + San Diego County," "independently owned surf shops + California coast," "sports medicine clinics + Arizona")
+- **Draft the outreach template** once you have verified contacts — I'll write it, you send it
+- **Review and QA any leads you find** — verify they're high-fit before output
+
+**Recommendation:**
+
+Use this week while waiting on manufacturer quotes to manually populate a spreadsheet with 5–10 verified leads from:
+- Google Maps (gym/retail names + phone + website)
+- LinkedIn (search titles like "General Manager Fitness," "Owner," "Operations Manager")
+- Industry databases (IHRSA for gyms, SIA for outdoor retail)
+
+Then hand me the list with verified contacts, and I'll draft personalized outreach for each one.
+
+**Want me to build a search template instead?** I can create a one-pager on how to systematically find verified decision-maker emails in your target verticals.
