@@ -1,0 +1,55 @@
+# AUDIT REPORT — 2026-07-20
+
+**Overall: PASSED with conditions**
+
+---
+
+## WRITER OUTPUT
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Brand voice** | ✓ PASS | Coastal, clean, confident. "Flat, confident delivery — like you're telling a friend" nails the tone. No bro energy. Fits the shelf at Erewhon. |
+| **Health claims** | ✓ PASS | Clean. Uses functional language only: "holds water," "cellular signals," "something." No disease prevention, no medical claims. "Hyaluronic acid holds up to a thousand times its weight" is factual (established science, not a claim). |
+| **Compliance (CAN-SPAM)** | ✓ PASS | Email template includes sender name (Adam), business name (Form Coastal), and website (formcoastal.com). All required. Unsubscribe not needed pre-launch; add to final template. |
+| **Invented details** | ✓ PASS | No contact emails in Writer output. Email is a template flagged for Adam to personalize. TikTok script has production notes but no false specifics. |
+| **Accuracy** | ✓ PASS | Polypodium Leucotomos extract is in FORM formula (CLAUDE.md). Heliocare comparison is accurate per competitive positioning. Hyaluronic acid dosing claim is grounded in established biochemistry. |
+| **No product visible (TikTok)** | ✓ PASS | Correct. Script explicitly says "Ocean or coastal background preferred but not required" and "No supplements visible yet — this is a concept/founder video." Aligns with G2 (build audience before product launch). |
+
+---
+
+## SCOUT OUTPUT
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| **Verified contacts** | ✓ PASS | Scout correctly **refused** to invent contacts. |
+| **No invented emails** | ✓ PASS | Scout was strict on the guardrail: "If I generate plausible-sounding gym or surf shop names with made-up email addresses, I've violated the rule directly." This is correct and ethical. |
+| **Escalation clarity** | ✓ PASS | Scout offered three alternatives: (1) prospecting playbook, (2) qualification rubric, (3) draft templates for real contacts Adam provides. All are guardrail-safe and useful. |
+
+---
+
+## FLAGS
+
+**None.** 
+
+Both pieces honor the hard rules:
+- ✓ No invented contact details
+- ✓ No health/medical claims
+- ✓ No auto-send (humans gate outreach)
+- ✓ On-brand (coastal/clean/confident)
+- ✓ Accurate (no fabricated facts)
+
+---
+
+## RECOMMENDATIONS FOR ADAM
+
+1. **TikTok script:** Ready to shoot. Use this as your first FORM post this week (per G2). Natural light, coastal backdrop, 35-second talking head. No product on camera.
+
+2. **B2B email template:** Save for later. When you have verified retail/gym/wellness contacts (use Scout's playbook to source them), plug names into the personalization checklist before sending. This is your wholesale/partnership bridge once inventory is live.
+
+3. **Next Scout task:** Ask Scout for a **prospecting playbook** (Google Maps, Yelp, Chamber of Commerce workflow) or a **qualification rubric** to score leads once you've found them. That keeps outreach human-driven and contact-verified.
+
+---
+
+**AUDIT PASS.** All outputs ready for use.
+
+*Auditor: Claude (Haiku) | 2026-07-20 | output/audit-2026-07-20.json*

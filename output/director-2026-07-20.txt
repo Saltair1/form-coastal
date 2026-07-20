@@ -1,0 +1,11 @@
+## Today's Assignments
+
+**Scout:** Verify current, official contact details for Aurinutra (confirm info@aurinutra.com / (631) 454-0020 still active) and locate a direct human contact or verified follow-up channel at Innova Nutra — both quotes are overdue since June, and G1 is blocked waiting on them. Verified contacts only; do not invent details.
+
+**Writer:** Draft a polite, CAN-SPAM-compliant follow-up email to Aurinutra and Innova Nutra requesting their quotes, referencing the key manufacturer questions from CLAUDE.md (lipid encapsulation, MOQ at 250/500, GMP + COA, natural astaxanthin sourcing, collagen dose achievable in softgel). Draft only — leave in a branch/PR for Adam to send. Do NOT auto-send.
+
+**Finance:** Confirm month-to-date API spend against the $20/month cap and report remaining headroom; flag immediately if we're on pace to exceed. Also confirm no new paid subscriptions (Amazon/Shopify) should be opened yet — inventory not ordered, so Shopify stays closed per hard rule 9.
+
+**Auditor:** QA Writer's manufacturer follow-up drafts before they reach Adam — check for accuracy against CLAUDE.md, on-brand voice, zero medical/health claims, no invented contact info, and CAN-SPAM compliance.
+
+**Director's note:** Today's top priority is unblocking G1 — the two manufacturer quotes are the critical path to formula lock, inventory, and every downstream milestone, so chasing verified contacts and drafting the human-gated follow-ups is the highest-leverage move we can make.

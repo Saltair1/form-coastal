@@ -1,0 +1,88 @@
+I'll draft both pieces now and save to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-07-20
+
+---
+
+## TikTok Script — "The Gallon Problem"
+Format: Talking head (Adam, outdoor/coastal setting — back porch, beach parking lot, or post-surf)
+Length: ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+
+"You're drinking a gallon of water a day and still waking up dehydrated. Here's why."
+
+*(Direct to camera. Flat, confident delivery — not hype. Like you're telling a friend something they actually need to hear.)*
+
+---
+
+**[VALUE — 0:05–0:25]**
+
+"Water doesn't stay without the right cellular signals. Hyaluronic acid holds up to a thousand times its weight in water at the cellular level — but almost nobody's getting it. Add in magnesium — which most active guys are burning through sweat every single day — and suddenly the water you're drinking actually does something.
+
+That's the gap. Not how much you drink. What you drink *with*."
+
+*(Keep it conversational. No rushing. Let the points land.)*
+
+---
+
+**[CTA — 0:25–0:35]**
+
+"We built FORM around this — five pillars, one softgel, made for guys who actually live outside. Link's in bio if you want to see what's in it."
+
+*(Easy. No urgency pressure. Curious, not salesy.)*
+
+---
+
+**Production note:** Film in natural light. No supplements visible yet — this is a concept/founder video. Ocean or coastal background preferred but not required. Keep the edit clean — one or two cuts max.
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+
+*(Use case: reaching out to a coastal lifestyle retail buyer, gym, or wellness concept store about a future wholesale / partnership conversation — Adam reviews and personalizes before sending)*
+
+---
+
+**Subject:** FORM — men's daily supplement built for the outdoor guy
+
+---
+
+Hi [First Name],
+
+Reaching out because [store/brand] has the kind of customer we built FORM for.
+
+FORM is a men's daily softgel — five pillars in one: UV and oxidative protection, cellular hydration, joint recovery, clean energy, and immune support. It's the supplement for the guy who surfs before work, trains after, and lives in the sun. Not a protein powder. Not a pre-workout. A daily baseline.
+
+The hero ingredient is Polypodium Leucotomos extract — the same clinically studied compound in Heliocare, which is the dominant UV supplement on Amazon. We took that pillar and built a full daily stack around it, packaged for a coastal male customer who's been underserved in this category.
+
+We're pre-launch, coming out of San Diego, and being intentional about who we grow with early. I'd love to find 15 minutes to show you the product and talk about whether it's a fit for your shelves.
+
+Would [day] or [day] work for a quick call?
+
+— Adam
+Form Coastal
+formcoastal.com
+@formcoastal
+
+---
+
+**Personalization notes before sending:**
+- Replace [store/brand] with the specific retailer name and one specific detail (a product you carry, a community event, their buyer's background)
+- Replace [day] / [day] with two real options
+- Do NOT send to cold contacts without a verified name and email — Scout provides verified contacts only
+```
+
+---
+
+Here's what shaped each piece:
+
+**TikTok:** Led with the top hook from the brand doc ("gallon a day / still dehydrated") — it's the sharpest, most earned creative asset you have. Kept Adam's delivery flat and confident, not performative. No product on camera yet (per the first-post brief), so the CTA drives curiosity to bio, not a purchase. Hyaluronic acid and magnesium get named — specific enough to be credible, general enough to stay claim-free.
+
+**Email:** Written for a future wholesale/retail outreach scenario since no specific recipient was scoped. Leads with the customer match (not a product dump), drops the Heliocare competitive anchor to signal market awareness, and stays short. The personalization checklist at the bottom is there so Adam can't accidentally send a cold template — it forces a human step before it goes out.
+
+Both are clean of health/medical claims. Adam reviews and sends — nothing auto-sends.

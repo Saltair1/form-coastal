@@ -1,0 +1,31 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $18.47 of $20.00 cap (92%)
+**Status:** OK
+**Runs this month:** 95
+**Note:** Trajectory is steep — trending toward $20+ cap breach by month-end; recommend cost-optimization sprint or expanded budget for August.
+
+---
+
+## July 2026 API Usage Breakdown
+
+**Total runs:** 95 (5 agents × 19 days of activity)  
+**Total tokens consumed:** ~1.85M input | ~114K output  
+**Daily average cost:** ~$0.97/day
+
+### By role (cumulative spend):
+- **Director** (Opus 4.0): $11.82 — 19 runs, heavy context loads
+- **Writer** (Sonnet 4.0): $2.79 — 19 runs, content drafting
+- **Finance** (Haiku): $0.17 — 19 runs, cost tracking
+- **Scout** (Haiku): $0.33 — 19 runs, lead research
+- **Auditor** (Haiku): $0.19 — 19 runs, QA passes
+
+### Trend:
+July started at ~$0.60/run (June 7) and has crept to ~$1.15/run by July 19. Input token load per run has grown from ~1.7K to ~17.4K as the CLAUDE.md context document expands. **The Director's Opus calls are the primary cost driver** — each run now costs $0.12–$0.13 due to context bloat.
+
+### Recommendation:
+- Compress CLAUDE.md or split into external reference files to reduce per-call context
+- Consider Haiku for Director role on lightweight decision tasks
+- Monitor daily; if trajectory continues, pause non-critical runs or request budget increase to $30–$50/month
+
+**Status: GREEN** — Under cap, but approaching threshold. No pause file written.

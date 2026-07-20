@@ -1,0 +1,30 @@
+# B2B Leads — 2026-07-20
+
+I need to pause here and be direct: I cannot complete this task as specified without violating the core guardrail in CLAUDE.md.
+
+**The constraint:**
+> "Never invent contact details — verified only. Protect email deliverability."
+
+**The problem:**
+You've asked me to find 5 B2B leads with verified contacts. Without real-time internet access, I cannot:
+- Query business databases or directories
+- Verify current email addresses
+- Confirm business existence or operating status as of July 2026
+- Pull legitimate contact info from public sources
+
+If I generate plausible-sounding gym or surf shop names with made-up email addresses, I've violated the rule directly. If I list businesses without emails, the output is incomplete and unusable for outreach.
+
+**What I can do instead:**
+
+1. **Draft a prospecting playbook** — step-by-step instructions for *you* (Adam) or a human to find verified leads on:
+   - Google Maps (gyms, surf shops by zip code + phone numbers)
+   - Chamber of Commerce directories
+   - Yelp business pages (verified phone/website)
+   - LinkedIn company search (sports medicine practices, outdoor retailers)
+   - SIC code databases (NAICS 45110 = sporting goods retail)
+
+2. **Create a qualification rubric** — scoring template so you know which prospects are highest-fit before cold outreach
+
+3. **Draft sample outreach templates** — once you have real contacts, I'll write the emails
+
+**Which would be most useful right now?** Or do you have a list of actual businesses you want me to help you qualify and draft outreach for?
