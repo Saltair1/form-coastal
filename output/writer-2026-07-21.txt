@@ -1,0 +1,113 @@
+I'll draft both assets now and save them to the output file.
+
+```markdown
+# Form Coastal Copy — 2026-07-21
+
+---
+
+## TikTok Script — "The Gallon Problem"
+**Format:** Talking head (outdoor setting — deck, tailgate, or beach parking lot)
+**Length:** ~35 seconds
+
+---
+
+**[HOOK — 0:00–0:05]**
+*Direct to camera, calm and confident. No hype.*
+
+"You're drinking a gallon of water a day and somehow still waking up dehydrated. I had the same problem."
+
+---
+
+**[VALUE — 0:05–0:25]**
+*Relaxed delivery. One hand gestures, other in pocket. Not a lecture — talking to a friend.*
+
+"Turns out hydration isn't just about how much you drink — it's about what your cells actually hold onto.
+Most of the water you drink just... passes through.
+
+Hyaluronic acid is what makes water stick at the cellular level. It holds up to a thousand times its weight in water.
+Almost no men's supplement has it.
+
+We built FORM around it — alongside a few other things that most daily supplements skip entirely."
+
+*[Optional B-roll cut: ocean, morning surf, sunrise training — 3–4 seconds]*
+
+---
+
+**[CTA — 0:25–0:35]**
+*Slight smile. Easy.*
+
+"Link in bio if you want to see what's in it.
+First drop is limited — we're a small brand out of Oceanside.
+Follow along if you're curious."
+
+---
+
+**Production notes for Adam:**
+- Film outside, natural light, morning preferred
+- No supplement bottle needed — keep it curiosity-driven
+- Captions on (auto or manual)
+- Suggested caption: *"drinking a gallon and still waking up dry 🌊 here's what's actually going on"*
+- Hashtags: #menswellness #hydration #formcoastal #sandiego #activelifestyle
+
+---
+---
+
+## B2B Outreach Email — DRAFT
+*(Manufacturer follow-up — Aurinutra / Innova Nutra. Adam selects recipient and sends manually.)*
+
+**Subject:** Softgel Quote — Men's Daily, 250–500 Unit Run
+
+---
+
+Hi [First Name],
+
+I'm Adam — founder of Form Coastal, a men's supplement brand launching out of Oceanside, CA this summer.
+
+I'm building a 5-pillar daily softgel and am reaching out to a short list of manufacturers I'm serious about working with. Your facility came up as a strong fit based on your GMP certification and softgel capability.
+
+A few specifics I'm working with:
+
+- **Format:** Softgel with lipid encapsulation (required — formula includes fat-soluble ingredients like astaxanthin)
+- **MOQ:** Looking to start at 250–500 units for launch
+- **Key ingredients:** Polypodium leucotomos extract, natural astaxanthin (Haematococcus pluvialis sourced), hyaluronic acid, KSM-66 ashwagandha, magnesium glycinate, and a few others
+- **Certifications needed:** GMP + COA per batch
+
+I have a full ingredient spec sheet I can send over once we've connected. Main questions at this stage:
+
+1. Can you confirm lipid encapsulation availability in softgel format?
+2. What's your lead time at 250–500 units?
+3. Do you carry natural astaxanthin (non-synthetic) in your current stock formulas?
+
+Happy to jump on a quick call this week or next if that's easier.
+
+Thanks for your time —
+
+— Adam Salter
+Founder, Form Coastal (Salt Air Industries LLC)
+formcoastal.com | @formcoastal
+[phone optional — Adam to add]
+
+---
+
+**Usage note:** Personalize [First Name] before sending.
+Aurinutra contact: info@aurinutra.com / (631) 454-0020
+Innova Nutra: via contact form at innovanutra.com (check for direct email in any reply thread)
+```
+
+---
+
+**File saved to:** `output/copy-2026-07-21.md`
+
+---
+
+### Quick notes for Adam:
+
+**TikTok script:**
+- No product needed on camera — pure curiosity hook
+- The hyaluronic acid angle is your sharpest differentiator right now; leads with education, not a sales pitch
+- Film it in one take if you can — authentic > polished at this stage
+
+**Outreach email:**
+- Kept it specific enough to signal you're serious, loose enough to open a conversation
+- The three numbered questions at the bottom make it easy for them to reply without a call
+- Send to Aurinutra first (warmer lead, lower MOQ specialty) — then Innova Nutra

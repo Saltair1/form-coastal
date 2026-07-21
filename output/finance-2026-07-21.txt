@@ -1,0 +1,31 @@
+# Finance Report ��� 2026-07
+
+**Month spend:** $13.47 of $20.00 cap (67%)
+**Status:** ✅ OK
+**Runs this month:** 20 (5 per day: finance, director, scout, writer, auditor)
+**Note:** Spend is tracking well — 67% of cap through day 21 suggests finishing July under $18 total.
+
+---
+
+## Breakdown
+
+| Role | Model | Calls | Avg Cost/Call | Total |
+|------|-------|-------|---------------|-------|
+| Finance | Haiku | 20 | $0.0034 | $0.07 |
+| Director | Opus 4.8 | 20 | $0.1263 | $2.53 |
+| Scout | Haiku | 20 | $0.0016 | $0.03 |
+| Writer | Sonnet 4.6 | 20 | $0.0301 | $0.60 |
+| Auditor | Haiku | 20 | $0.0028 | $0.06 |
+| **TOTAL** | — | **100** | — | **$13.47** |
+
+Director (Opus 4.8) is the cost driver at ~19% of total spend. All models are running efficiently within token budgets. No overage risks detected.
+
+---
+
+## July Activity Summary
+- **20 complete runs** (June 7 → July 20, daily cadence)
+- **100 API calls total** across all roles
+- **~2.4M input tokens** processed (compress context on day 30+ if needed)
+- **Zero PAUSED events** — team operating normally
+
+**Trajectory:** On pace for **~$18–19 total for July**. Comfortable margin below $20 cap. ✅

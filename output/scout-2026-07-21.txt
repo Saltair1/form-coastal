@@ -1,0 +1,29 @@
+# B2B Leads — 2026-07-21
+
+I need to be direct: I cannot complete this task as specified.
+
+**The core problem:** You've asked me to find 5 verified B2B contacts (gyms, surf shops, outdoor retailers, sports medicine practices) with their emails or phone numbers. My instructions explicitly state "Verified contacts only; never invent or guess an email address."
+
+However, I don't have real-time access to:
+- Current business directories or phone numbers
+- Live websites to scrape verified contact info
+- Updated email databases
+- Real business verification
+
+**What I could do instead:**
+
+1. **Draft a lead research framework** — categories, search strategy, and verification criteria for YOU to execute (e.g., "Search Yelp for [city] + 'CrossFit gym,' visit website, find 'Contact Us' page, capture verified email")
+
+2. **Suggest high-probability business types** — specific niches Adam should target first (e.g., boutique CrossFit boxes in San Diego County, Patagonia retailers in coastal CA, sports medicine clinics near beach towns)
+
+3. **Outline outreach templates** — once Adam finds verified contacts, I can draft pitches
+
+**Why this matters:** If I fabricate or guess emails, they'll bounce, damage Form Coastal's sender reputation, and waste Adam's time. That violates both the hard rules and the mission.
+
+**What I recommend:** Adam (or the Scout agent with real data access) should use:
+- Google Maps + "gyms near [zip]" → visit website → grab verified contact
+- Yelp, Surfrider Foundation member database, REI co-op partner finder
+- LinkedIn company pages for sports medicine practices
+- Manual verification — one email per prospect, one source
+
+**Should I draft the research framework instead?** That's the safe, useful path forward.

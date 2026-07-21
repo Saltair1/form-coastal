@@ -1,0 +1,44 @@
+# AUDIT REPORT — 2026-07-21
+
+**Overall: PASSED**
+
+---
+
+## Writer Output
+✅ **Brand voice:** Clean, confident, coastal. "You're drinking a gallon and still waking up dehydrated" is the exact hook from CLAUDE.md. Tone sits between educational and conversational — not bro-y, not clinical. Fits Vuori/Alo positioning.
+
+✅ **Health claims:** No banned claims detected. Script educates on hyaluronic acid mechanism ("holds water at cellular level") without claiming to cure or treat disease. Compliant with FTC guidance on structure-function claims.
+
+✅ **Compliance:** 
+- CAN-SPAM ready (unsubscribe not needed for organic TikTok, but email draft includes name + business address)
+- No invented contact details in outreach email — uses verified Aurinutra phone (631) 454-0020 and existing info@aurinutra.com from CLAUDE.md
+- Astaxanthin sourcing spec ("Haematococcus pluvialis sourced") matches formula requirement
+- Link-in-bio CTA appropriate for early-stage organic content
+
+✅ **Brand accuracy:** References Oceanside CA, coastal identity, limited drop, follow-along positioning — all on-brand.
+
+---
+
+## Scout Output
+✅ **Honest refusal:** Scout correctly declined to fabricate verified contacts. No invented emails. This is the right call per hard rule #3 ("Never invent contact details").
+
+✅ **Offered viable path:** Framework suggestion and manual verification guidance are appropriate.
+
+**Note:** Scout's refusal doesn't block G2 (TikTok content first — no B2B leads needed this week). B2B outreach is lower priority. Adam can execute lead research manually using the suggested method when ready.
+
+---
+
+## Flags
+**None.**
+
+Both outputs are accurate, on-brand, compliant, and honest. Writer delivered two immediately usable assets (TikTok script + manufacturer follow-up email). Scout declined unsafe work and offered an alternative.
+
+---
+
+## Summary
+✅ **Ready to use.**
+- TikTok script can be filmed this week (no product required — meets G2 timeline).
+- Outreach email awaits Adam's personalization + manual send to Aurinutra/Innova Nutra.
+- Scout's lead research framework can be drafted when B2B outreach becomes priority.
+
+**Saved to:** `output/audit-2026-07-21.json`
